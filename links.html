@@ -51,9 +51,9 @@ function readCMCFile() {
 						link.appendChild(linkText);
 						link.title = files[k].getAttribute('Name');
 						link.href = "http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH');
-						link.onclick = function(this) {
-							window.open(this.href, '_blank');
-						}
+						link.addEventListener('click', function () {
+							openInNewTab(link.href);
+						});
 						currentDiv.appendChild(link);
 						currentDiv.appendChild(document.createElement('br'));
 					}
@@ -61,6 +61,11 @@ function readCMCFile() {
 			}
 		}
 	}
+}
+
+function openInNewTab(url) {
+  const win = window.open(url, '_blank');
+  win.focus();
 }
 </script>
 </head>
