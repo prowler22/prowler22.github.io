@@ -1,0 +1,80 @@
+<html>
+<head>
+<style>
+.accordion {
+	background-color: #eee;
+	color: #444;
+	cursor: pointer;
+	padding: 10px;
+	width: 75%;
+	text-align: left;
+	border: none;
+	outline: none;
+}
+body {
+	background-color: #d0d0d0;
+}
+</style>
+<script>
+function readCMCFile() {
+	const queryString = window.location.search;
+	const urlParams = new URLSearchParams(queryString);
+	const year = urlParams.get('YEAR');
+	
+	document.getElementById('year').innerText = year;
+	var xmlDoc;
+
+	if (typeof window.DOMParser != "undefined") {
+		xmlhttp = new XMLHttpRequest();
+		xmlhttp.open("GET", "cmc" + year + ".xml", false);
+		if (xmlhttp.overrideMimeType) {
+			xmlhttp.overrideMimeType('text/xml');
+		}
+		xmlhttp.send();
+		xmlDoc = xmlhttp.responseXML;
+
+		var xmlYear = xmlDoc.getElementsByTagName("Year");
+		for (var i = 0; i < xmlYear.length; i++) {
+			if (xmlYear[i].getAttribute('Name') == "CMC " + year) {
+				var months = xmlYear[i].getElementsByTagName("Directory");
+				for (var j = 0; j < months.length; j++) {
+					var monthName = months[j].getAttribute('Name');
+					var divId = monthName.split(" ")[2];
+					var currentDiv = document.getElementById(divId);
+					currentDiv.style.display = 'block';
+
+					var files = months[j].getElementsByTagName("File");
+
+					for (k = 0; k < files.length; k++) {
+						var link = document.createElement('a');
+						var linkText = document.createTextNode(files[k].getAttribute('Name'));
+						link.appendChild(linkText);
+						link.title = files[k].getAttribute('Name');
+						link.href = "http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH');
+						currentDiv.appendChild(link);
+						currentDiv.appendChild(document.createElement('br'));
+					}
+				}
+			}
+		}
+	}
+}
+</script>
+</head>
+<body onload="readCMCFile()">
+<h1 id="year"></h1>
+<div id="00" style="display:none"><div class="accordion"></div></div>
+<div id="01" style="display:none"><div class="accordion">January</div></div>
+<div id="02" style="display:none"><div class="accordion">February</div></div>
+<div id="03" style="display:none"><div class="accordion">March</div></div>
+<div id="04" style="display:none"><div class="accordion">April</div></div>
+<div id="05" style="display:none"><div class="accordion">May</div></div>
+<div id="06" style="display:none"><div class="accordion">June</div></div>
+<div id="07" style="display:none"><div class="accordion">July</div></div>
+<div id="08" style="display:none"><div class="accordion">August</div></div>
+<div id="09" style="display:none"><div class="accordion">September</div></div>
+<div id="10" style="display:none"><div class="accordion">October</div></div>
+<div id="11" style="display:none"><div class="accordion">November</div></div>
+<div id="12" style="display:none"><div class="accordion">December</div></div>
+</body>
+</html>

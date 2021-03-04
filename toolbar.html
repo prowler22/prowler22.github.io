@@ -1,0 +1,46 @@
+<html>
+<head>
+<style>
+body {
+background-color: #d0d0d0;
+padding: 0;
+margin: 0;
+}
+div {
+height:44px;
+text-align:center;
+border-style:outset;
+}
+h1 {
+margin: 2;
+padding: 0;
+}
+</style>
+<script>
+var allProgress = "";
+
+function readProgressFile() {
+	var rawFile = new XMLHttpRequest();
+	rawFile.onreadystatechange = function() 
+	{
+		if (rawFile.readyState === 4) {
+			if (rawFile.status === 2000 || rawFile.status == 0) {
+				allProgress = rawFile.responseText;
+				alert(allProgress);
+			}
+		}
+	}
+	rawFile.open("GET", "progress.txt", true);
+}
+function renewCookies() {
+	var d = new Date();
+	d.setTime(d.getTime() + (365*24*60*60*1000));
+	var expires = "expires" + d.toUTCString();
+	document.cookie = "1960=read;" + expires + ";path=/";
+}
+</script>
+</head>
+<body onload="readProgressFile();">
+<div><h1>Complete Marvel Chronology</h1></div>
+</body>
+</html>
