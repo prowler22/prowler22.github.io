@@ -52,7 +52,7 @@ function readCMCFile() {
 						link.title = files[k].getAttribute('Name');
 						//link.href = "http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH');
 						link.addEventListener('click', function () {
-							openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'););
+							openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'));
 						});
 						currentDiv.appendChild(link);
 						currentDiv.appendChild(document.createElement('br'));
