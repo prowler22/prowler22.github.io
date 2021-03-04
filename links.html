@@ -50,9 +50,9 @@ function readCMCFile() {
 						var linkText = document.createTextNode(files[k].getAttribute('Name'));
 						link.appendChild(linkText);
 						link.title = files[k].getAttribute('Name');
-						link.href = "http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH');
+						//link.href = "http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH');
 						link.addEventListener('click', function () {
-							openInNewTab(link.href);
+							openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'););
 						});
 						currentDiv.appendChild(link);
 						currentDiv.appendChild(document.createElement('br'));
