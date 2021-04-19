@@ -38,6 +38,7 @@ foreach ($years as $year) {
 
             $title = str_replace('&', '&amp;', $title);
             $title = str_replace('"', '&quot;', $title);
+            $title = str_replace("'", '&apos;', $title);
             $monthContents .= $sep . '            <File Name="' . trim($title) . $number . '"/>';
             $sep = "\n";
          }
