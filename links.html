@@ -26,6 +26,59 @@ function readCMCFile() {
 
 	if (typeof window.DOMParser != "undefined") {
 		xmlhttp = new XMLHttpRequest();
+		xmlhttp.open("GET", year + ".xml", false);
+		if (xmlhttp.overrideMimeType) {
+			xmlhttp.overrideMimeType('text/xml');
+		}
+		xmlhttp.send();
+		xmlDoc = xmlhttp.responseXML;
+
+		var xmlYear = xmlDoc.getElementsByTagName("Year");
+		for (var i = 0; i < xmlYear.length; i++) {
+			if (xmlYear[i].getAttribute('Name') == "CMC " + year) {
+				var months = xmlYear[i].getElementsByTagName("Directory");
+				for (var j = 0; j < months.length; j++) {
+					var monthName = months[j].getAttribute('Name');
+					var divId = monthName.split(" ")[2];
+					var currentDiv = document.getElementById(divId);
+					currentDiv.style.display = 'block';
+
+					var files = months[j].getElementsByTagName("File");
+
+					for (k = 0; k < files.length; k++) {
+						var link = document.createElement('a');
+						var linkText = document.createTextNode(files[k].getAttribute('Name'));
+						link.appendChild(linkText);
+						link.title = files[k].getAttribute('Name');
+						var name = files[k].getAttribute('Name').replace(/\s/g, '+')
+						link.href = "http://libgen.lc/comics/index.php?s=" + name + "+" + year;
+						/*link.addEventListener('click', function () {
+							openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'));
+						});*/
+						link.onclick = function(e){ 
+							e.preventDefault(); 
+							var url = this.getAttribute('href'); 
+							window.open(url, '_blank');
+						};
+						currentDiv.appendChild(link);
+						currentDiv.appendChild(document.createElement('br'));
+					}
+				}
+			}
+		}
+	}
+}
+
+function oldreadCMCFile() {
+	const queryString = window.location.search;
+	const urlParams = new URLSearchParams(queryString);
+	const year = urlParams.get('YEAR');
+	
+	document.getElementById('year').innerText = year;
+	var xmlDoc;
+
+	if (typeof window.DOMParser != "undefined") {
+		xmlhttp = new XMLHttpRequest();
 		xmlhttp.open("GET", "cmc" + year + ".xml", false);
 		if (xmlhttp.overrideMimeType) {
 			xmlhttp.overrideMimeType('text/xml');
@@ -50,6 +103,7 @@ function readCMCFile() {
 						var linkText = document.createTextNode(files[k].getAttribute('Name'));
 						link.appendChild(linkText);
 						link.title = files[k].getAttribute('Name');
+						var name = files[k].getAttribute('Name').replace(/\s/g, '+')
 						link.href = "http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH');
 						/*link.addEventListener('click', function () {
 							openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'));
@@ -72,6 +126,7 @@ function openInNewTab(url) {
   const win = window.open(url, '_blank');
   win.focus();
 }
+
 </script>
 </head>
 <body onload="readCMCFile()">
