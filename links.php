@@ -1,8 +1,8 @@
 <?php
 define('URL', 'https://marvel.fandom.com/wiki/Category:%YEAR%,_%MONTH%');
 define('TOP', "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE xml>\n");
-$years = array('1988');
-//$years = range(1939,date("Y"));
+//$years = array('1988');
+$years = range(1939,date("Y"));
 
 $months = array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December');
 
@@ -28,7 +28,7 @@ foreach ($years as $year) {
       foreach($elements as $elem){
          $class = $elem->getAttribute('class');
          if ($class == '') {
-            if (str_contains($string, '#')) {
+            if (strpos($elem->nodeValue, '#') !== false) {
                list($title, $number) = explode('#', $elem->nodeValue);
                $number = " " . $number;
             } else {
