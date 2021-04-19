@@ -51,7 +51,7 @@ function readCMCFile() {
 						link.appendChild(linkText);
 						link.title = files[k].getAttribute('Name');
 						var name = files[k].getAttribute('Name').replace(/\s/g, '+')
-						link.href = "http://libgen.lc/comics/index.php?s=" + name + "+" + year;
+						link.href = "http://libgen.lc/comics/index.php?s=" + name + "+" + year + "&res=25&sorted=0&mask=0&show=0";
 						/*link.addEventListener('click', function () {
 							openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'));
 						});*/
