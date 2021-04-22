@@ -44,16 +44,42 @@ html, body {
    width: 100%;
 }
    </style>
+   <script src="https://unpkg.com/dropbox/dist/Dropbox-sdk.min.js"></script>
    <script>
-	function resizeMainFrames() {
-		var newHeight = document.body.clientHeight - document.getElementById('divToolBar').clientHeight;
-		document.getElementById('divNavBar').style.height = newHeight + "px";
-		document.getElementById('divAppArea').style.height = newHeight + "px";
-		document.getElementById('divAppArea').style.width = (document.body.clientWidth - document.getElementById('divNavBar').clientWidth - 4) + "px";
-	}
-	</script>
+   var access_token = "";
+   var CLIENT_ID = '6blxv6kb9rkek2e';
+
+   function isAuthenticated() {
+      const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+      access_token = urlParams.get('ACCESS_TOKEN');
+
+      return (access_token != undefined && access_token.length > 0);
+   }
+
+   function authenticatePage() {
+      if (isAuthenticated()) {
+         resizeMainFrames();
+         alert(access_token);
+      } else {
+         var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
+         var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/index.html')
+           .then((authUrl) => {
+              //location.href = authUrl;
+              alert (authUrl);
+           })
+      }
+   }
+
+   function resizeMainFrames() {
+      var newHeight = document.body.clientHeight - document.getElementById('divToolBar').clientHeight;
+      document.getElementById('divNavBar').style.height = newHeight + "px";
+      document.getElementById('divAppArea').style.height = newHeight + "px";
+      document.getElementById('divAppArea').style.width = (document.body.clientWidth - document.getElementById('divNavBar').clientWidth - 4) + "px";
+   }
+   </script>
    </head>
-   <body onload="resizeMainFrames()" onresize="resizeMainFrames()">
+   <body onload="authenticatePage()" onresize="resizeMainFrames()">
        <div id="divToolBar">
            <iframe id="fraToolBar" name="fraToolBar" src="toolbar.html" scrolling="no" frameborder="0"></iframe>
        </div>
@@ -62,9 +88,6 @@ html, body {
        </div>
        <div id="divAppArea">
            <iframe id="fraAppArea" name="fraAppArea"></iframe>
-       </div>
-       <div id="divDropBox">
-           <iframe id="fraDropBox" name="fraDropBox" src="dropboxframe.html" style="display:none;"></iframe>
        </div>
    </body>
 </html>
