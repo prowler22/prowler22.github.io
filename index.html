@@ -76,7 +76,7 @@ html, body {
             var blob = response.result.fileBlob;
             var reader = new FileReader();
             reader.addEventListener("loadend", function() {
-               document.getElementById('fraAppArea').loadFile(reader.result);
+               window.fraAppArea.loadFile(reader.result);
             });
             reader.readAsText(blob);
          })
