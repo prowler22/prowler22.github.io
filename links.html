@@ -25,7 +25,7 @@ function readFile() {
 
 function loadFile(fileContents) {
    var fileContentsArr = fileContents.split(',');
-   for (var i = 0; i < fileContentsArr.size; i++) {
+   for (var i = 0; i < fileContentsArr.length; i++) {
       var checkbox = document.getElementById(fileContentsArr[i]);
       if (checkbox) {
          checkbox.checked = true;
