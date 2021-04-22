@@ -50,9 +50,7 @@ html, body {
    var CLIENT_ID = '6blxv6kb9rkek2e';
 
    function isAuthenticated() {
-      const queryString = window.location.search;
-      const urlParams = new URLSearchParams(queryString);
-      access_token = urlParams.get('ACCESS_TOKEN');
+      var access_token = GetURLParameter('access_token');
 
       return (access_token != undefined && access_token.length > 0);
    }
@@ -68,6 +66,20 @@ html, body {
               window.location = authUrl;
            })
       }
+   }
+
+   function GetURLParameter(sParam) {
+      var sPageURL = window.location.hash.substring(1);
+
+      var sURLVariables = sPageURL.split('&');
+      for (var i = 0; i < sURLVariables.length; i++) {
+         var sParameterName = sURLVariables[i].split('=');
+         if (sParameterName[0] == sParam) {
+            return sParameterName[1];
+         }
+      }
+
+      return "";
    }
 
    function resizeMainFrames() {
