@@ -87,7 +87,7 @@
 
       // Set the login anchors href using dbx.getAuthenticationUrl()
       var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
-      var authUrl = dbx.auth.getAuthenticationUrl('http://localhost:8080/auth')
+      var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/dropbox3.html')
         .then((authUrl) => {
           document.getElementById('authlink').href = authUrl;
         })
