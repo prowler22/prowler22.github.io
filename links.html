@@ -64,14 +64,15 @@ function readCMCFile() {
 						var name = files[k].getAttribute('Name').replace(/\s/g, '+').toLowerCase();
 						name = name.replace(/\+vol\+[0-9]+/, '');
 						link.href = "http://libgen.lc/comics/index.php?s=" + name + "+" + year + "&res=25&sorted=0&mask=0&show=0";
-						/*link.addEventListener('click', function () {
-							openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'));
-						});*/
 						link.onclick = function(e){ 
 							e.preventDefault(); 
 							var url = this.getAttribute('href'); 
 							window.open(url, '_blank');
 						};
+						var checkbox = document.createElement("INPUT");
+						checkbox.setAttribute("type", "checkbox");
+						checkbox.id = name;
+						currentDiv.appendChild(checkbox);
 						currentDiv.appendChild(link);
 						currentDiv.appendChild(document.createElement('br'));
 					}
