@@ -72,8 +72,8 @@ html, body {
       var dbx = new Dropbox.Dropbox({accessToken: access_token});
 
       dbx.filesDownload({path: '/msn-tx.txt'})
-         .then(function (response) {
-            var blob = response.fileBlob;
+         .then(function (result) {
+            var blob = result.fileBlob;
             var reader = new FileReader();
             reader.addEventListener("loadend", function() {
                console.log(reader.result); // will print out file content
