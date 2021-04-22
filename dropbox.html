@@ -1,8 +1,8 @@
 <!doctype html>
 <html>
 <head>
-    <script src="https://www.dropbox.com/static/api/dropbox-datastores-1.0-latest.js"></script>
-    <link rel="stylesheet" href="style.css">
+    <script src="/__build__/Dropbox-sdk.min.js"></script>
+    <!--<link rel="stylesheet" href="style.css">-->
 </head>
 <body>
     <center>
@@ -10,7 +10,7 @@
     </center>
  
     <script>
-        var client = new Dropbox.Client({ key: '6blxv6kb9rkek2e' });
+        var client = new Dropbox.Dropbox({ acessToken: '6blxv6kb9rkek2e' });
  
         function doHelloWorld() {
             client.writeFile('hello.txt', 'Hello, World!', function (error) {
