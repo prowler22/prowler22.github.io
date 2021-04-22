@@ -69,7 +69,7 @@ html, body {
    }
    
    function readFile(filename) {
-      var dbx = new Dropbox({accessToken: access_token});
+      var dbx = new Dropbox.Dropbox({accessToken: access_token});
 
       dbx.filesDownload({path: '/msn-tx.txt'})
          .then(function (response) {
