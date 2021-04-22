@@ -84,6 +84,18 @@ html, body {
          })
    }
 
+    function writeFile(filename, fileContents) {
+      var dbx = new Dropbox.Dropbox({ accessToken: access_token });
+
+      dbx.filesUpload({path: '/' + filename, contents: fileContents})
+          .then(function(response) {
+             alert('Progress saved!');
+          })
+          .catch(function(error) {
+             alert('Error saving progress!\n' + error);
+          });
+    }
+
    function GetURLParameter(sParam) {
       var sPageURL = window.location.hash.substring(1);
 

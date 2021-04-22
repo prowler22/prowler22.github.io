@@ -33,6 +33,28 @@ function loadFile(fileContents) {
    }
 }
 
+function writeFile() {
+   const queryString = window.location.search;
+   const urlParams = new URLSearchParams(queryString);
+   const filename = urlParams.get('YEAR') + ".txt";
+
+   var fileContents = "";
+   var sep = "";
+   var inputs = document.getElementsByTagName("input");
+   for (var i = 0; i < inputs.length; i++) {
+      if(inputs[i].type == "checkbox" && inputs[i].checked) {
+         fileContents += inputs[i].id + sep;
+         sep = ",";
+      }
+   }
+
+   if (fileContents.length > 0) {
+      window.parent.writeFile(filename, fileContents);
+   } else {
+      alert('No Progress to save!');
+   }
+}
+
 function readCMCFile() {
 	const queryString = window.location.search;
 	const urlParams = new URLSearchParams(queryString);
@@ -150,7 +172,7 @@ function openInNewTab(url) {
 </script>
 </head>
 <body onload="readCMCFile()">
-<h1 id="year"></h1>
+<h1 id="year"></h1><button onclick="writeFile()">Save Progress</button>
 <div id="00" style="display:none"><div class="accordion"></div></div>
 <div id="01" style="display:none"><div class="accordion">January</div></div>
 <div id="02" style="display:none"><div class="accordion">February</div></div>
