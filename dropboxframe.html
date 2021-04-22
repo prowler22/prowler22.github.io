@@ -1,0 +1,27 @@
+<html>
+<head>
+var access_token = "";
+
+function isAuthenticated() {
+   const queryString = window.location.search;
+   const urlParams = new URLSearchParams(queryString);
+   access_token = urlParams.get('ACCESS_TOKEN');
+
+   return access_token.length > 0;
+}
+
+function authenticate() {
+   if (isAuthenticated()) {
+      alert(access_token);
+   } else {
+      var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
+      var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/dropboxframe.html')
+        .then((authUrl) => {
+           window.open(authUrl);
+        });
+   }
+}
+</head>
+<body onload="authenticate()">
+</body>
+</html>
