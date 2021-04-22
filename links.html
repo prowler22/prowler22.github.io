@@ -16,6 +16,12 @@ body {
 }
 </style>
 <script>
+function readFile() {
+   const queryString = window.location.search;
+   const urlParams = new URLSearchParams(queryString);
+   const year = urlParams.get('YEAR');
+   parent.readFile(year + ".txt");
+}
 function readCMCFile() {
 	const queryString = window.location.search;
 	const urlParams = new URLSearchParams(queryString);

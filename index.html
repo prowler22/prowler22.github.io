@@ -67,6 +67,22 @@ html, body {
            })
       }
    }
+   
+   function readFile(filename) {
+      var dbx = new Dropbox({accessToken: access_token});
+
+      dbx.filesDownload({path: '/msn-tx.txt'})
+         .then(function (response) {
+            var blob = response.fileBlob;
+            var reader = new FileReader();
+            reader.addEventListener("loadend", function() {
+               console.log(reader.result); // will print out file content
+            });
+            reader.readAsText(blob);
+         })
+         .catch(function (error) {
+         })
+   }
 
    function GetURLParameter(sParam) {
       var sPageURL = window.location.hash.substring(1);
