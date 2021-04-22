@@ -8,7 +8,7 @@ function isAuthenticated() {
    const urlParams = new URLSearchParams(queryString);
    access_token = urlParams.get('ACCESS_TOKEN');
 
-   return access_token.length > 0;
+   return (access_token.length > 0);
 }
 
 function authenticatePage() {
