@@ -71,12 +71,12 @@ html, body {
    function readFile(filename) {
       var dbx = new Dropbox.Dropbox({accessToken: access_token});
 
-      dbx.filesDownload({path: '/msn-tx.txt'})
+      dbx.filesDownload({path: filename})
          .then(function (response) {
             var blob = response.result.fileBlob;
             var reader = new FileReader();
             reader.addEventListener("loadend", function() {
-               console.log(reader.result); // will print out file content
+               document.getElementById('fraAppArea').contentWindow.loadFile(reader.result);
             });
             reader.readAsText(blob);
          })

@@ -22,6 +22,11 @@ function readFile() {
    const year = urlParams.get('YEAR');
    window.parent.readFile(year + ".txt");
 }
+
+function loadFile(fileContents) {
+   alert(fileContents);
+}
+
 function readCMCFile() {
 	const queryString = window.location.search;
 	const urlParams = new URLSearchParams(queryString);
