@@ -58,7 +58,6 @@ html, body {
    function authenticatePage() {
       if (isAuthenticated()) {
          resizeMainFrames();
-         alert(access_token);
       } else {
          var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
          var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/index.html')
