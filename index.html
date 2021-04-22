@@ -86,7 +86,7 @@ html, body {
     function writeFile(filename, fileContents) {
       var dbx = new Dropbox.Dropbox({ accessToken: access_token });
 
-      dbx.filesUpload({path: '/' + filename, contents: fileContents})
+      dbx.filesUpload({path: '/' + filename, contents: fileContents, mode: 'overwrite'})
           .then(function(response) {
              alert('Progress saved!');
           })
