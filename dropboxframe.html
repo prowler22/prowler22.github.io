@@ -11,7 +11,7 @@ function isAuthenticated() {
    return access_token.length > 0;
 }
 
-function authenticate() {
+function authenticatePage() {
    if (isAuthenticated()) {
       alert(access_token);
    } else {
@@ -23,6 +23,6 @@ function authenticate() {
    }
 }
 </head>
-<body onload="authenticate()">
+<body onload="authenticatePage()">
 </body>
 </html>
