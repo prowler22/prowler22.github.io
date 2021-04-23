@@ -70,7 +70,7 @@ html, body {
    function readFile(filename) {
       var dbx = new Dropbox.Dropbox({accessToken: access_token});
 
-      dbx.filesListFolder({path: '/'})
+      dbx.filesListFolder({path: ''})
          .then(function(response) {
             var found = false;
             for (var i = 0; i < response.result.entries.length; i++) {
