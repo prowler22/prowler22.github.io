@@ -180,7 +180,7 @@ function resizeDiv(showData) {
    var height = Math.max( body.offsetHeight, 
                 html.clientHeight, html.offsetHeight );
 
-   var newHeight = height - 56;
+   var newHeight = height - 61;
    document.getElementById("dataDiv").style.height = newHeight + "px";
 
    var width = Math.max( body.offsetWidth, 
@@ -194,7 +194,7 @@ function resizeDiv(showData) {
 </head>
 <body onload="readCMCFile()" onresize="resizeDiv(false)">
 <div id="ShowMe" style="display:none">
-   <div style="position:relative;width:100%;height:40px">
+   <div style="position:relative;width:100%;height:45px">
       <table style="width:100%">
         <tr>
          <td style=width:50%">
