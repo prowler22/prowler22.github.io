@@ -70,17 +70,33 @@ html, body {
    function readFile(filename) {
       var dbx = new Dropbox.Dropbox({accessToken: access_token});
 
-      dbx.filesDownload({path: '/' + filename})
-         .then(function (response) {
-            var blob = response.result.fileBlob;
-            var reader = new FileReader();
-            reader.addEventListener("loadend", function() {
-               window.fraAppArea.loadFile(reader.result);
-            });
-            reader.readAsText(blob);
-         })
-         .catch(function (error) {
-         })
+      dbx.filesListFolder({path: '/'})
+         .then(function(response) {
+            var found = false;
+            for (var i = 0; i < response.result.entries.length; i++) {
+               if (files[i].name == filename) {
+                  found = true;
+                  break;
+               }
+            }
+
+            if (found) {
+               dbx.filesDownload({path: '/' + filename})
+                  .then(function (response) {
+                     var blob = response.result.fileBlob;
+                     var reader = new FileReader();
+                     reader.addEventListener("loadend", function() {
+                        window.fraAppArea.loadFile(reader.result);
+                     });
+                     reader.readAsText(blob);
+                  })
+                  .catch(function (error) {
+                  })
+            }
+        })
+        .catch(function(error) {
+          console.error(error);
+        });
    }
 
     function writeFile(filename, fileContents) {
