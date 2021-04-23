@@ -74,7 +74,7 @@ html, body {
          .then(function(response) {
             var found = false;
             for (var i = 0; i < response.result.entries.length; i++) {
-               if (files[i].name == filename) {
+               if (response.result.entries[i].name == filename) {
                   found = true;
                   break;
                }
