@@ -192,13 +192,13 @@ function resizeDiv(showData) {
 
 </script>
 </head>
-<body onload="resizeDiv(true)" onresize="resizeDiv(false)">
+<body onload="readCMCFile()" onresize="resizeDiv(false)">
 <div id="ShowMe" style="display:none">
    <div style="position:relative;width:100%;height:40px">
       <table style="width:100%">
         <tr>
          <td style=width:50%">
-           <h1 id="year">1111</h1>
+           <h1 id="year"></h1>
          </td>
          <td style=width:50%;text-align:right">
            <button id="saveProgress" onclick="writeFile()">Save Progress</button>
