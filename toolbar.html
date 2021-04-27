@@ -24,8 +24,10 @@ padding: 0;
    function updateTitle() {
       if (dc) {
          document.getElementById('title').innerText = "Complete DC Chronology";
+         document.getElementById('link').innerHTML = "<a href='index.html' target='_top'>Marvel Chronology</a>";
       } else {
          document.getElementById('title').innerText = "Complete Marvel Chronology";
+         document.getElementById('link').innerHTML = "<a href='index.html?PUB=DC' target='_top'>DC Chronology</a>";
       }
    }
 /*var allProgress = "";
