@@ -46,6 +46,10 @@ html, body {
    </style>
    <script src="https://unpkg.com/dropbox/dist/Dropbox-sdk.min.js"></script>
    <script>
+   const queryString = window.location.search;
+   const urlParams = new URLSearchParams(queryString);
+   var dc = (urlParams.get('PUB') == "DC")
+
    var access_token = "";
    var CLIENT_ID = '6blxv6kb9rkek2e';
 
@@ -59,8 +63,10 @@ html, body {
       if (isAuthenticated()) {
          resizeMainFrames();
       } else {
+         var pubQueryString = "";
+         if (dc) pubQueryString = "?PUB=DC";
          var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
-         var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/index.html')
+         var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/index.html' + pubQueryString)
            .then((authUrl) => {
               window.location = authUrl;
            })
