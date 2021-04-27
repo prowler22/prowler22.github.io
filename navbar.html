@@ -45,6 +45,7 @@ function toggleButton(btn) {
 
 function updateTitles() {
    if (dc) {
+      document.getElementById('title').innerText = "DC";
       var buttons = document.getElementsByTagName('button');
       for (var i = 0; i < buttons.length; i++) {
          buttons[i].innerText = buttons[i].innerText.replace('Marvel', 'DC');
@@ -64,7 +65,7 @@ function updateTitles() {
 </script>
 </head>
 <body onload="updateTitles()">
-<h1>Marvel</h1>
+<h1 id="title">Marvel</h1>
 <hr>
 <button id="1930s" class="accordion" onclick="toggleButton(this);">Marvel 1930s</button>
 <div class="panel">
