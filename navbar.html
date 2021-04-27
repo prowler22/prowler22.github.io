@@ -55,12 +55,18 @@ function updateTitles() {
       for (var i = 0; i < links.length; i++) {
          links[i].href = buttons[i].href + "&PUB=DC";
       }
-   } else {
+
+      document.getElementById('1935').style.display = 'block';
+      document.getElementById('1936').style.display = 'block';
+      document.getElementById('1937').style.display = 'block';
+      document.getElementById('1938').style.display = 'block';
+
+   }/* else {
       document.getElementById('1935').style.display = 'none';
       document.getElementById('1936').style.display = 'none';
       document.getElementById('1937').style.display = 'none';
       document.getElementById('1938').style.display = 'none';
-   }
+   }*/
 }
 </script>
 </head>
@@ -70,11 +76,11 @@ function updateTitles() {
 <button id="1930s" class="accordion" onclick="toggleButton(this);">Marvel 1930s</button>
 <div class="panel">
 	<p>
-	<a id="1935" href="links.html?YEAR=1945" target="fraAppArea">1935</a><br>
-	<a id="1936" href="links.html?YEAR=1946" target="fraAppArea">1936</a><br>
-	<a id="1937" href="links.html?YEAR=1947" target="fraAppArea">1937</a><br>
-	<a id="1938" href="links.html?YEAR=1948" target="fraAppArea">1938</a><br>
-	<a href="links.html?YEAR=1949" target="fraAppArea">1939</a><br>
+	<a id="1935" style="display:none;" href="links.html?YEAR=1935" target="fraAppArea">1935</a><br>
+	<a id="1936" style="display:none;" href="links.html?YEAR=1936" target="fraAppArea">1936</a><br>
+	<a id="1937" style="display:none;" href="links.html?YEAR=1937" target="fraAppArea">1937</a><br>
+	<a id="1938" style="display:none;" href="links.html?YEAR=1938" target="fraAppArea">1938</a><br>
+	<a href="links.html?YEAR=1939" target="fraAppArea">1939</a><br>
 	</p>
 </div>
 <button id="1940s" class="accordion" onclick="toggleButton(this);">Marvel 1940s</button>
