@@ -49,6 +49,7 @@ html, body {
    const queryString = window.location.search;
    const urlParams = new URLSearchParams(queryString);
    var dc = (urlParams.get('PUB') == "DC")
+   var pubQueryString = dc ? "?PUB=DC" : "";
 
    var access_token = "";
    var CLIENT_ID = '6blxv6kb9rkek2e';
@@ -61,10 +62,13 @@ html, body {
 
    function authenticatePage() {
       if (isAuthenticated()) {
+         document.getElementById('fraToolBar').src = "toolbar.html" + pubQueryString;
+         document.getElementById('fraNavBar').src = "navbar.html" + pubQueryString;
+         if (dc) {
+            document.title = "DC Chronology";
+         }
          resizeMainFrames();
       } else {
-         var pubQueryString = "";
-         if (dc) pubQueryString = "?PUB=DC";
          var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
          var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/index.html' + pubQueryString)
            .then((authUrl) => {
@@ -143,10 +147,10 @@ html, body {
    </head>
    <body onload="authenticatePage()" onresize="resizeMainFrames()">
        <div id="divToolBar">
-           <iframe id="fraToolBar" name="fraToolBar" src="toolbar.html" scrolling="no" frameborder="0"></iframe>
+           <iframe id="fraToolBar" name="fraToolBar" scrolling="no" frameborder="0"></iframe>
        </div>
        <div id="divNavBar">
-           <iframe id="fraNavBar" name="fraNavBar" src="navbar.html" frameborder="0"></iframe>
+           <iframe id="fraNavBar" name="fraNavBar" frameborder="0"></iframe>
        </div>
        <div id="divAppArea">
            <iframe id="fraAppArea" name="fraAppArea"></iframe>
