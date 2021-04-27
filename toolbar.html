@@ -17,7 +17,18 @@ padding: 0;
 }
 </style>
 <script>
-var allProgress = "";
+   const queryString = window.location.search;
+   const urlParams = new URLSearchParams(queryString);
+   var dc = (urlParams.get('PUB') == "DC")
+
+   function updateTitle() {
+      if (dc) {
+         document.getElementById('title').innerText = "Complete DC Chronology";
+      } else {
+         document.getElementById('title').innerText = "Complete Marvel Chronology";
+      }
+   }
+/*var allProgress = "";
 
 function readProgressFile() {
 	var rawFile = new XMLHttpRequest();
@@ -37,10 +48,10 @@ function renewCookies() {
 	d.setTime(d.getTime() + (365*24*60*60*1000));
 	var expires = "expires" + d.toUTCString();
 	document.cookie = "1960=read;" + expires + ";path=/";
-}
+}*/
 </script>
 </head>
-<body onload="readProgressFile();">
-<div><h1>Complete Marvel Chronology</h1></div>
+<body onload="updateTitle();">
+<div><h1 id="title"></h1></div>
 </body>
 </html>

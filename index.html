@@ -48,7 +48,7 @@ html, body {
    <script>
    const queryString = window.location.search;
    const urlParams = new URLSearchParams(queryString);
-   var dc = (urlParams.get('PUB') == "DC")
+   var dc = (urlParams.get('PUB') == "DC");
    var pubQueryString = dc ? "?PUB=DC" : "";
 
    var access_token = "";
