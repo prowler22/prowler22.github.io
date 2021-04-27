@@ -53,7 +53,7 @@ function updateTitles() {
 
       var links = document.getElementsByTagName('a');
       for (var i = 0; i < links.length; i++) {
-         links[i].href = buttons[i].href + "&PUB=DC";
+         links[i].href = links[i].href + "&PUB=DC";
       }
 
       document.getElementById('1935').style.display = 'block';
