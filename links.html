@@ -19,9 +19,11 @@ body {
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
 const year = urlParams.get('YEAR');
+var dc = (urlParams.get('PUB') == "DC") ? "dc" : "";
+var progressBtnText = (urlParams.get('PUB') == "DC") ? "DC " : "Marvel ";
 
 function readFile() {
-   window.parent.readFile(year + ".txt");
+   window.parent.readFile(dc + year + ".txt");
 }
 
 function loadFile(fileContents) {
@@ -41,7 +43,7 @@ function showData() {
 }
 
 function writeFile() {
-   var filename = year + ".txt";
+   var filename = dc + year + ".txt";
 
    var fileContents = "";
    var sep = "";
@@ -62,13 +64,13 @@ function writeFile() {
 
 function readCMCFile() {
    document.getElementById('year').innerText = year;
-   document.getElementById("saveProgress").innerText = "Save " + year + "'s Progress";
+   document.getElementById("saveProgress").innerText = "Save " + progressBtnText + year + "'s Progress";
 
    var xmlDoc;
 
    if (typeof window.DOMParser != "undefined") {
       xmlhttp = new XMLHttpRequest();
-      xmlhttp.open("GET", year + ".xml", false);
+      xmlhttp.open("GET", dc + year + ".xml", false);
       if (xmlhttp.overrideMimeType) {
          xmlhttp.overrideMimeType('text/xml');
       }
@@ -77,7 +79,7 @@ function readCMCFile() {
 
       var xmlYear = xmlDoc.getElementsByTagName("Year");
       for (var i = 0; i < xmlYear.length; i++) {
-         if (xmlYear[i].getAttribute('Name') == "CMC " + year) {
+         if (xmlYear[i].getAttribute('Name') == "CMC " + year || xmlYear[i].getAttribute('Name') == "CDCC " + year) {
             var months = xmlYear[i].getElementsByTagName("Directory");
             for (var j = 0; j < months.length; j++) {
                var monthName = months[j].getAttribute('Name');
@@ -115,7 +117,7 @@ function readCMCFile() {
    resizeDiv();
 }
 
-function oldreadCMCFile() {
+/*function oldreadCMCFile() {
    const queryString = window.location.search;
    const urlParams = new URLSearchParams(queryString);
    const year = urlParams.get('YEAR');
@@ -151,9 +153,9 @@ function oldreadCMCFile() {
                   link.title = files[k].getAttribute('Name');
                   var name = files[k].getAttribute('Name').replace(/\s/g, '+')
                   link.href = "http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH');
-                  /*link.addEventListener('click', function () {
-                     openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'));
-                  });*/
+                  //link.addEventListener('click', function () {
+                  //   openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'));
+                  //});
                   link.onclick = function(e){ 
                      e.preventDefault(); 
                      var url = this.getAttribute('href'); 
@@ -166,7 +168,7 @@ function oldreadCMCFile() {
          }
       }
    }
-}
+}*/
 
 function openInNewTab(url) {
   const win = window.open(url, '_blank');
