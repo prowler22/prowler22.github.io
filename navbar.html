@@ -29,6 +29,10 @@ h1 {
 }
 </style>
 <script>
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+var dc = (urlParams.get('PUB') == "DC");
+
 function toggleButton(btn) {
 	btn.classList.toggle("active");
 	var panel = btn.nextElementSibling;
@@ -38,15 +42,43 @@ function toggleButton(btn) {
 		panel.style.display = "block";
 	}
 }
+
+function updateTitles() {
+   if (dc) {
+      var buttons = document.getElementsByTagName('button');
+      for (var i = 0; i < buttons.length; i++) {
+         buttons[i].innerText = buttons[i].innerText.replace('Marvel', 'DC');
+      }
+
+      var links = document.getElementsByTagName('a');
+      for (var i = 0; i < links.length; i++) {
+         links[i].href = buttons[i].href + "&PUB=DC";
+      }
+   } else {
+      document.getElementById('1935').style.display = 'none';
+      document.getElementById('1936').style.display = 'none';
+      document.getElementById('1937').style.display = 'none';
+      document.getElementById('1938').style.display = 'none';
+   }
+}
 </script>
 </head>
-<body>
+<body onload="updateTitles()">
 <h1>Marvel</h1>
 <hr>
-<button class="accordion" onclick="toggleButton(this);">Marvel 1940s</button>
+<button id="1930s" class="accordion" onclick="toggleButton(this);">Marvel 1930s</button>
 <div class="panel">
 	<p>
-	<a href="links.html?YEAR=1939" target="fraAppArea">1939</a><br>
+	<a id="1935" href="links.html?YEAR=1945" target="fraAppArea">1935</a><br>
+	<a id="1936" href="links.html?YEAR=1946" target="fraAppArea">1936</a><br>
+	<a id="1937" href="links.html?YEAR=1947" target="fraAppArea">1937</a><br>
+	<a id="1938" href="links.html?YEAR=1948" target="fraAppArea">1938</a><br>
+	<a href="links.html?YEAR=1949" target="fraAppArea">1939</a><br>
+	</p>
+</div>
+<button id="1940s" class="accordion" onclick="toggleButton(this);">Marvel 1940s</button>
+<div class="panel">
+	<p>
 	<a href="links.html?YEAR=1940" target="fraAppArea">1940</a><br>
 	<a href="links.html?YEAR=1941" target="fraAppArea">1941</a><br>
 	<a href="links.html?YEAR=1942" target="fraAppArea">1942</a><br>
@@ -59,7 +91,7 @@ function toggleButton(btn) {
 	<a href="links.html?YEAR=1949" target="fraAppArea">1949</a><br>
 	</p>
 </div>
-<button class="accordion" onclick="toggleButton(this);">Marvel 1950s</button>
+<button id="1950s" class="accordion" onclick="toggleButton(this);">Marvel 1950s</button>
 <div class="panel">
 	<p>
 	<a href="links.html?YEAR=1950" target="fraAppArea">1950</a><br>
@@ -74,7 +106,7 @@ function toggleButton(btn) {
 	<a href="links.html?YEAR=1959" target="fraAppArea">1959</a><br>
 	</p>
 </div>
-<button class="accordion" onclick="toggleButton(this);">Marvel 1960s</button>
+<button id="1960s" class="accordion" onclick="toggleButton(this);">Marvel 1960s</button>
 <div class="panel">
 	<p>
 	<a href="links.html?YEAR=1960" target="fraAppArea">1960</a><br>
@@ -89,7 +121,7 @@ function toggleButton(btn) {
 	<a href="links.html?YEAR=1969" target="fraAppArea">1969</a><br>
 	</p>
 </div>
-<button class="accordion" onclick="toggleButton(this);">Marvel 1970s</button>
+<button id="1970s" class="accordion" onclick="toggleButton(this);">Marvel 1970s</button>
 <div class="panel">
 	<p>
 	<a href="links.html?YEAR=1970" target="fraAppArea">1970</a><br>
@@ -104,7 +136,7 @@ function toggleButton(btn) {
 	<a href="links.html?YEAR=1979" target="fraAppArea">1979</a><br>
 	</p>
 </div>
-<button class="accordion" onclick="toggleButton(this);">Marvel 1980s</button>
+<button id="1980s" class="accordion" onclick="toggleButton(this);">Marvel 1980s</button>
 <div class="panel">
 	<p>
 	<a href="links.html?YEAR=1980" target="fraAppArea">1980</a><br>
@@ -119,7 +151,7 @@ function toggleButton(btn) {
 	<a href="links.html?YEAR=1989" target="fraAppArea">1989</a><br>
 	</p>
 </div>
-<button class="accordion" onclick="toggleButton(this);">Marvel 1990s</button>
+<button id="1990s" class="accordion" onclick="toggleButton(this);">Marvel 1990s</button>
 <div class="panel">
 	<p>
 	<a href="links.html?YEAR=1990" target="fraAppArea">1990</a><br>
@@ -134,7 +166,7 @@ function toggleButton(btn) {
 	<a href="links.html?YEAR=1999" target="fraAppArea">1999</a><br>
 	</p>
 </div>
-<button class="accordion" onclick="toggleButton(this);">Marvel 2000s</button>
+<button id="2000s" class="accordion" onclick="toggleButton(this);">Marvel 2000s</button>
 <div class="panel">
 	<p>
 	<a href="links.html?YEAR=2000" target="fraAppArea">2000</a><br>
@@ -149,7 +181,7 @@ function toggleButton(btn) {
 	<a href="links.html?YEAR=2009" target="fraAppArea">2009</a><br>
 	</p>
 </div>
-<button class="accordion" onclick="toggleButton(this);">Marvel 2010s</button>
+<button id="2010s" class="accordion" onclick="toggleButton(this);">Marvel 2010s</button>
 <div class="panel">
 	<p>
 	<a href="links.html?YEAR=2010" target="fraAppArea">2010</a><br>
@@ -164,7 +196,7 @@ function toggleButton(btn) {
 	<a href="links.html?YEAR=2019" target="fraAppArea">2019</a><br>
 	</p>
 </div>
-<button class="accordion" onclick="toggleButton(this);">Marvel 2020s</button>
+<button id="2020s" class="accordion" onclick="toggleButton(this);">Marvel 2020s</button>
 <div class="panel">
 	<p>
 	<a href="links.html?YEAR=2020" target="fraAppArea">2020</a><br>
