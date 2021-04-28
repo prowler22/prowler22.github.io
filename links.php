@@ -12,8 +12,8 @@ if (isset($argv[1]) && strtolower($argv[1]) == "dc") {
    $startURL = DCURL;
    $project = "CDCC";
 }
-$years = array('1935');
-//$years = range($startYear,date("Y"));
+//$years = array('1935');
+$years = range($startYear,date("Y"));
 
 $months = array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December');
 

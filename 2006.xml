@@ -280,6 +280,7 @@
         </Directory>
         <Directory Name="CMC 2006 04">
             <File Name="4 27"/>
+            <File Name="AAFES 3"/>
             <File Name="All-New Official Handbook of the Marvel Universe A to Z 4"/>
             <File Name="Amazing Fantasy Vol 2 18"/>
             <File Name="Amazing Spider-Man 529"/>
@@ -324,7 +325,6 @@
             <File Name="Marvel Team-Up Vol 3 17"/>
             <File Name="Marvel Zombies 3"/>
             <File Name="Mighty World of Marvel Vol 3 42"/>
-            <File Name="New Avengers Marvel Salutes the U.S. Military 3"/>
             <File Name="New Avengers 16"/>
             <File Name="New Excalibur 4"/>
             <File Name="New Mangaverse: The Rings of Fate 2"/>
@@ -453,10 +453,10 @@
             <File Name="Uncanny X-Men 470"/>
             <File Name="Underworld 2"/>
             <File Name="Untold Tales of the New Universe 1"/>
-            <File Name="Untold Tales of the New Universe 2"/>
-            <File Name="Untold Tales of the New Universe 3"/>
-            <File Name="Untold Tales of the New Universe 4"/>
-            <File Name="Untold Tales of the New Universe 5"/>
+            <File Name="Untold Tales of the New Universe: D.P.7 1"/>
+            <File Name="Untold Tales of the New Universe: Justice 1"/>
+            <File Name="Untold Tales of the New Universe: Nightmask 1"/>
+            <File Name="Untold Tales of the New Universe: Psi-Force 1"/>
             <File Name="Wolverine Vol 3 40"/>
             <File Name="Wolverine and Deadpool 124"/>
             <File Name="Wolverine and Deadpool 125"/>
@@ -981,7 +981,7 @@
             <File Name="X-Men First Class 1"/>
             <File Name="X-Men Phoenix Warsong 1"/>
             <File Name="X-Men Vol 2 191"/>
-            <File Name="Zombie 1"/>
+            <File Name="Zombie Vol 2 1"/>
         </Directory>
         <Directory Name="CMC 2006 12">
             <File Name="Agents of Atlas 3"/>
@@ -1073,6 +1073,6 @@
             <File Name="X-Men First Class 2"/>
             <File Name="X-Men Phoenix Warsong 2"/>
             <File Name="X-Men Vol 2 192"/>
-            <File Name="Zombie 2"/>
+            <File Name="Zombie Vol 2 2"/>
         </Directory>
     </Year>

@@ -2,6 +2,7 @@
 <!DOCTYPE xml>
     <Year Name="CMC 2007">
         <Directory Name="CMC 2007 01">
+            <File Name="AAFES 4"/>
             <File Name="Agents of Atlas 4"/>
             <File Name="Amazing Spider-Girl 2"/>
             <File Name="Amazing Spider-Man 538"/>
@@ -58,7 +59,6 @@
             <File Name="Mighty World of Marvel Vol 3 52"/>
             <File Name="Moon Knight Vol 5 7"/>
             <File Name="Ms. Marvel Vol 2 9"/>
-            <File Name="New Avengers Marvel Salutes the U.S. Military 4"/>
             <File Name="New Avengers 26"/>
             <File Name="New Excalibur 13"/>
             <File Name="New X-Men Vol 2 32"/>
@@ -100,7 +100,7 @@
             <File Name="X-Men First Class 3"/>
             <File Name="X-Men Phoenix Warsong 3"/>
             <File Name="X-Men Vol 2 193"/>
-            <File Name="Zombie 3"/>
+            <File Name="Zombie Vol 2 3"/>
         </Directory>
         <Directory Name="CMC 2007 02">
             <File Name="Agents of Atlas 5"/>
@@ -197,7 +197,7 @@
             <File Name="X-Men Phoenix Warsong 4"/>
             <File Name="X-Men Vol 2 194"/>
             <File Name="XIII 1"/>
-            <File Name="Zombie 4"/>
+            <File Name="Zombie Vol 2 4"/>
         </Directory>
         <Directory Name="CMC 2007 03">
             <File Name="Agents of Atlas 6"/>
@@ -858,6 +858,7 @@
             <File Name="X-Men Vol 2 201"/>
         </Directory>
         <Directory Name="CMC 2007 10">
+            <File Name="AAFES 5"/>
             <File Name="Amazing Spider-Girl 11"/>
             <File Name="Amazing Spider-Man 543"/>
             <File Name="Annihilation TPB 1"/>
@@ -914,7 +915,6 @@
             <File Name="Moon Knight Vol 5 12"/>
             <File Name="Ms. Marvel Vol 2 18"/>
             <File Name="Mystic Arcana Scarlet Witch 1"/>
-            <File Name="New Avengers Marvel Salutes the U.S. Military 5"/>
             <File Name="New Avengers 33"/>
             <File Name="New Avengers/Transformers 2"/>
             <File Name="New Excalibur 22"/>
