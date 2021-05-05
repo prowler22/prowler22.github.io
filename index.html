@@ -118,6 +118,8 @@ html, body {
       var dbx = new Dropbox.Dropbox({accessToken: access_token});
       dbx.usersGetCurrentAccount()
          .then(function(response) {
+            //response.result.name.given_name
+            window.fraToolBar.setInitial(response.result.name.given_name);
             console.log('test');
          })
          .catch(function(error) {

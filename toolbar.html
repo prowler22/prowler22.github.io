@@ -15,6 +15,24 @@ h1 {
 margin: 2;
 padding: 0;
 }
+
+span i {
+    text-align: center;
+    border-radius: 50%;
+    background-color: blue;
+    color: white;
+    font-size: 7px;
+    padding: 3px;
+    font-style: normal;
+}
+
+i {
+position: relative
+}
+
+i.one {
+top:-15px;
+}
 </style>
 <script>
    const queryString = window.location.search;
@@ -40,6 +58,10 @@ padding: 0;
          document.getElementById('title').innerText = "Complete Marvel Chronology";
          document.getElementById('link').innerHTML = "<a href='index.html?PUB=DC' target='_top'>DC Chronology</a>";
       }
+   }
+   
+   function setInitial(given_name) {
+      document.getElementById('initials').innerText = given_name.substring(0, 1);
    }
 /*var allProgress = "";
 
@@ -70,7 +92,7 @@ function renewCookies() {
       <tr>
          <td style="width:25%; text-align:left;">
             <a id="dbLink" onclick="window.parent.login()" href="">Log into Dropbox</a>
-            <span id="dbInfo" style="display:none">Logged in</span>
+            <span id="dbInfo" style="display:none"><i id="initials" class="one"></i></span>
          </td>
          <td style="width:50%; text-align:center;"><h1 id="title"></h1></td>
          <td style="width:25%; text-align:right;"><a id="link" href=""/></td>
