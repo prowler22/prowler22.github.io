@@ -4,13 +4,37 @@
       <script src="https://unpkg.com/dropbox/dist/Dropbox-sdk.min.js"></script>
       <script>
          var CLIENT_ID = '6blxv6kb9rkek2e';
+         var access_token = "";
+
+         function isAuthenticated() {
+            access_token = GetURLParameter('access_token');
+
+            return (access_token != undefined && access_token.length > 0);
+         }
 
          function onLoad() {
-            var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
-            var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/finishlogin.html')
-                 .then((authUrl) => {
-                    window.location = authUrl;
-                 })
+            if (isAuthenticated()) {
+            } else {
+               var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
+               var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/startlogin.html')
+                    .then((authUrl) => {
+                       window.location = authUrl;
+                    })
+            }
+         }
+
+         function GetURLParameter(sParam) {
+            var sPageURL = window.location.hash.substring(1);
+
+            var sURLVariables = sPageURL.split('&');
+            for (var i = 0; i < sURLVariables.length; i++) {
+               var sParameterName = sURLVariables[i].split('=');
+               if (sParameterName[0] == sParam) {
+                  return sParameterName[1];
+               }
+            }
+
+            return "";
          }
       </script>
    </head>
