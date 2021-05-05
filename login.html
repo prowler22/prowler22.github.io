@@ -1,17 +1,19 @@
 <html>
    <head>
-      function onLoad() {
-         var message = parseQueryString(window.location.hash)
-         window.location.hash = '';
+      <script>
+         function onLoad() {
+            var message = parseQueryString(window.location.hash)
+            window.location.hash = '';
 
-         opener = window.opener
-         if (window.parent != window.top) {
-            opener =  opener || window.parent
+            opener = window.opener
+            if (window.parent != window.top) {
+               opener =  opener || window.parent
+            }
+
+            opener.postMessage(message, window.location.origin);
+            window.close();
          }
-
-         opener.postMessage(message, window.location.origin);
-         window.close();
-      }
+      </script>
    </head>
 <body onload="onLoad()">
 </body>
