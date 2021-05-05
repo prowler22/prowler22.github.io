@@ -119,7 +119,7 @@ html, body {
       dbx.usersGetCurrentAccount()
          .then(function(response) {
             //response.result.name.given_name
-            window.fraToolBar.setInitial(response.result.name.given_name);
+            window.fraToolBar.setInitials(response.result.name.given_name, response.result.name.surname);
             console.log('test');
          })
          .catch(function(error) {

@@ -60,8 +60,9 @@ top:-15px;
       }
    }
    
-   function setInitial(given_name) {
-      document.getElementById('initials').innerText = given_name.substring(0, 1);
+   function setInitials(given_name, surname) {
+      var initials = given_name.substring(0, 1) + surname.substring(0, 1);
+      document.getElementById('initials').innerText = initials.toUpperCase();
    }
 /*var allProgress = "";
 
