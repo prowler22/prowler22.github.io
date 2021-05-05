@@ -7,7 +7,7 @@
 
          function onLoad() {
             var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
-            var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/login.html')
+            var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/finishlogin.html')
                  .then((authUrl) => {
                     window.location = authUrl;
                  })
