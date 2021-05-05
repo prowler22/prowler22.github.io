@@ -101,10 +101,14 @@ function readCMCFile() {
                      var url = this.getAttribute('href'); 
                      window.open(url, '_blank');
                   };
-                  var checkbox = document.createElement("INPUT");
-                  checkbox.setAttribute("type", "checkbox");
-                  checkbox.id = name;
-                  currentDiv.appendChild(checkbox);
+
+                  if (window.parent.isAuthenticated()) {
+                     var checkbox = document.createElement("INPUT");
+                     checkbox.setAttribute("type", "checkbox");
+                     checkbox.id = name;
+                     currentDiv.appendChild(checkbox);
+                  }
+
                   currentDiv.appendChild(link);
                   currentDiv.appendChild(document.createElement('br'));
                }
@@ -112,7 +116,13 @@ function readCMCFile() {
          }
       }
    }
-   readFile();
+
+   if (window.parent.isAuthenticated()) {
+      readFile();
+   } else {
+      document.getElementById('saveProgress').style.display = 'none';
+   }
+
    resizeDiv();
 }
 

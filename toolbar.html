@@ -21,6 +21,15 @@ padding: 0;
    const urlParams = new URLSearchParams(queryString);
    var dc = (urlParams.get('PUB') == "DC")
 
+   function onLoad() {
+      updateTitle();
+
+      if (window.parent.isAuthenticated()) {
+         document.getElementById('dbLink').style.display = 'none';
+         document.getElementById('dbLink').style.display = 'block';
+      }
+   }
+
    function updateTitle() {
       if (dc) {
          document.getElementById('title').innerText = "Complete DC Chronology";
@@ -53,11 +62,14 @@ function renewCookies() {
 }*/
 </script>
 </head>
-<body onload="updateTitle();">
+<body onload="onLoad();">
 <div>
    <table style="width:100%;">
       <tr>
-         <td style="width:25%;">&nbsp;</td>
+         <td style="width:25%; text-align:right;">
+            <a id="dbLink" onclick="window.parent.login()" href=""/>
+            <div id="dbInfo" style="display:none">Logged in</div>
+         </td>
          <td style="width:50%; text-align:center;"><h1 id="title"></h1></td>
          <td style="width:25%; text-align:right;"><a id="link" href=""/></td>
       </tr>

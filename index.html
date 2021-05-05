@@ -51,30 +51,66 @@ html, body {
    var dc = (urlParams.get('PUB') == "DC");
    var pubQueryString = dc ? "?PUB=DC" : "";
 
-   var access_token = "";
    var CLIENT_ID = '6blxv6kb9rkek2e';
+   var access_token = getCookie('access_token');
+
+   function getCookie(cname) {
+      var decodedCookie = decodeURIComponent(document.cookie);
+      var cookies = decodedCookie.split(';');
+      for(var i = 0; i < cookies.length; i++) {
+         var cookie = cookies[i].split('=');
+
+         if (cookie[0] == cname) {
+            return cookie[1];
+         }
+      }
+
+      return "";
+   }
 
    function isAuthenticated() {
-      access_token = GetURLParameter('access_token');
+      //access_token = GetURLParameter('access_token');
 
       return (access_token != undefined && access_token.length > 0);
    }
 
-   function authenticatePage() {
-      if (isAuthenticated()) {
+   function login() {
+      var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
+      var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/login.html')
+           .then((authUrl) => {
+              window.open(dbx.auth.getAuthenticationUrl(authUrl), 'DropboxAuthPopup', 'dialog=yes,dependent=yes,scrollbars=yes,location=yes');
+           })
+
+      window.addEventListener('message',function(e) {
+         if (window.location.origin !== e.origin) {
+            alert('login failure');
+         } else {
+            // e.data Is what was sent from redirectUrl
+            // e.data.access_token is the token I needed from dropbox
+            alert(e.data.access_token);
+            access_token = e.data.access_token;
+            document.cookie = "access_token=" + access_token + ";";
+            document.getElementById('fraToolBar').src = document.getElementById('fraToolBar').src;
+            document.getElementById('fraAppArea').src = document.getElementById('fraAppArea').src
+         }
+      },false);
+   }
+
+   function onLoad() {
+      //if (isAuthenticated()) {
          document.getElementById('fraToolBar').src = "toolbar.html" + pubQueryString;
          document.getElementById('fraNavBar').src = "navbar.html" + pubQueryString;
          if (dc) {
             document.title = "DC Chronology";
          }
          resizeMainFrames();
-      } else {
+      /*} else {
          var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
          var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/index.html' + pubQueryString)
            .then((authUrl) => {
               window.location = authUrl;
            })
-      }
+      }*/
    }
    
    function readFile(filename) {
@@ -145,7 +181,7 @@ html, body {
    }
    </script>
    </head>
-   <body onload="authenticatePage()" onresize="resizeMainFrames()">
+   <body onload="onLoad()" onresize="resizeMainFrames()">
        <div id="divToolBar">
            <iframe id="fraToolBar" name="fraToolBar" scrolling="no" frameborder="0"></iframe>
        </div>
