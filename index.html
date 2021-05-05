@@ -75,12 +75,13 @@ html, body {
    }
 
    function login() {
-      var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
-      var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/login.html');
+      window.open('https://prowler22.github.io/startlogin.html', 'DropboxAuthPopup', 'dialog=yes,dependent=yes,scrollbars=yes,location=yes');
+   //   var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
+     // var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/login.html');
       /*     .then((authUrl) => {
               window.open(dbx.auth.getAuthenticationUrl(authUrl), 'DropboxAuthPopup', 'dialog=yes,dependent=yes,scrollbars=yes,location=yes');
            })*/
-      window.open(dbx.auth.getAuthenticationUrl(authUrl), 'DropboxAuthPopup', 'dialog=yes,dependent=yes,scrollbars=yes,location=yes');
+      //window.open(dbx.auth.getAuthenticationUrl(authUrl), 'DropboxAuthPopup', 'dialog=yes,dependent=yes,scrollbars=yes,location=yes');
       window.addEventListener('message',function(e) {
          if (window.location.origin !== e.origin) {
             alert('login failure');

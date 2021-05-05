@@ -1,0 +1,20 @@
+<html>
+   <head>
+      <title>Dropbox Login</title>
+      <script src="https://unpkg.com/dropbox/dist/Dropbox-sdk.min.js"></script>
+      <script>
+         var CLIENT_ID = '6blxv6kb9rkek2e';
+
+         function onLoad() {
+            var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
+            var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/login.html');
+            window.location = authUrl;
+         }
+      </script>
+   </head>
+   <body onload="onLoad()">
+       <div>
+           Logging in...
+       </div>
+   </body>
+</html>
