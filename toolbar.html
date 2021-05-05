@@ -19,9 +19,9 @@ padding: 0;
 span i {
     text-align: center;
     border-radius: 50%;
-    background-color: blue;
+    background-color: black;
     color: white;
-    font-size: 7px;
+    font-size: 24px;
     padding: 3px;
     font-style: normal;
 }
@@ -31,7 +31,7 @@ position: relative
 }
 
 i.one {
-top:-15px;
+top:0px;
 }
 </style>
 <script>
@@ -43,9 +43,6 @@ top:-15px;
       updateTitle();
 
       if (window.parent.isAuthenticated()) {
-         document.getElementById('dbLink').style.display = 'none';
-         document.getElementById('dbInfo').style.display = 'block';
-
          window.parent.getUsersAccount();
       }
    }
@@ -63,6 +60,9 @@ top:-15px;
    function setInitials(given_name, surname) {
       var initials = given_name.substring(0, 1) + surname.substring(0, 1);
       document.getElementById('initials').innerText = initials.toUpperCase();
+
+      document.getElementById('dbLink').style.display = 'none';
+      document.getElementById('dbInfo').style.display = 'block';
    }
 /*var allProgress = "";
 
