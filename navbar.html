@@ -45,7 +45,9 @@ function toggleButton(btn) {
 
 function updateTitles() {
    if (dc) {
-      document.getElementById('title').innerText = "DC";
+      document.getElementById('dctitle').style.display = "block";
+      document.getElementById('marveltitle').style.display = "none";
+
       var buttons = document.getElementsByTagName('button');
       for (var i = 0; i < buttons.length; i++) {
          buttons[i].innerText = buttons[i].innerText.replace('Marvel', 'DC');
@@ -56,6 +58,9 @@ function updateTitles() {
          links[i].href = links[i].href + "&PUB=DC";
       }
    } else {
+      document.getElementById('dctitle').style.display = "none";
+      document.getElementById('marveltitle').style.display = "block";
+
       document.getElementById('1935').style.display = 'none';
       document.getElementById('1936').style.display = 'none';
       document.getElementById('1937').style.display = 'none';
@@ -65,7 +70,11 @@ function updateTitles() {
 </script>
 </head>
 <body onload="updateTitles()">
-<h1 id="title">Marvel</h1>
+<!--<h1 id="title">Marvel</h1>-->
+<div style="text-align: center;">
+<img id="marveltitle" style="width:150px; height:110px; display: none;" src="marvellogo.png"/>
+<img id="dctitle" style="width:125px; height:125px; display: none;" src="dclogo.png"/>
+</div>
 <hr>
 <button id="1930s" class="accordion" onclick="toggleButton(this);">Marvel 1930s</button>
 <div class="panel">
