@@ -22,8 +22,7 @@
                }
 
                opener.postMessage(access_token, window.location.origin);
-               //window.close();
-
+               window.close();
             } else {
                var dbx = new Dropbox.Dropbox({ clientId: CLIENT_ID });
                var authUrl = dbx.auth.getAuthenticationUrl('https://prowler22.github.io/startlogin.html')
