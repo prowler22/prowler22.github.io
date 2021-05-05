@@ -113,7 +113,18 @@ html, body {
            })
       }*/
    }
-   
+
+   function getUsersAccount() {
+      var dbx = new Dropbox.Dropbox({accessToken: access_token});
+      dbx.usersGetCurrentAccount()
+         .then(function(response) {
+            console.log('test');
+         })
+         .catch(function(error) {
+            console.error(error);
+         });
+   }
+
    function readFile(filename) {
       var dbx = new Dropbox.Dropbox({accessToken: access_token});
 

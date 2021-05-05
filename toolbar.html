@@ -27,6 +27,8 @@ padding: 0;
       if (window.parent.isAuthenticated()) {
          document.getElementById('dbLink').style.display = 'none';
          document.getElementById('dbInfo').style.display = 'block';
+
+         window.parent.getUsersAccount();
       }
    }
 
