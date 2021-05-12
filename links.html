@@ -33,6 +33,8 @@ function loadFile(fileContents) {
          checkbox.checked = true;
       }
    }
+
+   showData();
 }
 
 function showData() {
@@ -120,9 +122,9 @@ function readCMCFile() {
       readFile();
    } else {
       document.getElementById('saveProgress').style.display = 'none';
+      showData();
    }
 
-   setTimeout("showData()", 1000);
    resizeDiv();
 }
 
