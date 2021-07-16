@@ -70,7 +70,7 @@ function readCMCFile() {
 
    if (typeof window.DOMParser != "undefined") {
       xmlhttp = new XMLHttpRequest();
-      xmlhttp.open("GET", dc + year + ".xml", false);
+      xmlhttp.open("GET", "weekly" + dc + year + ".xml", false);
       if (xmlhttp.overrideMimeType) {
          xmlhttp.overrideMimeType('text/xml');
       }
