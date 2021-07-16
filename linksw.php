@@ -7,7 +7,7 @@ $startURL = URL;
 $dc = "";
 $project = "CMC";
 if (isset($argv[1]) && strtolower($argv[1]) == "dc") {
-   $dc = "DC";
+   $dc = "dc";
    $startYear = 1935;
    $startURL = DCURL;
    $project = "CDCC";
@@ -64,7 +64,7 @@ foreach ($years as $year) {
 
    echo "Saving year: " . $year . "\n";
    if ($yearContents != "") {
-      file_put_contents("Weekly" . $dc . $year . ".xml", TOP . '    <Year Name="' . $project . ' ' . $year . "\">\n" . $yearContents . '    </Year>');
+      file_put_contents("weekly" . $dc . $year . ".xml", TOP . '    <Year Name="' . $project . ' ' . $year . "\">\n" . $yearContents . '    </Year>');
    }
 }
 ?>
