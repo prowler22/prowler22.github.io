@@ -88,7 +88,7 @@ html, body {
          } else {
             // e.data Is what was sent from redirectUrl
             // e.data.access_token is the token I needed from dropbox
-            alert(e.data.access_token);
+            //alert(e.data.access_token);
             access_token = e.data;
             document.cookie = "access_token=" + access_token + ";";
             document.getElementById('fraToolBar').src = document.getElementById('fraToolBar').src;
