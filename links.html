@@ -96,7 +96,8 @@ function readCMCFile() {
                   link.title = files[k].getAttribute('Name');
                   var name = files[k].getAttribute('Name').replace(/\s/g, '+').toLowerCase();
                   name = name.replace(/\+vol\+[0-9]+/, '');
-                  link.href = "http://libgen.lc/comics/index.php?s=" + name + "+" + year + "&res=25&sorted=0&mask=0&show=0";
+                  //link.href = "http://libgen.lc/comics/index.php?s=" + name + "+" + year + "&res=25&sorted=0&mask=0&show=0";
+				  link.href = "http://libgen.li/index.php?req=" + name + "+" + year + "&res=25&filesuns=on";
                   link.onclick = function(e){ 
                      e.preventDefault(); 
                      var url = this.getAttribute('href'); 
