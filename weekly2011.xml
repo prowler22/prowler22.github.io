@@ -2,6 +2,10 @@
 <!DOCTYPE xml>
     <Year Name="CMC 2011">
         <Directory Name="CMC 2011 01">
+            <File Name="Taco Bell/Avengers 1"/>
+            <File Name="Taco Bell/Fantastic Four 1"/>
+            <File Name="Taco Bell/Invincible Iron Man 1"/>
+            <File Name="Taco Bell/X-Men 1"/>
             <File Name="Anita Blake:Circus of the Damned  The Ingenue 1"/>
             <File Name="Ant-Man &amp; Wasp 3"/>
             <File Name="Avengers Prime 5"/>
@@ -187,6 +191,7 @@
             <File Name="X-Men:To Serve and Protect 4"/>
         </Directory>
         <Directory Name="CMC 2011 03">
+            <File Name="FDNY Custom Comic 1"/>
             <File Name="5 Ronin 1"/>
             <File Name="Annihilators 1"/>
             <File Name="Astonishing Thor 3"/>
@@ -516,6 +521,7 @@
             <File Name="X-Men:Legacy 249"/>
         </Directory>
         <Directory Name="CMC 2011 06">
+            <File Name="AAFES 11th Edition 11"/>
             <File Name="Amazing Spider-Man 663"/>
             <File Name="Astonishing X-Men 39"/>
             <File Name="Avengers Academy 14.1"/>
@@ -1042,6 +1048,7 @@
             <File Name="Wolverine &amp; the X-Men 1"/>
         </Directory>
         <Directory Name="CMC 2011 11">
+            <File Name="AAFES 12th Edition 12"/>
             <File Name="Amazing Spider-Man 673"/>
             <File Name="Anita Blake:Circus of the Damned  The Scoundrel 2"/>
             <File Name="Avengers 1959 3"/>
