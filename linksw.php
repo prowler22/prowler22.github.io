@@ -13,7 +13,7 @@ if (isset($argv[1]) && strtolower($argv[1]) == "dc") {
    $project = "CDCC";
 }
 //$years = array('1935');
-$years = range($startYear,2020);
+$years = range($startYear,2021);
 
 //$months = array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December');
 
