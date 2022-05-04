@@ -64,7 +64,7 @@ foreach ($years as $year) {
 
    echo "Saving year: " . $year . "\n";
    if ($yearContents != "") {
-      file_put_contents("weekly" . $dc . $year . ".xml", TOP . '    <Year Name="' . $project . ' ' . $year . "\">\n" . $yearContents . '    </Year>');
+      file_put_contents("xml\weekly" . $dc . $year . ".xml", TOP . '    <Year Name="' . $project . ' ' . $year . "\">\n" . $yearContents . '    </Year>');
    }
 }
 ?>
