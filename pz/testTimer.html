@@ -1,0 +1,131 @@
+<!--
+//Top-Right-Bottom-Left
+stylesArray = array(
+  array("BLLB", "BBBL", "BLBB", "BLBL", "BBLL"),
+  array("LBBB", "BLBB", "BLBL", "BBLL", "LBBB"),
+  array("BBLB", "BLBB", "BBLL", "LBBB", "BBLB"),
+  array("LLBB", "BBBL", "LLLB", "BLLL", "LBLL"),
+  array("BLBB", "BLBL", "LLBL", "LLBL", "LBBL")
+);
+answer = "0010010000000100100000001";
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Star Battle</title>
+<style type="text/css">
+table.grid {
+   border-spacing: 15px;
+   border: 1px solid blue;
+   margin-left: auto;
+   margin-right: auto;
+}
+table.cell {
+   border-collapse: collapse;
+}
+td.cell {
+   border-collapse: collapse;
+   border-color: black;
+   border-style: solid;
+   border-spacing: 0px;
+   height:30px;
+   width:30px;
+   text-align:center;
+}
+</style>
+<script>
+var interval = null;
+var startTime = 0;
+
+function loadPuzzle() {
+   interval = setInterval(function(){updateTimer()},1000);
+}
+
+function updateTimer() {
+    if (startTime == 0) {
+       var puzzleId = "0005";
+       var score = "01:25";
+       var matches = score.match(/:/g);
+       if (matches.length == 1) score = "00:00:" + score;
+       else if (matches.length == 2) score = "00:" + score;
+       var newScore = puzzleId + "|" + score;
+       var fileContents = "0003|00:00:00:32,0005|00:00:00:28,0081|00:00:00:28";
+       var newFileContents = "";
+       var fileContentsArr = fileContents.split(',');
+       var added = false;
+       if (fileContents.indexOf(puzzleId + "|") >= 0) {
+       for (var i = 0; i < fileContentsArr.length; i++) {
+          var puzzleData = fileContentsArr[i].split('|');
+          if (parseInt(puzzleData[0]) == parseInt(puzzleId)) {
+             var useNewScore = false;
+             var oldScoreArr = puzzleData[1].split(":");
+             var newScoreArr = newScore.split(":");
+             for (var j = 0; j < oldScoreArr.length; j++) {
+                if (newScoreArr[j] < oldScoreArr[j]) {
+                   useNewScore = true;
+                   break;
+                } else if (newScoreArr[j] > oldScoreArr[j]) {
+                   break;
+                }
+             }
+             if (useNewScore) fileContentsArr[i] = newScore;
+            break;
+          }
+       }
+      } else {
+         fileContentsArr.push(newScore);
+      }
+      fileContentsArr.sort();
+      //fileContentsArr.sort(function(a, b){return parseInt(a.split('|')[0]) - parseInt(b.split('|')[0])});
+       alert(fileContentsArr.toString());
+        startTime = new Date();
+    } else {
+        var endTime = new Date();
+        // time difference in ms
+        var timeDiff = endTime - startTime;
+
+        // strip the ms
+        timeDiff /= 1000;
+
+        // get seconds (Original had 'round' which incorrectly counts 0:28, 0:29, 1:30 ... 1:59, 1:0)
+        var seconds = Math.round(timeDiff % 60);
+
+        // remove seconds from the date
+        timeDiff = Math.floor(timeDiff / 60);
+
+        // get minutes
+        var minutes = Math.round(timeDiff % 60);
+
+        // remove minutes from the date
+        timeDiff = Math.floor(timeDiff / 60);
+
+        // get hours
+        var hours = Math.round(timeDiff % 24);
+
+        // remove hours from the date
+        timeDiff = Math.floor(timeDiff / 24);
+
+        // the rest of timeDiff is number of days
+        var days = timeDiff;
+        var timerText = ('00'+minutes).slice(-2) + ":" + ('00'+seconds).slice(-2);
+        if (hours > 0) timerText = ('00'+days).slice(-2) + ":" + timerText;
+        if (days > 0) timerText = ('00'+days).slice(-2) + ":" + timerText;
+        document.getElementById('timer').innerText = timerText;
+    }
+}
+
+function stopTimer() {
+   clearInterval(interval);
+}
+</script>
+</head>
+<body onload="loadPuzzle()" oncontextmenu="">
+   <table class="grid">
+      <tr>
+         <td>
+            <div id="timer" style="text-align:cneter;">00:00</div>
+         </td>
+      </tr>
+   </table>
+</body>
+</html>

@@ -1,0 +1,400 @@
+<!--
+//Top-Right-Bottom-Left
+stylesArray = array(
+  array("BLLB", "BBBL", "BLBB", "BLBL", "BBLL"),
+  array("LBBB", "BLBB", "BLBL", "BBLL", "LBBB"),
+  array("BBLB", "BLBB", "BBLL", "LBBB", "BBLB"),
+  array("LLBB", "BBBL", "LLLB", "BLLL", "LBLL"),
+  array("BLBB", "BLBL", "LLBL", "LLBL", "LBBL")
+);
+answer = "0010010000000100100000001";
+-->
+<!DOCTYPE html>
+<html>
+<head>
+<title>Star Battle</title>
+<style type="text/css">
+table.grid {
+   border-spacing: 15px;
+   border: 1px solid blue;
+   margin-left: auto;
+   margin-right: auto;
+}
+table.cell {
+   border-collapse: collapse;
+}
+td.cell {
+   border-collapse: collapse;
+   border-color: black;
+   border-style: solid;
+   border-spacing: 0px;
+   height:30px;
+   width:30px;
+   text-align:center;
+}
+</style>
+<script type="text/javascript" src="lib/js/jquery-3.5.1.min.js"></script>
+<script>
+var solution = "";
+function clickCell(tblCell, event) {
+   if (event.which == 1) {
+      if (tblCell.innerText == "*") {
+         tblCell.innerText = "";
+      } else {
+         tblCell.innerText = "*";
+      }
+   } else if (event.which == 3) {
+      if (tblCell.innerText == "X") {
+         tblCell.innerText = "";
+      } else {
+         tblCell.innerText = "X";
+      }
+   }
+   checkPuzzle(false);
+   return false;
+}
+
+function checkPuzzle(showErrors) {
+   var userAnswer = "";
+   var table = document.getElementById("puzzlegrid");
+   for (var i = 0, row; row = table.rows[i]; i++) {
+      for (var j = 0, col; col = row.cells[j]; j++) {
+         if (col.innerText == "*") {
+            userAnswer += "1";
+         } else {
+            userAnswer += "0";
+         }
+      }
+   }
+
+   var correct = false;
+   if (userAnswer == solution) {
+      correct = true;
+   } else {
+      // if the user answer doesn't match the saved answer, check to see if they found another solution
+      var rowsValid = true;
+      var colsValid = true;
+      var segmentsValid = true;
+
+      for (var i=0; i < table.rows.length; i++) {
+         if (!checkItems("rowNum", i)) rowsValid = false;
+         if (!checkItems("colNum", i)) colsValid = false;
+         if (!checkItems("segment", i + 1)) segmentsValid = false;
+      }
+
+      if (rowsValid && colsValid && segmentsValid) {
+         var placementValid = true;
+         for (var i = 0, row; row = table.rows[i]; i++) {
+            for (var j = 0, col; col = row.cells[j]; j++) {
+               if (col.innerText == "*") {
+                  // row - 1 col -1, row -1 col, row -1 col + 1
+                  // row col -1, row col + 1
+                  // row + 1 col -1, row +1 col, row + 1 col + 1
+
+                  var colToCheck;
+
+                  // check the three cells in the above row that surrond this cell
+                  if (i > 0) {
+                     var rowAbove = table.rows[i - 1];
+                     if (j > 0) {
+                        colToCheck = rowAbove.cells[j - 1];
+                        if (colToCheck.innerText == "*") placementValid = false;
+                     }
+
+                     colToCheck = rowAbove.cells[j];
+                     if (colToCheck.innerText == "*") placementValid = false;
+
+                     if (j + 1 < rowAbove.cells.length) {
+                        colToCheck = rowAbove.cells[j + 1];
+                        if (colToCheck.innerText == "*") placementValid = false;
+                     }
+                  }
+
+                  // check the two cells in the same row that surrond this cell
+                  var rowCurrent = table.rows[i];
+                  if (j > 0) {
+                     colToCheck = rowCurrent.cells[j - 1];
+                     if (colToCheck.innerText == "*") placementValid = false;
+                  }
+
+                  if (j + 1 < rowCurrent.cells.length) {
+                     colToCheck = rowCurrent.cells[j + 1];
+                     if (colToCheck.innerText == "*") placementValid = false;
+                  }
+
+                  // check the three cells in the below row that surrond this cell
+                  if (i + 1 < table.rows.length) {
+                     var rowBelow = table.rows[i + 1];
+                     if (j > 0) {
+                        colToCheck = rowBelow.cells[j - 1];
+                        if (colToCheck.innerText == "*") placementValid = false;
+                     }
+
+                     colToCheck = rowBelow.cells[j];
+                     if (colToCheck.innerText == "*") placementValid = false;
+
+                     if (j + 1 < rowBelow.cells.length) {
+                        colToCheck = rowBelow.cells[j + 1];
+                        if (colToCheck.innerText == "*") placementValid = false;
+                     }
+                  }
+               }
+            }
+         }
+
+         if (placementValid) {
+            correct = true;
+         }
+      }
+   }
+
+   if (correct) {
+      alert("You got the puzzle correct!");
+      stopTimer();
+   } else {
+      if (showErrors)
+         alert("There seems to be some mistakes.");
+   }
+}
+
+function checkItems(selector, i) {
+   var valid = true;
+   var items = $("td[" + selector + "='" + i + "']");
+   var count = 0;
+
+   $(items).each(function() {
+      if ($(this).text() == "*") count++;
+   });
+
+   if (count != 1) valid = false;
+   return valid;
+
+}
+
+var noBooks = 10;
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+var interval = null;
+var startTime = 0;
+var selectedBook = 0;
+var selectedLineNo = 0;
+var progressFile = "";
+var puzzleTypeId = urlParams.get('PUZZLE_ID') ? urlParams.get('PUZZLE_ID') : 101;
+
+function loadPuzzle() {
+   selectedBook = urlParams.get('BOOK') ? urlParams.get('BOOK') : (getRandomInt(noBooks) + 1);
+   var fileContents = loadPuzzleFile(selectedBook);
+   var fileContentsArr = fileContents.split(/\r?\n/);
+   selectedLineNo = urlParams.get('PUZZLE') ? (urlParams.get('PUZZLE') - 1) : getRandomInt(fileContentsArr.length);
+   var selectedLine = fileContentsArr[selectedLineNo];
+   var puzzleArr = selectedLine.split("|");
+   solution = puzzleArr[1].trim();
+
+   document.getElementById("puzzleId").innerText = "Book " + selectedBook + " Puzzle " + (selectedLineNo + 1);
+
+   var rows = puzzleArr[0].split(",");
+   var stylesArray = [];
+   var rowsArray = [];
+
+   for (var i = 0; i < rows.length; i++) {
+      var rowArray = [];
+
+      for (var j = 0; j < rows[i].length; j++) {
+         rowArray[j] = rows[i].charAt(j);
+      }
+
+      rowsArray[i] = rowArray;
+   }
+
+   for (var j = 0; j < rowsArray.length; j++) {
+      var styleRow = [];
+
+      for (var i = 0; i < rowsArray[j].length; i++) {
+         var cell = "";
+
+         // if this is the top row or the number above is different set to a bold line
+         if (j == 0 || rowsArray[j][i] != rowsArray[j - 1][i]) {
+            cell += "B";
+         } else {
+            cell += "L";
+         }
+
+         // if this is the right column or the number to the right is different set to a bold line
+         if (i == rowsArray[j].length - 1 || rowsArray[j][i] != rowsArray[j][i + 1]) {
+            cell += "B";
+         } else {
+            cell += "L";
+         }
+
+         // if this is the bottom row or the number below is different set to a bold line
+         if (j == rowsArray.length - 1 || rowsArray[j][i] != rowsArray[j + 1][i]) {
+            cell += "B";
+         } else {
+            cell += "L";
+         }
+
+         // if this is the left column or the number to the left is different set to a bold line
+         if (i == 0 || rowsArray[j][i] != rowsArray[j][i - 1]) {
+            cell += "B";
+         } else {
+            cell += "L";
+         }
+
+         styleRow[i] = cell;
+      }
+
+      stylesArray[j] = styleRow;
+   }
+
+   var rowNum = 0;
+   var puzzleGrid = document.getElementById("puzzlegrid");
+   for (var i = 0; i < stylesArray.length; i++) {
+      var rowStyle = stylesArray[i];
+      var row = puzzleGrid.insertRow(i);
+      for (var j = 0; j < rowStyle.length; j++) {
+         var cell = row.insertCell(j);
+         cell.setAttribute("segment", rowsArray[i][j]);
+         cell.setAttribute("rowNum", i);
+         cell.setAttribute("colNum", j);
+         cell.onmousedown = function () { return clickCell(this, event); };
+         cell.className = 'cell';
+         cell.style.borderSpacing = "0px";
+
+         var borderWidth = "";
+         for (var k = 0; k < rowStyle[j].length; k++) {
+            borderWidth += ((rowStyle[j].charAt(k) == "B") ? "3" : "1") + "px ";
+         }
+         cell.style.borderWidth = borderWidth;
+      }
+   }
+
+   interval = setInterval(function(){updateTimer()},1000);
+}
+
+function updateTimer() {
+   if (startTime == 0) {
+      startTime = Date.now();
+   } else {
+      var endTime = new Date();
+      // time difference in ms
+      var timeDiff = endTime - startTime;
+
+      // strip the ms
+      timeDiff /= 1000;
+
+      // get seconds (Original had 'round' which incorrectly counts 0:28, 0:29, 1:30 ... 1:59, 1:0)
+      var seconds = Math.round(timeDiff % 60);
+
+      // remove seconds from the date
+      timeDiff = Math.floor(timeDiff / 60);
+
+      // get minutes
+      var minutes = Math.round(timeDiff % 60);
+
+      // remove minutes from the date
+      timeDiff = Math.floor(timeDiff / 60);
+
+      // get hours
+      var hours = Math.round(timeDiff % 24);
+
+      // remove hours from the date
+      timeDiff = Math.floor(timeDiff / 24);
+
+      // the rest of timeDiff is number of days
+      var days = timeDiff;
+      var timerText = ('00'+minutes).slice(-2) + ":" + ('00'+seconds).slice(-2);
+      if (hours > 0) timerText = ('00'+days).slice(-2) + ":" + timerText;
+      if (days > 0) timerText = ('00'+days).slice(-2) + ":" + timerText;
+      document.getElementById('timer').innerText = timerText;
+   }
+}
+
+function stopTimer() {
+   clearInterval(interval);
+   if (window.parent.isAuthenticated()) {
+      window.parent.readFile("progress_" + puzzleTypeId + "_" + bookId + ".txt");
+   }
+}
+
+function loadFile(fileContents) {
+   var puzzleId = selectedLineNo + 1;
+   puzzleId = ('0000'+puzzleId).slice(-4);
+   var score = document.getElementById('timer').innerText;
+
+   var matches = score.match(/:/g);
+   if (matches.length == 1) score = "00:00:" + score;
+   else if (matches.length == 2) score = "00:" + score;
+
+   var newScore = puzzleId + "|" + score;
+
+  // var fileContents = "0003|00:00:00:32,0005|00:00:00:28,0081|00:00:00:28";
+   var newFileContents = "";
+   
+   var fileContentsArr = fileContents.split(',');
+   var added = false;
+   if (fileContents.indexOf(puzzleId + "|") >= 0) {
+      for (var i = 0; i < fileContentsArr.length; i++) {
+         var puzzleData = fileContentsArr[i].split('|');
+         if (parseInt(puzzleData[0]) == parseInt(puzzleId)) {
+            var useNewScore = false;
+            var oldScoreArr = puzzleData[1].split(":");
+            var newScoreArr = newScore.split(":");
+            for (var j = 0; j < oldScoreArr.length; j++) {
+               if (newScoreArr[j] < oldScoreArr[j]) {
+                  useNewScore = true;
+                  break;
+               } else if (newScoreArr[j] > oldScoreArr[j]) {
+                  break;
+               }
+            }
+            if (useNewScore) fileContentsArr[i] = newScore;
+            break;
+         }
+      }
+   } else {
+      fileContentsArr.push(newScore);
+   }
+
+   fileContentsArr.sort();
+   window.parent.writeFile("progress_" + puzzleTypeId + "_" + bookId + ".txt", fileContentsArr.toString());
+   //writeFile(fileContentsArr.toString());
+}
+
+var filenameBase = "pz-stars-book";
+function loadPuzzleFile(fileNumber) {
+   var result = null;
+   var xmlhttp = new XMLHttpRequest();
+   xmlhttp.open("GET", filenameBase + fileNumber + ".txt", false);
+   xmlhttp.send();
+   if (xmlhttp.status == 200) {
+      result = xmlhttp.responseText;
+   }
+   return result;
+}
+
+function getRandomInt(maxSize) {
+   return Math.floor(Math.random() * maxSize);
+}
+
+</script>
+</head>
+<body onload="loadPuzzle()" oncontextmenu="return false;">
+   <table class="grid">
+      <tr colspan="2">
+         <td><div id="puzzleId" style="text-align:center;"></div></td>
+      </tr>
+      <tr>
+         <td>
+            <table class="cell" id="puzzlegrid"></table> 
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <!--<input id="checkPuzzle" type="button" value="Check Puzzle" onclick="checkPuzzle(true);">
+            <input id="newPuzzle" type="button" value="New Puzzle" onclick="location.reload();">-->
+            <div id="timer" style="text-align:cneter;font-weight: bold;">00:00</div>
+         </td>
+      </tr>
+   </table>
+</body>
+</html>

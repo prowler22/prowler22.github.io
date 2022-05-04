@@ -1,0 +1,206 @@
+<html>
+   <head>
+      <style>
+table.page {
+   width:70%;
+   margin-left:10%;
+   margin-right:15%;
+}
+table.puzzle {
+   background-color: #ffffff;
+   border: solid black 1px;
+   border: 1;
+   border-radius: 10px;
+   border-spacing: 0px;
+   height: 60px;
+   width: 75px;
+}
+tr.puzzleNo {
+   height: 40px;
+   text-align: center;
+   font-weight: bold;
+   font-size: 28px;
+}
+tr.puzzleTime {
+   height: 20px;
+   text-align: center;
+   background-color: #d3d3d3;
+   padding: 0px;
+}
+td.puzzleTime {
+   border-bottom-left-radius: 10px;
+   border-bottom-right-radius: 10px;
+}
+.book_tabs {
+   padding: 0 0 0 0;
+   font-size: 0;
+}
+.book_tabs span {
+   font-size: 14px;
+   border-bottom: 3px solid #676767;
+   box-sizing: border-box;
+   text-align: center;
+   margin: 2px 0;
+   background: #f0f0f0;
+   padding: 8px 10px 8px 10px;
+   color: #101080;
+   text-decoration: none;
+}
+.book_tabs a {
+   min-width: 32px;
+   font-size: 14px;
+   display: inline-block;
+   box-sizing: border-box;
+   text-align: center;
+   border: none;
+   margin: 2px 0;
+   background: #f0f0f0;
+   padding: 8px 10px 8px 10px;
+   color: #101080;
+   text-decoration: none;
+}
+.book_tabs a:hover  {
+   border-bottom: 3px solid #8f8f8f;
+}
+
+      </style>
+      <script>
+         const queryString = window.location.search;
+         const urlParams = new URLSearchParams(queryString);
+         const puzzleId = urlParams.get('PUZZLE_ID');
+         const bookId = urlParams.get('BOOK') ? urlParams.get('BOOK') : 1;
+         const pageId = urlParams.get('PAGE') ? urlParams.get('PAGE') : 1;
+
+         function pageLoad() {
+            document.getElementById('bookspan' + bookId).style.display = "inline-block";
+            document.getElementById('booklink' + bookId).style.display = "none";
+
+            document.getElementById('pagespan' + pageId).style.display = "inline-block";
+            document.getElementById('pagelink' + pageId).style.display = "none";
+
+            var pageTable = document.getElementById("pageTable");
+            for (var i = 0, row; row = pageTable.rows[i]; i++)
+            {
+               for (var j = 0, col; col = row.cells[j]; j++) {
+                  //if (j == 0 || j == row.cells.length - 1) continue;
+                  var puzzleNo = (i * row.cells.length) + (j + 1) + ((pageId - 1) * 100);
+                  var puzzleNoPad = ('0000'+puzzleNo).slice(-4);
+
+                  var tbl = document.createElement('table');
+                  tbl.className = "puzzle";
+                  tbl.id = puzzleNoPad;
+                  tbl.onclick = function () { clickPuzzle(this); }
+
+                  var tr1 = document.createElement('tr');
+                  tr1.className = "puzzleNo";
+
+                  var td1 = document.createElement('td');
+                  td1.id = "puzzleNo" + puzzleNoPad;
+                  td1.innerText = puzzleNo;
+
+                  var tr2 = document.createElement('tr');
+                  tr2.className = "puzzleTime";
+
+                  var td2 = document.createElement('td');
+                  td2.id = "puzzleTime" + puzzleNoPad;
+                  td2.className = "puzzleTime";
+
+                  tr1.appendChild(td1);
+                  tr2.appendChild(td2);
+                  tbl.appendChild(tr1);
+                  tbl.appendChild(tr2);
+                  col.appendChild(tbl);
+               }
+            }
+
+            if (window.parent.isAuthenticated()) {
+               readFile();
+            }
+         }
+
+         function readFile() {
+            window.parent.readFile("progress_" + puzzleId + "_" + bookId + ".txt");
+         }
+
+         function loadFile(fileContents) {
+            var fileContentsArr = fileContents.split(',');
+            for (var i = 0; i < fileContentsArr.length; i++) {
+               var puzzleData = fileContentsArr[i].split('|');
+               var puzzleTime = document.getElementById("puzzleTime" + puzzleData[0]);
+               if (puzzleTime) {
+                  var timeText = puzzleData[1];
+                  if (timeText.startsWith("00:00:")) {
+                     timeText = timeText.substring(6);
+                  } else if (timeText.startWith("00:")) {
+                     timeText = timeText.substring(3);
+                  }
+                  puzzleTime.innerText = timeText;
+               }
+            }
+
+            showData();
+         }
+
+         function clickPuzzle(puzzle) {
+            window.location = "pz-stars.html?PUZZLE_ID=" + puzzleId + "&BOOK=" + bookId + "&PUZZLE=" + puzzle.id;
+         }
+
+         function clickPage(page) {
+            window.location = "pz-pzselect.html?PUZZLE_ID=" + puzzleId + "&BOOK=" + bookId + "&PAGE=" + page;
+         }
+      </script>
+   </head>
+   <body onload="pageLoad();" bgcolor="#e0f0f0">
+      <table>
+         <tr>
+            <td>
+               <div class="book_tabs">
+                  <a id="booklink1" href="pz-pzselect.html?BOOK=1&PAGE=1">Book 1</a><span id="bookspan1" style="display:none">Book 1</span>
+                  <a id="booklink2" href="pz-pzselect.html?BOOK=2&PAGE=1">Book 2</a><span id="bookspan2" style="display:none">Book 2</span>
+                  <a id="booklink3" href="pz-pzselect.html?BOOK=3&PAGE=1">Book 3</a><span id="bookspan3" style="display:none">Book 3</span>
+                  <a id="booklink4" href="pz-pzselect.html?BOOK=4&PAGE=1">Book 4</a><span id="bookspan4" style="display:none">Book 4</span>
+                  <a id="booklink5" href="pz-pzselect.html?BOOK=5&PAGE=1">Book 5</a><span id="bookspan5" style="display:none">Book 5</span>
+                  <a id="booklink6" href="pz-pzselect.html?BOOK=6&PAGE=1">Book 6</a><span id="bookspan6" style="display:none">Book 6</span>
+                  <a id="booklink7" href="pz-pzselect.html?BOOK=7&PAGE=1">Book 7</a><span id="bookspan7" style="display:none">Book 7</span>
+                  <a id="booklink8" href="pz-pzselect.html?BOOK=8&PAGE=1">Book 8</a><span id="bookspan8" style="display:none">Book 8</span>
+                  <a id="booklink9" href="pz-pzselect.html?BOOK=9&PAGE=1">Book 9</a><span id="bookspan9" style="display:none">Book 9</span>
+                  <a id="booklink10" href="pz-pzselect.html?BOOK=10&PAGE=1">Book 10</a><span id="bookspan10" style="display:none">Book 10</span>
+               </div>
+            </td>
+         </tr>
+         <tr>
+            <td>
+               <div class="book_tabs">
+                  <a id="pagelink1" onclick="clickPage(1);">1</a><span id="pagespan1" style="display:none">1</span>
+                  <a id="pagelink2" onclick="clickPage(2);">2</a><span id="pagespan2" style="display:none">2</span>
+                  <a id="pagelink3" onclick="clickPage(3);">3</a><span id="pagespan3" style="display:none">3</span>
+                  <a id="pagelink4" onclick="clickPage(4);">4</a><span id="pagespan4" style="display:none">4</span>
+                  <a id="pagelink5" onclick="clickPage(5);">5</a><span id="pagespan5" style="display:none">5</span>
+                  <a id="pagelink6" onclick="clickPage(6);">6</a><span id="pagespan6" style="display:none">6</span>
+                  <a id="pagelink7" onclick="clickPage(7);">7</a><span id="pagespan7" style="display:none">7</span>
+                  <a id="pagelink8" onclick="clickPage(8);">8</a><span id="pagespan8" style="display:none">8</span>
+                  <a id="pagelink9" onclick="clickPage(9);">9</a><span id="pagespan9" style="display:none">9</span>
+                  <a id="pagelink10" onclick="clickPage(10);">10</a><span id="pagespan10" style="display:none">10</span>
+               </div>
+            </td>
+         </tr>
+      </table>
+      <table class="page" id="pageTable">
+         <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+         <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+         <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+         <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+         <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+         <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+         <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+         <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+         <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+         <tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
+      </table>
+
+                     <!--<table class="puzzle" style="padding:0px;">
+                  <tr class="puzzleNo"><td id="puzzleNo1">1</td></tr>
+                  <tr class="puzzleTime"><td class="puzzleTime"></td></tr>
+               </table>-->
+   </body>
+</html>

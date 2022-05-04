@@ -1,0 +1,55 @@
+<html>
+   <head>
+      <style>
+body {
+   background-color: #d0d0d0;
+}
+.accordion {
+   background-color: #eee;
+   color: #444;
+   cursor: pointer;
+   padding: 18px;
+   width: 100%;
+   text-align: left;
+   border: none;
+   outline: none;
+   transition: 0.4s;
+}
+
+.active, .accordion:hover {
+   background-color:  grey;
+}
+
+.panel {
+   padding: 0 18px;
+   background-color: white;
+   display: none;
+   overflow: hidden;
+}
+
+h1 {
+   padding: 0px;
+}
+      </style>
+      <script>
+         function toggleButton(btn) {
+            btn.classList.toggle("active");
+            var panel = btn.nextElementSibling;
+            if (panel.style.display === "block") {
+               panel.style.display = "none";
+            } else {
+               panel.style.display = "block";
+            }
+         }
+      </script>
+   </head>
+   <body>
+      <hr>
+      <button id="StarBattle1" class="accordion" onclick="toggleButton(this);">Star Battle 1 Star</button>
+      <div class="panel">
+         <p>
+            <div id="5x5"><a href="pz-pzselect.html?PUZZLE_ID=101" target="fraAppArea">5x5</a><br></div>
+         </p>
+      </div>
+   </body>
+</html>

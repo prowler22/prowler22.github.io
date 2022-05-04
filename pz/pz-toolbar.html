@@ -1,0 +1,70 @@
+<html>
+   <head>
+      <style>
+body {
+   background-color: #d0d0d0;
+   padding: 0;
+   margin: 0;
+}
+
+div {
+   height: 44px;
+   text-align: center;
+
+}
+
+h1 {
+   margin: 2;
+   padding: 0;
+}
+
+span i {
+    text-align: center;
+    border-radius: 50%;
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    padding: 3px;
+    font-style: normal;
+    font-family: Courier;
+}
+
+i {
+   position: relative
+}
+
+i.one {
+   top:0px;
+}
+      </style>
+      <script>
+         function onLoad() {
+            if (window.parent.isAuthenticated()) {
+               window.parent.getUsersAccount();
+            }
+         }
+
+         function setInitials(given_name, surname) {
+            var initials = given_name.substring(0, 1) + surname.substring(0, 1);
+            document.getElementById('initials').innerText = initials.toUpperCase();
+
+            document.getElementById('dbLink').style.display = 'none';
+            document.getElementById('dbInfo').style.display = 'block';
+      }
+      </script>
+   </head>
+   <body>
+      <div>
+         <table style="width: 100%">
+            <tr>
+               <td style="width:25%; text-align:left;">
+                  <a id="dbLink" onclick="window.parent.login()" href="">Log into Dropbox</a>
+                  <span id="dbInfo" style="display:none"><i id="initials" class="one"></i></span>
+               </td>      
+               <td style="width:50%; text-align: center;"><h1>Puzzle Page</h1></td>
+               <td style="width:25%; text-align:right;"></td>
+            </tr>
+         </table>
+      </div>
+   </body>
+</html>

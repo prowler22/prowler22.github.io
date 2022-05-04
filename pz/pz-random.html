@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script type="text/javascript" src=starBattle2.js></script>
+<script>
+function floodFill(size, seeds, map) {
+   var mapsize = map.length;
+   var frontier = seeds.concat();
+   var limit = 3000000;
+   for (let label = 1; label <= seeds.length; label++) {
+      map[seeds[label-1]] = label;
+   }
+   while (frontier.length > 0 && limit-->0) {
+      var i = randint(frontier.length);
+      var location = frontier[i];
+      var label = map[location];
+      frontier[i] = frontier[frontier.length-1];
+      frontier.pop();
+      
+      expand(map, frontier, label, (location - 1 + mapsize) % mapsize);
+      expand(map, frontier, label, (location + 1) % mapsize);
+      expand(map, frontier, label, (location - size + mapsize) % mapsize);
+      expand(map, frontier, label, (location + size) % mapsize);
+   }
+}
+
+function expand(map, frontier, label, location) {
+   if (map[location] == 0) {
+      map[location] = label;
+      frontier.push(location);
+   }
+}
+
+function pickSeeds(N, size) {
+   var seeds = [];
+   for (var label = 1; label <= N; label++) {
+      var x = randint(size), y = randint(size);
+      var location = map_index(x, y, size);
+      seeds.push(location);
+   }
+   return seeds;
+}
+
+function map_index(x, y, size) {
+   return x + y * size;
+}
+
+function randint(K) {
+   return Math.floor(Math.random() * K);
+}
+
+function buildBoard(size, map) {
+   // First place random start locations for each segment (number of segments is equal to size)
+   for (var i = 1; i <= size; i++) {
+      var setSeg = false;
+      while (!setSeg) {
+         var x = randint(size), y = randint(size);
+         var location = map_index(x, y, size);
+         if (map[location] == 0) {
+            map[location] = i;
+            setSeg = true;
+         }
+      }
+   }
+
+   while (map.join().includes("0")) {
+      for (var i=0; i < map.length; i++) {
+
+         if (map[i] > 0) {
+            var randomCell = getAdjacentRandomCell(i, size);
+            if (randomCell != -1 && map[randomCell] == 0) {
+               map[randomCell] = map[i];
+            }
+         }
+      }
+   }
+}
+
+function getAdjacentRandomCell(cell, size) {
+   var left = -1,top = -1,right = -1,bottom = -1;
+   var count = 0;
+   var randomCell = -1;
+
+   if ((cell % size) != 0) {
+      left = cell - 1;
+      count++;
+   }
+
+   if (cell >= size) {
+      top = cell - size;
+      count++;
+   }
+
+   if ((cell + 1) % size != 0) {
+      right = cell + 1;
+      count++;
+   }
+   
+   if ((cell + size) < size * size) {
+      bottom = cell + size;
+      count++;
+   }
+
+   if (count > 0) {
+      var i = 0;
+      var randomCells = new Int16Array(count);
+
+      if (left >= 0) {
+         randomCells[i] = left;
+         i++;
+      }
+
+      if (top >= 0) {
+         randomCells[i] = top;
+         i++;
+      }
+
+      if (right >= 0) {
+         randomCells[i] = right;
+         i++;
+      }
+
+      if (bottom >= 0) {
+         randomCells[i] = bottom;
+         i++;
+      }
+
+      var randomInt = randint(count);
+      randomCell = randomCells[randomInt];
+   }
+
+   return randomCell;
+}
+
+function generate() {
+
+   var foundValid = false;
+   while (!foundValid) {
+      var size = parseInt(document.getElementById('size').value);
+      var map = new Int16Array(size*size);
+      buildBoard(size, map);
+
+      var mapString = map.join();
+      mapString = mapString.replace(/\,/g, "");
+      var saveMapString = '';
+      var finalMapString = '';
+      while (mapString.length > 0) {
+         finalMapString += mapString.substring(0, size) + '\n';
+         saveMapString += mapString.substring(0, size) + ',';
+         mapString = mapString.substring(size);
+      }
+      finalMapString = finalMapString.trim();
+      saveMapString = saveMapString.substring(0, saveMapString.length - 1);
+
+      var mySolution = star_battle_solver(finalMapString, Number(1));
+  
+      if (mySolution.includes("*")) {
+         var saveSolution = "";
+         for (var i = 0; i < mySolution.length; i++) {
+            if (mySolution[i] == ".") saveSolution += "0";
+            if (mySolution[i] == "*") saveSolution += "1";
+         }
+         var savePuzzle = saveMapString + "|" + saveSolution;
+         alert(savePuzzle);
+         foundValid = true;
+
+         var xhttp = new XMLHttpRequest();
+         xhttp.onreadystatechange = function() {
+            if (this.readyState == 4 && this.status == 200) {
+               alert("New Puzzle Saved!")
+            }
+         };
+
+         xhttp.open("GET", "pz-stars-save.php?PUZZLE=" + savePuzzle, true);
+         xhttp.send();
+      } else {
+         alert (mySolution);
+      }
+   }
+  /*
+   2,2,2,5,5
+   2,5,5,5,3
+   4,5,1,1,1
+   4,4,1,4,1
+   4,4,4,4,1
+   
+   5,5,2,2,4,
+   5,5,5,2,4,
+   5,5,1,1,4,
+   5,5,3,1,4,
+   3,3,3,3,4
+   
+   4,4,5,5,5,
+   4,4,5,5,5,
+   4,2,2,2,1,
+   4,4,4,2,1,
+   4,4,4,3,3
+  */
+}
+</script>
+</head>
+<body>
+<input id='size' value=5>
+<input value='Generate' type='button' onclick="generate();">
+</body>
+</html>
