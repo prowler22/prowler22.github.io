@@ -153,6 +153,10 @@ td.puzzleTime {
          function clickPage(page) {
             window.location = "pz-pzselect.html?PUZZLE_ID=" + puzzleId + "&BOOK=" + bookId + "&PAGE=" + page;
          }
+
+         function clickBook(book) {
+            window.location = "pz-pzselect.html?PUZZLE_ID=" + puzzleId + "&BOOK=" + book + "&PAGE=1";
+         }
       </script>
    </head>
    <body onload="pageLoad();" bgcolor="#e0f0f0">
@@ -160,16 +164,16 @@ td.puzzleTime {
          <tr>
             <td>
                <div class="book_tabs">
-                  <a id="booklink1" href="pz-pzselect.html?BOOK=1&PAGE=1">Book 1</a><span id="bookspan1" style="display:none">Book 1</span>
-                  <a id="booklink2" href="pz-pzselect.html?BOOK=2&PAGE=1">Book 2</a><span id="bookspan2" style="display:none">Book 2</span>
-                  <a id="booklink3" href="pz-pzselect.html?BOOK=3&PAGE=1">Book 3</a><span id="bookspan3" style="display:none">Book 3</span>
-                  <a id="booklink4" href="pz-pzselect.html?BOOK=4&PAGE=1">Book 4</a><span id="bookspan4" style="display:none">Book 4</span>
-                  <a id="booklink5" href="pz-pzselect.html?BOOK=5&PAGE=1">Book 5</a><span id="bookspan5" style="display:none">Book 5</span>
-                  <a id="booklink6" href="pz-pzselect.html?BOOK=6&PAGE=1">Book 6</a><span id="bookspan6" style="display:none">Book 6</span>
-                  <a id="booklink7" href="pz-pzselect.html?BOOK=7&PAGE=1">Book 7</a><span id="bookspan7" style="display:none">Book 7</span>
-                  <a id="booklink8" href="pz-pzselect.html?BOOK=8&PAGE=1">Book 8</a><span id="bookspan8" style="display:none">Book 8</span>
-                  <a id="booklink9" href="pz-pzselect.html?BOOK=9&PAGE=1">Book 9</a><span id="bookspan9" style="display:none">Book 9</span>
-                  <a id="booklink10" href="pz-pzselect.html?BOOK=10&PAGE=1">Book 10</a><span id="bookspan10" style="display:none">Book 10</span>
+                  <a id="booklink1" onclick="clickBook(1);" href="">Book 1</a><span id="bookspan1" style="display:none">Book 1</span>
+                  <a id="booklink2" onclick="clickBook(2);" href="">Book 2</a><span id="bookspan2" style="display:none">Book 2</span>
+                  <a id="booklink3" onclick="clickBook(3);" href="">Book 3</a><span id="bookspan3" style="display:none">Book 3</span>
+                  <a id="booklink4" onclick="clickBook(4);" href="">Book 4</a><span id="bookspan4" style="display:none">Book 4</span>
+                  <a id="booklink5" onclick="clickBook(5);" href="">Book 5</a><span id="bookspan5" style="display:none">Book 5</span>
+                  <a id="booklink6" onclick="clickBook(6);" href="">Book 6</a><span id="bookspan6" style="display:none">Book 6</span>
+                  <a id="booklink7" onclick="clickBook(7);" href="">Book 7</a><span id="bookspan7" style="display:none">Book 7</span>
+                  <a id="booklink8" onclick="clickBook(8);" href="">Book 8</a><span id="bookspan8" style="display:none">Book 8</span>
+                  <a id="booklink9" onclick="clickBook(9);" href="">Book 9</a><span id="bookspan9" style="display:none">Book 9</span>
+                  <a id="booklink10" onclick="clickBook(10);" href="">Book 10</a><span id="bookspan10" style="display:none">Book 10</span>
                </div>
             </td>
          </tr>
