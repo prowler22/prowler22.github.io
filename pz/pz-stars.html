@@ -312,7 +312,7 @@ function updateTimer() {
 function stopTimer() {
    clearInterval(interval);
    if (window.parent.isAuthenticated()) {
-      window.parent.readFile("progress_" + puzzleTypeId + "_" + bookId + ".txt");
+      window.parent.readFile("progress_" + puzzleTypeId + "_" + selectedBook + ".txt");
    }
 }
 
