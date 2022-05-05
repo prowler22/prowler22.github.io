@@ -342,7 +342,7 @@ function loadFile(fileContents) {
             if (parseInt(puzzleData[0]) == parseInt(puzzleId)) {
                var useNewScore = false;
                var oldScoreArr = puzzleData[1].split(":");
-               var newScoreArr = newScore.split(":");
+               var newScoreArr = score.split(":");
                for (var j = 0; j < oldScoreArr.length; j++) {
                   if (newScoreArr[j] < oldScoreArr[j]) {
                      useNewScore = true;
