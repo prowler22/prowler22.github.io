@@ -27,6 +27,12 @@ tr.puzzleTime {
    background-color: #d3d3d3;
    padding: 0px;
 }
+tr.puzzleTimeValue {
+   height: 20px;
+   text-align: center;
+   background-color: lightskyblue;
+   padding: 0px;
+}
 td.puzzleTime {
    border-bottom-left-radius: 10px;
    border-bottom-right-radius: 10px;
@@ -135,7 +141,7 @@ td.puzzleTime {
                      timeText = timeText.substring(3);
                   }
                   puzzleTime.innerText = timeText;
-                  puzzleTime.parentNode.style.backgroundColor = "#7FFFD4";
+                  puzzleTime.parentNode.className = "puzzleTimeValue";
                }
             }
          }
