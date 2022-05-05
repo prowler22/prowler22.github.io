@@ -331,7 +331,7 @@ function loadFile(fileContents) {
    var newFileContents = "";
    
    var fileContentsArr = fileContents.split(',');
-   var added = false;
+
    if (fileContents.indexOf(puzzleId + "|") >= 0) {
       for (var i = 0; i < fileContentsArr.length; i++) {
          var puzzleData = fileContentsArr[i].split('|');
@@ -356,7 +356,7 @@ function loadFile(fileContents) {
    }
 
    fileContentsArr.sort();
-   window.parent.writeFile("progress_" + puzzleTypeId + "_" + bookId + ".txt", fileContentsArr.toString());
+   window.parent.writeFile("progress_" + puzzleTypeId + "_" + selectedBook + ".txt", fileContentsArr.toString());
    //writeFile(fileContentsArr.toString());
 }
 
