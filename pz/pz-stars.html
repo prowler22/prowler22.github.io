@@ -330,29 +330,34 @@ function loadFile(fileContents) {
   // var fileContents = "0003|00:00:00:32,0005|00:00:00:28,0081|00:00:00:28";
    var newFileContents = "";
    
-   var fileContentsArr = fileContents.split(',');
+   var fileContentsArr;// = fileContents.split(',');
 
-   if (fileContents.indexOf(puzzleId + "|") >= 0) {
-      for (var i = 0; i < fileContentsArr.length; i++) {
-         var puzzleData = fileContentsArr[i].split('|');
-         if (parseInt(puzzleData[0]) == parseInt(puzzleId)) {
-            var useNewScore = false;
-            var oldScoreArr = puzzleData[1].split(":");
-            var newScoreArr = newScore.split(":");
-            for (var j = 0; j < oldScoreArr.length; j++) {
-               if (newScoreArr[j] < oldScoreArr[j]) {
-                  useNewScore = true;
-                  break;
-               } else if (newScoreArr[j] > oldScoreArr[j]) {
-                  break;
+   if (fileContents != "") {
+      fileContentsArr = fileContents.split(',');
+      if (fileContents.indexOf(puzzleId + "|") >= 0) {
+         for (var i = 0; i < fileContentsArr.length; i++) {
+            var puzzleData = fileContentsArr[i].split('|');
+            if (parseInt(puzzleData[0]) == parseInt(puzzleId)) {
+               var useNewScore = false;
+               var oldScoreArr = puzzleData[1].split(":");
+               var newScoreArr = newScore.split(":");
+               for (var j = 0; j < oldScoreArr.length; j++) {
+                  if (newScoreArr[j] < oldScoreArr[j]) {
+                     useNewScore = true;
+                     break;
+                  } else if (newScoreArr[j] > oldScoreArr[j]) {
+                     break;
+                  }
                }
+               if (useNewScore) fileContentsArr[i] = newScore;
+               break;
             }
-            if (useNewScore) fileContentsArr[i] = newScore;
-            break;
          }
+      } else {
+         fileContentsArr.push(newScore);
       }
    } else {
-      fileContentsArr.push(newScore);
+      fileContentsArr = [newScore];
    }
 
    fileContentsArr.sort();
