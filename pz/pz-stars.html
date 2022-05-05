@@ -39,17 +39,19 @@ var solution = "";
 function clickCell(tblCell, event) {
    if (event.which == 1) {
       if (tblCell.innerText == "*") {
+         tblCell.innerText = "X";
+      } else if (tblCell.innerText == "X") {
          tblCell.innerText = "";
       } else {
          tblCell.innerText = "*";
       }
-   } else if (event.which == 3) {
+   } /*else if (event.which == 3) {
       if (tblCell.innerText == "X") {
          tblCell.innerText = "";
       } else {
          tblCell.innerText = "X";
       }
-   }
+   }*/
    checkPuzzle(false);
    return false;
 }
