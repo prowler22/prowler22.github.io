@@ -276,8 +276,10 @@
             <File Name="West Coast Avengers 24"/>
         </Directory>
         <Directory Name="CMC 1987 06">
+            <File Name="Spider-Man 1"/>
             <File Name="Alpha Flight 50"/>
             <File Name="Amazing Spider-Man 292"/>
+            <File Name="Amazing Spider-Man Classic 292"/>
             <File Name="Captain America 333"/>
             <File Name="Fallen Angels 6"/>
             <File Name="Heathcliff 18"/>
@@ -296,7 +298,9 @@
             <File Name="D.P. 7 11"/>
             <File Name="Fantastic Four Annual 20"/>
             <File Name="G.I. Joe a Real American Hero 63"/>
+            <File Name="G.I. Joe a Real American Hero Classic 63"/>
             <File Name="Incredible Hulk 335"/>
+            <File Name="Incredible Hulk Classic 335"/>
             <File Name="Justice 11"/>
             <File Name="Marvel Age 54"/>
             <File Name="Marvel Fanfare 34"/>
@@ -305,6 +309,7 @@
             <File Name="Muppet Babies 15"/>
             <File Name="Silver Surfer 3"/>
             <File Name="Uncanny X-Men 221"/>
+            <File Name="Uncanny X-Men Classic 221"/>
             <File Name="&apos;Nam 10"/>
             <File Name="Care Bears 12"/>
             <File Name="Classic X-Men 13"/>
@@ -312,6 +317,7 @@
             <File Name="Conan Saga 4"/>
             <File Name="Elfquest 26"/>
             <File Name="Fantastic Four 306"/>
+            <File Name="Fantastic Four Classic 306"/>
             <File Name="Iron Man 222"/>
             <File Name="Official Marvel Index to the X-Men 3"/>
             <File Name="Peter Parker, the Spectacular Spider-Man 130"/>
@@ -350,6 +356,10 @@
         </Directory>
         <Directory Name="CMC 1987 07">
             <File Name="House II the Second Story 1"/>
+            <File Name="Spider-Man 1"/>
+            <File Name="Spider-Man 2"/>
+            <File Name="Spider-Man 3"/>
+            <File Name="Spider-Man 4"/>
             <File Name="Avengers 284"/>
             <File Name="Conan the Barbarian 199"/>
             <File Name="D.P. 7 12"/>
