@@ -2,297 +2,297 @@
 <!DOCTYPE xml>
     <Year Name="CMC 1949">
         <Directory Name="CMC 1949 01">
-            <File Name="Sub Mariner Comics 31" ID="55600"/>
-            <File Name="Frankie and Lana Comics 14" ID="52931"/>
-            <File Name="Wild Western 7" ID="55974"/>
-            <File Name="Hedy De Vine Comics 32" ID="52637"/>
-            <File Name="Venus 4" ID="55797"/>
-            <File Name="All True Crime Cases Comics 33" ID="51457"/>
-            <File Name="Patsy Walker Comics 22" ID="54812"/>
-            <File Name="Captain America Comics 72" ID="51904"/>
-            <File Name="Joker Comics 37" ID="52801"/>
-            <File Name="True Complete Mystery 5" ID="52078"/>
-            <File Name="Two-Gun Kid 7" ID="55663"/>
+            <File Name="Sub Mariner Comics 31" ID="55600" SERIESID="4022"/>
+            <File Name="Frankie and Lana Comics 14" ID="52931" SERIESID="4245"/>
+            <File Name="Wild Western 7" ID="55974" SERIESID="4400"/>
+            <File Name="Hedy De Vine Comics 32" ID="52637" SERIESID="4002"/>
+            <File Name="Venus 4" ID="55797" SERIESID="4388"/>
+            <File Name="All True Crime Cases Comics 33" ID="51457" SERIESID="4199"/>
+            <File Name="Patsy Walker Comics 22" ID="54812" SERIESID="4335"/>
+            <File Name="Captain America Comics 72" ID="51904" SERIESID="4001"/>
+            <File Name="Joker Comics 37" ID="52801" SERIESID="4270"/>
+            <File Name="True Complete Mystery 5" ID="52078" SERIESID="4230"/>
+            <File Name="Two-Gun Kid 7" ID="55663" SERIESID="4384"/>
         </Directory>
         <Directory Name="CMC 1949 02">
-            <File Name="Comedy Comics 7" ID="52060"/>
-            <File Name="Crimefighters 7" ID="52879"/>
-            <File Name="Georgie and Judy Comics 22" ID="52828"/>
-            <File Name="Justice Comics 10" ID="53258"/>
-            <File Name="Love Romances 6" ID="53599"/>
-            <File Name="Love Tales 36" ID="53766"/>
-            <File Name="Miss America Magazine 20" ID="54122"/>
-            <File Name="Teen Comics 31" ID="55453"/>
-            <File Name="Junior Miss 34" ID="53243"/>
-            <File Name="Willie Comics 19" ID="56043"/>
-            <File Name="Kid Colt Outlaw 5" ID="53361"/>
-            <File Name="Lovers 23" ID="53700"/>
-            <File Name="My Own Romance 5" ID="54350"/>
-            <File Name="Marvel Mystery Comics 92" ID="44549"/>
-            <File Name="Nellie the Nurse Comics 19" ID="54628"/>
-            <File Name="Tex Taylor 5" ID="55565"/>
-            <File Name="Margie Comics 47" ID="53847"/>
-            <File Name="Amazing Mysteries 32" ID="51503"/>
-            <File Name="Rusty Comics 20" ID="55013"/>
-            <File Name="Jeanie Comics 25" ID="52761"/>
-            <File Name="Little Lenny 1" ID="53537"/>
-            <File Name="Little Lizzie 1" ID="53540"/>
+            <File Name="Comedy Comics 7" ID="52060" SERIESID="4412"/>
+            <File Name="Crimefighters 7" ID="52879" SERIESID="4235"/>
+            <File Name="Georgie and Judy Comics 22" ID="52828" SERIESID="4250"/>
+            <File Name="Justice Comics 10" ID="53258" SERIESID="4274"/>
+            <File Name="Love Romances 6" ID="53599" SERIESID="4295"/>
+            <File Name="Love Tales 36" ID="53766" SERIESID="4298"/>
+            <File Name="Miss America Magazine 20" ID="54122" SERIESID="4423"/>
+            <File Name="Teen Comics 31" ID="55453" SERIESID="4003"/>
+            <File Name="Junior Miss 34" ID="53243" SERIESID="4415"/>
+            <File Name="Willie Comics 19" ID="56043" SERIESID="4401"/>
+            <File Name="Kid Colt Outlaw 5" ID="53361" SERIESID="4277"/>
+            <File Name="Lovers 23" ID="53700" SERIESID="4296"/>
+            <File Name="My Own Romance 5" ID="54350" SERIESID="4322"/>
+            <File Name="Marvel Mystery Comics 92" ID="44549" SERIESID="3946"/>
+            <File Name="Nellie the Nurse Comics 19" ID="54628" SERIESID="4329"/>
+            <File Name="Tex Taylor 5" ID="55565" SERIESID="4378"/>
+            <File Name="Margie Comics 47" ID="53847" SERIESID="4226"/>
+            <File Name="Amazing Mysteries 32" ID="51503" SERIESID="4201"/>
+            <File Name="Rusty Comics 20" ID="55013" SERIESID="4351"/>
+            <File Name="Jeanie Comics 25" ID="52761" SERIESID="4198"/>
+            <File Name="Little Lenny 1" ID="53537" SERIESID="4288"/>
+            <File Name="Little Lizzie 1" ID="53540" SERIESID="4289"/>
         </Directory>
         <Directory Name="CMC 1949 03">
-            <File Name="Cindy Comics 35" ID="51933"/>
-            <File Name="Gay Comics 38" ID="52979"/>
-            <File Name="Western Winners 5" ID="52554"/>
-            <File Name="Lana 6" ID="53511"/>
-            <File Name="Lawbreakers Always Lose 8" ID="53522"/>
-            <File Name="Tessie the Typist Comics 22" ID="55538"/>
-            <File Name="Blaze Carson 5" ID="52536"/>
-            <File Name="Miss America Magazine 21" ID="54123"/>
-            <File Name="Frankie and Lana Comics 15" ID="52932"/>
-            <File Name="Best Western 58" ID="55945"/>
-            <File Name="Hedy De Vine Comics 33" ID="52638"/>
-            <File Name="Millie the Model Comics 18" ID="53980"/>
-            <File Name="Little Aspirin 1" ID="53534"/>
-            <File Name="Tex Morgan 6" ID="55557"/>
-            <File Name="Justice 11" ID="53259"/>
-            <File Name="Venus 5" ID="55798"/>
-            <File Name="Wild Western 8" ID="55975"/>
-            <File Name="Awful Oscar 11" ID="54657"/>
-            <File Name="My Own Romance 6" ID="54351"/>
-            <File Name="Sub Mariner Comics 32" ID="55601"/>
-            <File Name="True Complete Mystery 6" ID="52079"/>
-            <File Name="Mitzi&apos;s Romances 8" ID="54211"/>
-            <File Name="Patsy Walker Comics 23" ID="54813"/>
-            <File Name="All True Crime Cases Comics 34" ID="51458"/>
-            <File Name="Captain America Comics 73" ID="51905"/>
-            <File Name="Joker Comics 38" ID="52802"/>
-            <File Name="Two-Gun Kid 8" ID="55664"/>
-            <File Name="Rusty Comics 21" ID="55014"/>
-            <File Name="Amazing Mysteries 33" ID="51504"/>
-            <File Name="Georgie Comics 23" ID="52829"/>
-            <File Name="Teen Comics 32" ID="55454"/>
+            <File Name="Cindy Comics 35" ID="51933" SERIESID="4222"/>
+            <File Name="Gay Comics 38" ID="52979" SERIESID="4414"/>
+            <File Name="Western Winners 5" ID="52554" SERIESID="4254"/>
+            <File Name="Lana 6" ID="53511" SERIESID="4284"/>
+            <File Name="Lawbreakers Always Lose 8" ID="53522" SERIESID="4285"/>
+            <File Name="Tessie the Typist Comics 22" ID="55538" SERIESID="4375"/>
+            <File Name="Blaze Carson 5" ID="52536" SERIESID="4253"/>
+            <File Name="Miss America Magazine 21" ID="54123" SERIESID="4423"/>
+            <File Name="Frankie and Lana Comics 15" ID="52932" SERIESID="4245"/>
+            <File Name="Best Western 58" ID="55945" SERIESID="4397"/>
+            <File Name="Hedy De Vine Comics 33" ID="52638" SERIESID="4002"/>
+            <File Name="Millie the Model Comics 18" ID="53980" SERIESID="4311"/>
+            <File Name="Little Aspirin 1" ID="53534" SERIESID="4287"/>
+            <File Name="Tex Morgan 6" ID="55557" SERIESID="4377"/>
+            <File Name="Justice 11" ID="53259" SERIESID="4274"/>
+            <File Name="Venus 5" ID="55798" SERIESID="4388"/>
+            <File Name="Wild Western 8" ID="55975" SERIESID="4400"/>
+            <File Name="Awful Oscar 11" ID="54657" SERIESID="4330"/>
+            <File Name="My Own Romance 6" ID="54351" SERIESID="4322"/>
+            <File Name="Sub Mariner Comics 32" ID="55601" SERIESID="4022"/>
+            <File Name="True Complete Mystery 6" ID="52079" SERIESID="4230"/>
+            <File Name="Mitzi&apos;s Romances 8" ID="54211" SERIESID="4314"/>
+            <File Name="Patsy Walker Comics 23" ID="54813" SERIESID="4335"/>
+            <File Name="All True Crime Cases Comics 34" ID="51458" SERIESID="4199"/>
+            <File Name="Captain America Comics 73" ID="51905" SERIESID="4001"/>
+            <File Name="Joker Comics 38" ID="52802" SERIESID="4270"/>
+            <File Name="Two-Gun Kid 8" ID="55664" SERIESID="4384"/>
+            <File Name="Rusty Comics 21" ID="55014" SERIESID="4351"/>
+            <File Name="Amazing Mysteries 33" ID="51504" SERIESID="4201"/>
+            <File Name="Georgie Comics 23" ID="52829" SERIESID="4250"/>
+            <File Name="Teen Comics 32" ID="55454" SERIESID="4003"/>
         </Directory>
         <Directory Name="CMC 1949 04">
-            <File Name="Love Tales 37" ID="53767"/>
-            <File Name="Li&apos;l Willie Comics 20" ID="56044"/>
-            <File Name="My Own Romance 7" ID="54352"/>
-            <File Name="Justice Comics 12" ID="53260"/>
-            <File Name="Kid Colt 6" ID="53362"/>
-            <File Name="Junior Miss 35" ID="53244"/>
-            <File Name="Love Romances 7" ID="53600"/>
-            <File Name="Margie Comics 48" ID="53848"/>
-            <File Name="Crimefighters 8" ID="52880"/>
-            <File Name="Nellie the Nurse Comics 20" ID="54629"/>
-            <File Name="Comedy Comics 8" ID="52061"/>
-            <File Name="Miss America Magazine 22" ID="54124"/>
-            <File Name="Lovers 24" ID="53701"/>
-            <File Name="My Love 1" ID="54333"/>
-            <File Name="Tex Taylor 6" ID="55566"/>
-            <File Name="Little Lenny 2" ID="53538"/>
-            <File Name="Western Winners 6" ID="52555"/>
-            <File Name="Jeanie Comics 26" ID="52762"/>
-            <File Name="Little Lizzie 2" ID="53541"/>
+            <File Name="Love Tales 37" ID="53767" SERIESID="4298"/>
+            <File Name="Li&apos;l Willie Comics 20" ID="56044" SERIESID="4401"/>
+            <File Name="My Own Romance 7" ID="54352" SERIESID="4322"/>
+            <File Name="Justice Comics 12" ID="53260" SERIESID="4274"/>
+            <File Name="Kid Colt 6" ID="53362" SERIESID="4277"/>
+            <File Name="Junior Miss 35" ID="53244" SERIESID="4415"/>
+            <File Name="Love Romances 7" ID="53600" SERIESID="4295"/>
+            <File Name="Margie Comics 48" ID="53848" SERIESID="4226"/>
+            <File Name="Crimefighters 8" ID="52880" SERIESID="4235"/>
+            <File Name="Nellie the Nurse Comics 20" ID="54629" SERIESID="4329"/>
+            <File Name="Comedy Comics 8" ID="52061" SERIESID="4412"/>
+            <File Name="Miss America Magazine 22" ID="54124" SERIESID="4423"/>
+            <File Name="Lovers 24" ID="53701" SERIESID="4296"/>
+            <File Name="My Love 1" ID="54333" SERIESID="4320"/>
+            <File Name="Tex Taylor 6" ID="55566" SERIESID="4378"/>
+            <File Name="Little Lenny 2" ID="53538" SERIESID="4288"/>
+            <File Name="Western Winners 6" ID="52555" SERIESID="4254"/>
+            <File Name="Jeanie Comics 26" ID="52762" SERIESID="4198"/>
+            <File Name="Little Lizzie 2" ID="53541" SERIESID="4289"/>
         </Directory>
         <Directory Name="CMC 1949 05">
-            <File Name="Miss America Magazine 23" ID="54125"/>
-            <File Name="Mitzi&apos;s Romances 9" ID="54212"/>
-            <File Name="Casey Crime Photographer 1" ID="51916"/>
-            <File Name="Lana 7" ID="53512"/>
-            <File Name="Gay Comics 39" ID="52980"/>
-            <File Name="Tessie the Typist Comics 23" ID="55539"/>
-            <File Name="Awful Oscar 12" ID="54658"/>
-            <File Name="Cindy Comics 36" ID="51934"/>
-            <File Name="Best Love 33" ID="51797"/>
-            <File Name="Frankie Fuddle 16" ID="52933"/>
-            <File Name="Millie the Model Comics 19" ID="53981"/>
-            <File Name="Little Aspirin 2" ID="53535"/>
-            <File Name="Best Western 59" ID="55946"/>
-            <File Name="Lawbreakers Always Lose 9" ID="53523"/>
-            <File Name="Marvel Tales 93" ID="51291"/>
-            <File Name="Venus 6" ID="55799"/>
-            <File Name="Patsy Walker Comics 24" ID="54814"/>
-            <File Name="Tex Morgan 7" ID="55558"/>
-            <File Name="All True Crime Cases Comics 35" ID="51459"/>
-            <File Name="Hedy De Vine Comics 34" ID="52639"/>
-            <File Name="Miss America Magazine 24" ID="54126"/>
-            <File Name="My Own Romance 8" ID="54353"/>
-            <File Name="Rex Hart 6" ID="52537"/>
+            <File Name="Miss America Magazine 23" ID="54125" SERIESID="4423"/>
+            <File Name="Mitzi&apos;s Romances 9" ID="54212" SERIESID="4314"/>
+            <File Name="Casey Crime Photographer 1" ID="51916" SERIESID="4220"/>
+            <File Name="Lana 7" ID="53512" SERIESID="4284"/>
+            <File Name="Gay Comics 39" ID="52980" SERIESID="4414"/>
+            <File Name="Tessie the Typist Comics 23" ID="55539" SERIESID="4375"/>
+            <File Name="Awful Oscar 12" ID="54658" SERIESID="4330"/>
+            <File Name="Cindy Comics 36" ID="51934" SERIESID="4222"/>
+            <File Name="Best Love 33" ID="51797" SERIESID="4212"/>
+            <File Name="Frankie Fuddle 16" ID="52933" SERIESID="4245"/>
+            <File Name="Millie the Model Comics 19" ID="53981" SERIESID="4311"/>
+            <File Name="Little Aspirin 2" ID="53535" SERIESID="4287"/>
+            <File Name="Best Western 59" ID="55946" SERIESID="4397"/>
+            <File Name="Lawbreakers Always Lose 9" ID="53523" SERIESID="4285"/>
+            <File Name="Marvel Tales 93" ID="51291" SERIESID="3946"/>
+            <File Name="Venus 6" ID="55799" SERIESID="4388"/>
+            <File Name="Patsy Walker Comics 24" ID="54814" SERIESID="4335"/>
+            <File Name="Tex Morgan 7" ID="55558" SERIESID="4377"/>
+            <File Name="All True Crime Cases Comics 35" ID="51459" SERIESID="4199"/>
+            <File Name="Hedy De Vine Comics 34" ID="52639" SERIESID="4002"/>
+            <File Name="Miss America Magazine 24" ID="54126" SERIESID="4423"/>
+            <File Name="My Own Romance 8" ID="54353" SERIESID="4322"/>
+            <File Name="Rex Hart 6" ID="52537" SERIESID="4253"/>
         </Directory>
         <Directory Name="CMC 1949 06">
-            <File Name="Junior Miss 36" ID="53245"/>
-            <File Name="Molly Manton&apos;s Romances 1" ID="54268"/>
-            <File Name="Li&apos;l Willie Comics 21" ID="56045"/>
-            <File Name="Love Romances 8" ID="53601"/>
-            <File Name="True Complete Mystery 7" ID="52080"/>
-            <File Name="Two-Gun Kid 9" ID="55665"/>
-            <File Name="Crimefighters 9" ID="52881"/>
-            <File Name="Justice 13" ID="53261"/>
-            <File Name="Love Tales 38" ID="53768"/>
-            <File Name="Nellie the Nurse Comics 21" ID="54630"/>
-            <File Name="Joker Comics 39" ID="52803"/>
-            <File Name="Lovers 25" ID="53702"/>
-            <File Name="Comedy Comics 9" ID="52062"/>
-            <File Name="Jeanie Comics 27" ID="52763"/>
-            <File Name="Our Love 1" ID="55617"/>
-            <File Name="Little Lizzie 3" ID="53542"/>
-            <File Name="My Love 2" ID="54334"/>
-            <File Name="Teen Comics 33" ID="55455"/>
-            <File Name="Wonder Duck 1" ID="52721"/>
-            <File Name="Casey Crime Photographer 2" ID="51917"/>
-            <File Name="Amazing Mysteries 34" ID="51505"/>
-            <File Name="Girl Comics 1" ID="52465"/>
-            <File Name="Rusty and Her Family Comics 22" ID="55015"/>
-            <File Name="Tex Taylor 7" ID="55567"/>
+            <File Name="Junior Miss 36" ID="53245" SERIESID="4415"/>
+            <File Name="Molly Manton&apos;s Romances 1" ID="54268" SERIESID="4316"/>
+            <File Name="Li&apos;l Willie Comics 21" ID="56045" SERIESID="4401"/>
+            <File Name="Love Romances 8" ID="53601" SERIESID="4295"/>
+            <File Name="True Complete Mystery 7" ID="52080" SERIESID="4230"/>
+            <File Name="Two-Gun Kid 9" ID="55665" SERIESID="4384"/>
+            <File Name="Crimefighters 9" ID="52881" SERIESID="4235"/>
+            <File Name="Justice 13" ID="53261" SERIESID="4274"/>
+            <File Name="Love Tales 38" ID="53768" SERIESID="4298"/>
+            <File Name="Nellie the Nurse Comics 21" ID="54630" SERIESID="4329"/>
+            <File Name="Joker Comics 39" ID="52803" SERIESID="4270"/>
+            <File Name="Lovers 25" ID="53702" SERIESID="4296"/>
+            <File Name="Comedy Comics 9" ID="52062" SERIESID="4412"/>
+            <File Name="Jeanie Comics 27" ID="52763" SERIESID="4198"/>
+            <File Name="Our Love 1" ID="55617" SERIESID="4383"/>
+            <File Name="Little Lizzie 3" ID="53542" SERIESID="4289"/>
+            <File Name="My Love 2" ID="54334" SERIESID="4320"/>
+            <File Name="Teen Comics 33" ID="55455" SERIESID="4003"/>
+            <File Name="Wonder Duck 1" ID="52721" SERIESID="4268"/>
+            <File Name="Casey Crime Photographer 2" ID="51917" SERIESID="4220"/>
+            <File Name="Amazing Mysteries 34" ID="51505" SERIESID="4201"/>
+            <File Name="Girl Comics 1" ID="52465" SERIESID="4251"/>
+            <File Name="Rusty and Her Family Comics 22" ID="55015" SERIESID="4351"/>
+            <File Name="Tex Taylor 7" ID="55567" SERIESID="4378"/>
         </Directory>
         <Directory Name="CMC 1949 07">
-            <File Name="Miss America Magazine 25" ID="54127"/>
-            <File Name="Captain America&apos;s Weird Tales 74" ID="51910"/>
-            <File Name="Tiny Tessie 24" ID="55540"/>
-            <File Name="Romance Tales 7" ID="55002"/>
-            <File Name="Cowboy Romances 1" ID="56120"/>
-            <File Name="Gay Comics 40" ID="52981"/>
-            <File Name="Millie the Model Comics 20" ID="53982"/>
-            <File Name="Best Love 34" ID="51798"/>
-            <File Name="Margie Comics 49" ID="53849"/>
-            <File Name="Patsy Walker Comics 25" ID="54815"/>
-            <File Name="Film Funnies 1" ID="52916"/>
-            <File Name="Love Dramas 1" ID="53590"/>
-            <File Name="Wild Western 9" ID="55976"/>
-            <File Name="Faithful 1" ID="52914"/>
-            <File Name="True Life Tales 8 (" ID="55615"/>
-            <File Name="Blaze, the Wonder Collie 2" ID="51815"/>
-            <File Name="Love Adventures 1" ID="53574"/>
-            <File Name="Hedy De Vine Comics 35" ID="52640"/>
-            <File Name="Love Secrets 1" ID="53764"/>
-            <File Name="Lawbreakers Always Lose 10" ID="53524"/>
+            <File Name="Miss America Magazine 25" ID="54127" SERIESID="4423"/>
+            <File Name="Captain America&apos;s Weird Tales 74" ID="51910" SERIESID="4001"/>
+            <File Name="Tiny Tessie 24" ID="55540" SERIESID="4375"/>
+            <File Name="Romance Tales 7" ID="55002" SERIESID="4350"/>
+            <File Name="Cowboy Romances 1" ID="56120" SERIESID="4028"/>
+            <File Name="Gay Comics 40" ID="52981" SERIESID="4414"/>
+            <File Name="Millie the Model Comics 20" ID="53982" SERIESID="4311"/>
+            <File Name="Best Love 34" ID="51798" SERIESID="4212"/>
+            <File Name="Margie Comics 49" ID="53849" SERIESID="4226"/>
+            <File Name="Patsy Walker Comics 25" ID="54815" SERIESID="4335"/>
+            <File Name="Film Funnies 1" ID="52916" SERIESID="4244"/>
+            <File Name="Love Dramas 1" ID="53590" SERIESID="4293"/>
+            <File Name="Wild Western 9" ID="55976" SERIESID="4400"/>
+            <File Name="Faithful 1" ID="52914" SERIESID="4243"/>
+            <File Name="True Life Tales 8 (" ID="55615" SERIESID="4382"/>
+            <File Name="Blaze, the Wonder Collie 2" ID="51815" SERIESID="4217"/>
+            <File Name="Love Adventures 1" ID="53574" SERIESID="4291"/>
+            <File Name="Hedy De Vine Comics 35" ID="52640" SERIESID="4002"/>
+            <File Name="Love Secrets 1" ID="53764" SERIESID="4297"/>
+            <File Name="Lawbreakers Always Lose 10" ID="53524" SERIESID="4285"/>
         </Directory>
         <Directory Name="CMC 1949 08">
-            <File Name="Junior Miss 37" ID="53246"/>
-            <File Name="Kid Colt Outlaw 7" ID="53363"/>
-            <File Name="Marvel Tales 94" ID="51292"/>
-            <File Name="Rex Hart 7" ID="52538"/>
-            <File Name="Venus 7" ID="55800"/>
-            <File Name="Actual Romances 1" ID="51358"/>
-            <File Name="Loveland 1" ID="53592"/>
-            <File Name="Cindy Comics 37" ID="51935"/>
-            <File Name="Oscar Comics 13" ID="54659"/>
-            <File Name="True Complete Mystery 8" ID="52081"/>
-            <File Name="Miss America Magazine 26" ID="54128"/>
-            <File Name="My Own Romance 9" ID="54354"/>
-            <File Name="All True Crime Cases Comics 36" ID="51460"/>
-            <File Name="Little Lana 8" ID="53513"/>
-            <File Name="Romances of the West 1" ID="55000"/>
-            <File Name="Georgie Comics 24" ID="52830"/>
-            <File Name="Little Lenny 3" ID="53539"/>
-            <File Name="Tex Morgan 8" ID="55559"/>
-            <File Name="Wonder Duck 2" ID="52722"/>
-            <File Name="Mitzi&apos;s Romances 10" ID="54213"/>
-            <File Name="Two-Gun Kid 10" ID="55666"/>
-            <File Name="Love Classics 1" ID="53588"/>
-            <File Name="Lovers 26" ID="53703"/>
-            <File Name="Sport Stars 1" ID="55125"/>
-            <File Name="Young Hearts 1" ID="56118"/>
-            <File Name="Frankie Fuddle 17" ID="52934"/>
-            <File Name="Little Aspirin 3" ID="53536"/>
-            <File Name="My Diary 1" ID="54274"/>
-            <File Name="Romance Diary 1" ID="54997"/>
-            <File Name="Western Winners 7" ID="52556"/>
-            <File Name="Justice 14" ID="53262"/>
-            <File Name="Crimefighters 10" ID="52882"/>
-            <File Name="Cupid 1" ID="52895"/>
-            <File Name="True Western 1" ID="53933"/>
-            <File Name="Romances of Molly Manton 2" ID="54269"/>
-            <File Name="Western Life Romances 1" ID="55922"/>
-            <File Name="Love Romances 9" ID="53602"/>
-            <File Name="Casey Crime Photographer 3" ID="51918"/>
+            <File Name="Junior Miss 37" ID="53246" SERIESID="4415"/>
+            <File Name="Kid Colt Outlaw 7" ID="53363" SERIESID="4277"/>
+            <File Name="Marvel Tales 94" ID="51292" SERIESID="3946"/>
+            <File Name="Rex Hart 7" ID="52538" SERIESID="4253"/>
+            <File Name="Venus 7" ID="55800" SERIESID="4388"/>
+            <File Name="Actual Romances 1" ID="51358" SERIESID="4190"/>
+            <File Name="Loveland 1" ID="53592" SERIESID="4294"/>
+            <File Name="Cindy Comics 37" ID="51935" SERIESID="4222"/>
+            <File Name="Oscar Comics 13" ID="54659" SERIESID="4330"/>
+            <File Name="True Complete Mystery 8" ID="52081" SERIESID="4230"/>
+            <File Name="Miss America Magazine 26" ID="54128" SERIESID="4423"/>
+            <File Name="My Own Romance 9" ID="54354" SERIESID="4322"/>
+            <File Name="All True Crime Cases Comics 36" ID="51460" SERIESID="4199"/>
+            <File Name="Little Lana 8" ID="53513" SERIESID="4284"/>
+            <File Name="Romances of the West 1" ID="55000" SERIESID="4349"/>
+            <File Name="Georgie Comics 24" ID="52830" SERIESID="4250"/>
+            <File Name="Little Lenny 3" ID="53539" SERIESID="4288"/>
+            <File Name="Tex Morgan 8" ID="55559" SERIESID="4377"/>
+            <File Name="Wonder Duck 2" ID="52722" SERIESID="4268"/>
+            <File Name="Mitzi&apos;s Romances 10" ID="54213" SERIESID="4314"/>
+            <File Name="Two-Gun Kid 10" ID="55666" SERIESID="4384"/>
+            <File Name="Love Classics 1" ID="53588" SERIESID="4292"/>
+            <File Name="Lovers 26" ID="53703" SERIESID="4296"/>
+            <File Name="Sport Stars 1" ID="55125" SERIESID="4362"/>
+            <File Name="Young Hearts 1" ID="56118" SERIESID="4410"/>
+            <File Name="Frankie Fuddle 17" ID="52934" SERIESID="4245"/>
+            <File Name="Little Aspirin 3" ID="53536" SERIESID="4287"/>
+            <File Name="My Diary 1" ID="54274" SERIESID="4318"/>
+            <File Name="Romance Diary 1" ID="54997" SERIESID="4347"/>
+            <File Name="Western Winners 7" ID="52556" SERIESID="4254"/>
+            <File Name="Justice 14" ID="53262" SERIESID="4274"/>
+            <File Name="Crimefighters 10" ID="52882" SERIESID="4235"/>
+            <File Name="Cupid 1" ID="52895" SERIESID="4237"/>
+            <File Name="True Western 1" ID="53933" SERIESID="4029"/>
+            <File Name="Romances of Molly Manton 2" ID="54269" SERIESID="4316"/>
+            <File Name="Western Life Romances 1" ID="55922" SERIESID="4395"/>
+            <File Name="Love Romances 9" ID="53602" SERIESID="4295"/>
+            <File Name="Casey Crime Photographer 3" ID="51918" SERIESID="4220"/>
         </Directory>
         <Directory Name="CMC 1949 09">
-            <File Name="Love Tales 39" ID="53769"/>
-            <File Name="Tex Taylor 8" ID="55568"/>
-            <File Name="Western Outlaws and Sheriffs 60" ID="55947"/>
-            <File Name="Miss America Magazine 27" ID="54129"/>
-            <File Name="My Love 3" ID="54335"/>
-            <File Name="Man Comics 1" ID="53807"/>
-            <File Name="Suspense 1" ID="55341"/>
-            <File Name="Cowboy Romances 2" ID="56121"/>
-            <File Name="Best Love 35" ID="51799"/>
-            <File Name="Girl Comics 2" ID="52468"/>
-            <File Name="Love Trails 1" ID="53806"/>
-            <File Name="Miss America Magazine 28" ID="54130"/>
-            <File Name="Rangeland Love 1" ID="54936"/>
-            <File Name="Millie the Model Comics 21" ID="53983"/>
-            <File Name="Patsy Walker Comics 26" ID="54816"/>
-            <File Name="Romance Tales 8" ID="55003"/>
-            <File Name="Honeymoon 41" ID="52982"/>
-            <File Name="Love Secrets 2" ID="53765"/>
-            <File Name="True Life Tales 2" ID="55616"/>
-            <File Name="Love Dramas 2" ID="53591"/>
+            <File Name="Love Tales 39" ID="53769" SERIESID="4298"/>
+            <File Name="Tex Taylor 8" ID="55568" SERIESID="4378"/>
+            <File Name="Western Outlaws and Sheriffs 60" ID="55947" SERIESID="4397"/>
+            <File Name="Miss America Magazine 27" ID="54129" SERIESID="4423"/>
+            <File Name="My Love 3" ID="54335" SERIESID="4320"/>
+            <File Name="Man Comics 1" ID="53807" SERIESID="4300"/>
+            <File Name="Suspense 1" ID="55341" SERIESID="4372"/>
+            <File Name="Cowboy Romances 2" ID="56121" SERIESID="4028"/>
+            <File Name="Best Love 35" ID="51799" SERIESID="4212"/>
+            <File Name="Girl Comics 2" ID="52468" SERIESID="4251"/>
+            <File Name="Love Trails 1" ID="53806" SERIESID="4299"/>
+            <File Name="Miss America Magazine 28" ID="54130" SERIESID="4423"/>
+            <File Name="Rangeland Love 1" ID="54936" SERIESID="4341"/>
+            <File Name="Millie the Model Comics 21" ID="53983" SERIESID="4311"/>
+            <File Name="Patsy Walker Comics 26" ID="54816" SERIESID="4335"/>
+            <File Name="Romance Tales 8" ID="55003" SERIESID="4350"/>
+            <File Name="Honeymoon 41" ID="52982" SERIESID="4414"/>
+            <File Name="Love Secrets 2" ID="53765" SERIESID="4297"/>
+            <File Name="True Life Tales 2" ID="55616" SERIESID="4382"/>
+            <File Name="Love Dramas 2" ID="53591" SERIESID="4293"/>
         </Directory>
         <Directory Name="CMC 1949 10">
-            <File Name="Comedy Comics 10" ID="52063"/>
-            <File Name="Little Lizzie 4" ID="53543"/>
-            <File Name="Love Adventures 2" ID="53575"/>
-            <File Name="My Own Romance 10" ID="54355"/>
-            <File Name="Real Experiences 25" ID="55541"/>
-            <File Name="Cowgirl Romances 28" ID="52764"/>
-            <File Name="Kellys 23" ID="55016"/>
-            <File Name="Amazing Mysteries 35" ID="51506"/>
-            <File Name="Faithful 2" ID="52915"/>
-            <File Name="Joker Comics 40" ID="52804"/>
-            <File Name="Our Love 2" ID="55618"/>
-            <File Name="Rex Hart 8" ID="52539"/>
-            <File Name="Nellie the Nurse Comics 22" ID="54631"/>
-            <File Name="Willie Comics 22" ID="56046"/>
-            <File Name="Actual Romances 2" ID="51359"/>
-            <File Name="All True Crime 37" ID="51461"/>
-            <File Name="Hedy of Hollywood Comics 36" ID="52641"/>
-            <File Name="Love Romances 10" ID="53603"/>
-            <File Name="Miss America Magazine 29" ID="54131"/>
-            <File Name="Kid Colt Outlaw 8" ID="53364"/>
-            <File Name="Young Hearts 2" ID="56119"/>
-            <File Name="Teen Comics 34" ID="55456"/>
-            <File Name="Love Classics 2" ID="53589"/>
-            <File Name="Loveland 2" ID="53593"/>
-            <File Name="Cindy Comics 38" ID="51936"/>
+            <File Name="Comedy Comics 10" ID="52063" SERIESID="4412"/>
+            <File Name="Little Lizzie 4" ID="53543" SERIESID="4289"/>
+            <File Name="Love Adventures 2" ID="53575" SERIESID="4291"/>
+            <File Name="My Own Romance 10" ID="54355" SERIESID="4322"/>
+            <File Name="Real Experiences 25" ID="55541" SERIESID="4375"/>
+            <File Name="Cowgirl Romances 28" ID="52764" SERIESID="4198"/>
+            <File Name="Kellys 23" ID="55016" SERIESID="4351"/>
+            <File Name="Amazing Mysteries 35" ID="51506" SERIESID="4201"/>
+            <File Name="Faithful 2" ID="52915" SERIESID="4243"/>
+            <File Name="Joker Comics 40" ID="52804" SERIESID="4270"/>
+            <File Name="Our Love 2" ID="55618" SERIESID="4383"/>
+            <File Name="Rex Hart 8" ID="52539" SERIESID="4253"/>
+            <File Name="Nellie the Nurse Comics 22" ID="54631" SERIESID="4329"/>
+            <File Name="Willie Comics 22" ID="56046" SERIESID="4401"/>
+            <File Name="Actual Romances 2" ID="51359" SERIESID="4190"/>
+            <File Name="All True Crime 37" ID="51461" SERIESID="4199"/>
+            <File Name="Hedy of Hollywood Comics 36" ID="52641" SERIESID="4002"/>
+            <File Name="Love Romances 10" ID="53603" SERIESID="4295"/>
+            <File Name="Miss America Magazine 29" ID="54131" SERIESID="4423"/>
+            <File Name="Kid Colt Outlaw 8" ID="53364" SERIESID="4277"/>
+            <File Name="Young Hearts 2" ID="56119" SERIESID="4410"/>
+            <File Name="Teen Comics 34" ID="55456" SERIESID="4003"/>
+            <File Name="Love Classics 2" ID="53589" SERIESID="4292"/>
+            <File Name="Loveland 2" ID="53593" SERIESID="4294"/>
+            <File Name="Cindy Comics 38" ID="51936" SERIESID="4222"/>
         </Directory>
         <Directory Name="CMC 1949 11">
-            <File Name="Casey Crime Photographer 4" ID="51919"/>
-            <File Name="Suspense 2" ID="55342"/>
-            <File Name="Wild Western 10" ID="55977"/>
-            <File Name="Film Funnies 2" ID="52917"/>
-            <File Name="Tex Morgan 9" ID="55560"/>
-            <File Name="Georgie Comics 25" ID="52831"/>
-            <File Name="Venus 8" ID="55801"/>
-            <File Name="Blaze, the Wonder Collie 3" ID="51816"/>
-            <File Name="True Secrets 3" ID="55619"/>
-            <File Name="Captain America&apos;s Weird Tales 75" ID="51911"/>
-            <File Name="Miss America Magazine 30" ID="54132"/>
-            <File Name="Cupid 2" ID="52896"/>
-            <File Name="Romances of the West 2" ID="55001"/>
-            <File Name="Little Lana 9" ID="53514"/>
-            <File Name="Patsy Walker 27" ID="54817"/>
-            <File Name="Tex Taylor 9" ID="55569"/>
-            <File Name="Love Tales 40" ID="53770"/>
-            <File Name="Lovers 27" ID="53704"/>
-            <File Name="Marvel Tales 95" ID="51293"/>
-            <File Name="Sports Action 2" ID="55126"/>
-            <File Name="Justice 15" ID="53263"/>
+            <File Name="Casey Crime Photographer 4" ID="51919" SERIESID="4220"/>
+            <File Name="Suspense 2" ID="55342" SERIESID="4372"/>
+            <File Name="Wild Western 10" ID="55977" SERIESID="4400"/>
+            <File Name="Film Funnies 2" ID="52917" SERIESID="4244"/>
+            <File Name="Tex Morgan 9" ID="55560" SERIESID="4377"/>
+            <File Name="Georgie Comics 25" ID="52831" SERIESID="4250"/>
+            <File Name="Venus 8" ID="55801" SERIESID="4388"/>
+            <File Name="Blaze, the Wonder Collie 3" ID="51816" SERIESID="4217"/>
+            <File Name="True Secrets 3" ID="55619" SERIESID="4383"/>
+            <File Name="Captain America&apos;s Weird Tales 75" ID="51911" SERIESID="4001"/>
+            <File Name="Miss America Magazine 30" ID="54132" SERIESID="4423"/>
+            <File Name="Cupid 2" ID="52896" SERIESID="4237"/>
+            <File Name="Romances of the West 2" ID="55001" SERIESID="4349"/>
+            <File Name="Little Lana 9" ID="53514" SERIESID="4284"/>
+            <File Name="Patsy Walker 27" ID="54817" SERIESID="4335"/>
+            <File Name="Tex Taylor 9" ID="55569" SERIESID="4378"/>
+            <File Name="Love Tales 40" ID="53770" SERIESID="4298"/>
+            <File Name="Lovers 27" ID="53704" SERIESID="4296"/>
+            <File Name="Marvel Tales 95" ID="51293" SERIESID="3946"/>
+            <File Name="Sports Action 2" ID="55126" SERIESID="4362"/>
+            <File Name="Justice 15" ID="53263" SERIESID="4274"/>
         </Directory>
         <Directory Name="CMC 1949 12">
-            <File Name="Western Outlaws and Sheriffs 61" ID="55948"/>
-            <File Name="Millie the Model Comics 22" ID="53984"/>
-            <File Name="Romantic Affairs 3" ID="54270"/>
-            <File Name="Cowboy Romances 3" ID="56122"/>
-            <File Name="Western Life Romances 2" ID="55923"/>
-            <File Name="True Western 2" ID="53934"/>
-            <File Name="Wonder Duck 3" ID="52723"/>
-            <File Name="My Own Romance 11" ID="54356"/>
-            <File Name="My Love 4" ID="54336"/>
-            <File Name="Man Comics 2" ID="53808"/>
-            <File Name="My Diary 2" ID="54275"/>
-            <File Name="Romance Diary 2" ID="54998"/>
-            <File Name="Girl Romances 3" ID="52470"/>
-            <File Name="Black Rider 8" ID="52557"/>
-            <File Name="Rangeland Love 2" ID="54937"/>
-            <File Name="Kellys 24" ID="55017"/>
+            <File Name="Western Outlaws and Sheriffs 61" ID="55948" SERIESID="4397"/>
+            <File Name="Millie the Model Comics 22" ID="53984" SERIESID="4311"/>
+            <File Name="Romantic Affairs 3" ID="54270" SERIESID="4316"/>
+            <File Name="Cowboy Romances 3" ID="56122" SERIESID="4028"/>
+            <File Name="Western Life Romances 2" ID="55923" SERIESID="4395"/>
+            <File Name="True Western 2" ID="53934" SERIESID="4029"/>
+            <File Name="Wonder Duck 3" ID="52723" SERIESID="4268"/>
+            <File Name="My Own Romance 11" ID="54356" SERIESID="4322"/>
+            <File Name="My Love 4" ID="54336" SERIESID="4320"/>
+            <File Name="Man Comics 2" ID="53808" SERIESID="4300"/>
+            <File Name="My Diary 2" ID="54275" SERIESID="4318"/>
+            <File Name="Romance Diary 2" ID="54998" SERIESID="4347"/>
+            <File Name="Girl Romances 3" ID="52470" SERIESID="4251"/>
+            <File Name="Black Rider 8" ID="52557" SERIESID="4254"/>
+            <File Name="Rangeland Love 2" ID="54937" SERIESID="4341"/>
+            <File Name="Kellys 24" ID="55017" SERIESID="4351"/>
         </Directory>
     </Year>
