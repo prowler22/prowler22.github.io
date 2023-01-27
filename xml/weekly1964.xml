@@ -2,184 +2,184 @@
 <!DOCTYPE xml>
     <Year Name="CMC 1964">
         <Directory Name="CMC 1964 01">
-            <File Name="Avengers 4" ID="43928"/>
-            <File Name="Journey into Mystery 102" ID="43474"/>
-            <File Name="Sgt. Fury 6" ID="44353"/>
-            <File Name="Tales to Astonish 54" ID="43740"/>
-            <File Name="X-Men 4" ID="44020"/>
-            <File Name="Amazing Spider-Man 11" ID="43835"/>
-            <File Name="Fantastic Four 25" ID="40976"/>
-            <File Name="Patsy and Hedy 93" ID="57441"/>
-            <File Name="Rawhide Kid 39" ID="57503"/>
-            <File Name="Strange Tales 119" ID="43580"/>
-            <File Name="Tales of Suspense 52" ID="43659"/>
+            <File Name="Avengers 4" ID="43928" SERIESID="3986"/>
+            <File Name="Journey into Mystery 102" ID="43474" SERIESID="3980"/>
+            <File Name="Sgt. Fury 6" ID="44353" SERIESID="3996"/>
+            <File Name="Tales to Astonish 54" ID="43740" SERIESID="3984"/>
+            <File Name="X-Men 4" ID="44020" SERIESID="3987"/>
+            <File Name="Amazing Spider-Man 11" ID="43835" SERIESID="3985"/>
+            <File Name="Fantastic Four 25" ID="40976" SERIESID="3649"/>
+            <File Name="Patsy and Hedy 93" ID="57441" SERIESID="4333"/>
+            <File Name="Rawhide Kid 39" ID="57503" SERIESID="4342"/>
+            <File Name="Strange Tales 119" ID="43580" SERIESID="3982"/>
+            <File Name="Tales of Suspense 52" ID="43659" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1964 02">
-            <File Name="Daredevil 1" ID="44083"/>
-            <File Name="Journey into Mystery 103" ID="43475"/>
-            <File Name="Modeling with Millie 30" ID="54243"/>
-            <File Name="Patsy Walker 114" ID="57474"/>
-            <File Name="Tales to Astonish 55" ID="43741"/>
-            <File Name="Two Gun Kid 69" ID="57855"/>
-            <File Name="Amazing Spider-Man 12" ID="43836"/>
-            <File Name="Fantastic Four 26" ID="40977"/>
-            <File Name="Kid Colt Outlaw 116" ID="56794"/>
-            <File Name="Millie the Model Comics 120" ID="57074"/>
-            <File Name="Strange Tales 120" ID="43581"/>
-            <File Name="Tales of Suspense 53" ID="43660"/>
+            <File Name="Daredevil 1" ID="44083" SERIESID="3988"/>
+            <File Name="Journey into Mystery 103" ID="43475" SERIESID="3980"/>
+            <File Name="Modeling with Millie 30" ID="54243" SERIESID="4315"/>
+            <File Name="Patsy Walker 114" ID="57474" SERIESID="4335"/>
+            <File Name="Tales to Astonish 55" ID="43741" SERIESID="3984"/>
+            <File Name="Two Gun Kid 69" ID="57855" SERIESID="4384"/>
+            <File Name="Amazing Spider-Man 12" ID="43836" SERIESID="3985"/>
+            <File Name="Fantastic Four 26" ID="40977" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 116" ID="56794" SERIESID="4277"/>
+            <File Name="Millie the Model Comics 120" ID="57074" SERIESID="4311"/>
+            <File Name="Strange Tales 120" ID="43581" SERIESID="3982"/>
+            <File Name="Tales of Suspense 53" ID="43660" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1964 03">
-            <File Name="Monsters to Laugh With 1" ID="70556"/>
-            <File Name="Avengers 5" ID="43929"/>
-            <File Name="Journey into Mystery 104" ID="43476"/>
-            <File Name="Sgt. Fury 7" ID="44354"/>
-            <File Name="Tales to Astonish 56" ID="43742"/>
-            <File Name="X-Men 5" ID="44021"/>
-            <File Name="Amazing Spider-Man 13" ID="43837"/>
-            <File Name="Fantastic Four 27" ID="40978"/>
-            <File Name="Patsy and Hedy 94" ID="57442"/>
-            <File Name="Rawhide Kid 40" ID="57504"/>
-            <File Name="Strange Tales 121" ID="43582"/>
-            <File Name="Tales of Suspense 54" ID="43661"/>
+            <File Name="Monsters to Laugh With 1" ID="70556" SERIESID="5809"/>
+            <File Name="Avengers 5" ID="43929" SERIESID="3986"/>
+            <File Name="Journey into Mystery 104" ID="43476" SERIESID="3980"/>
+            <File Name="Sgt. Fury 7" ID="44354" SERIESID="3996"/>
+            <File Name="Tales to Astonish 56" ID="43742" SERIESID="3984"/>
+            <File Name="X-Men 5" ID="44021" SERIESID="3987"/>
+            <File Name="Amazing Spider-Man 13" ID="43837" SERIESID="3985"/>
+            <File Name="Fantastic Four 27" ID="40978" SERIESID="3649"/>
+            <File Name="Patsy and Hedy 94" ID="57442" SERIESID="4333"/>
+            <File Name="Rawhide Kid 40" ID="57504" SERIESID="4342"/>
+            <File Name="Strange Tales 121" ID="43582" SERIESID="3982"/>
+            <File Name="Tales of Suspense 54" ID="43661" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1964 04">
-            <File Name="Daredevil 2" ID="44084"/>
-            <File Name="Journey into Mystery 105" ID="43477"/>
-            <File Name="Modeling with Millie 31" ID="54244"/>
-            <File Name="Patsy Walker 115" ID="57475"/>
-            <File Name="Tales to Astonish 57" ID="43743"/>
-            <File Name="Two Gun Kid 70" ID="57856"/>
-            <File Name="Amazing Spider-Man 14" ID="43838"/>
-            <File Name="Fantastic Four 28" ID="40979"/>
-            <File Name="Kid Colt Outlaw 117" ID="56795"/>
-            <File Name="Millie the Model Comics 121" ID="57075"/>
-            <File Name="Strange Tales 122" ID="43583"/>
-            <File Name="Tales of Suspense 55" ID="43662"/>
+            <File Name="Daredevil 2" ID="44084" SERIESID="3988"/>
+            <File Name="Journey into Mystery 105" ID="43477" SERIESID="3980"/>
+            <File Name="Modeling with Millie 31" ID="54244" SERIESID="4315"/>
+            <File Name="Patsy Walker 115" ID="57475" SERIESID="4335"/>
+            <File Name="Tales to Astonish 57" ID="43743" SERIESID="3984"/>
+            <File Name="Two Gun Kid 70" ID="57856" SERIESID="4384"/>
+            <File Name="Amazing Spider-Man 14" ID="43838" SERIESID="3985"/>
+            <File Name="Fantastic Four 28" ID="40979" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 117" ID="56795" SERIESID="4277"/>
+            <File Name="Millie the Model Comics 121" ID="57075" SERIESID="4311"/>
+            <File Name="Strange Tales 122" ID="43583" SERIESID="3982"/>
+            <File Name="Tales of Suspense 55" ID="43662" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1964 05">
-            <File Name="Avengers 6" ID="43930"/>
-            <File Name="Journey into Mystery 106" ID="43478"/>
-            <File Name="Sgt. Fury 8" ID="44355"/>
-            <File Name="Tales to Astonish 58" ID="43744"/>
-            <File Name="X-Men 6" ID="44022"/>
-            <File Name="Amazing Spider-Man 15" ID="43839"/>
-            <File Name="Fantastic Four 29" ID="40980"/>
-            <File Name="Patsy and Hedy 95" ID="57443"/>
-            <File Name="Rawhide Kid 41" ID="57505"/>
-            <File Name="Strange Tales 123" ID="43584"/>
-            <File Name="Tales of Suspense 56" ID="43663"/>
+            <File Name="Avengers 6" ID="43930" SERIESID="3986"/>
+            <File Name="Journey into Mystery 106" ID="43478" SERIESID="3980"/>
+            <File Name="Sgt. Fury 8" ID="44355" SERIESID="3996"/>
+            <File Name="Tales to Astonish 58" ID="43744" SERIESID="3984"/>
+            <File Name="X-Men 6" ID="44022" SERIESID="3987"/>
+            <File Name="Amazing Spider-Man 15" ID="43839" SERIESID="3985"/>
+            <File Name="Fantastic Four 29" ID="40980" SERIESID="3649"/>
+            <File Name="Patsy and Hedy 95" ID="57443" SERIESID="4333"/>
+            <File Name="Rawhide Kid 41" ID="57505" SERIESID="4342"/>
+            <File Name="Strange Tales 123" ID="43584" SERIESID="3982"/>
+            <File Name="Tales of Suspense 56" ID="43663" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1964 06">
-            <File Name="Daredevil 3" ID="44085"/>
-            <File Name="Journey into Mystery 107" ID="43479"/>
-            <File Name="Modeling with Millie 32" ID="54245"/>
-            <File Name="Patsy Walker 116" ID="57476"/>
-            <File Name="Tales to Astonish 59" ID="43745"/>
-            <File Name="Two Gun Kid 71" ID="57857"/>
-            <File Name="Amazing Spider-Man 16" ID="43840"/>
-            <File Name="Avengers 7" ID="43931"/>
-            <File Name="Fantastic Four 30" ID="40984"/>
-            <File Name="Kid Colt Outlaw 118" ID="56796"/>
-            <File Name="Millie the Model Comics 122" ID="57076"/>
-            <File Name="Sgt. Fury 9" ID="44356"/>
-            <File Name="Strange Tales 124" ID="43585"/>
-            <File Name="Tales of Suspense 57" ID="43664"/>
-            <File Name="Amazing Spider-Man Annual 1" ID="44339"/>
-            <File Name="Marvel Tales Annual 1" ID="44322"/>
+            <File Name="Daredevil 3" ID="44085" SERIESID="3988"/>
+            <File Name="Journey into Mystery 107" ID="43479" SERIESID="3980"/>
+            <File Name="Modeling with Millie 32" ID="54245" SERIESID="4315"/>
+            <File Name="Patsy Walker 116" ID="57476" SERIESID="4335"/>
+            <File Name="Tales to Astonish 59" ID="43745" SERIESID="3984"/>
+            <File Name="Two Gun Kid 71" ID="57857" SERIESID="4384"/>
+            <File Name="Amazing Spider-Man 16" ID="43840" SERIESID="3985"/>
+            <File Name="Avengers 7" ID="43931" SERIESID="3986"/>
+            <File Name="Fantastic Four 30" ID="40984" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 118" ID="56796" SERIESID="4277"/>
+            <File Name="Millie the Model Comics 122" ID="57076" SERIESID="4311"/>
+            <File Name="Sgt. Fury 9" ID="44356" SERIESID="3996"/>
+            <File Name="Strange Tales 124" ID="43585" SERIESID="3982"/>
+            <File Name="Tales of Suspense 57" ID="43664" SERIESID="3983"/>
+            <File Name="Amazing Spider-Man Annual 1" ID="44339" SERIESID="3985"/>
+            <File Name="Marvel Tales Annual 1" ID="44322" SERIESID="3994"/>
         </Directory>
         <Directory Name="CMC 1964 07">
-            <File Name="Fantastic Four Annual 2" ID="40982"/>
-            <File Name="Journey into Mystery 108" ID="43480"/>
-            <File Name="Millie the Model Annual 3" ID="57164"/>
-            <File Name="Modeling with Millie 33" ID="54246"/>
-            <File Name="Tales to Astonish 60" ID="43746"/>
-            <File Name="X-Men 7" ID="44023"/>
-            <File Name="Amazing Spider-Man 17" ID="43841"/>
-            <File Name="Avengers 8" ID="43932"/>
-            <File Name="Fantastic Four 31" ID="40985"/>
-            <File Name="Millie the Model Comics 123" ID="57077"/>
-            <File Name="Patsy and Hedy 96" ID="57444"/>
-            <File Name="Rawhide Kid 42" ID="57506"/>
-            <File Name="Sgt. Fury 10" ID="44357"/>
-            <File Name="Strange Tales 125" ID="43586"/>
-            <File Name="Tales of Suspense 58" ID="43665"/>
+            <File Name="Fantastic Four Annual 2" ID="40982" SERIESID="3649"/>
+            <File Name="Journey into Mystery 108" ID="43480" SERIESID="3980"/>
+            <File Name="Millie the Model Annual 3" ID="57164" SERIESID="4311"/>
+            <File Name="Modeling with Millie 33" ID="54246" SERIESID="4315"/>
+            <File Name="Tales to Astonish 60" ID="43746" SERIESID="3984"/>
+            <File Name="X-Men 7" ID="44023" SERIESID="3987"/>
+            <File Name="Amazing Spider-Man 17" ID="43841" SERIESID="3985"/>
+            <File Name="Avengers 8" ID="43932" SERIESID="3986"/>
+            <File Name="Fantastic Four 31" ID="40985" SERIESID="3649"/>
+            <File Name="Millie the Model Comics 123" ID="57077" SERIESID="4311"/>
+            <File Name="Patsy and Hedy 96" ID="57444" SERIESID="4333"/>
+            <File Name="Rawhide Kid 42" ID="57506" SERIESID="4342"/>
+            <File Name="Sgt. Fury 10" ID="44357" SERIESID="3996"/>
+            <File Name="Strange Tales 125" ID="43586" SERIESID="3982"/>
+            <File Name="Tales of Suspense 58" ID="43665" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1964 08">
-            <File Name="Daredevil 4" ID="44086"/>
-            <File Name="Journey into Mystery 109" ID="43481"/>
-            <File Name="Modeling with Millie 34" ID="54247"/>
-            <File Name="Patsy Walker 117" ID="57477"/>
-            <File Name="Tales to Astonish 61" ID="43747"/>
-            <File Name="Two Gun Kid 72" ID="57858"/>
-            <File Name="Monsters to Laugh With 2" ID="70557"/>
-            <File Name="Amazing Spider-Man 18" ID="43842"/>
-            <File Name="Avengers 9" ID="43933"/>
-            <File Name="Fantastic Four 32" ID="40986"/>
-            <File Name="Kid Colt Outlaw 119" ID="56797"/>
-            <File Name="Millie the Model Comics 124" ID="57078"/>
-            <File Name="Sgt. Fury 11" ID="44358"/>
-            <File Name="Strange Tales 126" ID="43587"/>
-            <File Name="Tales of Suspense 59" ID="43666"/>
+            <File Name="Daredevil 4" ID="44086" SERIESID="3988"/>
+            <File Name="Journey into Mystery 109" ID="43481" SERIESID="3980"/>
+            <File Name="Modeling with Millie 34" ID="54247" SERIESID="4315"/>
+            <File Name="Patsy Walker 117" ID="57477" SERIESID="4335"/>
+            <File Name="Tales to Astonish 61" ID="43747" SERIESID="3984"/>
+            <File Name="Two Gun Kid 72" ID="57858" SERIESID="4384"/>
+            <File Name="Monsters to Laugh With 2" ID="70557" SERIESID="5809"/>
+            <File Name="Amazing Spider-Man 18" ID="43842" SERIESID="3985"/>
+            <File Name="Avengers 9" ID="43933" SERIESID="3986"/>
+            <File Name="Fantastic Four 32" ID="40986" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 119" ID="56797" SERIESID="4277"/>
+            <File Name="Millie the Model Comics 124" ID="57078" SERIESID="4311"/>
+            <File Name="Sgt. Fury 11" ID="44358" SERIESID="3996"/>
+            <File Name="Strange Tales 126" ID="43587" SERIESID="3982"/>
+            <File Name="Tales of Suspense 59" ID="43666" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1964 09">
-            <File Name="Journey into Mystery 110" ID="43482"/>
-            <File Name="Modeling with Millie 35" ID="54248"/>
-            <File Name="Tales to Astonish 62" ID="43748"/>
-            <File Name="X-Men 8" ID="44024"/>
-            <File Name="Amazing Spider-Man 19" ID="43843"/>
-            <File Name="Avengers 10" ID="43934"/>
-            <File Name="Fantastic Four 33" ID="40987"/>
-            <File Name="Millie the Model Comics 125" ID="57079"/>
-            <File Name="Patsy and Hedy 97" ID="57445"/>
-            <File Name="Rawhide Kid 43" ID="57507"/>
-            <File Name="Sgt. Fury 12" ID="44359"/>
-            <File Name="Strange Tales 127" ID="43588"/>
-            <File Name="Tales of Suspense 60" ID="43667"/>
+            <File Name="Journey into Mystery 110" ID="43482" SERIESID="3980"/>
+            <File Name="Modeling with Millie 35" ID="54248" SERIESID="4315"/>
+            <File Name="Tales to Astonish 62" ID="43748" SERIESID="3984"/>
+            <File Name="X-Men 8" ID="44024" SERIESID="3987"/>
+            <File Name="Amazing Spider-Man 19" ID="43843" SERIESID="3985"/>
+            <File Name="Avengers 10" ID="43934" SERIESID="3986"/>
+            <File Name="Fantastic Four 33" ID="40987" SERIESID="3649"/>
+            <File Name="Millie the Model Comics 125" ID="57079" SERIESID="4311"/>
+            <File Name="Patsy and Hedy 97" ID="57445" SERIESID="4333"/>
+            <File Name="Rawhide Kid 43" ID="57507" SERIESID="4342"/>
+            <File Name="Sgt. Fury 12" ID="44359" SERIESID="3996"/>
+            <File Name="Strange Tales 127" ID="43588" SERIESID="3982"/>
+            <File Name="Tales of Suspense 60" ID="43667" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1964 10">
-            <File Name="Daredevil 5" ID="44087"/>
-            <File Name="Journey into Mystery 111" ID="43483"/>
-            <File Name="Modeling with Millie 36" ID="54249"/>
-            <File Name="Patsy Walker 118" ID="57478"/>
-            <File Name="Tales to Astonish 63" ID="43749"/>
-            <File Name="Two Gun Kid 73" ID="57859"/>
-            <File Name="Amazing Spider-Man 20" ID="43844"/>
-            <File Name="Avengers 11" ID="43935"/>
-            <File Name="Fantastic Four 34" ID="40988"/>
-            <File Name="Kid Colt Outlaw 120" ID="56798"/>
-            <File Name="Millie the Model Comics 126" ID="57080"/>
-            <File Name="Sgt. Fury 13" ID="44360"/>
-            <File Name="Strange Tales 128" ID="43589"/>
-            <File Name="Tales of Suspense 61" ID="43668"/>
+            <File Name="Daredevil 5" ID="44087" SERIESID="3988"/>
+            <File Name="Journey into Mystery 111" ID="43483" SERIESID="3980"/>
+            <File Name="Modeling with Millie 36" ID="54249" SERIESID="4315"/>
+            <File Name="Patsy Walker 118" ID="57478" SERIESID="4335"/>
+            <File Name="Tales to Astonish 63" ID="43749" SERIESID="3984"/>
+            <File Name="Two Gun Kid 73" ID="57859" SERIESID="4384"/>
+            <File Name="Amazing Spider-Man 20" ID="43844" SERIESID="3985"/>
+            <File Name="Avengers 11" ID="43935" SERIESID="3986"/>
+            <File Name="Fantastic Four 34" ID="40988" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 120" ID="56798" SERIESID="4277"/>
+            <File Name="Millie the Model Comics 126" ID="57080" SERIESID="4311"/>
+            <File Name="Sgt. Fury 13" ID="44360" SERIESID="3996"/>
+            <File Name="Strange Tales 128" ID="43589" SERIESID="3982"/>
+            <File Name="Tales of Suspense 61" ID="43668" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1964 11">
-            <File Name="Journey into Mystery 112" ID="43484"/>
-            <File Name="Tales to Astonish 64" ID="43750"/>
-            <File Name="X-Men 9" ID="44025"/>
-            <File Name="Amazing Spider-Man 21" ID="43845"/>
-            <File Name="Avengers 12" ID="43936"/>
-            <File Name="Fantastic Four 35" ID="40989"/>
-            <File Name="Patsy and Hedy 98" ID="57446"/>
-            <File Name="Rawhide Kid 44" ID="57508"/>
-            <File Name="Sgt. Fury 14" ID="44361"/>
-            <File Name="Strange Tales 129" ID="43590"/>
-            <File Name="Tales of Suspense 62" ID="43669"/>
+            <File Name="Journey into Mystery 112" ID="43484" SERIESID="3980"/>
+            <File Name="Tales to Astonish 64" ID="43750" SERIESID="3984"/>
+            <File Name="X-Men 9" ID="44025" SERIESID="3987"/>
+            <File Name="Amazing Spider-Man 21" ID="43845" SERIESID="3985"/>
+            <File Name="Avengers 12" ID="43936" SERIESID="3986"/>
+            <File Name="Fantastic Four 35" ID="40989" SERIESID="3649"/>
+            <File Name="Patsy and Hedy 98" ID="57446" SERIESID="4333"/>
+            <File Name="Rawhide Kid 44" ID="57508" SERIESID="4342"/>
+            <File Name="Sgt. Fury 14" ID="44361" SERIESID="3996"/>
+            <File Name="Strange Tales 129" ID="43590" SERIESID="3982"/>
+            <File Name="Tales of Suspense 62" ID="43669" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1964 12">
-            <File Name="Daredevil 6" ID="44088"/>
-            <File Name="Journey into Mystery 113" ID="43485"/>
-            <File Name="Modeling with Millie 37" ID="54250"/>
-            <File Name="Patsy Walker 119" ID="57479"/>
-            <File Name="Tales to Astonish 65" ID="43751"/>
-            <File Name="Two Gun Kid 74" ID="57860"/>
-            <File Name="Amazing Spider-Man 22" ID="43846"/>
-            <File Name="Avengers 13" ID="43937"/>
-            <File Name="Fantastic Four 36" ID="40990"/>
-            <File Name="Kid Colt Outlaw 121" ID="56799"/>
-            <File Name="Millie the Model Comics 127" ID="57081"/>
-            <File Name="Sgt. Fury 15" ID="44362"/>
-            <File Name="Strange Tales 130" ID="43591"/>
-            <File Name="Tales of Suspense 63" ID="43670"/>
-            <File Name="Monsters to Laugh With 3" ID="70558"/>
+            <File Name="Daredevil 6" ID="44088" SERIESID="3988"/>
+            <File Name="Journey into Mystery 113" ID="43485" SERIESID="3980"/>
+            <File Name="Modeling with Millie 37" ID="54250" SERIESID="4315"/>
+            <File Name="Patsy Walker 119" ID="57479" SERIESID="4335"/>
+            <File Name="Tales to Astonish 65" ID="43751" SERIESID="3984"/>
+            <File Name="Two Gun Kid 74" ID="57860" SERIESID="4384"/>
+            <File Name="Amazing Spider-Man 22" ID="43846" SERIESID="3985"/>
+            <File Name="Avengers 13" ID="43937" SERIESID="3986"/>
+            <File Name="Fantastic Four 36" ID="40990" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 121" ID="56799" SERIESID="4277"/>
+            <File Name="Millie the Model Comics 127" ID="57081" SERIESID="4311"/>
+            <File Name="Sgt. Fury 15" ID="44362" SERIESID="3996"/>
+            <File Name="Strange Tales 130" ID="43591" SERIESID="3982"/>
+            <File Name="Tales of Suspense 63" ID="43670" SERIESID="3983"/>
+            <File Name="Monsters to Laugh With 3" ID="70558" SERIESID="5809"/>
         </Directory>
     </Year>
