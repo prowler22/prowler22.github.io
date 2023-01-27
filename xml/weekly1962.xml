@@ -2,160 +2,160 @@
 <!DOCTYPE xml>
     <Year Name="CMC 1962">
         <Directory Name="CMC 1962 01">
-            <File Name="Amazing Adult Fantasy 11" ID="51487"/>
-            <File Name="Gunsmoke Western 69" ID="53059"/>
-            <File Name="Journey into Mystery 78" ID="53162"/>
-            <File Name="Love Romances 98" ID="53691"/>
-            <File Name="Teen-Age Romance 86" ID="54431"/>
-            <File Name="Patsy and Hedy 81" ID="57429"/>
-            <File Name="Rawhide Kid 27" ID="57491"/>
-            <File Name="Strange Tales 95" ID="55301"/>
-            <File Name="Tales of Suspense 28" ID="55397"/>
-            <File Name="Tales to Astonish 30" ID="55437"/>
+            <File Name="Amazing Adult Fantasy 11" ID="51487" SERIESID="3981"/>
+            <File Name="Gunsmoke Western 69" ID="53059" SERIESID="4254"/>
+            <File Name="Journey into Mystery 78" ID="53162" SERIESID="3980"/>
+            <File Name="Love Romances 98" ID="53691" SERIESID="4295"/>
+            <File Name="Teen-Age Romance 86" ID="54431" SERIESID="4322"/>
+            <File Name="Patsy and Hedy 81" ID="57429" SERIESID="4333"/>
+            <File Name="Rawhide Kid 27" ID="57491" SERIESID="4342"/>
+            <File Name="Strange Tales 95" ID="55301" SERIESID="3982"/>
+            <File Name="Tales of Suspense 28" ID="55397" SERIESID="3983"/>
+            <File Name="Tales to Astonish 30" ID="55437" SERIESID="3984"/>
         </Directory>
         <Directory Name="CMC 1962 02">
-            <File Name="Amazing Adult Fantasy 12" ID="51488"/>
-            <File Name="Journey into Mystery 79" ID="53163"/>
-            <File Name="Kathy 16" ID="53331"/>
-            <File Name="Life with Millie 16" ID="54229"/>
-            <File Name="Patsy Walker 100" ID="57460"/>
-            <File Name="Tales to Astonish 31" ID="55438"/>
-            <File Name="Fantastic Four 4" ID="40955"/>
-            <File Name="Kid Colt Outlaw 104" ID="56782"/>
-            <File Name="Linda Carter, Student Nurse 5" ID="53529"/>
-            <File Name="Millie the Model Comics 108" ID="57062"/>
-            <File Name="Strange Tales 96" ID="55302"/>
-            <File Name="Tales of Suspense 29" ID="55398"/>
+            <File Name="Amazing Adult Fantasy 12" ID="51488" SERIESID="3981"/>
+            <File Name="Journey into Mystery 79" ID="53163" SERIESID="3980"/>
+            <File Name="Kathy 16" ID="53331" SERIESID="4275"/>
+            <File Name="Life with Millie 16" ID="54229" SERIESID="4315"/>
+            <File Name="Patsy Walker 100" ID="57460" SERIESID="4335"/>
+            <File Name="Tales to Astonish 31" ID="55438" SERIESID="3984"/>
+            <File Name="Fantastic Four 4" ID="40955" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 104" ID="56782" SERIESID="4277"/>
+            <File Name="Linda Carter, Student Nurse 5" ID="53529" SERIESID="4286"/>
+            <File Name="Millie the Model Comics 108" ID="57062" SERIESID="4311"/>
+            <File Name="Strange Tales 96" ID="55302" SERIESID="3982"/>
+            <File Name="Tales of Suspense 29" ID="55398" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1962 03">
-            <File Name="Amazing Adult Fantasy 13" ID="51489"/>
-            <File Name="Gunsmoke Western 70" ID="53060"/>
-            <File Name="Incredible Hulk 1" ID="41067"/>
-            <File Name="Journey into Mystery 80" ID="53164"/>
-            <File Name="Love Romances 99" ID="53692"/>
-            <File Name="Patsy and Hedy 82" ID="57430"/>
-            <File Name="Rawhide Kid 28" ID="57492"/>
-            <File Name="Strange Tales 97" ID="55303"/>
-            <File Name="Tales of Suspense 30" ID="55399"/>
-            <File Name="Tales to Astonish 32" ID="55439"/>
+            <File Name="Amazing Adult Fantasy 13" ID="51489" SERIESID="3981"/>
+            <File Name="Gunsmoke Western 70" ID="53060" SERIESID="4254"/>
+            <File Name="Incredible Hulk 1" ID="41067" SERIESID="3650"/>
+            <File Name="Journey into Mystery 80" ID="53164" SERIESID="3980"/>
+            <File Name="Love Romances 99" ID="53692" SERIESID="4295"/>
+            <File Name="Patsy and Hedy 82" ID="57430" SERIESID="4333"/>
+            <File Name="Rawhide Kid 28" ID="57492" SERIESID="4342"/>
+            <File Name="Strange Tales 97" ID="55303" SERIESID="3982"/>
+            <File Name="Tales of Suspense 30" ID="55399" SERIESID="3983"/>
+            <File Name="Tales to Astonish 32" ID="55439" SERIESID="3984"/>
         </Directory>
         <Directory Name="CMC 1962 04">
-            <File Name="Amazing Adult Fantasy 14" ID="51490"/>
-            <File Name="Journey into Mystery 81" ID="53165"/>
-            <File Name="Kathy 17" ID="53332"/>
-            <File Name="Life with Millie 17" ID="54230"/>
-            <File Name="Patsy Walker 101" ID="57461"/>
-            <File Name="Tales to Astonish 33" ID="55440"/>
-            <File Name="Fantastic Four 5" ID="40956"/>
-            <File Name="Kid Colt Outlaw 105" ID="56783"/>
-            <File Name="Linda Carter, Student Nurse 6" ID="53530"/>
-            <File Name="Millie the Model Comics 109" ID="57063"/>
-            <File Name="Strange Tales 98" ID="55304"/>
-            <File Name="Tales of Suspense 31" ID="55400"/>
+            <File Name="Amazing Adult Fantasy 14" ID="51490" SERIESID="3981"/>
+            <File Name="Journey into Mystery 81" ID="53165" SERIESID="3980"/>
+            <File Name="Kathy 17" ID="53332" SERIESID="4275"/>
+            <File Name="Life with Millie 17" ID="54230" SERIESID="4315"/>
+            <File Name="Patsy Walker 101" ID="57461" SERIESID="4335"/>
+            <File Name="Tales to Astonish 33" ID="55440" SERIESID="3984"/>
+            <File Name="Fantastic Four 5" ID="40956" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 105" ID="56783" SERIESID="4277"/>
+            <File Name="Linda Carter, Student Nurse 6" ID="53530" SERIESID="4286"/>
+            <File Name="Millie the Model Comics 109" ID="57063" SERIESID="4311"/>
+            <File Name="Strange Tales 98" ID="55304" SERIESID="3982"/>
+            <File Name="Tales of Suspense 31" ID="55400" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1962 05">
-            <File Name="Gunsmoke Western 71" ID="53061"/>
-            <File Name="Incredible Hulk 2" ID="41068"/>
-            <File Name="Journey into Mystery 82" ID="53166"/>
-            <File Name="Love Romances 100" ID="53693"/>
-            <File Name="Patsy and Hedy 83" ID="57431"/>
-            <File Name="Rawhide Kid 29" ID="57493"/>
-            <File Name="Strange Tales 99" ID="55305"/>
-            <File Name="Tales of Suspense 32" ID="55401"/>
-            <File Name="Tales to Astonish 34" ID="55441"/>
+            <File Name="Gunsmoke Western 71" ID="53061" SERIESID="4254"/>
+            <File Name="Incredible Hulk 2" ID="41068" SERIESID="3650"/>
+            <File Name="Journey into Mystery 82" ID="53166" SERIESID="3980"/>
+            <File Name="Love Romances 100" ID="53693" SERIESID="4295"/>
+            <File Name="Patsy and Hedy 83" ID="57431" SERIESID="4333"/>
+            <File Name="Rawhide Kid 29" ID="57493" SERIESID="4342"/>
+            <File Name="Strange Tales 99" ID="55305" SERIESID="3982"/>
+            <File Name="Tales of Suspense 32" ID="55401" SERIESID="3983"/>
+            <File Name="Tales to Astonish 34" ID="55441" SERIESID="3984"/>
         </Directory>
         <Directory Name="CMC 1962 06">
-            <File Name="Amazing Fantasy 15" ID="43561"/>
-            <File Name="Journey into Mystery 83" ID="43455"/>
-            <File Name="Kathy 18" ID="53333"/>
-            <File Name="Life with Millie 18" ID="54231"/>
-            <File Name="Patsy Walker 102" ID="57462"/>
-            <File Name="Tales to Astonish 35" ID="43721"/>
-            <File Name="Fantastic Four 6" ID="40957"/>
-            <File Name="Kid Colt Outlaw 106" ID="56784"/>
-            <File Name="Linda Carter, Student Nurse 7" ID="53531"/>
-            <File Name="Millie the Model Comics 110" ID="57064"/>
-            <File Name="Strange Tales 100" ID="55306"/>
-            <File Name="Tales of Suspense 33" ID="55402"/>
+            <File Name="Amazing Fantasy 15" ID="43561" SERIESID="3981"/>
+            <File Name="Journey into Mystery 83" ID="43455" SERIESID="3980"/>
+            <File Name="Kathy 18" ID="53333" SERIESID="4275"/>
+            <File Name="Life with Millie 18" ID="54231" SERIESID="4315"/>
+            <File Name="Patsy Walker 102" ID="57462" SERIESID="4335"/>
+            <File Name="Tales to Astonish 35" ID="43721" SERIESID="3984"/>
+            <File Name="Fantastic Four 6" ID="40957" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 106" ID="56784" SERIESID="4277"/>
+            <File Name="Linda Carter, Student Nurse 7" ID="53531" SERIESID="4286"/>
+            <File Name="Millie the Model Comics 110" ID="57064" SERIESID="4311"/>
+            <File Name="Strange Tales 100" ID="55306" SERIESID="3982"/>
+            <File Name="Tales of Suspense 33" ID="55402" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1962 07">
-            <File Name="Fantastic Four 7" ID="40958"/>
-            <File Name="Gunsmoke Western 72" ID="53062"/>
-            <File Name="Incredible Hulk 3" ID="41069"/>
-            <File Name="Journey into Mystery 84" ID="43456"/>
-            <File Name="Love Romances 101" ID="53694"/>
-            <File Name="Millie the Model Annual 1" ID="57162"/>
-            <File Name="Strange Tales Annual 1" ID="55307"/>
-            <File Name="Patsy and Hedy 84" ID="57432"/>
-            <File Name="Rawhide Kid 30" ID="57494"/>
-            <File Name="Strange Tales 101" ID="43562"/>
-            <File Name="Tales of Suspense 34" ID="55403"/>
-            <File Name="Tales to Astonish 36" ID="43722"/>
+            <File Name="Fantastic Four 7" ID="40958" SERIESID="3649"/>
+            <File Name="Gunsmoke Western 72" ID="53062" SERIESID="4254"/>
+            <File Name="Incredible Hulk 3" ID="41069" SERIESID="3650"/>
+            <File Name="Journey into Mystery 84" ID="43456" SERIESID="3980"/>
+            <File Name="Love Romances 101" ID="53694" SERIESID="4295"/>
+            <File Name="Millie the Model Annual 1" ID="57162" SERIESID="4311"/>
+            <File Name="Strange Tales Annual 1" ID="55307" SERIESID="3982"/>
+            <File Name="Patsy and Hedy 84" ID="57432" SERIESID="4333"/>
+            <File Name="Rawhide Kid 30" ID="57494" SERIESID="4342"/>
+            <File Name="Strange Tales 101" ID="43562" SERIESID="3982"/>
+            <File Name="Tales of Suspense 34" ID="55403" SERIESID="3983"/>
+            <File Name="Tales to Astonish 36" ID="43722" SERIESID="3984"/>
         </Directory>
         <Directory Name="CMC 1962 08">
-            <File Name="Journey into Mystery 85" ID="43457"/>
-            <File Name="Kathy 19" ID="53334"/>
-            <File Name="Life with Millie 19" ID="54232"/>
-            <File Name="Patsy Walker 103" ID="57463"/>
-            <File Name="Tales to Astonish 37" ID="43723"/>
-            <File Name="Two Gun Kid 60" ID="57846"/>
-            <File Name="Fantastic Four 8" ID="40959"/>
-            <File Name="Kid Colt Outlaw 107" ID="56785"/>
-            <File Name="Linda Carter, Student Nurse 8" ID="53532"/>
-            <File Name="Millie the Model Comics 111" ID="57065"/>
-            <File Name="Strange Tales 102" ID="43563"/>
-            <File Name="Tales of Suspense 35" ID="55404"/>
+            <File Name="Journey into Mystery 85" ID="43457" SERIESID="3980"/>
+            <File Name="Kathy 19" ID="53334" SERIESID="4275"/>
+            <File Name="Life with Millie 19" ID="54232" SERIESID="4315"/>
+            <File Name="Patsy Walker 103" ID="57463" SERIESID="4335"/>
+            <File Name="Tales to Astonish 37" ID="43723" SERIESID="3984"/>
+            <File Name="Two Gun Kid 60" ID="57846" SERIESID="4384"/>
+            <File Name="Fantastic Four 8" ID="40959" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 107" ID="56785" SERIESID="4277"/>
+            <File Name="Linda Carter, Student Nurse 8" ID="53532" SERIESID="4286"/>
+            <File Name="Millie the Model Comics 111" ID="57065" SERIESID="4311"/>
+            <File Name="Strange Tales 102" ID="43563" SERIESID="3982"/>
+            <File Name="Tales of Suspense 35" ID="55404" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1962 09">
-            <File Name="Fantastic Four 9" ID="40960"/>
-            <File Name="Gunsmoke Western 73" ID="53063"/>
-            <File Name="Incredible Hulk 4" ID="41070"/>
-            <File Name="Journey into Mystery 86" ID="43458"/>
-            <File Name="Love Romances 102" ID="53695"/>
-            <File Name="Patsy and Hedy 85" ID="57433"/>
-            <File Name="Rawhide Kid 31" ID="57495"/>
-            <File Name="Strange Tales 103" ID="43564"/>
-            <File Name="Tales of Suspense 36" ID="55405"/>
-            <File Name="Tales to Astonish 38" ID="43724"/>
+            <File Name="Fantastic Four 9" ID="40960" SERIESID="3649"/>
+            <File Name="Gunsmoke Western 73" ID="53063" SERIESID="4254"/>
+            <File Name="Incredible Hulk 4" ID="41070" SERIESID="3650"/>
+            <File Name="Journey into Mystery 86" ID="43458" SERIESID="3980"/>
+            <File Name="Love Romances 102" ID="53695" SERIESID="4295"/>
+            <File Name="Patsy and Hedy 85" ID="57433" SERIESID="4333"/>
+            <File Name="Rawhide Kid 31" ID="57495" SERIESID="4342"/>
+            <File Name="Strange Tales 103" ID="43564" SERIESID="3982"/>
+            <File Name="Tales of Suspense 36" ID="55405" SERIESID="3983"/>
+            <File Name="Tales to Astonish 38" ID="43724" SERIESID="3984"/>
         </Directory>
         <Directory Name="CMC 1962 10">
-            <File Name="Journey into Mystery 87" ID="43459"/>
-            <File Name="Kathy 20" ID="53335"/>
-            <File Name="Life with Millie 20" ID="54233"/>
-            <File Name="Patsy Walker 104" ID="57464"/>
-            <File Name="Tales to Astonish 39" ID="43725"/>
-            <File Name="Two Gun Kid 61" ID="57847"/>
-            <File Name="Fantastic Four 10" ID="40961"/>
-            <File Name="Kid Colt Outlaw 108" ID="56786"/>
-            <File Name="Linda Carter, Student Nurse 9" ID="53533"/>
-            <File Name="Millie the Model Comics 112" ID="57066"/>
-            <File Name="Strange Tales 104" ID="43565"/>
-            <File Name="Tales of Suspense 37" ID="55406"/>
+            <File Name="Journey into Mystery 87" ID="43459" SERIESID="3980"/>
+            <File Name="Kathy 20" ID="53335" SERIESID="4275"/>
+            <File Name="Life with Millie 20" ID="54233" SERIESID="4315"/>
+            <File Name="Patsy Walker 104" ID="57464" SERIESID="4335"/>
+            <File Name="Tales to Astonish 39" ID="43725" SERIESID="3984"/>
+            <File Name="Two Gun Kid 61" ID="57847" SERIESID="4384"/>
+            <File Name="Fantastic Four 10" ID="40961" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 108" ID="56786" SERIESID="4277"/>
+            <File Name="Linda Carter, Student Nurse 9" ID="53533" SERIESID="4286"/>
+            <File Name="Millie the Model Comics 112" ID="57066" SERIESID="4311"/>
+            <File Name="Strange Tales 104" ID="43565" SERIESID="3982"/>
+            <File Name="Tales of Suspense 37" ID="55406" SERIESID="3983"/>
         </Directory>
         <Directory Name="CMC 1962 11">
-            <File Name="Fantastic Four 11" ID="40962"/>
-            <File Name="Gunsmoke Western 74" ID="53064"/>
-            <File Name="Incredible Hulk 5" ID="41071"/>
-            <File Name="Journey into Mystery 88" ID="43460"/>
-            <File Name="Love Romances 103" ID="53696"/>
-            <File Name="Patsy and Hedy 86" ID="57434"/>
-            <File Name="Rawhide Kid 32" ID="57496"/>
-            <File Name="Strange Tales 105" ID="43566"/>
-            <File Name="Tales of Suspense 38" ID="55407"/>
-            <File Name="Tales to Astonish 40" ID="43726"/>
+            <File Name="Fantastic Four 11" ID="40962" SERIESID="3649"/>
+            <File Name="Gunsmoke Western 74" ID="53064" SERIESID="4254"/>
+            <File Name="Incredible Hulk 5" ID="41071" SERIESID="3650"/>
+            <File Name="Journey into Mystery 88" ID="43460" SERIESID="3980"/>
+            <File Name="Love Romances 103" ID="53696" SERIESID="4295"/>
+            <File Name="Patsy and Hedy 86" ID="57434" SERIESID="4333"/>
+            <File Name="Rawhide Kid 32" ID="57496" SERIESID="4342"/>
+            <File Name="Strange Tales 105" ID="43566" SERIESID="3982"/>
+            <File Name="Tales of Suspense 38" ID="55407" SERIESID="3983"/>
+            <File Name="Tales to Astonish 40" ID="43726" SERIESID="3984"/>
         </Directory>
         <Directory Name="CMC 1962 12">
-            <File Name="Journey into Mystery 89" ID="43461"/>
-            <File Name="Kathy 21" ID="53336"/>
-            <File Name="Modeling with Millie 21" ID="54234"/>
-            <File Name="Patsy Walker 105" ID="57465"/>
-            <File Name="Tales to Astonish 41" ID="43727"/>
-            <File Name="Two Gun Kid 62" ID="57848"/>
-            <File Name="Amazing Spider-Man 1" ID="43825"/>
-            <File Name="Fantastic Four 12" ID="40963"/>
-            <File Name="Kid Colt Outlaw 109" ID="56787"/>
-            <File Name="Millie the Model Comics 113" ID="57067"/>
-            <File Name="Strange Tales 106" ID="43567"/>
-            <File Name="Tales of Suspense 39" ID="43646"/>
+            <File Name="Journey into Mystery 89" ID="43461" SERIESID="3980"/>
+            <File Name="Kathy 21" ID="53336" SERIESID="4275"/>
+            <File Name="Modeling with Millie 21" ID="54234" SERIESID="4315"/>
+            <File Name="Patsy Walker 105" ID="57465" SERIESID="4335"/>
+            <File Name="Tales to Astonish 41" ID="43727" SERIESID="3984"/>
+            <File Name="Two Gun Kid 62" ID="57848" SERIESID="4384"/>
+            <File Name="Amazing Spider-Man 1" ID="43825" SERIESID="3985"/>
+            <File Name="Fantastic Four 12" ID="40963" SERIESID="3649"/>
+            <File Name="Kid Colt Outlaw 109" ID="56787" SERIESID="4277"/>
+            <File Name="Millie the Model Comics 113" ID="57067" SERIESID="4311"/>
+            <File Name="Strange Tales 106" ID="43567" SERIESID="3982"/>
+            <File Name="Tales of Suspense 39" ID="43646" SERIESID="3983"/>
         </Directory>
     </Year>
