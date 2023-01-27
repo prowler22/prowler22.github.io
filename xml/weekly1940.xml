@@ -2,52 +2,52 @@
 <!DOCTYPE xml>
     <Year Name="CMC 1940">
         <Directory Name="CMC 1940 01">
-            <File Name="Mystic Comics 1" ID="54555"/>
-            <File Name="Marvel Mystery Comics 5" ID="44462"/>
-            <File Name="Daring Mystery Comics 3" ID="52985"/>
+            <File Name="Mystic Comics 1" ID="54555" SERIESID="4424"/>
+            <File Name="Marvel Mystery Comics 5" ID="44462" SERIESID="3946"/>
+            <File Name="Daring Mystery Comics 3" ID="52985" SERIESID="4027"/>
         </Directory>
         <Directory Name="CMC 1940 02">
-            <File Name="Mystic Comics 2" ID="54556"/>
-            <File Name="Marvel Mystery Comics 6" ID="44463"/>
+            <File Name="Mystic Comics 2" ID="54556" SERIESID="4424"/>
+            <File Name="Marvel Mystery Comics 6" ID="44463" SERIESID="3946"/>
         </Directory>
         <Directory Name="CMC 1940 03">
-            <File Name="Daring Mystery Comics 4" ID="52986"/>
-            <File Name="Marvel Mystery Comics 7" ID="44464"/>
-            <File Name="Mystic Comics 3" ID="54557"/>
+            <File Name="Daring Mystery Comics 4" ID="52986" SERIESID="4027"/>
+            <File Name="Marvel Mystery Comics 7" ID="44464" SERIESID="3946"/>
+            <File Name="Mystic Comics 3" ID="54557" SERIESID="4424"/>
         </Directory>
         <Directory Name="CMC 1940 04">
-            <File Name="Daring Mystery Comics 5" ID="52987"/>
-            <File Name="Marvel Mystery Comics 8" ID="44465"/>
+            <File Name="Daring Mystery Comics 5" ID="52987" SERIESID="4027"/>
+            <File Name="Marvel Mystery Comics 8" ID="44465" SERIESID="3946"/>
         </Directory>
         <Directory Name="CMC 1940 05">
-            <File Name="Marvel Mystery Comics 9" ID="44466"/>
-            <File Name="Red Raven Comics 1" ID="54963"/>
+            <File Name="Marvel Mystery Comics 9" ID="44466" SERIESID="3946"/>
+            <File Name="Red Raven Comics 1" ID="54963" SERIESID="4343"/>
         </Directory>
         <Directory Name="CMC 1940 06">
-            <File Name="Mystic Comics 4" ID="54558"/>
-            <File Name="Daring Mystery Comics 6" ID="52988"/>
-            <File Name="Marvel Mystery Comics 10" ID="44467"/>
+            <File Name="Mystic Comics 4" ID="54558" SERIESID="4424"/>
+            <File Name="Daring Mystery Comics 6" ID="52988" SERIESID="4027"/>
+            <File Name="Marvel Mystery Comics 10" ID="44467" SERIESID="3946"/>
         </Directory>
         <Directory Name="CMC 1940 07">
-            <File Name="Marvel Mystery Comics 11" ID="44468"/>
+            <File Name="Marvel Mystery Comics 11" ID="44468" SERIESID="3946"/>
         </Directory>
         <Directory Name="CMC 1940 08">
-            <File Name="Marvel Mystery Comics 12" ID="44469"/>
+            <File Name="Marvel Mystery Comics 12" ID="44469" SERIESID="3946"/>
         </Directory>
         <Directory Name="CMC 1940 09">
-            <File Name="Marvel Mystery Comics 13" ID="44470"/>
-            <File Name="Human Torch ( 1)" ID="52995"/>
+            <File Name="Marvel Mystery Comics 13" ID="44470" SERIESID="3946"/>
+            <File Name="Human Torch ( 1)" ID="52995" SERIESID="2130"/>
         </Directory>
         <Directory Name="CMC 1940 10">
-            <File Name="Marvel Mystery Comics 14" ID="44471"/>
+            <File Name="Marvel Mystery Comics 14" ID="44471" SERIESID="3946"/>
         </Directory>
         <Directory Name="CMC 1940 11">
-            <File Name="Marvel Mystery Comics 15" ID="44472"/>
+            <File Name="Marvel Mystery Comics 15" ID="44472" SERIESID="3946"/>
         </Directory>
         <Directory Name="CMC 1940 12">
-            <File Name="Human Torch ( 2)" ID="52996"/>
-            <File Name="Marvel Mystery Comics 16" ID="44473"/>
-            <File Name="Mystic Comics 5" ID="54559"/>
-            <File Name="Captain America Comics 1" ID="51832"/>
+            <File Name="Human Torch ( 2)" ID="52996" SERIESID="2130"/>
+            <File Name="Marvel Mystery Comics 16" ID="44473" SERIESID="3946"/>
+            <File Name="Mystic Comics 5" ID="54559" SERIESID="4424"/>
+            <File Name="Captain America Comics 1" ID="51832" SERIESID="4001"/>
         </Directory>
     </Year>

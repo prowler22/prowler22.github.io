@@ -2,7 +2,7 @@
 define('URL', 'http://www.mikesamazingworld.com/mikes/features/newsstand.php?type=calendar&month=%MONTH%&year=%YEAR%&publisher=marvel&sort=date&checklist=on&variantex=on&collectionex=on');
 define('DCURL', 'http://www.mikesamazingworld.com/mikes/features/newsstand.php?type=calendar&month=%MONTH%&year=%YEAR%&publisher=dc&sort=date&checklist=on&variantex=on&collectionex=on');
 define('TOP', "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE xml>\n");
-$startYear = 2023;
+$startYear = 1939;
 $startURL = URL;
 $dc = "";
 $project = "CMC";
@@ -42,8 +42,27 @@ foreach ($years as $year) {
             $href = $elem->getAttribute('href');
             $hrefArr = explode('=', $href);
             $id = "";
+            $seriesId = '1';
             if (sizeof($hrefArr) >= 2) $id = $hrefArr[1];
 
+            $websiteissue = @file_get_contents('http://www.mikesamazingworld.com' . $href);
+            if ($websiteissue == '' || $websiteissue === false) {
+               $seriesId = '0';
+            } else {      
+               $doc2 = new DOMDocument();
+               libxml_use_internal_errors(true);
+               $doc2->loadHTML($websiteissue); // or you could load from a string using loadHTML();
+               libxml_clear_errors();
+               $xpath2 = new DOMXpath($doc2);
+               $elements2 = $xpath2->query("//li[@id='series']//a");
+
+               foreach($elements2 as $elem2){
+                  $href2 = $elem2->getAttribute('href');
+                  $hrefArr2 = explode('=', $href2);
+                  if (sizeof($hrefArr2) >= 2) $seriesId = $hrefArr2[1];
+               }
+            }
+      
             if (strpos($elem->nodeValue, '#') !== false) {
                list($title, $number) = explode('#', $elem->nodeValue);
                $number = " " . $number;
@@ -56,7 +75,7 @@ foreach ($years as $year) {
             $title = str_replace('"', '&quot;', $title);
             $title = str_replace("'", '&apos;', $title);
             $number = str_replace('&', '&amp;', $number);
-            $monthContents .= $sep . '            <File Name="' . trim($title) . $number . '" ID="' . $id . '"/>';
+            $monthContents .= $sep . '            <File Name="' . trim($title) . $number . '" ID="' . $id . '" SERIESID="' . $seriesId . '"/>';
             $sep = "\n";
          }
       }

@@ -97,9 +97,12 @@ function readCMCFile() {
                   var name = files[k].getAttribute('Name').replace(/\s/g, '+').toLowerCase();
                   name = name.replace(/\+vol\+[0-9]+/, '');
                   var id = files[k].getAttribute('ID');
+                  var seriesid = files[k].getAttribute('SERIESID');
+                  const myArray = name.split(" ");
+                  var issueno = myArray[myArray.length - 1];
                   //link.href = "http://libgen.lc/comics/index.php?s=" + name + "+" + year + "&res=25&sorted=0&mask=0&show=0";
 				      //link.href = "http://libgen.li/index.php?req=" + name + "+" + year + "&res=25&filesuns=on";
-                  link.href = "https://comic-reader.000webhostapp.com/readerCE.php?ID=" + id + "&YEAR=" + year;
+                  link.href = "https://comic-reader.000webhostapp.com/readerCES.php?ID=" + id + "&YEAR=" + year + "&SERIESID=" + seriesid + "&ISSUENO=" + issueno;
                   link.onclick = function(e){ 
                      e.preventDefault(); 
                      var url = this.getAttribute('href'); 

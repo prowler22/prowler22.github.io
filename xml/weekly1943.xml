@@ -2,120 +2,120 @@
 <!DOCTYPE xml>
     <Year Name="CMC 1943">
         <Directory Name="CMC 1943 01">
-            <File Name="Krazy Komics 6" ID="53480"/>
-            <File Name="Captain America Comics 24" ID="51856"/>
-            <File Name="Comedy Comics 14" ID="52033"/>
-            <File Name="Sub-Mariner Comics 8" ID="55577"/>
-            <File Name="Terry-Toons Comics 6" ID="55463"/>
-            <File Name="Marvel Mystery Comics 41" ID="44498"/>
+            <File Name="Krazy Komics 6" ID="53480" SERIESID="4282"/>
+            <File Name="Captain America Comics 24" ID="51856" SERIESID="4001"/>
+            <File Name="Comedy Comics 14" ID="52033" SERIESID="4226"/>
+            <File Name="Sub-Mariner Comics 8" ID="55577" SERIESID="4022"/>
+            <File Name="Terry-Toons Comics 6" ID="55463" SERIESID="4374"/>
+            <File Name="Marvel Mystery Comics 41" ID="44498" SERIESID="3946"/>
         </Directory>
         <Directory Name="CMC 1943 02">
-            <File Name="Joker Comics 8" ID="52772"/>
-            <File Name="Young Allies 7" ID="44637"/>
-            <File Name="U.S.A. Comics 8" ID="56156"/>
-            <File Name="Krazy Komics 7" ID="53481"/>
-            <File Name="Captain America Comics 25" ID="51857"/>
-            <File Name="Marvel Mystery Comics 42" ID="44499"/>
-            <File Name="Terry-Toons Comics 7" ID="55464"/>
+            <File Name="Joker Comics 8" ID="52772" SERIESID="4270"/>
+            <File Name="Young Allies 7" ID="44637" SERIESID="4002"/>
+            <File Name="U.S.A. Comics 8" ID="56156" SERIESID="4025"/>
+            <File Name="Krazy Komics 7" ID="53481" SERIESID="4282"/>
+            <File Name="Captain America Comics 25" ID="51857" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 42" ID="44499" SERIESID="3946"/>
+            <File Name="Terry-Toons Comics 7" ID="55464" SERIESID="4374"/>
         </Directory>
         <Directory Name="CMC 1943 03">
-            <File Name="Comedy Comics 15" ID="52034"/>
-            <File Name="Joker Comics 9" ID="52773"/>
-            <File Name="Captain America Comics 26" ID="51858"/>
-            <File Name="Marvel Mystery Comics 43" ID="44500"/>
-            <File Name="Terry-Toons Comics 8" ID="55465"/>
-            <File Name="Krazy Komics 8" ID="53482"/>
+            <File Name="Comedy Comics 15" ID="52034" SERIESID="4226"/>
+            <File Name="Joker Comics 9" ID="52773" SERIESID="4270"/>
+            <File Name="Captain America Comics 26" ID="51858" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 43" ID="44500" SERIESID="3946"/>
+            <File Name="Terry-Toons Comics 8" ID="55465" SERIESID="4374"/>
+            <File Name="Krazy Komics 8" ID="53482" SERIESID="4282"/>
         </Directory>
         <Directory Name="CMC 1943 04">
-            <File Name="All-Winners Comics 8" ID="44659"/>
-            <File Name="Sub-Mariner Comics 9" ID="55578"/>
-            <File Name="Human Torch 11" ID="53005"/>
-            <File Name="Comedy Comics 16" ID="52035"/>
-            <File Name="Young Allies 8" ID="44638"/>
-            <File Name="Captain America Comics 27" ID="51859"/>
-            <File Name="Marvel Mystery Comics 44" ID="44501"/>
-            <File Name="Terry-Toons Comics 9" ID="55466"/>
+            <File Name="All-Winners Comics 8" ID="44659" SERIESID="4003"/>
+            <File Name="Sub-Mariner Comics 9" ID="55578" SERIESID="4022"/>
+            <File Name="Human Torch 11" ID="53005" SERIESID="2130"/>
+            <File Name="Comedy Comics 16" ID="52035" SERIESID="4226"/>
+            <File Name="Young Allies 8" ID="44638" SERIESID="4002"/>
+            <File Name="Captain America Comics 27" ID="51859" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 44" ID="44501" SERIESID="3946"/>
+            <File Name="Terry-Toons Comics 9" ID="55466" SERIESID="4374"/>
         </Directory>
         <Directory Name="CMC 1943 05">
-            <File Name="Krazy Komics 9" ID="53483"/>
-            <File Name="U.S.A. Comics 9" ID="56157"/>
-            <File Name="Comedy Comics 17" ID="52036"/>
-            <File Name="Joker Comics 10" ID="52774"/>
-            <File Name="Captain America Comics 28" ID="51860"/>
-            <File Name="Marvel Mystery Comics 45" ID="44502"/>
-            <File Name="Terry-Toons Comics 10" ID="55467"/>
-            <File Name="Krazy Komics 10" ID="53484"/>
+            <File Name="Krazy Komics 9" ID="53483" SERIESID="4282"/>
+            <File Name="U.S.A. Comics 9" ID="56157" SERIESID="4025"/>
+            <File Name="Comedy Comics 17" ID="52036" SERIESID="4226"/>
+            <File Name="Joker Comics 10" ID="52774" SERIESID="4270"/>
+            <File Name="Captain America Comics 28" ID="51860" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 45" ID="44502" SERIESID="3946"/>
+            <File Name="Terry-Toons Comics 10" ID="55467" SERIESID="4374"/>
+            <File Name="Krazy Komics 10" ID="53484" SERIESID="4282"/>
         </Directory>
         <Directory Name="CMC 1943 06">
-            <File Name="Kid Komics 2" ID="53464"/>
-            <File Name="Miss Fury 2" ID="54197"/>
-            <File Name="Comedy Comics 18" ID="52037"/>
-            <File Name="Captain America Comics 128 Pages ( 1)" ID="51849"/>
-            <File Name="Marvel Mystery Comics 128 Pages ( 1)" ID="51290"/>
-            <File Name="Captain America Comics 29" ID="51861"/>
-            <File Name="Marvel Mystery Comics 46" ID="44503"/>
-            <File Name="Terry-Toons Comics 11" ID="55468"/>
-            <File Name="Krazy Komics 11" ID="53485"/>
-            <File Name="All-Winners Comics 9" ID="44660"/>
+            <File Name="Kid Komics 2" ID="53464" SERIESID="4280"/>
+            <File Name="Miss Fury 2" ID="54197" SERIESID="4313"/>
+            <File Name="Comedy Comics 18" ID="52037" SERIESID="4226"/>
+            <File Name="Captain America Comics 128 Pages ( 1)" ID="51849" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 128 Pages ( 1)" ID="51290" SERIESID="3946"/>
+            <File Name="Captain America Comics 29" ID="51861" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 46" ID="44503" SERIESID="3946"/>
+            <File Name="Terry-Toons Comics 11" ID="55468" SERIESID="4374"/>
+            <File Name="Krazy Komics 11" ID="53485" SERIESID="4282"/>
+            <File Name="All-Winners Comics 9" ID="44660" SERIESID="4003"/>
         </Directory>
         <Directory Name="CMC 1943 07">
-            <File Name="U.S.A. Comics 10" ID="56158"/>
-            <File Name="Human Torch 12" ID="53006"/>
-            <File Name="Sub-Mariner Comics 10" ID="55579"/>
-            <File Name="Comedy Comics 19" ID="52038"/>
-            <File Name="Joker Comics 11" ID="52775"/>
-            <File Name="Captain America Comics 30" ID="51862"/>
-            <File Name="Young Allies 9" ID="44639"/>
-            <File Name="Marvel Mystery Comics 47" ID="44504"/>
+            <File Name="U.S.A. Comics 10" ID="56158" SERIESID="4025"/>
+            <File Name="Human Torch 12" ID="53006" SERIESID="2130"/>
+            <File Name="Sub-Mariner Comics 10" ID="55579" SERIESID="4022"/>
+            <File Name="Comedy Comics 19" ID="52038" SERIESID="4226"/>
+            <File Name="Joker Comics 11" ID="52775" SERIESID="4270"/>
+            <File Name="Captain America Comics 30" ID="51862" SERIESID="4001"/>
+            <File Name="Young Allies 9" ID="44639" SERIESID="4002"/>
+            <File Name="Marvel Mystery Comics 47" ID="44504" SERIESID="3946"/>
         </Directory>
         <Directory Name="CMC 1943 08">
-            <File Name="Terry-Toons Comics 12" ID="55469"/>
-            <File Name="Joker Comics 12" ID="52776"/>
-            <File Name="All Surprise 1" ID="51436"/>
-            <File Name="Captain America Comics 31" ID="51863"/>
-            <File Name="Marvel Mystery Comics 48" ID="44505"/>
-            <File Name="Terry-Toons Comics 13" ID="55470"/>
-            <File Name="Krazy Komics 12" ID="53486"/>
+            <File Name="Terry-Toons Comics 12" ID="55469" SERIESID="4374"/>
+            <File Name="Joker Comics 12" ID="52776" SERIESID="4270"/>
+            <File Name="All Surprise 1" ID="51436" SERIESID="4196"/>
+            <File Name="Captain America Comics 31" ID="51863" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 48" ID="44505" SERIESID="3946"/>
+            <File Name="Terry-Toons Comics 13" ID="55470" SERIESID="4374"/>
+            <File Name="Krazy Komics 12" ID="53486" SERIESID="4282"/>
         </Directory>
         <Directory Name="CMC 1943 09">
-            <File Name="Comedy Comics 20" ID="52039"/>
-            <File Name="All Select Comics 1" ID="45412"/>
-            <File Name="Joker Comics 13" ID="52777"/>
-            <File Name="Powerhouse Pepper Comics 1" ID="54904"/>
-            <File Name="Young Allies 10" ID="44640"/>
-            <File Name="Captain America Comics 32" ID="51864"/>
-            <File Name="Marvel Mystery Comics 49" ID="44506"/>
-            <File Name="Terry-Toons Comics 14" ID="55471"/>
+            <File Name="Comedy Comics 20" ID="52039" SERIESID="4226"/>
+            <File Name="All Select Comics 1" ID="45412" SERIESID="4023"/>
+            <File Name="Joker Comics 13" ID="52777" SERIESID="4270"/>
+            <File Name="Powerhouse Pepper Comics 1" ID="54904" SERIESID="4338"/>
+            <File Name="Young Allies 10" ID="44640" SERIESID="4002"/>
+            <File Name="Captain America Comics 32" ID="51864" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 49" ID="44506" SERIESID="3946"/>
+            <File Name="Terry-Toons Comics 14" ID="55471" SERIESID="4374"/>
         </Directory>
         <Directory Name="CMC 1943 10">
-            <File Name="Kid Komics 3" ID="53465"/>
-            <File Name="All-Winners Comics 10" ID="44661"/>
-            <File Name="Human Torch 13" ID="53007"/>
-            <File Name="Sub-Mariner Comics 11" ID="55580"/>
-            <File Name="Joker Comics 14" ID="52778"/>
-            <File Name="U.S.A. Comics 11" ID="56159"/>
-            <File Name="Captain America Comics 33" ID="51865"/>
-            <File Name="Marvel Mystery Comics 50" ID="44507"/>
-            <File Name="Terry-Toons Comics 15" ID="55472"/>
+            <File Name="Kid Komics 3" ID="53465" SERIESID="4280"/>
+            <File Name="All-Winners Comics 10" ID="44661" SERIESID="4003"/>
+            <File Name="Human Torch 13" ID="53007" SERIESID="2130"/>
+            <File Name="Sub-Mariner Comics 11" ID="55580" SERIESID="4022"/>
+            <File Name="Joker Comics 14" ID="52778" SERIESID="4270"/>
+            <File Name="U.S.A. Comics 11" ID="56159" SERIESID="4025"/>
+            <File Name="Captain America Comics 33" ID="51865" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 50" ID="44507" SERIESID="3946"/>
+            <File Name="Terry-Toons Comics 15" ID="55472" SERIESID="4374"/>
         </Directory>
         <Directory Name="CMC 1943 11">
-            <File Name="Comedy Comics 21" ID="52040"/>
-            <File Name="Krazy Komics 13" ID="53487"/>
-            <File Name="Captain America Comics 34" ID="51866"/>
-            <File Name="Marvel Mystery Comics 51" ID="44508"/>
-            <File Name="Terry-Toons Comics 16" ID="55473"/>
-            <File Name="Young Allies 11" ID="44641"/>
+            <File Name="Comedy Comics 21" ID="52040" SERIESID="4226"/>
+            <File Name="Krazy Komics 13" ID="53487" SERIESID="4282"/>
+            <File Name="Captain America Comics 34" ID="51866" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 51" ID="44508" SERIESID="3946"/>
+            <File Name="Terry-Toons Comics 16" ID="55473" SERIESID="4374"/>
+            <File Name="Young Allies 11" ID="44641" SERIESID="4002"/>
         </Directory>
         <Directory Name="CMC 1943 12">
-            <File Name="All Select Comics 2" ID="45413"/>
-            <File Name="All Surprise 2" ID="51437"/>
-            <File Name="Miss Fury 3" ID="54198"/>
-            <File Name="Captain America Comics 35" ID="51867"/>
-            <File Name="Marvel Mystery Comics 52" ID="44509"/>
-            <File Name="Terry-Toons Comics 17" ID="55474"/>
-            <File Name="Human Torch 14" ID="53008"/>
-            <File Name="All-Winners Comics 11" ID="44662"/>
-            <File Name="Comedy Comics 22" ID="52041"/>
-            <File Name="Joker Comics 15" ID="52779"/>
+            <File Name="All Select Comics 2" ID="45413" SERIESID="4023"/>
+            <File Name="All Surprise 2" ID="51437" SERIESID="4196"/>
+            <File Name="Miss Fury 3" ID="54198" SERIESID="4313"/>
+            <File Name="Captain America Comics 35" ID="51867" SERIESID="4001"/>
+            <File Name="Marvel Mystery Comics 52" ID="44509" SERIESID="3946"/>
+            <File Name="Terry-Toons Comics 17" ID="55474" SERIESID="4374"/>
+            <File Name="Human Torch 14" ID="53008" SERIESID="2130"/>
+            <File Name="All-Winners Comics 11" ID="44662" SERIESID="4003"/>
+            <File Name="Comedy Comics 22" ID="52041" SERIESID="4226"/>
+            <File Name="Joker Comics 15" ID="52779" SERIESID="4270"/>
         </Directory>
     </Year>
