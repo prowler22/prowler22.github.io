@@ -2,7 +2,7 @@
 define('URL', 'http://www.mikesamazingworld.com/mikes/features/newsstand.php?type=calendar&month=%MONTH%&year=%YEAR%&publisher=marvel&sort=date&checklist=on&variantex=on&collectionex=on');
 define('DCURL', 'http://www.mikesamazingworld.com/mikes/features/newsstand.php?type=calendar&month=%MONTH%&year=%YEAR%&publisher=dc&sort=date&checklist=on&variantex=on&collectionex=on');
 define('TOP', "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE xml>\n");
-$startYear = 1939;
+$startYear = 2023;
 $startURL = URL;
 $dc = "";
 $project = "CMC";
@@ -39,6 +39,11 @@ foreach ($years as $year) {
       foreach($elements as $elem){
          $class = $elem->getAttribute('class');
          if ($class == '') {
+            $href = $elem->getAttribute('href');
+            $hrefArr = explode('=', $href);
+            $id = "";
+            if (sizeof($hrefArr) >= 2) $id = $hrefArr[1];
+
             if (strpos($elem->nodeValue, '#') !== false) {
                list($title, $number) = explode('#', $elem->nodeValue);
                $number = " " . $number;
@@ -51,7 +56,7 @@ foreach ($years as $year) {
             $title = str_replace('"', '&quot;', $title);
             $title = str_replace("'", '&apos;', $title);
             $number = str_replace('&', '&amp;', $number);
-            $monthContents .= $sep . '            <File Name="' . trim($title) . $number . '"/>';
+            $monthContents .= $sep . '            <File Name="' . trim($title) . $number . '" ID="' . $id . '"/>';
             $sep = "\n";
          }
       }

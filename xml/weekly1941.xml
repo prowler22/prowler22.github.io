@@ -2,69 +2,69 @@
 <!DOCTYPE xml>
     <Year Name="CMC 1941">
         <Directory Name="CMC 1941 01">
-            <File Name="Marvel Mystery Comics 17"/>
+            <File Name="Marvel Mystery Comics 17" ID="44474"/>
         </Directory>
         <Directory Name="CMC 1941 02">
-            <File Name="Daring Mystery Comics 7"/>
-            <File Name="Captain America Comics 2"/>
-            <File Name="Marvel Mystery Comics 18"/>
+            <File Name="Daring Mystery Comics 7" ID="52989"/>
+            <File Name="Captain America Comics 2" ID="51833"/>
+            <File Name="Marvel Mystery Comics 18" ID="44475"/>
         </Directory>
         <Directory Name="CMC 1941 03">
-            <File Name="Sub-Mariner 1"/>
-            <File Name="Marvel Mystery Comics 19"/>
-            <File Name="Captain America Comics 3"/>
-            <File Name="Human Torch ( 3)"/>
+            <File Name="Sub-Mariner 1" ID="55570"/>
+            <File Name="Marvel Mystery Comics 19" ID="44476"/>
+            <File Name="Captain America Comics 3" ID="51834"/>
+            <File Name="Human Torch ( 3)" ID="52997"/>
         </Directory>
         <Directory Name="CMC 1941 04">
-            <File Name="Marvel Mystery Comics 20"/>
-            <File Name="Captain America Comics 4"/>
-            <File Name="U.S.A. Comics 1"/>
+            <File Name="Marvel Mystery Comics 20" ID="44477"/>
+            <File Name="Captain America Comics 4" ID="51835"/>
+            <File Name="U.S.A. Comics 1" ID="56149"/>
         </Directory>
         <Directory Name="CMC 1941 05">
-            <File Name="Captain America Comics 5"/>
-            <File Name="Marvel Mystery Comics 21"/>
-            <File Name="All-Winners Comics 1"/>
+            <File Name="Captain America Comics 5" ID="51836"/>
+            <File Name="Marvel Mystery Comics 21" ID="44478"/>
+            <File Name="All-Winners Comics 1" ID="44652"/>
         </Directory>
         <Directory Name="CMC 1941 06">
-            <File Name="Marvel Mystery Comics 22"/>
-            <File Name="Captain America Comics 6"/>
+            <File Name="Marvel Mystery Comics 22" ID="44479"/>
+            <File Name="Captain America Comics 6" ID="51837"/>
         </Directory>
         <Directory Name="CMC 1941 07">
-            <File Name="Sub-Mariner Comics 2"/>
-            <File Name="Young Allies 1"/>
-            <File Name="Human Torch ( 4)"/>
-            <File Name="Marvel Mystery Comics 23"/>
-            <File Name="Mystic Comics 6"/>
+            <File Name="Sub-Mariner Comics 2" ID="55571"/>
+            <File Name="Young Allies 1" ID="44631"/>
+            <File Name="Human Torch ( 4)" ID="52998"/>
+            <File Name="Marvel Mystery Comics 23" ID="44480"/>
+            <File Name="Mystic Comics 6" ID="54560"/>
         </Directory>
         <Directory Name="CMC 1941 08">
-            <File Name="Captain America Comics 7"/>
-            <File Name="All-Winners Comics 2"/>
-            <File Name="Marvel Mystery Comics 24"/>
-            <File Name="U.S.A. Comics 2"/>
+            <File Name="Captain America Comics 7" ID="51838"/>
+            <File Name="All-Winners Comics 2" ID="44653"/>
+            <File Name="Marvel Mystery Comics 24" ID="44481"/>
+            <File Name="U.S.A. Comics 2" ID="56150"/>
         </Directory>
         <Directory Name="CMC 1941 09">
-            <File Name="Captain America Comics 8"/>
-            <File Name="Marvel Mystery Comics 25"/>
-            <File Name="Captain America Comics 9"/>
-            <File Name="Mystic Comics 7"/>
+            <File Name="Captain America Comics 8" ID="51839"/>
+            <File Name="Marvel Mystery Comics 25" ID="44482"/>
+            <File Name="Captain America Comics 9" ID="51840"/>
+            <File Name="Mystic Comics 7" ID="54561"/>
         </Directory>
         <Directory Name="CMC 1941 10">
-            <File Name="Sub-Mariner Comics 3"/>
-            <File Name="Human Torch 5"/>
-            <File Name="Marvel Mystery Comics 26"/>
-            <File Name="Daring Mystery Comics 8"/>
+            <File Name="Sub-Mariner Comics 3" ID="55572"/>
+            <File Name="Human Torch 5" ID="52999"/>
+            <File Name="Marvel Mystery Comics 26" ID="44483"/>
+            <File Name="Daring Mystery Comics 8" ID="52990"/>
         </Directory>
         <Directory Name="CMC 1941 11">
-            <File Name="Captain America Comics 10"/>
-            <File Name="Marvel Mystery Comics 27"/>
-            <File Name="U.S.A. Comics 3"/>
-            <File Name="Young Allies 2"/>
+            <File Name="Captain America Comics 10" ID="51841"/>
+            <File Name="Marvel Mystery Comics 27" ID="44484"/>
+            <File Name="U.S.A. Comics 3" ID="56151"/>
+            <File Name="Young Allies 2" ID="44632"/>
         </Directory>
         <Directory Name="CMC 1941 12">
-            <File Name="Captain America Comics 11"/>
-            <File Name="Marvel Mystery Comics 28"/>
-            <File Name="All-Winners Comics 3"/>
-            <File Name="Mystic Comics 8"/>
-            <File Name="Tough Kid Squad Comics 1"/>
+            <File Name="Captain America Comics 11" ID="51842"/>
+            <File Name="Marvel Mystery Comics 28" ID="44485"/>
+            <File Name="All-Winners Comics 3" ID="44654"/>
+            <File Name="Mystic Comics 8" ID="54562"/>
+            <File Name="Tough Kid Squad Comics 1" ID="55614"/>
         </Directory>
     </Year>
