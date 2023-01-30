@@ -2,934 +2,934 @@
 <!DOCTYPE xml>
     <Year Name="CMC 2005">
         <Directory Name="CMC 2005 01">
-            <File Name="Alpha Flight 11" ID="129027"/>
-            <File Name="Captain America 2" ID="130387"/>
-            <File Name="Fantastic Four:Foes 1" ID="130206"/>
-            <File Name="Incredible Hulk 77" ID="123132"/>
-            <File Name="Jubilee 5" ID="129413"/>
-            <File Name="Marvel Age Spider-Man 19" ID="129249"/>
-            <File Name="New Avengers 2" ID="129777"/>
-            <File Name="Spectacular Spider-Man 23" ID="127074"/>
-            <File Name="Spider-Girl 82" ID="122302"/>
-            <File Name="Spider-Man Unlimited 7" ID="128919"/>
-            <File Name="Tomb of Dracula 4" ID="129500"/>
-            <File Name="Ultimate X-Men 54" ID="125214"/>
-            <File Name="X-Men/Fantastic Four 2" ID="130570"/>
-            <File Name="X-Men:Phoenix Endsong 1" ID="130610"/>
-            <File Name="Avengers:Earth&apos;s Mightiest Heroes 5" ID="130295"/>
-            <File Name="Captain America &amp; the Falcon 11" ID="129227"/>
-            <File Name="District X 9" ID="129372"/>
-            <File Name="Gambit 6" ID="129397"/>
-            <File Name="Marvel Age Fantastic Four 11" ID="128977"/>
-            <File Name="Marvel Knights 4 14" ID="128992"/>
-            <File Name="Marvel Knights Spider-Man 10" ID="129347"/>
-            <File Name="Marvel Team-Up 4" ID="128945"/>
-            <File Name="New Thunderbolts 85" ID="130466"/>
-            <File Name="New X-Men 8" ID="129512"/>
-            <File Name="Pulse 7" ID="129198"/>
-            <File Name="Punisher 16" ID="129074"/>
-            <File Name="She-Hulk 11" ID="129261"/>
-            <File Name="Spider-Man/Human Torch 1" ID="130591"/>
-            <File Name="Stormbreaker:The Saga of Beta Ray Bill 1" ID="130604"/>
-            <File Name="Thor:Son of Asgard 12" ID="129274"/>
-            <File Name="Ultimates 2 2" ID="129467"/>
-            <File Name="X-23 1" ID="130596"/>
-            <File Name="Bullseye:Greatest Hits 5" ID="129013"/>
-            <File Name="Cable &amp; Deadpool 11" ID="128804"/>
-            <File Name="Daredevil 69" ID="122563"/>
-            <File Name="Exiles 58" ID="125572"/>
-            <File Name="Madrox 5" ID="129727"/>
-            <File Name="New Invaders 6" ID="129738"/>
-            <File Name="Nightcrawler 5" ID="129746"/>
-            <File Name="Powers 8" ID="129604"/>
-            <File Name="Rogue 7" ID="129440"/>
-            <File Name="Spider-Man:India 3" ID="130384"/>
-            <File Name="Ultimate Spider-Man 71" ID="124926"/>
-            <File Name="Wolverine 24" ID="128015"/>
-            <File Name="Wolverine:The End 6" ID="128793"/>
-            <File Name="X-Men 166" ID="129862"/>
-            <File Name="Amazing Spider-Man 516" ID="128689"/>
-            <File Name="Arana:The Heart of the Spider 1" ID="130278"/>
-            <File Name="Avengers:Earth&apos;s Mightiest Heroes 6" ID="130296"/>
-            <File Name="Black Widow 5" ID="130257"/>
-            <File Name="Fantastic Four 522" ID="128442"/>
-            <File Name="Marvel Age Fantastic Four 12" ID="128978"/>
-            <File Name="Mystique 23" ID="127953"/>
-            <File Name="New X-Men 9" ID="129513"/>
-            <File Name="Official Handbook of the Marvel Universe:The Women of Marvel 2005 1" ID="130620"/>
-            <File Name="Spectacular Spider-Man 24" ID="127075"/>
-            <File Name="Stoker&apos;s Dracula 3" ID="129458"/>
-            <File Name="Ultimate Fantastic Four 15" ID="128860"/>
-            <File Name="Ultimate X-Men 55" ID="125215"/>
-            <File Name="Uncanny X-Men 454" ID="126206"/>
-            <File Name="X-23 2" ID="130597"/>
+            <File Name="Alpha Flight 11" ID="129027" SERIESID="9839"/>
+            <File Name="Captain America 2" ID="130387" SERIESID="10102"/>
+            <File Name="Fantastic Four:Foes 1" ID="130206" SERIESID="10043"/>
+            <File Name="Incredible Hulk 77" ID="123132" SERIESID="8925"/>
+            <File Name="Jubilee 5" ID="129413" SERIESID="9905"/>
+            <File Name="Marvel Age Spider-Man 19" ID="129249" SERIESID="9880"/>
+            <File Name="New Avengers 2" ID="129777" SERIESID="9964"/>
+            <File Name="Spectacular Spider-Man 23" ID="127074" SERIESID="9573"/>
+            <File Name="Spider-Girl 82" ID="122302" SERIESID="8856"/>
+            <File Name="Spider-Man Unlimited 7" ID="128919" SERIESID="9833"/>
+            <File Name="Tomb of Dracula 4" ID="129500" SERIESID="9920"/>
+            <File Name="Ultimate X-Men 54" ID="125214" SERIESID="9257"/>
+            <File Name="X-Men/Fantastic Four 2" ID="130570" SERIESID="10130"/>
+            <File Name="X-Men:Phoenix Endsong 1" ID="130610" SERIESID="10140"/>
+            <File Name="Avengers:Earth&apos;s Mightiest Heroes 5" ID="130295" SERIESID="10073"/>
+            <File Name="Captain America &amp; the Falcon 11" ID="129227" SERIESID="9879"/>
+            <File Name="District X 9" ID="129372" SERIESID="9901"/>
+            <File Name="Gambit 6" ID="129397" SERIESID="9903"/>
+            <File Name="Marvel Age Fantastic Four 11" ID="128977" SERIESID="9836"/>
+            <File Name="Marvel Knights 4 14" ID="128992" SERIESID="9837"/>
+            <File Name="Marvel Knights Spider-Man 10" ID="129347" SERIESID="9900"/>
+            <File Name="Marvel Team-Up 4" ID="128945" SERIESID="9835"/>
+            <File Name="New Thunderbolts 85" ID="130466" SERIESID="8761"/>
+            <File Name="New X-Men 8" ID="129512" SERIESID="9922"/>
+            <File Name="Pulse 7" ID="129198" SERIESID="9875"/>
+            <File Name="Punisher 16" ID="129074" SERIESID="9848"/>
+            <File Name="She-Hulk 11" ID="129261" SERIESID="9881"/>
+            <File Name="Spider-Man/Human Torch 1" ID="130591" SERIESID="10137"/>
+            <File Name="Stormbreaker:The Saga of Beta Ray Bill 1" ID="130604" SERIESID="10139"/>
+            <File Name="Thor:Son of Asgard 12" ID="129274" SERIESID="9882"/>
+            <File Name="Ultimates 2 2" ID="129467" SERIESID="9915"/>
+            <File Name="X-23 1" ID="130596" SERIESID="10138"/>
+            <File Name="Bullseye:Greatest Hits 5" ID="129013" SERIESID="9838"/>
+            <File Name="Cable &amp; Deadpool 11" ID="128804" SERIESID="9831"/>
+            <File Name="Daredevil 69" ID="122563" SERIESID="8877"/>
+            <File Name="Exiles 58" ID="125572" SERIESID="9300"/>
+            <File Name="Madrox 5" ID="129727" SERIESID="9956"/>
+            <File Name="New Invaders 6" ID="129738" SERIESID="9958"/>
+            <File Name="Nightcrawler 5" ID="129746" SERIESID="9959"/>
+            <File Name="Powers 8" ID="129604" SERIESID="9936"/>
+            <File Name="Rogue 7" ID="129440" SERIESID="9910"/>
+            <File Name="Spider-Man:India 3" ID="130384" SERIESID="10101"/>
+            <File Name="Ultimate Spider-Man 71" ID="124926" SERIESID="9218"/>
+            <File Name="Wolverine 24" ID="128015" SERIESID="9711"/>
+            <File Name="Wolverine:The End 6" ID="128793" SERIESID="9830"/>
+            <File Name="X-Men 166" ID="129862" SERIESID="4158"/>
+            <File Name="Amazing Spider-Man 516" ID="128689" SERIESID="8896"/>
+            <File Name="Arana:The Heart of the Spider 1" ID="130278" SERIESID="10072"/>
+            <File Name="Avengers:Earth&apos;s Mightiest Heroes 6" ID="130296" SERIESID="10073"/>
+            <File Name="Black Widow 5" ID="130257" SERIESID="10064"/>
+            <File Name="Fantastic Four 522" ID="128442" SERIESID="8778"/>
+            <File Name="Marvel Age Fantastic Four 12" ID="128978" SERIESID="9836"/>
+            <File Name="Mystique 23" ID="127953" SERIESID="9704"/>
+            <File Name="New X-Men 9" ID="129513" SERIESID="9922"/>
+            <File Name="Official Handbook of the Marvel Universe:The Women of Marvel 2005 1" ID="130620" SERIESID="9976"/>
+            <File Name="Spectacular Spider-Man 24" ID="127075" SERIESID="9573"/>
+            <File Name="Stoker&apos;s Dracula 3" ID="129458" SERIESID="9913"/>
+            <File Name="Ultimate Fantastic Four 15" ID="128860" SERIESID="9832"/>
+            <File Name="Ultimate X-Men 55" ID="125215" SERIESID="9257"/>
+            <File Name="Uncanny X-Men 454" ID="126206" SERIESID="3987"/>
+            <File Name="X-23 2" ID="130597" SERIESID="10138"/>
         </Directory>
         <Directory Name="CMC 2005 02">
-            <File Name="Black Panther 1" ID="130621"/>
-            <File Name="Daredevil:Redemption 1" ID="130195"/>
-            <File Name="Excalibur 9" ID="129386"/>
-            <File Name="Exiles 59" ID="125573"/>
-            <File Name="Marvel Age Spider-Man 20" ID="129250"/>
-            <File Name="Marvel Team-Up 5" ID="128946"/>
-            <File Name="New Avengers 3" ID="129778"/>
-            <File Name="Shanna, the She-Devil 1" ID="130671"/>
-            <File Name="Spider-Girl 83" ID="122303"/>
-            <File Name="Supreme Power 15" ID="128359"/>
-            <File Name="Ultimate Spider-Man 72" ID="124927"/>
-            <File Name="Uncanny X-Men 455" ID="126207"/>
-            <File Name="X-Men Unlimited 7" ID="128934"/>
-            <File Name="X-Men/Fantastic Four 3" ID="130571"/>
-            <File Name="X-Men:Phoenix Endsong 2" ID="130611"/>
-            <File Name="Alpha Flight 12" ID="129028"/>
-            <File Name="Avengers:Earth&apos;s Mightiest Heroes 7" ID="130297"/>
-            <File Name="Captain America 3" ID="130388"/>
-            <File Name="Captain America &amp; the Falcon 12" ID="129228"/>
-            <File Name="District X 10" ID="129373"/>
-            <File Name="Fantastic Four:Foes 2" ID="130207"/>
-            <File Name="Gambit 7" ID="129398"/>
-            <File Name="Incredible Hulk 78" ID="123133"/>
-            <File Name="Jubilee 6" ID="129414"/>
-            <File Name="Marvel Age Fantastic Four Tales 1" ID="130818"/>
-            <File Name="Marvel Knights 4 15" ID="128993"/>
-            <File Name="Marvel Knights Spider-Man 11" ID="129348"/>
-            <File Name="New Thunderbolts 86" ID="130467"/>
-            <File Name="Punisher 17" ID="129075"/>
-            <File Name="Ultimate X-Men 56" ID="125216"/>
-            <File Name="Ultimates 2 3" ID="129468"/>
-            <File Name="Young Avengers 1" ID="130678"/>
-            <File Name="Astonishing X-Men 8" ID="129639"/>
-            <File Name="Cable &amp; Deadpool 12" ID="128805"/>
-            <File Name="Daredevil 70" ID="122564"/>
-            <File Name="Daredevil:Redemption 2" ID="130196"/>
-            <File Name="Livewires 1" ID="130690"/>
-            <File Name="Marvel Age Spider-Man Team-Up 5" ID="129939"/>
-            <File Name="New Invaders 7" ID="129739"/>
-            <File Name="New X-Men 10" ID="129514"/>
-            <File Name="Official Handbook of the Marvel Universe:Marvel Knights 2005 1" ID="131183"/>
-            <File Name="Runaways 1" ID="130696"/>
-            <File Name="She-Hulk 12" ID="129262"/>
-            <File Name="Spectacular Spider-Man 25" ID="127076"/>
-            <File Name="Stormbreaker:The Saga of Beta Ray Bill 2" ID="130605"/>
-            <File Name="Wolverine 25" ID="128016"/>
-            <File Name="X-Force 6" ID="130188"/>
-            <File Name="Amazing Spider-Man 517" ID="128690"/>
-            <File Name="Avengers:Earth&apos;s Mightiest Heroes 8" ID="130298"/>
-            <File Name="Black Widow 6" ID="130258"/>
-            <File Name="Excalibur 10" ID="129387"/>
-            <File Name="Fantastic Four 523" ID="128443"/>
-            <File Name="Mystique 24" ID="127954"/>
-            <File Name="Nightcrawler 6" ID="129747"/>
-            <File Name="Powers 9" ID="129605"/>
-            <File Name="Rogue 8" ID="129441"/>
-            <File Name="Spider-Man/Human Torch 2" ID="130592"/>
-            <File Name="Spider-Man:India 4" ID="130385"/>
-            <File Name="Strange 4" ID="129449"/>
-            <File Name="Ultimate Nightmare 5" ID="129491"/>
-            <File Name="Uncanny X-Men 456" ID="126208"/>
-            <File Name="X-23 3" ID="130598"/>
-            <File Name="X-Force:Shatterstar 1" ID="130729"/>
-            <File Name="X-Men 167" ID="129863"/>
-            <File Name="X-Men:Phoenix Endsong 3" ID="130612"/>
+            <File Name="Black Panther 1" ID="130621" SERIESID="10141"/>
+            <File Name="Daredevil:Redemption 1" ID="130195" SERIESID="10041"/>
+            <File Name="Excalibur 9" ID="129386" SERIESID="9902"/>
+            <File Name="Exiles 59" ID="125573" SERIESID="9300"/>
+            <File Name="Marvel Age Spider-Man 20" ID="129250" SERIESID="9880"/>
+            <File Name="Marvel Team-Up 5" ID="128946" SERIESID="9835"/>
+            <File Name="New Avengers 3" ID="129778" SERIESID="9964"/>
+            <File Name="Shanna, the She-Devil 1" ID="130671" SERIESID="10142"/>
+            <File Name="Spider-Girl 83" ID="122303" SERIESID="8856"/>
+            <File Name="Supreme Power 15" ID="128359" SERIESID="9763"/>
+            <File Name="Ultimate Spider-Man 72" ID="124927" SERIESID="9218"/>
+            <File Name="Uncanny X-Men 455" ID="126207" SERIESID="3987"/>
+            <File Name="X-Men Unlimited 7" ID="128934" SERIESID="9834"/>
+            <File Name="X-Men/Fantastic Four 3" ID="130571" SERIESID="10130"/>
+            <File Name="X-Men:Phoenix Endsong 2" ID="130611" SERIESID="10140"/>
+            <File Name="Alpha Flight 12" ID="129028" SERIESID="9839"/>
+            <File Name="Avengers:Earth&apos;s Mightiest Heroes 7" ID="130297" SERIESID="10073"/>
+            <File Name="Captain America 3" ID="130388" SERIESID="10102"/>
+            <File Name="Captain America &amp; the Falcon 12" ID="129228" SERIESID="9879"/>
+            <File Name="District X 10" ID="129373" SERIESID="9901"/>
+            <File Name="Fantastic Four:Foes 2" ID="130207" SERIESID="10043"/>
+            <File Name="Gambit 7" ID="129398" SERIESID="9903"/>
+            <File Name="Incredible Hulk 78" ID="123133" SERIESID="8925"/>
+            <File Name="Jubilee 6" ID="129414" SERIESID="9905"/>
+            <File Name="Marvel Age Fantastic Four Tales 1" ID="130818" SERIESID="10185"/>
+            <File Name="Marvel Knights 4 15" ID="128993" SERIESID="9837"/>
+            <File Name="Marvel Knights Spider-Man 11" ID="129348" SERIESID="9900"/>
+            <File Name="New Thunderbolts 86" ID="130467" SERIESID="8761"/>
+            <File Name="Punisher 17" ID="129075" SERIESID="9848"/>
+            <File Name="Ultimate X-Men 56" ID="125216" SERIESID="9257"/>
+            <File Name="Ultimates 2 3" ID="129468" SERIESID="9915"/>
+            <File Name="Young Avengers 1" ID="130678" SERIESID="10143"/>
+            <File Name="Astonishing X-Men 8" ID="129639" SERIESID="9938"/>
+            <File Name="Cable &amp; Deadpool 12" ID="128805" SERIESID="9831"/>
+            <File Name="Daredevil 70" ID="122564" SERIESID="8877"/>
+            <File Name="Daredevil:Redemption 2" ID="130196" SERIESID="10041"/>
+            <File Name="Livewires 1" ID="130690" SERIESID="10144"/>
+            <File Name="Marvel Age Spider-Man Team-Up 5" ID="129939" SERIESID="9973"/>
+            <File Name="New Invaders 7" ID="129739" SERIESID="9958"/>
+            <File Name="New X-Men 10" ID="129514" SERIESID="9922"/>
+            <File Name="Official Handbook of the Marvel Universe:Marvel Knights 2005 1" ID="131183" SERIESID="9976"/>
+            <File Name="Runaways 1" ID="130696" SERIESID="10145"/>
+            <File Name="She-Hulk 12" ID="129262" SERIESID="9881"/>
+            <File Name="Spectacular Spider-Man 25" ID="127076" SERIESID="9573"/>
+            <File Name="Stormbreaker:The Saga of Beta Ray Bill 2" ID="130605" SERIESID="10139"/>
+            <File Name="Wolverine 25" ID="128016" SERIESID="9711"/>
+            <File Name="X-Force 6" ID="130188" SERIESID="10039"/>
+            <File Name="Amazing Spider-Man 517" ID="128690" SERIESID="8896"/>
+            <File Name="Avengers:Earth&apos;s Mightiest Heroes 8" ID="130298" SERIESID="10073"/>
+            <File Name="Black Widow 6" ID="130258" SERIESID="10064"/>
+            <File Name="Excalibur 10" ID="129387" SERIESID="9902"/>
+            <File Name="Fantastic Four 523" ID="128443" SERIESID="8778"/>
+            <File Name="Mystique 24" ID="127954" SERIESID="9704"/>
+            <File Name="Nightcrawler 6" ID="129747" SERIESID="9959"/>
+            <File Name="Powers 9" ID="129605" SERIESID="9936"/>
+            <File Name="Rogue 8" ID="129441" SERIESID="9910"/>
+            <File Name="Spider-Man/Human Torch 2" ID="130592" SERIESID="10137"/>
+            <File Name="Spider-Man:India 4" ID="130385" SERIESID="10101"/>
+            <File Name="Strange 4" ID="129449" SERIESID="9911"/>
+            <File Name="Ultimate Nightmare 5" ID="129491" SERIESID="9918"/>
+            <File Name="Uncanny X-Men 456" ID="126208" SERIESID="3987"/>
+            <File Name="X-23 3" ID="130598" SERIESID="10138"/>
+            <File Name="X-Force:Shatterstar 1" ID="130729" SERIESID="10147"/>
+            <File Name="X-Men 167" ID="129863" SERIESID="4158"/>
+            <File Name="X-Men:Phoenix Endsong 3" ID="130612" SERIESID="10140"/>
         </Directory>
         <Directory Name="CMC 2005 03">
-            <File Name="Target Presents:Reading to the Rescue 2" ID="273418"/>
-            <File Name="Arana:The Heart of the Spider 2" ID="130279"/>
-            <File Name="Captain America &amp; the Falcon 13" ID="129229"/>
-            <File Name="Doctor Spectrum 5" ID="129329"/>
-            <File Name="Exiles 60" ID="125574"/>
-            <File Name="Marvel Adventures Spider-Man 1" ID="130898"/>
-            <File Name="Marvel Team-Up 6" ID="128947"/>
-            <File Name="Shanna, the She-Devil 2" ID="130672"/>
-            <File Name="Ultimate Iron Man 1" ID="130823"/>
-            <File Name="Ultimate Spider-Man 73" ID="124928"/>
-            <File Name="X-Men/Fantastic Four 4" ID="130572"/>
-            <File Name="X-Men:Age of Apocalypse 1" ID="130892"/>
-            <File Name="X-Men:Age of Apocalypse One Shot 1" ID="131788"/>
-            <File Name="District X 11" ID="129374"/>
-            <File Name="Gambit 8" ID="129399"/>
-            <File Name="Marvel Must Haves 25" ID="131333"/>
-            <File Name="Mary Jane:Homecoming 1" ID="130871"/>
-            <File Name="New Thunderbolts 87" ID="130468"/>
-            <File Name="Punisher 18" ID="129076"/>
-            <File Name="Spider-Girl 84" ID="122304"/>
-            <File Name="Spider-Man Team-Up Special 1" ID="130805"/>
-            <File Name="Stoker&apos;s Dracula 4" ID="129459"/>
-            <File Name="Tales of the Thing 1" ID="131790"/>
-            <File Name="Ultimate Fantastic Four 16" ID="128861"/>
-            <File Name="Wolverine:Soultaker 1" ID="130736"/>
-            <File Name="X-Men:Age of Apocalypse 2" ID="130893"/>
-            <File Name="X-Men:The End  Heroes and Martyrs 1" ID="131230"/>
-            <File Name="Black Panther 2" ID="130622"/>
-            <File Name="Cable &amp; Deadpool 13" ID="128806"/>
-            <File Name="Captain America 4" ID="130389"/>
-            <File Name="Exiles 61" ID="125575"/>
-            <File Name="Fantastic Four:Foes 3" ID="130208"/>
-            <File Name="Incredible Hulk 79" ID="123134"/>
-            <File Name="Marvel Knights 4 16" ID="128994"/>
-            <File Name="Spider-Man Unlimited 8" ID="128920"/>
-            <File Name="Stormbreaker:The Saga of Beta Ray Bill 3" ID="130606"/>
-            <File Name="Ultimate Spider-Man 74" ID="124929"/>
-            <File Name="Ultimate X-Men 57" ID="125217"/>
-            <File Name="Ultimates 2 4" ID="129469"/>
-            <File Name="Uncanny X-Men 457" ID="126209"/>
-            <File Name="Wolverine 26" ID="128017"/>
-            <File Name="X-Men:Age of Apocalypse 3" ID="130894"/>
-            <File Name="Young Avengers 2" ID="130679"/>
-            <File Name="Young Avengers Director&apos;s Cut 1" ID="134435"/>
-            <File Name="Amazing Spider-Man 518" ID="128691"/>
-            <File Name="Arana:The Heart of the Spider 3" ID="130280"/>
-            <File Name="Daredevil 71" ID="122565"/>
-            <File Name="Excalibur 11" ID="129388"/>
-            <File Name="Livewires 2" ID="130691"/>
-            <File Name="New Avengers 4" ID="129779"/>
-            <File Name="New Invaders 8" ID="129740"/>
-            <File Name="New X-Men 11" ID="129515"/>
-            <File Name="Official Handbook of the Marvel Universe:X-Men  Age of Apocalypse 2005 1" ID="131184"/>
-            <File Name="Rogue 9" ID="129442"/>
-            <File Name="Runaways 2" ID="130697"/>
-            <File Name="Spellbinders 1" ID="131385"/>
-            <File Name="Spider-Man/Human Torch 3" ID="130593"/>
-            <File Name="Wolverine:Soultaker 2" ID="130737"/>
-            <File Name="X-Men 168" ID="129864"/>
-            <File Name="X-Men:Age of Apocalypse 4" ID="130895"/>
-            <File Name="Astonishing X-Men 9" ID="129640"/>
-            <File Name="Daredevil:Redemption 3" ID="130197"/>
-            <File Name="Doctor Spectrum 6" ID="129330"/>
-            <File Name="Fantastic Four 524" ID="128444"/>
-            <File Name="Marvel Knights Spider-Man 12" ID="129349"/>
-            <File Name="Marvel Milestones:Iron Man, Ant-Man &amp; Captain America ( 1)" ID="131789"/>
-            <File Name="Pulse 8" ID="129199"/>
-            <File Name="Secret War 4" ID="129319"/>
-            <File Name="Spectacular Spider-Man 26" ID="127077"/>
-            <File Name="Ultimate Secret 1" ID="130575"/>
-            <File Name="X-23 4" ID="130599"/>
-            <File Name="X-Force:Shatterstar 2" ID="130730"/>
-            <File Name="X-Men:Age of Apocalypse 5" ID="130896"/>
-            <File Name="X-Men:Phoenix Endsong 4" ID="130613"/>
+            <File Name="Target Presents:Reading to the Rescue 2" ID="273418" SERIESID="28263"/>
+            <File Name="Arana:The Heart of the Spider 2" ID="130279" SERIESID="10072"/>
+            <File Name="Captain America &amp; the Falcon 13" ID="129229" SERIESID="9879"/>
+            <File Name="Doctor Spectrum 5" ID="129329" SERIESID="9897"/>
+            <File Name="Exiles 60" ID="125574" SERIESID="9300"/>
+            <File Name="Marvel Adventures Spider-Man 1" ID="130898" SERIESID="10202"/>
+            <File Name="Marvel Team-Up 6" ID="128947" SERIESID="9835"/>
+            <File Name="Shanna, the She-Devil 2" ID="130672" SERIESID="10142"/>
+            <File Name="Ultimate Iron Man 1" ID="130823" SERIESID="10187"/>
+            <File Name="Ultimate Spider-Man 73" ID="124928" SERIESID="9218"/>
+            <File Name="X-Men/Fantastic Four 4" ID="130572" SERIESID="10130"/>
+            <File Name="X-Men:Age of Apocalypse 1" ID="130892" SERIESID="10201"/>
+            <File Name="X-Men:Age of Apocalypse One Shot 1" ID="131788" SERIESID="10201"/>
+            <File Name="District X 11" ID="129374" SERIESID="9901"/>
+            <File Name="Gambit 8" ID="129399" SERIESID="9903"/>
+            <File Name="Marvel Must Haves 25" ID="131333" SERIESID="9457"/>
+            <File Name="Mary Jane:Homecoming 1" ID="130871" SERIESID="10198"/>
+            <File Name="New Thunderbolts 87" ID="130468" SERIESID="8761"/>
+            <File Name="Punisher 18" ID="129076" SERIESID="9848"/>
+            <File Name="Spider-Girl 84" ID="122304" SERIESID="8856"/>
+            <File Name="Spider-Man Team-Up Special 1" ID="130805" SERIESID="9973"/>
+            <File Name="Stoker&apos;s Dracula 4" ID="129459" SERIESID="9913"/>
+            <File Name="Tales of the Thing 1" ID="131790" SERIESID="10312"/>
+            <File Name="Ultimate Fantastic Four 16" ID="128861" SERIESID="9832"/>
+            <File Name="Wolverine:Soultaker 1" ID="130736" SERIESID="10151"/>
+            <File Name="X-Men:Age of Apocalypse 2" ID="130893" SERIESID="10201"/>
+            <File Name="X-Men:The End  Heroes and Martyrs 1" ID="131230" SERIESID="10236"/>
+            <File Name="Black Panther 2" ID="130622" SERIESID="10141"/>
+            <File Name="Cable &amp; Deadpool 13" ID="128806" SERIESID="9831"/>
+            <File Name="Captain America 4" ID="130389" SERIESID="10102"/>
+            <File Name="Exiles 61" ID="125575" SERIESID="9300"/>
+            <File Name="Fantastic Four:Foes 3" ID="130208" SERIESID="10043"/>
+            <File Name="Incredible Hulk 79" ID="123134" SERIESID="8925"/>
+            <File Name="Marvel Knights 4 16" ID="128994" SERIESID="9837"/>
+            <File Name="Spider-Man Unlimited 8" ID="128920" SERIESID="9833"/>
+            <File Name="Stormbreaker:The Saga of Beta Ray Bill 3" ID="130606" SERIESID="10139"/>
+            <File Name="Ultimate Spider-Man 74" ID="124929" SERIESID="9218"/>
+            <File Name="Ultimate X-Men 57" ID="125217" SERIESID="9257"/>
+            <File Name="Ultimates 2 4" ID="129469" SERIESID="9915"/>
+            <File Name="Uncanny X-Men 457" ID="126209" SERIESID="3987"/>
+            <File Name="Wolverine 26" ID="128017" SERIESID="9711"/>
+            <File Name="X-Men:Age of Apocalypse 3" ID="130894" SERIESID="10201"/>
+            <File Name="Young Avengers 2" ID="130679" SERIESID="10143"/>
+            <File Name="Young Avengers Director&apos;s Cut 1" ID="134435" SERIESID="10143"/>
+            <File Name="Amazing Spider-Man 518" ID="128691" SERIESID="8896"/>
+            <File Name="Arana:The Heart of the Spider 3" ID="130280" SERIESID="10072"/>
+            <File Name="Daredevil 71" ID="122565" SERIESID="8877"/>
+            <File Name="Excalibur 11" ID="129388" SERIESID="9902"/>
+            <File Name="Livewires 2" ID="130691" SERIESID="10144"/>
+            <File Name="New Avengers 4" ID="129779" SERIESID="9964"/>
+            <File Name="New Invaders 8" ID="129740" SERIESID="9958"/>
+            <File Name="New X-Men 11" ID="129515" SERIESID="9922"/>
+            <File Name="Official Handbook of the Marvel Universe:X-Men  Age of Apocalypse 2005 1" ID="131184" SERIESID="9976"/>
+            <File Name="Rogue 9" ID="129442" SERIESID="9910"/>
+            <File Name="Runaways 2" ID="130697" SERIESID="10145"/>
+            <File Name="Spellbinders 1" ID="131385" SERIESID="10257"/>
+            <File Name="Spider-Man/Human Torch 3" ID="130593" SERIESID="10137"/>
+            <File Name="Wolverine:Soultaker 2" ID="130737" SERIESID="10151"/>
+            <File Name="X-Men 168" ID="129864" SERIESID="4158"/>
+            <File Name="X-Men:Age of Apocalypse 4" ID="130895" SERIESID="10201"/>
+            <File Name="Astonishing X-Men 9" ID="129640" SERIESID="9938"/>
+            <File Name="Daredevil:Redemption 3" ID="130197" SERIESID="10041"/>
+            <File Name="Doctor Spectrum 6" ID="129330" SERIESID="9897"/>
+            <File Name="Fantastic Four 524" ID="128444" SERIESID="8778"/>
+            <File Name="Marvel Knights Spider-Man 12" ID="129349" SERIESID="9900"/>
+            <File Name="Marvel Milestones:Iron Man, Ant-Man &amp; Captain America ( 1)" ID="131789" SERIESID="10311"/>
+            <File Name="Pulse 8" ID="129199" SERIESID="9875"/>
+            <File Name="Secret War 4" ID="129319" SERIESID="9896"/>
+            <File Name="Spectacular Spider-Man 26" ID="127077" SERIESID="9573"/>
+            <File Name="Ultimate Secret 1" ID="130575" SERIESID="10132"/>
+            <File Name="X-23 4" ID="130599" SERIESID="10138"/>
+            <File Name="X-Force:Shatterstar 2" ID="130730" SERIESID="10147"/>
+            <File Name="X-Men:Age of Apocalypse 5" ID="130896" SERIESID="10201"/>
+            <File Name="X-Men:Phoenix Endsong 4" ID="130613" SERIESID="10140"/>
         </Directory>
         <Directory Name="CMC 2005 04">
-            <File Name="New Avengers Guest Starring the Fantastic Four ( 1)" ID="248586"/>
-            <File Name="Amazing Fantasy 7" ID="129035"/>
-            <File Name="G.L.A. 1" ID="131048"/>
-            <File Name="Incredible Hulk 80" ID="123135"/>
-            <File Name="Marvel Adventures Spider-Man 2" ID="130899"/>
-            <File Name="Marvel Team-Up 7" ID="128948"/>
-            <File Name="Power Pack 1" ID="130819"/>
-            <File Name="Punisher 19" ID="129077"/>
-            <File Name="Shanna, the She-Devil 3" ID="130673"/>
-            <File Name="Spider-Girl 85" ID="122305"/>
-            <File Name="Strange 5" ID="129450"/>
-            <File Name="Ultimate Fantastic Four 17" ID="128862"/>
-            <File Name="Ultimate Spider-Man 75" ID="124930"/>
-            <File Name="X-Men Unlimited 8" ID="128935"/>
-            <File Name="X-Men/Fantastic Four 5" ID="130573"/>
-            <File Name="Black Panther 3" ID="130623"/>
-            <File Name="District X 12" ID="129375"/>
-            <File Name="Exiles 62" ID="125576"/>
-            <File Name="Gambit 9" ID="129400"/>
-            <File Name="Iron Man 3" ID="130343"/>
-            <File Name="Marvel Knights Spider-Man 13" ID="129350"/>
-            <File Name="Mary Jane:Homecoming 2" ID="130872"/>
-            <File Name="New Thunderbolts 88" ID="130469"/>
-            <File Name="Powers 10" ID="129606"/>
-            <File Name="Tales of the Thing 2" ID="131791"/>
-            <File Name="Toxin 1" ID="131262"/>
-            <File Name="Ultimate X-Men 58" ID="125218"/>
-            <File Name="Ultimates 2 5" ID="129470"/>
-            <File Name="X-Men:The End  Heroes and Martyrs 2" ID="131231"/>
-            <File Name="Amazing Spider-Man 519" ID="128692"/>
-            <File Name="Cable &amp; Deadpool 14" ID="128807"/>
-            <File Name="Fantastic Four 525" ID="128445"/>
-            <File Name="Hercules 1" ID="131407"/>
-            <File Name="Livewires 3" ID="130692"/>
-            <File Name="Marvel Knights 4 17" ID="128995"/>
-            <File Name="Marvel Milestones:Venom &amp; Hercules ( 2)" ID="131794"/>
-            <File Name="New Invaders 9" ID="129741"/>
-            <File Name="New X-Men 12" ID="129516"/>
-            <File Name="Official Handbook of the Marvel Universe:Spider-Man 2005 1" ID="131795"/>
-            <File Name="Runaways 3" ID="130698"/>
-            <File Name="Spectacular Spider-Man 27" ID="127078"/>
-            <File Name="Spider-Man:Breakout 1" ID="131412"/>
-            <File Name="Stormbreaker:The Saga of Beta Ray Bill 4" ID="130607"/>
-            <File Name="Ultimate Spider-Man 76" ID="124931"/>
-            <File Name="Uncanny X-Men 458" ID="126210"/>
-            <File Name="Wolverine 27" ID="128019"/>
-            <File Name="X-23 5" ID="130600"/>
-            <File Name="X-Men 169" ID="129865"/>
-            <File Name="Young Avengers 3" ID="130680"/>
-            <File Name="Captain America 5" ID="130390"/>
-            <File Name="Daredevil 72" ID="122566"/>
-            <File Name="Exiles 63" ID="125577"/>
-            <File Name="Fantastic Four:Foes 4" ID="130209"/>
-            <File Name="House of M Sketchbook 1" ID="170694"/>
-            <File Name="Kabuki 4" ID="129944"/>
-            <File Name="New Avengers 5" ID="129780"/>
-            <File Name="Punisher 20" ID="129078"/>
-            <File Name="Spellbinders 2" ID="131386"/>
-            <File Name="Supreme Power 16" ID="128360"/>
-            <File Name="Ultimate Secret 2" ID="130576"/>
-            <File Name="Wolverine:Soultaker 3" ID="130738"/>
-            <File Name="X-Force:Shatterstar 3" ID="130731"/>
-            <File Name="X-Men:Age of Apocalypse 6" ID="130897"/>
-            <File Name="X-Men:Phoenix Endsong 5" ID="130614"/>
+            <File Name="New Avengers Guest Starring the Fantastic Four ( 1)" ID="248586" SERIESID="25523"/>
+            <File Name="Amazing Fantasy 7" ID="129035" SERIESID="9840"/>
+            <File Name="G.L.A. 1" ID="131048" SERIESID="10209"/>
+            <File Name="Incredible Hulk 80" ID="123135" SERIESID="8925"/>
+            <File Name="Marvel Adventures Spider-Man 2" ID="130899" SERIESID="10202"/>
+            <File Name="Marvel Team-Up 7" ID="128948" SERIESID="9835"/>
+            <File Name="Power Pack 1" ID="130819" SERIESID="10186"/>
+            <File Name="Punisher 19" ID="129077" SERIESID="9848"/>
+            <File Name="Shanna, the She-Devil 3" ID="130673" SERIESID="10142"/>
+            <File Name="Spider-Girl 85" ID="122305" SERIESID="8856"/>
+            <File Name="Strange 5" ID="129450" SERIESID="9911"/>
+            <File Name="Ultimate Fantastic Four 17" ID="128862" SERIESID="9832"/>
+            <File Name="Ultimate Spider-Man 75" ID="124930" SERIESID="9218"/>
+            <File Name="X-Men Unlimited 8" ID="128935" SERIESID="9834"/>
+            <File Name="X-Men/Fantastic Four 5" ID="130573" SERIESID="10130"/>
+            <File Name="Black Panther 3" ID="130623" SERIESID="10141"/>
+            <File Name="District X 12" ID="129375" SERIESID="9901"/>
+            <File Name="Exiles 62" ID="125576" SERIESID="9300"/>
+            <File Name="Gambit 9" ID="129400" SERIESID="9903"/>
+            <File Name="Iron Man 3" ID="130343" SERIESID="10100"/>
+            <File Name="Marvel Knights Spider-Man 13" ID="129350" SERIESID="9900"/>
+            <File Name="Mary Jane:Homecoming 2" ID="130872" SERIESID="10198"/>
+            <File Name="New Thunderbolts 88" ID="130469" SERIESID="8761"/>
+            <File Name="Powers 10" ID="129606" SERIESID="9936"/>
+            <File Name="Tales of the Thing 2" ID="131791" SERIESID="10312"/>
+            <File Name="Toxin 1" ID="131262" SERIESID="10238"/>
+            <File Name="Ultimate X-Men 58" ID="125218" SERIESID="9257"/>
+            <File Name="Ultimates 2 5" ID="129470" SERIESID="9915"/>
+            <File Name="X-Men:The End  Heroes and Martyrs 2" ID="131231" SERIESID="10236"/>
+            <File Name="Amazing Spider-Man 519" ID="128692" SERIESID="8896"/>
+            <File Name="Cable &amp; Deadpool 14" ID="128807" SERIESID="9831"/>
+            <File Name="Fantastic Four 525" ID="128445" SERIESID="8778"/>
+            <File Name="Hercules 1" ID="131407" SERIESID="10264"/>
+            <File Name="Livewires 3" ID="130692" SERIESID="10144"/>
+            <File Name="Marvel Knights 4 17" ID="128995" SERIESID="9837"/>
+            <File Name="Marvel Milestones:Venom &amp; Hercules ( 2)" ID="131794" SERIESID="10311"/>
+            <File Name="New Invaders 9" ID="129741" SERIESID="9958"/>
+            <File Name="New X-Men 12" ID="129516" SERIESID="9922"/>
+            <File Name="Official Handbook of the Marvel Universe:Spider-Man 2005 1" ID="131795" SERIESID="9976"/>
+            <File Name="Runaways 3" ID="130698" SERIESID="10145"/>
+            <File Name="Spectacular Spider-Man 27" ID="127078" SERIESID="9573"/>
+            <File Name="Spider-Man:Breakout 1" ID="131412" SERIESID="10265"/>
+            <File Name="Stormbreaker:The Saga of Beta Ray Bill 4" ID="130607" SERIESID="10139"/>
+            <File Name="Ultimate Spider-Man 76" ID="124931" SERIESID="9218"/>
+            <File Name="Uncanny X-Men 458" ID="126210" SERIESID="3987"/>
+            <File Name="Wolverine 27" ID="128019" SERIESID="9711"/>
+            <File Name="X-23 5" ID="130600" SERIESID="10138"/>
+            <File Name="X-Men 169" ID="129865" SERIESID="4158"/>
+            <File Name="Young Avengers 3" ID="130680" SERIESID="10143"/>
+            <File Name="Captain America 5" ID="130390" SERIESID="10102"/>
+            <File Name="Daredevil 72" ID="122566" SERIESID="8877"/>
+            <File Name="Exiles 63" ID="125577" SERIESID="9300"/>
+            <File Name="Fantastic Four:Foes 4" ID="130209" SERIESID="10043"/>
+            <File Name="House of M Sketchbook 1" ID="170694" SERIESID="10208"/>
+            <File Name="Kabuki 4" ID="129944" SERIESID="9975"/>
+            <File Name="New Avengers 5" ID="129780" SERIESID="9964"/>
+            <File Name="Punisher 20" ID="129078" SERIESID="9848"/>
+            <File Name="Spellbinders 2" ID="131386" SERIESID="10257"/>
+            <File Name="Supreme Power 16" ID="128360" SERIESID="9763"/>
+            <File Name="Ultimate Secret 2" ID="130576" SERIESID="10132"/>
+            <File Name="Wolverine:Soultaker 3" ID="130738" SERIESID="10151"/>
+            <File Name="X-Force:Shatterstar 3" ID="130731" SERIESID="10147"/>
+            <File Name="X-Men:Age of Apocalypse 6" ID="130897" SERIESID="10201"/>
+            <File Name="X-Men:Phoenix Endsong 5" ID="130614" SERIESID="10140"/>
         </Directory>
         <Directory Name="CMC 2005 05">
-            <File Name="Amazing Fantasy 8" ID="129036"/>
-            <File Name="Daredevil:Redemption 4" ID="130198"/>
-            <File Name="Excalibur 12" ID="129389"/>
-            <File Name="G.L.A. 2" ID="131049"/>
-            <File Name="Marvel Milestones:Wolverine, X-Men &amp; Tuk:Caveboy ( 3)" ID="131929"/>
-            <File Name="Marvel Must Haves 24" ID="131335"/>
-            <File Name="New X-Men 13" ID="129517"/>
-            <File Name="Power Pack 2" ID="130820"/>
-            <File Name="Rogue 10" ID="129443"/>
-            <File Name="Shanna, the She-Devil 4" ID="130674"/>
-            <File Name="Spider-Girl 86" ID="122306"/>
-            <File Name="Spider-Man Unlimited 9" ID="128921"/>
-            <File Name="Ultimate Fantastic Four 18" ID="128863"/>
-            <File Name="Free Comic Book Day (Marvel Age Spider-Man Team-Up) 4" ID="170695"/>
-            <File Name="Arana:The Heart of the Spider 4" ID="130281"/>
-            <File Name="Astonishing X-Men 10" ID="129641"/>
-            <File Name="Captain America &amp; the Falcon 14" ID="129230"/>
-            <File Name="District X 13" ID="129376"/>
-            <File Name="Excalibur 13" ID="129390"/>
-            <File Name="Fantastic Four 526" ID="128446"/>
-            <File Name="Gambit 10" ID="129401"/>
-            <File Name="Marvel Adventures Spider-Man 3" ID="130900"/>
-            <File Name="Marvel Nemesis:The Imperfects 1" ID="130886"/>
-            <File Name="Marvel Team-Up 8" ID="128949"/>
-            <File Name="Mary Jane:Homecoming 3" ID="130873"/>
-            <File Name="Punisher 21" ID="129079"/>
-            <File Name="Punisher:The Cell 1" ID="131930"/>
-            <File Name="Tales of the Thing 3" ID="131792"/>
-            <File Name="Ultimate Spider-Man 77" ID="124932"/>
-            <File Name="X-Men:The End 3" ID="131232"/>
-            <File Name="Black Panther 4" ID="130624"/>
-            <File Name="Cable &amp; Deadpool 15" ID="128808"/>
-            <File Name="Daredevil 73" ID="122567"/>
-            <File Name="Exiles 64" ID="125578"/>
-            <File Name="Hercules 2" ID="131408"/>
-            <File Name="Livewires 4" ID="130693"/>
-            <File Name="Marvel Knights 4 18" ID="128996"/>
-            <File Name="Marvel Knights Spider-Man 14" ID="129351"/>
-            <File Name="Marvel Must Haves 22" ID="131336"/>
-            <File Name="New Thunderbolts 89" ID="130470"/>
-            <File Name="New X-Men 14" ID="129518"/>
-            <File Name="Official Handbook of the Marvel Universe:Teams 2005 1" ID="131931"/>
-            <File Name="Spider-Man/Human Torch 4" ID="130594"/>
-            <File Name="Spider-Man:Breakout 2" ID="131413"/>
-            <File Name="Toxin 2" ID="131263"/>
-            <File Name="Ultimate X-Men 59" ID="125219"/>
-            <File Name="Uncanny X-Men 459" ID="126211"/>
-            <File Name="Wolverine 28" ID="128021"/>
-            <File Name="Young Avengers 4" ID="130681"/>
-            <File Name="Amazing Spider-Man 520" ID="128693"/>
-            <File Name="Captain America 6" ID="130391"/>
-            <File Name="Excalibur 14" ID="129391"/>
-            <File Name="Fantastic Four 527" ID="128447"/>
-            <File Name="Incredible Hulk 81" ID="123136"/>
-            <File Name="Machine Teen 1" ID="131013"/>
-            <File Name="Marvel Adventures Fantastic Four 0" ID="130959"/>
-            <File Name="New X-Men:Hellions 1" ID="131063"/>
-            <File Name="Power Pack 3" ID="130821"/>
-            <File Name="Rogue 11" ID="129444"/>
-            <File Name="Runaways 4" ID="130699"/>
-            <File Name="Secret War from the Files of Nick Fury 1" ID="131934"/>
-            <File Name="Spellbinders 3" ID="131387"/>
-            <File Name="Stormbreaker:The Saga of Beta Ray Bill 5" ID="130608"/>
-            <File Name="Ultimate Iron Man 2" ID="130824"/>
-            <File Name="Ultimates 2 6" ID="129471"/>
-            <File Name="Wolverine:Soultaker 4" ID="130739"/>
-            <File Name="X-23 6" ID="130601"/>
-            <File Name="X-Men 170" ID="129866"/>
+            <File Name="Amazing Fantasy 8" ID="129036" SERIESID="9840"/>
+            <File Name="Daredevil:Redemption 4" ID="130198" SERIESID="10041"/>
+            <File Name="Excalibur 12" ID="129389" SERIESID="9902"/>
+            <File Name="G.L.A. 2" ID="131049" SERIESID="10209"/>
+            <File Name="Marvel Milestones:Wolverine, X-Men &amp; Tuk:Caveboy ( 3)" ID="131929" SERIESID="10311"/>
+            <File Name="Marvel Must Haves 24" ID="131335" SERIESID="9457"/>
+            <File Name="New X-Men 13" ID="129517" SERIESID="9922"/>
+            <File Name="Power Pack 2" ID="130820" SERIESID="10186"/>
+            <File Name="Rogue 10" ID="129443" SERIESID="9910"/>
+            <File Name="Shanna, the She-Devil 4" ID="130674" SERIESID="10142"/>
+            <File Name="Spider-Girl 86" ID="122306" SERIESID="8856"/>
+            <File Name="Spider-Man Unlimited 9" ID="128921" SERIESID="9833"/>
+            <File Name="Ultimate Fantastic Four 18" ID="128863" SERIESID="9832"/>
+            <File Name="Free Comic Book Day (Marvel Age Spider-Man Team-Up) 4" ID="170695" SERIESID="16184"/>
+            <File Name="Arana:The Heart of the Spider 4" ID="130281" SERIESID="10072"/>
+            <File Name="Astonishing X-Men 10" ID="129641" SERIESID="9938"/>
+            <File Name="Captain America &amp; the Falcon 14" ID="129230" SERIESID="9879"/>
+            <File Name="District X 13" ID="129376" SERIESID="9901"/>
+            <File Name="Excalibur 13" ID="129390" SERIESID="9902"/>
+            <File Name="Fantastic Four 526" ID="128446" SERIESID="8778"/>
+            <File Name="Gambit 10" ID="129401" SERIESID="9903"/>
+            <File Name="Marvel Adventures Spider-Man 3" ID="130900" SERIESID="10202"/>
+            <File Name="Marvel Nemesis:The Imperfects 1" ID="130886" SERIESID="10200"/>
+            <File Name="Marvel Team-Up 8" ID="128949" SERIESID="9835"/>
+            <File Name="Mary Jane:Homecoming 3" ID="130873" SERIESID="10198"/>
+            <File Name="Punisher 21" ID="129079" SERIESID="9848"/>
+            <File Name="Punisher:The Cell 1" ID="131930" SERIESID="10333"/>
+            <File Name="Tales of the Thing 3" ID="131792" SERIESID="10312"/>
+            <File Name="Ultimate Spider-Man 77" ID="124932" SERIESID="9218"/>
+            <File Name="X-Men:The End 3" ID="131232" SERIESID="10236"/>
+            <File Name="Black Panther 4" ID="130624" SERIESID="10141"/>
+            <File Name="Cable &amp; Deadpool 15" ID="128808" SERIESID="9831"/>
+            <File Name="Daredevil 73" ID="122567" SERIESID="8877"/>
+            <File Name="Exiles 64" ID="125578" SERIESID="9300"/>
+            <File Name="Hercules 2" ID="131408" SERIESID="10264"/>
+            <File Name="Livewires 4" ID="130693" SERIESID="10144"/>
+            <File Name="Marvel Knights 4 18" ID="128996" SERIESID="9837"/>
+            <File Name="Marvel Knights Spider-Man 14" ID="129351" SERIESID="9900"/>
+            <File Name="Marvel Must Haves 22" ID="131336" SERIESID="9457"/>
+            <File Name="New Thunderbolts 89" ID="130470" SERIESID="8761"/>
+            <File Name="New X-Men 14" ID="129518" SERIESID="9922"/>
+            <File Name="Official Handbook of the Marvel Universe:Teams 2005 1" ID="131931" SERIESID="9976"/>
+            <File Name="Spider-Man/Human Torch 4" ID="130594" SERIESID="10137"/>
+            <File Name="Spider-Man:Breakout 2" ID="131413" SERIESID="10265"/>
+            <File Name="Toxin 2" ID="131263" SERIESID="10238"/>
+            <File Name="Ultimate X-Men 59" ID="125219" SERIESID="9257"/>
+            <File Name="Uncanny X-Men 459" ID="126211" SERIESID="3987"/>
+            <File Name="Wolverine 28" ID="128021" SERIESID="9711"/>
+            <File Name="Young Avengers 4" ID="130681" SERIESID="10143"/>
+            <File Name="Amazing Spider-Man 520" ID="128693" SERIESID="8896"/>
+            <File Name="Captain America 6" ID="130391" SERIESID="10102"/>
+            <File Name="Excalibur 14" ID="129391" SERIESID="9902"/>
+            <File Name="Fantastic Four 527" ID="128447" SERIESID="8778"/>
+            <File Name="Incredible Hulk 81" ID="123136" SERIESID="8925"/>
+            <File Name="Machine Teen 1" ID="131013" SERIESID="10205"/>
+            <File Name="Marvel Adventures Fantastic Four 0" ID="130959" SERIESID="10203"/>
+            <File Name="New X-Men:Hellions 1" ID="131063" SERIESID="10212"/>
+            <File Name="Power Pack 3" ID="130821" SERIESID="10186"/>
+            <File Name="Rogue 11" ID="129444" SERIESID="9910"/>
+            <File Name="Runaways 4" ID="130699" SERIESID="10145"/>
+            <File Name="Secret War from the Files of Nick Fury 1" ID="131934" SERIESID="9896"/>
+            <File Name="Spellbinders 3" ID="131387" SERIESID="10257"/>
+            <File Name="Stormbreaker:The Saga of Beta Ray Bill 5" ID="130608" SERIESID="10139"/>
+            <File Name="Ultimate Iron Man 2" ID="130824" SERIESID="10187"/>
+            <File Name="Ultimates 2 6" ID="129471" SERIESID="9915"/>
+            <File Name="Wolverine:Soultaker 4" ID="130739" SERIESID="10151"/>
+            <File Name="X-23 6" ID="130601" SERIESID="10138"/>
+            <File Name="X-Men 170" ID="129866" SERIESID="4158"/>
         </Directory>
         <Directory Name="CMC 2005 06">
-            <File Name="Amazing Fantasy 9" ID="129037"/>
-            <File Name="Exiles 65" ID="125579"/>
-            <File Name="Fantastic Four:Foes 5" ID="130210"/>
-            <File Name="Gambit 11" ID="129402"/>
-            <File Name="House of M 1" ID="131028"/>
-            <File Name="Incredible Hulk 82" ID="123137"/>
-            <File Name="Last Hero Standing 1" ID="130225"/>
-            <File Name="Marvel Adventures Spider-Man 4" ID="130901"/>
-            <File Name="Marvel Must Haves 23" ID="131332"/>
-            <File Name="Marvel Team-Up 9" ID="128950"/>
-            <File Name="Ororo:Before the Storm 1" ID="131268"/>
-            <File Name="Shanna, the She-Devil 5" ID="130675"/>
-            <File Name="Spider-Girl 87" ID="122307"/>
-            <File Name="Strange 6" ID="129451"/>
-            <File Name="Uncanny X-Men 460" ID="126212"/>
-            <File Name="X-Force:Shatterstar 4" ID="130732"/>
-            <File Name="X-Men Unlimited 9" ID="128936"/>
-            <File Name="District X 14" ID="129377"/>
-            <File Name="Gravity 1" ID="130212"/>
-            <File Name="Last Hero Standing 2" ID="130226"/>
-            <File Name="Marvel Knights Spider-Man 15" ID="129352"/>
-            <File Name="Marvel Nemesis:The Imperfects 2" ID="130887"/>
-            <File Name="Mary Jane:Homecoming 4" ID="130874"/>
-            <File Name="New Thunderbolts 90" ID="130471"/>
-            <File Name="New Warriors 1" ID="131224"/>
-            <File Name="Pulse 9" ID="129200"/>
-            <File Name="Punisher 22" ID="129080"/>
-            <File Name="Toxin 3" ID="131264"/>
-            <File Name="Ultimate Fantastic Four 19" ID="128864"/>
-            <File Name="Ultimate Spider-Man 78" ID="124933"/>
-            <File Name="X-Men 171" ID="129867"/>
-            <File Name="X-Men:The End 4" ID="131233"/>
-            <File Name="Cable &amp; Deadpool 16" ID="128809"/>
-            <File Name="Daredevil 74" ID="122568"/>
-            <File Name="G.L.A. 3" ID="131050"/>
-            <File Name="Gambit 12" ID="129403"/>
-            <File Name="Giant-Size X-Men 3" ID="131932"/>
-            <File Name="Hercules 3" ID="131409"/>
-            <File Name="Last Hero Standing 3" ID="130227"/>
-            <File Name="Marvel Adventures Fantastic Four 1" ID="130960"/>
-            <File Name="Marvel Knights 4 19" ID="128997"/>
-            <File Name="Power Pack 4" ID="130822"/>
-            <File Name="Powers 11" ID="129607"/>
-            <File Name="Spider-Man:Breakout 3" ID="131414"/>
-            <File Name="Stormbreaker:The Saga of Beta Ray Bill 6" ID="130609"/>
-            <File Name="Ultimate Marvel Flip Magazine 1" ID="132018"/>
-            <File Name="Ultimate Tales Flip Magazine 1" ID="131969"/>
-            <File Name="Uncanny X-Men 461" ID="126213"/>
-            <File Name="Wolverine 29" ID="128022"/>
-            <File Name="Black Panther 5" ID="130625"/>
-            <File Name="Captain America 7" ID="130392"/>
-            <File Name="Daredevil:Redemption 5" ID="130199"/>
-            <File Name="Dream Police 1" ID="131966"/>
-            <File Name="Fantastic Four (Director&apos;s Cut) 527" ID="128448"/>
-            <File Name="Fantastic Four:Foes 6" ID="130211"/>
-            <File Name="Fantastic Four:The Movie 1" ID="131968"/>
-            <File Name="House of M 2" ID="131029"/>
-            <File Name="Last Hero Standing 4" ID="130228"/>
-            <File Name="Livewires 5" ID="130694"/>
-            <File Name="Marvel Adventures Flip Magazine 1" ID="131236"/>
-            <File Name="New Avengers 6" ID="129781"/>
-            <File Name="New X-Men 15" ID="129519"/>
-            <File Name="Nightcrawler 7" ID="129748"/>
-            <File Name="Rogue 12" ID="129445"/>
-            <File Name="Spellbinders 4" ID="131388"/>
-            <File Name="Spider-Man:House of M 1" ID="131296"/>
-            <File Name="Supreme Power 17" ID="128361"/>
-            <File Name="Ultimate Fantastic Four 20" ID="128865"/>
-            <File Name="Ultimate X-Men 60" ID="125220"/>
-            <File Name="Wolverine:Soultaker 5" ID="130740"/>
-            <File Name="Amazing Spider-Man 521" ID="128694"/>
-            <File Name="Arana:The Heart of the Spider 5" ID="130282"/>
-            <File Name="Fantastic Four 528" ID="128451"/>
-            <File Name="Last Hero Standing 5" ID="130229"/>
-            <File Name="Machine Teen 2" ID="131014"/>
-            <File Name="Marvel Heroes Flip Magazine 1" ID="132044"/>
-            <File Name="Marvel Milestones:Doom, Sub-Mariner &amp; Red Skull ( 4)" ID="131967"/>
-            <File Name="Marvel Select Flip Magazine 1" ID="131338"/>
-            <File Name="New X-Men:Hellions 2" ID="131064"/>
-            <File Name="Official Handbook of the Marvel Universe:Fantastic Four 2005 1" ID="131965"/>
-            <File Name="Runaways 5" ID="130700"/>
-            <File Name="Spider-Man/Human Torch 5" ID="130595"/>
-            <File Name="X-Men 172" ID="129868"/>
-            <File Name="X-Men:Kitty Pryde  Shadow &amp; Flame 1" ID="131272"/>
-            <File Name="Young Avengers 5" ID="130682"/>
+            <File Name="Amazing Fantasy 9" ID="129037" SERIESID="9840"/>
+            <File Name="Exiles 65" ID="125579" SERIESID="9300"/>
+            <File Name="Fantastic Four:Foes 5" ID="130210" SERIESID="10043"/>
+            <File Name="Gambit 11" ID="129402" SERIESID="9903"/>
+            <File Name="House of M 1" ID="131028" SERIESID="10208"/>
+            <File Name="Incredible Hulk 82" ID="123137" SERIESID="8925"/>
+            <File Name="Last Hero Standing 1" ID="130225" SERIESID="10048"/>
+            <File Name="Marvel Adventures Spider-Man 4" ID="130901" SERIESID="10202"/>
+            <File Name="Marvel Must Haves 23" ID="131332" SERIESID="9457"/>
+            <File Name="Marvel Team-Up 9" ID="128950" SERIESID="9835"/>
+            <File Name="Ororo:Before the Storm 1" ID="131268" SERIESID="10239"/>
+            <File Name="Shanna, the She-Devil 5" ID="130675" SERIESID="10142"/>
+            <File Name="Spider-Girl 87" ID="122307" SERIESID="8856"/>
+            <File Name="Strange 6" ID="129451" SERIESID="9911"/>
+            <File Name="Uncanny X-Men 460" ID="126212" SERIESID="3987"/>
+            <File Name="X-Force:Shatterstar 4" ID="130732" SERIESID="10147"/>
+            <File Name="X-Men Unlimited 9" ID="128936" SERIESID="9834"/>
+            <File Name="District X 14" ID="129377" SERIESID="9901"/>
+            <File Name="Gravity 1" ID="130212" SERIESID="10044"/>
+            <File Name="Last Hero Standing 2" ID="130226" SERIESID="10048"/>
+            <File Name="Marvel Knights Spider-Man 15" ID="129352" SERIESID="9900"/>
+            <File Name="Marvel Nemesis:The Imperfects 2" ID="130887" SERIESID="10200"/>
+            <File Name="Mary Jane:Homecoming 4" ID="130874" SERIESID="10198"/>
+            <File Name="New Thunderbolts 90" ID="130471" SERIESID="8761"/>
+            <File Name="New Warriors 1" ID="131224" SERIESID="10235"/>
+            <File Name="Pulse 9" ID="129200" SERIESID="9875"/>
+            <File Name="Punisher 22" ID="129080" SERIESID="9848"/>
+            <File Name="Toxin 3" ID="131264" SERIESID="10238"/>
+            <File Name="Ultimate Fantastic Four 19" ID="128864" SERIESID="9832"/>
+            <File Name="Ultimate Spider-Man 78" ID="124933" SERIESID="9218"/>
+            <File Name="X-Men 171" ID="129867" SERIESID="4158"/>
+            <File Name="X-Men:The End 4" ID="131233" SERIESID="10236"/>
+            <File Name="Cable &amp; Deadpool 16" ID="128809" SERIESID="9831"/>
+            <File Name="Daredevil 74" ID="122568" SERIESID="8877"/>
+            <File Name="G.L.A. 3" ID="131050" SERIESID="10209"/>
+            <File Name="Gambit 12" ID="129403" SERIESID="9903"/>
+            <File Name="Giant-Size X-Men 3" ID="131932" SERIESID="4031"/>
+            <File Name="Hercules 3" ID="131409" SERIESID="10264"/>
+            <File Name="Last Hero Standing 3" ID="130227" SERIESID="10048"/>
+            <File Name="Marvel Adventures Fantastic Four 1" ID="130960" SERIESID="10203"/>
+            <File Name="Marvel Knights 4 19" ID="128997" SERIESID="9837"/>
+            <File Name="Power Pack 4" ID="130822" SERIESID="10186"/>
+            <File Name="Powers 11" ID="129607" SERIESID="9936"/>
+            <File Name="Spider-Man:Breakout 3" ID="131414" SERIESID="10265"/>
+            <File Name="Stormbreaker:The Saga of Beta Ray Bill 6" ID="130609" SERIESID="10139"/>
+            <File Name="Ultimate Marvel Flip Magazine 1" ID="132018" SERIESID="10359"/>
+            <File Name="Ultimate Tales Flip Magazine 1" ID="131969" SERIESID="10343"/>
+            <File Name="Uncanny X-Men 461" ID="126213" SERIESID="3987"/>
+            <File Name="Wolverine 29" ID="128022" SERIESID="9711"/>
+            <File Name="Black Panther 5" ID="130625" SERIESID="10141"/>
+            <File Name="Captain America 7" ID="130392" SERIESID="10102"/>
+            <File Name="Daredevil:Redemption 5" ID="130199" SERIESID="10041"/>
+            <File Name="Dream Police 1" ID="131966" SERIESID="10341"/>
+            <File Name="Fantastic Four (Director&apos;s Cut) 527" ID="128448" SERIESID="8778"/>
+            <File Name="Fantastic Four:Foes 6" ID="130211" SERIESID="10043"/>
+            <File Name="Fantastic Four:The Movie 1" ID="131968" SERIESID="10342"/>
+            <File Name="House of M 2" ID="131029" SERIESID="10208"/>
+            <File Name="Last Hero Standing 4" ID="130228" SERIESID="10048"/>
+            <File Name="Livewires 5" ID="130694" SERIESID="10144"/>
+            <File Name="Marvel Adventures Flip Magazine 1" ID="131236" SERIESID="10237"/>
+            <File Name="New Avengers 6" ID="129781" SERIESID="9964"/>
+            <File Name="New X-Men 15" ID="129519" SERIESID="9922"/>
+            <File Name="Nightcrawler 7" ID="129748" SERIESID="9959"/>
+            <File Name="Rogue 12" ID="129445" SERIESID="9910"/>
+            <File Name="Spellbinders 4" ID="131388" SERIESID="10257"/>
+            <File Name="Spider-Man:House of M 1" ID="131296" SERIESID="10245"/>
+            <File Name="Supreme Power 17" ID="128361" SERIESID="9763"/>
+            <File Name="Ultimate Fantastic Four 20" ID="128865" SERIESID="9832"/>
+            <File Name="Ultimate X-Men 60" ID="125220" SERIESID="9257"/>
+            <File Name="Wolverine:Soultaker 5" ID="130740" SERIESID="10151"/>
+            <File Name="Amazing Spider-Man 521" ID="128694" SERIESID="8896"/>
+            <File Name="Arana:The Heart of the Spider 5" ID="130282" SERIESID="10072"/>
+            <File Name="Fantastic Four 528" ID="128451" SERIESID="8778"/>
+            <File Name="Last Hero Standing 5" ID="130229" SERIESID="10048"/>
+            <File Name="Machine Teen 2" ID="131014" SERIESID="10205"/>
+            <File Name="Marvel Heroes Flip Magazine 1" ID="132044" SERIESID="10360"/>
+            <File Name="Marvel Milestones:Doom, Sub-Mariner &amp; Red Skull ( 4)" ID="131967" SERIESID="10311"/>
+            <File Name="Marvel Select Flip Magazine 1" ID="131338" SERIESID="10248"/>
+            <File Name="New X-Men:Hellions 2" ID="131064" SERIESID="10212"/>
+            <File Name="Official Handbook of the Marvel Universe:Fantastic Four 2005 1" ID="131965" SERIESID="9976"/>
+            <File Name="Runaways 5" ID="130700" SERIESID="10145"/>
+            <File Name="Spider-Man/Human Torch 5" ID="130595" SERIESID="10137"/>
+            <File Name="X-Men 172" ID="129868" SERIESID="4158"/>
+            <File Name="X-Men:Kitty Pryde  Shadow &amp; Flame 1" ID="131272" SERIESID="10240"/>
+            <File Name="Young Avengers 5" ID="130682" SERIESID="10143"/>
         </Directory>
         <Directory Name="CMC 2005 07">
-            <File Name="Amazing Fantasy 10" ID="129038"/>
-            <File Name="Avengers:Assemble Dollar Digest 1" ID="171490"/>
-            <File Name="Daredevil Vs. Punisher 1" ID="131052"/>
-            <File Name="Exiles 66" ID="125580"/>
-            <File Name="Fantastic Four:First Family Dollar Digest 1" ID="171491"/>
-            <File Name="Fantastic Four:House of M 1" ID="132105"/>
-            <File Name="House of M 3" ID="131030"/>
-            <File Name="Hulk:Smash Dollar Digest 1" ID="171492"/>
-            <File Name="Incredible Hulk 83" ID="123138"/>
-            <File Name="Iron Man:House of M 1" ID="131292"/>
-            <File Name="Marvel Adventures Spider-Man 5" ID="130902"/>
-            <File Name="Marvel Team-Up 10" ID="128951"/>
-            <File Name="Shanna, the She-Devil 6" ID="130676"/>
-            <File Name="Spider-Girl 88" ID="122308"/>
-            <File Name="Spider-Man Unlimited 10" ID="128922"/>
-            <File Name="Spider-Man:Amazing Fantasy Dollar Digest 1" ID="171493"/>
-            <File Name="Spider-Man:Doctor Octopus Dollar Digest 1" ID="171494"/>
-            <File Name="Ultimate Spider-Man 79" ID="124934"/>
-            <File Name="Uncanny X-Men 462" ID="126215"/>
-            <File Name="X-Men:Children Of The Atom Dollar Digest 1" ID="171495"/>
-            <File Name="Gravity 2" ID="130213"/>
-            <File Name="Hercules 4" ID="131410"/>
-            <File Name="Marvel Nemesis:The Imperfects 3" ID="130888"/>
-            <File Name="Mutopia X 1" ID="130219"/>
-            <File Name="New Avengers 7" ID="129782"/>
-            <File Name="New Thunderbolts 91" ID="130472"/>
-            <File Name="New Warriors 2" ID="131225"/>
-            <File Name="NYX 6" ID="128369"/>
-            <File Name="Punisher 23" ID="129081"/>
-            <File Name="Spider-Man:Breakout 4" ID="131415"/>
-            <File Name="Toxin 4" ID="131265"/>
-            <File Name="Ultimate Fantastic Four 21" ID="128866"/>
-            <File Name="Ultimate Marvel Flip Magazine 2" ID="132019"/>
-            <File Name="Ultimate Tales Flip Magazine 2" ID="131970"/>
-            <File Name="Ultimate X-Men 61" ID="125221"/>
-            <File Name="Weapon X:Days of Future Now 1" ID="132096"/>
-            <File Name="X-Men:The End 5" ID="131234"/>
-            <File Name="Astonishing X-Men 11" ID="129642"/>
-            <File Name="Cable &amp; Deadpool 17" ID="128810"/>
-            <File Name="Daredevil 75" ID="122569"/>
-            <File Name="Defenders 1" ID="130201"/>
-            <File Name="Exiles 67" ID="125581"/>
-            <File Name="G.L.A. 4" ID="131051"/>
-            <File Name="House of M 4" ID="131031"/>
-            <File Name="House of M:Director&apos;s Cut 1" ID="131039"/>
-            <File Name="Incredible Hulk 84" ID="123140"/>
-            <File Name="Marvel Adventures Fantastic Four 2" ID="130961"/>
-            <File Name="Marvel Adventures Flip Magazine 2" ID="131237"/>
-            <File Name="Marvel Knights 4 20" ID="128998"/>
-            <File Name="Marvel Knights Spider-Man 16" ID="129353"/>
-            <File Name="Marvel Milestones:Dr. Strange, Silver Surfer, Sub-Mariner, &amp; Hulk ( 5)" ID="132109"/>
-            <File Name="Marvel Tales Flip Magazine 1" ID="131307"/>
-            <File Name="Ororo:Before the Storm 2" ID="131269"/>
-            <File Name="Secrets of the House of M 1" ID="132110"/>
-            <File Name="Spider-Man:House of M 2" ID="131297"/>
-            <File Name="Ultimate Spider-Man 80" ID="124936"/>
-            <File Name="Ultimates 2 7" ID="129472"/>
-            <File Name="Wolverine 30" ID="128023"/>
-            <File Name="X-Men:Kitty Pryde  Shadow &amp; Flame 2" ID="131273"/>
-            <File Name="Amazing Spider-Man 522" ID="128695"/>
-            <File Name="Black Panther 6" ID="130626"/>
-            <File Name="Daredevil Vs. Punisher 2" ID="131053"/>
-            <File Name="Fantastic Four 529" ID="128452"/>
-            <File Name="Giant-Size Spider-Woman 1" ID="132101"/>
-            <File Name="Hercules 5" ID="131411"/>
-            <File Name="Hulk:Destruction 1" ID="131018"/>
-            <File Name="Machine Teen 3" ID="131015"/>
-            <File Name="Marvel Heroes Flip Magazine 2" ID="132045"/>
-            <File Name="Marvel Select Flip Magazine 2" ID="131339"/>
-            <File Name="New X-Men 16" ID="129520"/>
-            <File Name="New X-Men:Hellions 3" ID="131065"/>
-            <File Name="Nightcrawler 8" ID="129749"/>
-            <File Name="Official Handbook of the Marvel Universe:Avengers 2005 1" ID="132104"/>
-            <File Name="Pulse 10" ID="129201"/>
-            <File Name="Pulse:House of M Special 1" ID="132102"/>
-            <File Name="Runaways 6" ID="130701"/>
-            <File Name="Spellbinders 5" ID="131389"/>
-            <File Name="X-Men 173" ID="129869"/>
+            <File Name="Amazing Fantasy 10" ID="129038" SERIESID="9840"/>
+            <File Name="Avengers:Assemble Dollar Digest 1" ID="171490" SERIESID="16334"/>
+            <File Name="Daredevil Vs. Punisher 1" ID="131052" SERIESID="10210"/>
+            <File Name="Exiles 66" ID="125580" SERIESID="9300"/>
+            <File Name="Fantastic Four:First Family Dollar Digest 1" ID="171491" SERIESID="16334"/>
+            <File Name="Fantastic Four:House of M 1" ID="132105" SERIESID="10375"/>
+            <File Name="House of M 3" ID="131030" SERIESID="10208"/>
+            <File Name="Hulk:Smash Dollar Digest 1" ID="171492" SERIESID="16334"/>
+            <File Name="Incredible Hulk 83" ID="123138" SERIESID="8925"/>
+            <File Name="Iron Man:House of M 1" ID="131292" SERIESID="10244"/>
+            <File Name="Marvel Adventures Spider-Man 5" ID="130902" SERIESID="10202"/>
+            <File Name="Marvel Team-Up 10" ID="128951" SERIESID="9835"/>
+            <File Name="Shanna, the She-Devil 6" ID="130676" SERIESID="10142"/>
+            <File Name="Spider-Girl 88" ID="122308" SERIESID="8856"/>
+            <File Name="Spider-Man Unlimited 10" ID="128922" SERIESID="9833"/>
+            <File Name="Spider-Man:Amazing Fantasy Dollar Digest 1" ID="171493" SERIESID="16334"/>
+            <File Name="Spider-Man:Doctor Octopus Dollar Digest 1" ID="171494" SERIESID="16334"/>
+            <File Name="Ultimate Spider-Man 79" ID="124934" SERIESID="9218"/>
+            <File Name="Uncanny X-Men 462" ID="126215" SERIESID="3987"/>
+            <File Name="X-Men:Children Of The Atom Dollar Digest 1" ID="171495" SERIESID="16334"/>
+            <File Name="Gravity 2" ID="130213" SERIESID="10044"/>
+            <File Name="Hercules 4" ID="131410" SERIESID="10264"/>
+            <File Name="Marvel Nemesis:The Imperfects 3" ID="130888" SERIESID="10200"/>
+            <File Name="Mutopia X 1" ID="130219" SERIESID="10047"/>
+            <File Name="New Avengers 7" ID="129782" SERIESID="9964"/>
+            <File Name="New Thunderbolts 91" ID="130472" SERIESID="8761"/>
+            <File Name="New Warriors 2" ID="131225" SERIESID="10235"/>
+            <File Name="NYX 6" ID="128369" SERIESID="9764"/>
+            <File Name="Punisher 23" ID="129081" SERIESID="9848"/>
+            <File Name="Spider-Man:Breakout 4" ID="131415" SERIESID="10265"/>
+            <File Name="Toxin 4" ID="131265" SERIESID="10238"/>
+            <File Name="Ultimate Fantastic Four 21" ID="128866" SERIESID="9832"/>
+            <File Name="Ultimate Marvel Flip Magazine 2" ID="132019" SERIESID="10359"/>
+            <File Name="Ultimate Tales Flip Magazine 2" ID="131970" SERIESID="10343"/>
+            <File Name="Ultimate X-Men 61" ID="125221" SERIESID="9257"/>
+            <File Name="Weapon X:Days of Future Now 1" ID="132096" SERIESID="10372"/>
+            <File Name="X-Men:The End 5" ID="131234" SERIESID="10236"/>
+            <File Name="Astonishing X-Men 11" ID="129642" SERIESID="9938"/>
+            <File Name="Cable &amp; Deadpool 17" ID="128810" SERIESID="9831"/>
+            <File Name="Daredevil 75" ID="122569" SERIESID="8877"/>
+            <File Name="Defenders 1" ID="130201" SERIESID="10042"/>
+            <File Name="Exiles 67" ID="125581" SERIESID="9300"/>
+            <File Name="G.L.A. 4" ID="131051" SERIESID="10209"/>
+            <File Name="House of M 4" ID="131031" SERIESID="10208"/>
+            <File Name="House of M:Director&apos;s Cut 1" ID="131039" SERIESID="10208"/>
+            <File Name="Incredible Hulk 84" ID="123140" SERIESID="8925"/>
+            <File Name="Marvel Adventures Fantastic Four 2" ID="130961" SERIESID="10203"/>
+            <File Name="Marvel Adventures Flip Magazine 2" ID="131237" SERIESID="10237"/>
+            <File Name="Marvel Knights 4 20" ID="128998" SERIESID="9837"/>
+            <File Name="Marvel Knights Spider-Man 16" ID="129353" SERIESID="9900"/>
+            <File Name="Marvel Milestones:Dr. Strange, Silver Surfer, Sub-Mariner, &amp; Hulk ( 5)" ID="132109" SERIESID="10311"/>
+            <File Name="Marvel Tales Flip Magazine 1" ID="131307" SERIESID="10247"/>
+            <File Name="Ororo:Before the Storm 2" ID="131269" SERIESID="10239"/>
+            <File Name="Secrets of the House of M 1" ID="132110" SERIESID="10376"/>
+            <File Name="Spider-Man:House of M 2" ID="131297" SERIESID="10245"/>
+            <File Name="Ultimate Spider-Man 80" ID="124936" SERIESID="9218"/>
+            <File Name="Ultimates 2 7" ID="129472" SERIESID="9915"/>
+            <File Name="Wolverine 30" ID="128023" SERIESID="9711"/>
+            <File Name="X-Men:Kitty Pryde  Shadow &amp; Flame 2" ID="131273" SERIESID="10240"/>
+            <File Name="Amazing Spider-Man 522" ID="128695" SERIESID="8896"/>
+            <File Name="Black Panther 6" ID="130626" SERIESID="10141"/>
+            <File Name="Daredevil Vs. Punisher 2" ID="131053" SERIESID="10210"/>
+            <File Name="Fantastic Four 529" ID="128452" SERIESID="8778"/>
+            <File Name="Giant-Size Spider-Woman 1" ID="132101" SERIESID="10373"/>
+            <File Name="Hercules 5" ID="131411" SERIESID="10264"/>
+            <File Name="Hulk:Destruction 1" ID="131018" SERIESID="10206"/>
+            <File Name="Machine Teen 3" ID="131015" SERIESID="10205"/>
+            <File Name="Marvel Heroes Flip Magazine 2" ID="132045" SERIESID="10360"/>
+            <File Name="Marvel Select Flip Magazine 2" ID="131339" SERIESID="10248"/>
+            <File Name="New X-Men 16" ID="129520" SERIESID="9922"/>
+            <File Name="New X-Men:Hellions 3" ID="131065" SERIESID="10212"/>
+            <File Name="Nightcrawler 8" ID="129749" SERIESID="9959"/>
+            <File Name="Official Handbook of the Marvel Universe:Avengers 2005 1" ID="132104" SERIESID="9976"/>
+            <File Name="Pulse 10" ID="129201" SERIESID="9875"/>
+            <File Name="Pulse:House of M Special 1" ID="132102" SERIESID="9875"/>
+            <File Name="Runaways 6" ID="130701" SERIESID="10145"/>
+            <File Name="Spellbinders 5" ID="131389" SERIESID="10257"/>
+            <File Name="X-Men 173" ID="129869" SERIESID="4158"/>
         </Directory>
         <Directory Name="CMC 2005 08">
-            <File Name="Amazing Fantasy 11" ID="129039"/>
-            <File Name="Arana:The Heart of the Spider 6" ID="130283"/>
-            <File Name="Daredevil:Father Director&apos;s Cut 1" ID="129565"/>
-            <File Name="Daredevil:Redemption 6" ID="130200"/>
-            <File Name="Fantastic Four:House of M 2" ID="132106"/>
-            <File Name="Iron Man:House of M 2" ID="131293"/>
-            <File Name="Marvel 1602:New World 1" ID="131008"/>
-            <File Name="Marvel Adventures Spider-Man 6" ID="130903"/>
-            <File Name="Marvel Team-Up 11" ID="128952"/>
-            <File Name="New Avengers 8" ID="129783"/>
-            <File Name="Spider-Girl 89" ID="122309"/>
-            <File Name="Ultimate Iron Man 3" ID="130825"/>
-            <File Name="Ultimate Spider-Man 81" ID="124937"/>
-            <File Name="Uncanny X-Men 463" ID="126216"/>
-            <File Name="X-Men Unlimited 10" ID="128937"/>
-            <File Name="Captain America 8" ID="130393"/>
-            <File Name="Exiles 68" ID="125582"/>
-            <File Name="Gravity 3" ID="130214"/>
-            <File Name="House of M 5" ID="131032"/>
-            <File Name="Incredible Hulk 85" ID="123142"/>
-            <File Name="Iron Man 4" ID="130344"/>
-            <File Name="Kabuki:Reflections 5" ID="132526"/>
-            <File Name="Marvel Nemesis:The Imperfects 4" ID="130889"/>
-            <File Name="Mega Morphs 1" ID="131303"/>
-            <File Name="New Warriors 3" ID="131226"/>
-            <File Name="Ororo:Before the Storm 3" ID="131270"/>
-            <File Name="Punisher 24" ID="129082"/>
-            <File Name="Shanna, the She-Devil 7" ID="130677"/>
-            <File Name="Spider-Man:Breakout 5" ID="131416"/>
-            <File Name="Toxin 5" ID="131266"/>
-            <File Name="Ultimate Fantastic Four 22" ID="128868"/>
-            <File Name="Ultimate Marvel Flip Magazine 3" ID="132020"/>
-            <File Name="Ultimate Tales Flip Magazine 3" ID="131971"/>
-            <File Name="Ultimates Annual 1" ID="132198"/>
-            <File Name="X-Men 174" ID="129870"/>
-            <File Name="Arana:The Heart of the Spider 7" ID="130284"/>
-            <File Name="Cable &amp; Deadpool 18" ID="128811"/>
-            <File Name="Defenders 2" ID="130202"/>
-            <File Name="Livewires 6" ID="130695"/>
-            <File Name="Marvel Adventures Fantastic Four 3" ID="130962"/>
-            <File Name="Marvel Knights 4 21" ID="128999"/>
-            <File Name="Marvel Milestones:Captain Britain, Psylocke &amp; Sub-Mariner ( 6)" ID="132200"/>
-            <File Name="Marvel Tales Flip Magazine 2" ID="131308"/>
-            <File Name="Mutopia X 2" ID="130220"/>
-            <File Name="New Thunderbolts 92" ID="130473"/>
-            <File Name="New X-Men:Hellions 4" ID="131066"/>
-            <File Name="Spider-Man:House of M 3" ID="131298"/>
-            <File Name="Ultimate Spider-Man Annual 1" ID="130149"/>
-            <File Name="Ultimate X-Men 62" ID="125224"/>
-            <File Name="Weapon X:Days of Future Now 2" ID="132097"/>
-            <File Name="Black Panther 7" ID="130627"/>
-            <File Name="Daredevil 76" ID="122570"/>
-            <File Name="Daredevil Vs. Punisher 3" ID="131054"/>
-            <File Name="Fantastic Four 530" ID="128453"/>
-            <File Name="Hulk:Destruction 2" ID="131019"/>
-            <File Name="Machine Teen 4" ID="131016"/>
-            <File Name="Marvel Heroes Flip Magazine 3" ID="132046"/>
-            <File Name="Marvel Knights Spider-Man 17" ID="129354"/>
-            <File Name="Marvel Select Flip Magazine 3" ID="131340"/>
-            <File Name="Mega Morphs 2" ID="131304"/>
-            <File Name="New X-Men 17" ID="129521"/>
-            <File Name="Nightcrawler 9" ID="129750"/>
-            <File Name="Spellbinders 6" ID="131390"/>
-            <File Name="Ultimate X-Men Annual 1" ID="128151"/>
-            <File Name="Wolverine 31" ID="128024"/>
-            <File Name="Amazing Spider-Man 523" ID="128696"/>
-            <File Name="Astonishing X-Men 12" ID="129643"/>
-            <File Name="Captain America 9" ID="130394"/>
-            <File Name="Daredevil:Father 2" ID="129560"/>
-            <File Name="Marvel 1602:New World 2" ID="131009"/>
-            <File Name="Marvel Adventures Flip Magazine 3" ID="131238"/>
-            <File Name="New Avengers 9" ID="129784"/>
-            <File Name="Official Handbook of the Ultimate Marvel Universe 2005:The Fantastic Four &amp; Spider-Man 1" ID="132203"/>
-            <File Name="Powers 12" ID="129608"/>
-            <File Name="Runaways 7" ID="130702"/>
-            <File Name="Supreme Power 18" ID="128362"/>
-            <File Name="Wha... Huh? 1" ID="130588"/>
-            <File Name="X-Men:Kitty Pryde  Shadow &amp; Flame 3" ID="131274"/>
-            <File Name="X-Men:The End 6" ID="131235"/>
-            <File Name="Young Avengers 6" ID="130683"/>
+            <File Name="Amazing Fantasy 11" ID="129039" SERIESID="9840"/>
+            <File Name="Arana:The Heart of the Spider 6" ID="130283" SERIESID="10072"/>
+            <File Name="Daredevil:Father Director&apos;s Cut 1" ID="129565" SERIESID="9923"/>
+            <File Name="Daredevil:Redemption 6" ID="130200" SERIESID="10041"/>
+            <File Name="Fantastic Four:House of M 2" ID="132106" SERIESID="10375"/>
+            <File Name="Iron Man:House of M 2" ID="131293" SERIESID="10244"/>
+            <File Name="Marvel 1602:New World 1" ID="131008" SERIESID="10204"/>
+            <File Name="Marvel Adventures Spider-Man 6" ID="130903" SERIESID="10202"/>
+            <File Name="Marvel Team-Up 11" ID="128952" SERIESID="9835"/>
+            <File Name="New Avengers 8" ID="129783" SERIESID="9964"/>
+            <File Name="Spider-Girl 89" ID="122309" SERIESID="8856"/>
+            <File Name="Ultimate Iron Man 3" ID="130825" SERIESID="10187"/>
+            <File Name="Ultimate Spider-Man 81" ID="124937" SERIESID="9218"/>
+            <File Name="Uncanny X-Men 463" ID="126216" SERIESID="3987"/>
+            <File Name="X-Men Unlimited 10" ID="128937" SERIESID="9834"/>
+            <File Name="Captain America 8" ID="130393" SERIESID="10102"/>
+            <File Name="Exiles 68" ID="125582" SERIESID="9300"/>
+            <File Name="Gravity 3" ID="130214" SERIESID="10044"/>
+            <File Name="House of M 5" ID="131032" SERIESID="10208"/>
+            <File Name="Incredible Hulk 85" ID="123142" SERIESID="8925"/>
+            <File Name="Iron Man 4" ID="130344" SERIESID="10100"/>
+            <File Name="Kabuki:Reflections 5" ID="132526" SERIESID="10445"/>
+            <File Name="Marvel Nemesis:The Imperfects 4" ID="130889" SERIESID="10200"/>
+            <File Name="Mega Morphs 1" ID="131303" SERIESID="10246"/>
+            <File Name="New Warriors 3" ID="131226" SERIESID="10235"/>
+            <File Name="Ororo:Before the Storm 3" ID="131270" SERIESID="10239"/>
+            <File Name="Punisher 24" ID="129082" SERIESID="9848"/>
+            <File Name="Shanna, the She-Devil 7" ID="130677" SERIESID="10142"/>
+            <File Name="Spider-Man:Breakout 5" ID="131416" SERIESID="10265"/>
+            <File Name="Toxin 5" ID="131266" SERIESID="10238"/>
+            <File Name="Ultimate Fantastic Four 22" ID="128868" SERIESID="9832"/>
+            <File Name="Ultimate Marvel Flip Magazine 3" ID="132020" SERIESID="10359"/>
+            <File Name="Ultimate Tales Flip Magazine 3" ID="131971" SERIESID="10343"/>
+            <File Name="Ultimates Annual 1" ID="132198" SERIESID="9915"/>
+            <File Name="X-Men 174" ID="129870" SERIESID="4158"/>
+            <File Name="Arana:The Heart of the Spider 7" ID="130284" SERIESID="10072"/>
+            <File Name="Cable &amp; Deadpool 18" ID="128811" SERIESID="9831"/>
+            <File Name="Defenders 2" ID="130202" SERIESID="10042"/>
+            <File Name="Livewires 6" ID="130695" SERIESID="10144"/>
+            <File Name="Marvel Adventures Fantastic Four 3" ID="130962" SERIESID="10203"/>
+            <File Name="Marvel Knights 4 21" ID="128999" SERIESID="9837"/>
+            <File Name="Marvel Milestones:Captain Britain, Psylocke &amp; Sub-Mariner ( 6)" ID="132200" SERIESID="10311"/>
+            <File Name="Marvel Tales Flip Magazine 2" ID="131308" SERIESID="10247"/>
+            <File Name="Mutopia X 2" ID="130220" SERIESID="10047"/>
+            <File Name="New Thunderbolts 92" ID="130473" SERIESID="8761"/>
+            <File Name="New X-Men:Hellions 4" ID="131066" SERIESID="10212"/>
+            <File Name="Spider-Man:House of M 3" ID="131298" SERIESID="10245"/>
+            <File Name="Ultimate Spider-Man Annual 1" ID="130149" SERIESID="9218"/>
+            <File Name="Ultimate X-Men 62" ID="125224" SERIESID="9257"/>
+            <File Name="Weapon X:Days of Future Now 2" ID="132097" SERIESID="10372"/>
+            <File Name="Black Panther 7" ID="130627" SERIESID="10141"/>
+            <File Name="Daredevil 76" ID="122570" SERIESID="8877"/>
+            <File Name="Daredevil Vs. Punisher 3" ID="131054" SERIESID="10210"/>
+            <File Name="Fantastic Four 530" ID="128453" SERIESID="8778"/>
+            <File Name="Hulk:Destruction 2" ID="131019" SERIESID="10206"/>
+            <File Name="Machine Teen 4" ID="131016" SERIESID="10205"/>
+            <File Name="Marvel Heroes Flip Magazine 3" ID="132046" SERIESID="10360"/>
+            <File Name="Marvel Knights Spider-Man 17" ID="129354" SERIESID="9900"/>
+            <File Name="Marvel Select Flip Magazine 3" ID="131340" SERIESID="10248"/>
+            <File Name="Mega Morphs 2" ID="131304" SERIESID="10246"/>
+            <File Name="New X-Men 17" ID="129521" SERIESID="9922"/>
+            <File Name="Nightcrawler 9" ID="129750" SERIESID="9959"/>
+            <File Name="Spellbinders 6" ID="131390" SERIESID="10257"/>
+            <File Name="Ultimate X-Men Annual 1" ID="128151" SERIESID="9257"/>
+            <File Name="Wolverine 31" ID="128024" SERIESID="9711"/>
+            <File Name="Amazing Spider-Man 523" ID="128696" SERIESID="8896"/>
+            <File Name="Astonishing X-Men 12" ID="129643" SERIESID="9938"/>
+            <File Name="Captain America 9" ID="130394" SERIESID="10102"/>
+            <File Name="Daredevil:Father 2" ID="129560" SERIESID="9923"/>
+            <File Name="Marvel 1602:New World 2" ID="131009" SERIESID="10204"/>
+            <File Name="Marvel Adventures Flip Magazine 3" ID="131238" SERIESID="10237"/>
+            <File Name="New Avengers 9" ID="129784" SERIESID="9964"/>
+            <File Name="Official Handbook of the Ultimate Marvel Universe 2005:The Fantastic Four &amp; Spider-Man 1" ID="132203" SERIESID="9976"/>
+            <File Name="Powers 12" ID="129608" SERIESID="9936"/>
+            <File Name="Runaways 7" ID="130702" SERIESID="10145"/>
+            <File Name="Supreme Power 18" ID="128362" SERIESID="9763"/>
+            <File Name="Wha... Huh? 1" ID="130588" SERIESID="10136"/>
+            <File Name="X-Men:Kitty Pryde  Shadow &amp; Flame 3" ID="131274" SERIESID="10240"/>
+            <File Name="X-Men:The End 6" ID="131235" SERIESID="10236"/>
+            <File Name="Young Avengers 6" ID="130683" SERIESID="10143"/>
         </Directory>
         <Directory Name="CMC 2005 09">
-            <File Name="Target Presents:Reading to the Rescue 3" ID="273419"/>
-            <File Name="Amazing Fantasy 12" ID="129040"/>
-            <File Name="Arana:The Heart of the Spider 8" ID="130285"/>
-            <File Name="Cable &amp; Deadpool 19" ID="128812"/>
-            <File Name="Exiles 69" ID="125583"/>
-            <File Name="Fantastic Four:House of M 3" ID="132107"/>
-            <File Name="Ghost Rider 1" ID="132204"/>
-            <File Name="House of M 6" ID="131033"/>
-            <File Name="Incredible Hulk 86" ID="123143"/>
-            <File Name="Iron Man:House of M 3" ID="131294"/>
-            <File Name="Marvel Adventures Spider-Man 7" ID="130904"/>
-            <File Name="Marvel Team-Up 12" ID="128953"/>
-            <File Name="Ororo:Before the Storm 4" ID="131271"/>
-            <File Name="Punisher 25" ID="129083"/>
-            <File Name="Spider-Girl 90" ID="122310"/>
-            <File Name="Supreme Power:Nighthawk 1" ID="132213"/>
-            <File Name="Ultimate Marvel Flip Magazine 4" ID="132021"/>
-            <File Name="Ultimate Spider-Man 82" ID="124938"/>
-            <File Name="Ultimate Tales Flip Magazine 4" ID="131972"/>
-            <File Name="Uncanny X-Men 464" ID="126217"/>
-            <File Name="X-Men:Colossus Bloodline 1" ID="131058"/>
-            <File Name="Daredevil Vs. Punisher 4" ID="131055"/>
-            <File Name="Fantastic Four Presents Franklin Richards 1" ID="132225"/>
-            <File Name="Gravity 4" ID="130215"/>
-            <File Name="Marvel Knights 4 22" ID="129000"/>
-            <File Name="Marvel Knights Spider-Man 18" ID="129355"/>
-            <File Name="Marvel Nemesis:The Imperfects 5" ID="130890"/>
-            <File Name="Marvel Tales Flip Magazine 3" ID="131309"/>
-            <File Name="Mega Morphs 3" ID="131305"/>
-            <File Name="Mutopia X 3" ID="130221"/>
-            <File Name="New Thunderbolts 93" ID="130474"/>
-            <File Name="Pulse 11" ID="129203"/>
-            <File Name="Spider-Man Unlimited 11" ID="128923"/>
-            <File Name="Thor:Blood Oath 1" ID="132219"/>
-            <File Name="Toxin 6" ID="131267"/>
-            <File Name="Ultimate X-Men 63" ID="125225"/>
-            <File Name="Weapon X:Days of Future Now 3" ID="132098"/>
-            <File Name="X-Men 175" ID="129871"/>
-            <File Name="Black Panther 8" ID="130628"/>
-            <File Name="Captain America 10" ID="130395"/>
-            <File Name="Daredevil:Father 3" ID="129561"/>
-            <File Name="Exiles 70" ID="125584"/>
-            <File Name="Machine Teen 5" ID="131017"/>
-            <File Name="Marvel 1602:New World 3" ID="131010"/>
-            <File Name="Marvel Adventures Fantastic Four 4" ID="130963"/>
-            <File Name="Marvel Milestones:Ghost Rider, Black Widow &amp; Iceman ( 7)" ID="132226"/>
-            <File Name="Marvel Select Flip Magazine 4" ID="131341"/>
-            <File Name="New Avengers 10" ID="129785"/>
-            <File Name="Runaways 8" ID="130703"/>
-            <File Name="Supreme Power:Hyperion 1" ID="130321"/>
-            <File Name="Ultimate Fantastic Four 23" ID="128869"/>
-            <File Name="Ultimate Fantastic Four Annual 1" ID="132201"/>
-            <File Name="Ultimates 2 8" ID="129473"/>
-            <File Name="Wolverine 32" ID="128025"/>
-            <File Name="Amazing Spider-Man 524" ID="128697"/>
-            <File Name="Arana:The Heart of the Spider 9" ID="130286"/>
-            <File Name="Black Widow 2 1" ID="132237"/>
-            <File Name="Cable &amp; Deadpool 20" ID="128813"/>
-            <File Name="Daredevil 77" ID="122571"/>
-            <File Name="Defenders 3" ID="130203"/>
-            <File Name="Drax the Destroyer 1" ID="131283"/>
-            <File Name="Fantastic Four 531" ID="128454"/>
-            <File Name="Giant-Size X-Men 4" ID="131933"/>
-            <File Name="Hulk:Destruction 3" ID="131020"/>
-            <File Name="Marvel Adventures Flip Magazine 4" ID="131239"/>
-            <File Name="Marvel Heroes Flip Magazine 4" ID="132047"/>
-            <File Name="New Avengers 11" ID="129786"/>
-            <File Name="New Warriors 4" ID="131227"/>
-            <File Name="New X-Men 18" ID="129522"/>
-            <File Name="Nightcrawler 10" ID="129751"/>
-            <File Name="NYX 7" ID="128370"/>
-            <File Name="Official Handbook of the Marvel Universe:Alternate Universes 2005 1" ID="132227"/>
-            <File Name="Sentry 1" ID="132228"/>
-            <File Name="Spider-Man:House of M 4" ID="131299"/>
-            <File Name="Ultimate Iron Man 4" ID="130826"/>
-            <File Name="Ultimate Secret 3" ID="130577"/>
-            <File Name="Ultimate Spider-Man 83" ID="124939"/>
-            <File Name="Wolverine 33" ID="128027"/>
-            <File Name="X-Men:Kitty Pryde  Shadow &amp; Flame 4" ID="131275"/>
-            <File Name="Young Avengers 7" ID="130684"/>
+            <File Name="Target Presents:Reading to the Rescue 3" ID="273419" SERIESID="28263"/>
+            <File Name="Amazing Fantasy 12" ID="129040" SERIESID="9840"/>
+            <File Name="Arana:The Heart of the Spider 8" ID="130285" SERIESID="10072"/>
+            <File Name="Cable &amp; Deadpool 19" ID="128812" SERIESID="9831"/>
+            <File Name="Exiles 69" ID="125583" SERIESID="9300"/>
+            <File Name="Fantastic Four:House of M 3" ID="132107" SERIESID="10375"/>
+            <File Name="Ghost Rider 1" ID="132204" SERIESID="10397"/>
+            <File Name="House of M 6" ID="131033" SERIESID="10208"/>
+            <File Name="Incredible Hulk 86" ID="123143" SERIESID="8925"/>
+            <File Name="Iron Man:House of M 3" ID="131294" SERIESID="10244"/>
+            <File Name="Marvel Adventures Spider-Man 7" ID="130904" SERIESID="10202"/>
+            <File Name="Marvel Team-Up 12" ID="128953" SERIESID="9835"/>
+            <File Name="Ororo:Before the Storm 4" ID="131271" SERIESID="10239"/>
+            <File Name="Punisher 25" ID="129083" SERIESID="9848"/>
+            <File Name="Spider-Girl 90" ID="122310" SERIESID="8856"/>
+            <File Name="Supreme Power:Nighthawk 1" ID="132213" SERIESID="10398"/>
+            <File Name="Ultimate Marvel Flip Magazine 4" ID="132021" SERIESID="10359"/>
+            <File Name="Ultimate Spider-Man 82" ID="124938" SERIESID="9218"/>
+            <File Name="Ultimate Tales Flip Magazine 4" ID="131972" SERIESID="10343"/>
+            <File Name="Uncanny X-Men 464" ID="126217" SERIESID="3987"/>
+            <File Name="X-Men:Colossus Bloodline 1" ID="131058" SERIESID="10211"/>
+            <File Name="Daredevil Vs. Punisher 4" ID="131055" SERIESID="10210"/>
+            <File Name="Fantastic Four Presents Franklin Richards 1" ID="132225" SERIESID="10400"/>
+            <File Name="Gravity 4" ID="130215" SERIESID="10044"/>
+            <File Name="Marvel Knights 4 22" ID="129000" SERIESID="9837"/>
+            <File Name="Marvel Knights Spider-Man 18" ID="129355" SERIESID="9900"/>
+            <File Name="Marvel Nemesis:The Imperfects 5" ID="130890" SERIESID="10200"/>
+            <File Name="Marvel Tales Flip Magazine 3" ID="131309" SERIESID="10247"/>
+            <File Name="Mega Morphs 3" ID="131305" SERIESID="10246"/>
+            <File Name="Mutopia X 3" ID="130221" SERIESID="10047"/>
+            <File Name="New Thunderbolts 93" ID="130474" SERIESID="8761"/>
+            <File Name="Pulse 11" ID="129203" SERIESID="9875"/>
+            <File Name="Spider-Man Unlimited 11" ID="128923" SERIESID="9833"/>
+            <File Name="Thor:Blood Oath 1" ID="132219" SERIESID="10399"/>
+            <File Name="Toxin 6" ID="131267" SERIESID="10238"/>
+            <File Name="Ultimate X-Men 63" ID="125225" SERIESID="9257"/>
+            <File Name="Weapon X:Days of Future Now 3" ID="132098" SERIESID="10372"/>
+            <File Name="X-Men 175" ID="129871" SERIESID="4158"/>
+            <File Name="Black Panther 8" ID="130628" SERIESID="10141"/>
+            <File Name="Captain America 10" ID="130395" SERIESID="10102"/>
+            <File Name="Daredevil:Father 3" ID="129561" SERIESID="9923"/>
+            <File Name="Exiles 70" ID="125584" SERIESID="9300"/>
+            <File Name="Machine Teen 5" ID="131017" SERIESID="10205"/>
+            <File Name="Marvel 1602:New World 3" ID="131010" SERIESID="10204"/>
+            <File Name="Marvel Adventures Fantastic Four 4" ID="130963" SERIESID="10203"/>
+            <File Name="Marvel Milestones:Ghost Rider, Black Widow &amp; Iceman ( 7)" ID="132226" SERIESID="10311"/>
+            <File Name="Marvel Select Flip Magazine 4" ID="131341" SERIESID="10248"/>
+            <File Name="New Avengers 10" ID="129785" SERIESID="9964"/>
+            <File Name="Runaways 8" ID="130703" SERIESID="10145"/>
+            <File Name="Supreme Power:Hyperion 1" ID="130321" SERIESID="10090"/>
+            <File Name="Ultimate Fantastic Four 23" ID="128869" SERIESID="9832"/>
+            <File Name="Ultimate Fantastic Four Annual 1" ID="132201" SERIESID="9832"/>
+            <File Name="Ultimates 2 8" ID="129473" SERIESID="9915"/>
+            <File Name="Wolverine 32" ID="128025" SERIESID="9711"/>
+            <File Name="Amazing Spider-Man 524" ID="128697" SERIESID="8896"/>
+            <File Name="Arana:The Heart of the Spider 9" ID="130286" SERIESID="10072"/>
+            <File Name="Black Widow 2 1" ID="132237" SERIESID="10402"/>
+            <File Name="Cable &amp; Deadpool 20" ID="128813" SERIESID="9831"/>
+            <File Name="Daredevil 77" ID="122571" SERIESID="8877"/>
+            <File Name="Defenders 3" ID="130203" SERIESID="10042"/>
+            <File Name="Drax the Destroyer 1" ID="131283" SERIESID="10242"/>
+            <File Name="Fantastic Four 531" ID="128454" SERIESID="8778"/>
+            <File Name="Giant-Size X-Men 4" ID="131933" SERIESID="4031"/>
+            <File Name="Hulk:Destruction 3" ID="131020" SERIESID="10206"/>
+            <File Name="Marvel Adventures Flip Magazine 4" ID="131239" SERIESID="10237"/>
+            <File Name="Marvel Heroes Flip Magazine 4" ID="132047" SERIESID="10360"/>
+            <File Name="New Avengers 11" ID="129786" SERIESID="9964"/>
+            <File Name="New Warriors 4" ID="131227" SERIESID="10235"/>
+            <File Name="New X-Men 18" ID="129522" SERIESID="9922"/>
+            <File Name="Nightcrawler 10" ID="129751" SERIESID="9959"/>
+            <File Name="NYX 7" ID="128370" SERIESID="9764"/>
+            <File Name="Official Handbook of the Marvel Universe:Alternate Universes 2005 1" ID="132227" SERIESID="9976"/>
+            <File Name="Sentry 1" ID="132228" SERIESID="10401"/>
+            <File Name="Spider-Man:House of M 4" ID="131299" SERIESID="10245"/>
+            <File Name="Ultimate Iron Man 4" ID="130826" SERIESID="10187"/>
+            <File Name="Ultimate Secret 3" ID="130577" SERIESID="10132"/>
+            <File Name="Ultimate Spider-Man 83" ID="124939" SERIESID="9218"/>
+            <File Name="Wolverine 33" ID="128027" SERIESID="9711"/>
+            <File Name="X-Men:Kitty Pryde  Shadow &amp; Flame 4" ID="131275" SERIESID="10240"/>
+            <File Name="Young Avengers 7" ID="130684" SERIESID="10143"/>
         </Directory>
         <Directory Name="CMC 2005 10">
-            <File Name="New Avengers:Pot of Gold (AAFES 110th Anniversary Issue) ( 2)" ID="248587"/>
-            <File Name="Amazing Fantasy 13" ID="129041"/>
-            <File Name="Fantastic Four/Iron Man:Big in Japan 1" ID="132458"/>
-            <File Name="Incredible Hulk 87" ID="123144"/>
-            <File Name="Marvel Adventures Spider-Man 8" ID="130905"/>
-            <File Name="Marvel Halloween Ashcan 2005 1" ID="171501"/>
-            <File Name="Marvel Monsters:Devil Dinosaur 1" ID="132633"/>
-            <File Name="Marvel Team-Up 13" ID="128954"/>
-            <File Name="New Thunderbolts 94" ID="130475"/>
-            <File Name="Powers 13" ID="129610"/>
-            <File Name="Punisher 26" ID="129084"/>
-            <File Name="Spider-Girl 91" ID="122311"/>
-            <File Name="Spider-Man:The Other Sketchbook 1" ID="132629"/>
-            <File Name="Supreme Power:Nighthawk 2" ID="132214"/>
-            <File Name="Thor:Blood Oath 2" ID="132220"/>
-            <File Name="Ultimate Marvel Flip Magazine 5" ID="132022"/>
-            <File Name="Ultimate Tales Flip Magazine 5" ID="131973"/>
-            <File Name="Uncanny X-Men 465" ID="126218"/>
-            <File Name="X-Men Unlimited 11" ID="128938"/>
-            <File Name="Cable &amp; Deadpool 21" ID="128814"/>
-            <File Name="Exiles 71" ID="125585"/>
-            <File Name="Friendly Neighborhood Spider-Man 1" ID="131185"/>
-            <File Name="Ghost Rider 2" ID="132205"/>
-            <File Name="Ghost Rider:Director&apos;s Cut 1" ID="132212"/>
-            <File Name="Gravity 5" ID="130216"/>
-            <File Name="House of M 7" ID="131034"/>
-            <File Name="Marvel Adventures Fantastic Four 5" ID="130964"/>
-            <File Name="Marvel Knights 4 23" ID="129001"/>
-            <File Name="Marvel Milestones:Blade, Man-Thing &amp; Satana ( 8)" ID="132631"/>
-            <File Name="Marvel Monsters:Where Monsters Dwell 1" ID="132634"/>
-            <File Name="Marvel Nemesis:The Imperfects 6" ID="130891"/>
-            <File Name="Mega Morphs 4" ID="131306"/>
-            <File Name="Mutopia X 4" ID="130222"/>
-            <File Name="Ultimate X-Men 64" ID="125226"/>
-            <File Name="Wolverine 34" ID="128028"/>
-            <File Name="Daredevil Vs. Punisher 5" ID="131056"/>
-            <File Name="Marvel 1602:New World 4" ID="131011"/>
-            <File Name="Marvel Knights Spider-Man 19" ID="129356"/>
-            <File Name="Marvel Monsters:Fing Fang Four 1" ID="132635"/>
-            <File Name="Marvel Select Flip Magazine 5" ID="131342"/>
-            <File Name="Marvel Tales Flip Magazine 4" ID="131310"/>
-            <File Name="Nick Fury&apos;s Howling Commandos 1" ID="132244"/>
-            <File Name="Official Handbook of the Marvel Universe:Horror 2005 1" ID="132630"/>
-            <File Name="Runaways 9" ID="130704"/>
-            <File Name="She-Hulk 1" ID="132586"/>
-            <File Name="Spider-Man Family 1" ID="132683"/>
-            <File Name="Supreme Power:Hyperion 2" ID="130322"/>
-            <File Name="Thor:Blood Oath 3" ID="132221"/>
-            <File Name="Ultimate Fantastic Four 24" ID="128870"/>
-            <File Name="Ultimate Spider-Man 84" ID="124940"/>
-            <File Name="Weapon X:Days of Future Now 4" ID="132099"/>
-            <File Name="X-Men 176" ID="129872"/>
-            <File Name="X-Men and Power Pack 1" ID="132300"/>
-            <File Name="X-Men:Colossus Bloodline 2" ID="131059"/>
-            <File Name="Amazing Fantasy 14" ID="129042"/>
-            <File Name="Amazing Spider-Man 525" ID="128698"/>
-            <File Name="Arana:The Heart of the Spider 10" ID="130287"/>
-            <File Name="Black Panther 9" ID="130629"/>
-            <File Name="Black Widow 2 2" ID="132238"/>
-            <File Name="Book of Lost Souls 1" ID="131277"/>
-            <File Name="Captain America 11" ID="130396"/>
-            <File Name="Daredevil 78" ID="122572"/>
-            <File Name="Defenders 4" ID="130204"/>
-            <File Name="Drax the Destroyer 2" ID="131284"/>
-            <File Name="Hulk:Destruction 4" ID="131021"/>
-            <File Name="Kabuki 5" ID="129945"/>
-            <File Name="Marvel Adventures Flip Magazine 5" ID="131240"/>
-            <File Name="Marvel Heroes Flip Magazine 5" ID="132048"/>
-            <File Name="Marvel Monsters:Monsters on the Prowl 1" ID="132636"/>
-            <File Name="New Avengers 12" ID="129787"/>
-            <File Name="New Thunderbolts 95" ID="130476"/>
-            <File Name="New X-Men 19" ID="129523"/>
-            <File Name="New X-Men:Academy X Yearbook 1" ID="132632"/>
-            <File Name="Sentry 2" ID="132229"/>
-            <File Name="Ultimate Secret 4" ID="130578"/>
-            <File Name="Wolverine 35" ID="128029"/>
-            <File Name="Young Avengers 8" ID="130685"/>
+            <File Name="New Avengers:Pot of Gold (AAFES 110th Anniversary Issue) ( 2)" ID="248587" SERIESID="25523"/>
+            <File Name="Amazing Fantasy 13" ID="129041" SERIESID="9840"/>
+            <File Name="Fantastic Four/Iron Man:Big in Japan 1" ID="132458" SERIESID="10432"/>
+            <File Name="Incredible Hulk 87" ID="123144" SERIESID="8925"/>
+            <File Name="Marvel Adventures Spider-Man 8" ID="130905" SERIESID="10202"/>
+            <File Name="Marvel Halloween Ashcan 2005 1" ID="171501" SERIESID="16336"/>
+            <File Name="Marvel Monsters:Devil Dinosaur 1" ID="132633" SERIESID="10471"/>
+            <File Name="Marvel Team-Up 13" ID="128954" SERIESID="9835"/>
+            <File Name="New Thunderbolts 94" ID="130475" SERIESID="8761"/>
+            <File Name="Powers 13" ID="129610" SERIESID="9936"/>
+            <File Name="Punisher 26" ID="129084" SERIESID="9848"/>
+            <File Name="Spider-Girl 91" ID="122311" SERIESID="8856"/>
+            <File Name="Spider-Man:The Other Sketchbook 1" ID="132629" SERIESID="10470"/>
+            <File Name="Supreme Power:Nighthawk 2" ID="132214" SERIESID="10398"/>
+            <File Name="Thor:Blood Oath 2" ID="132220" SERIESID="10399"/>
+            <File Name="Ultimate Marvel Flip Magazine 5" ID="132022" SERIESID="10359"/>
+            <File Name="Ultimate Tales Flip Magazine 5" ID="131973" SERIESID="10343"/>
+            <File Name="Uncanny X-Men 465" ID="126218" SERIESID="3987"/>
+            <File Name="X-Men Unlimited 11" ID="128938" SERIESID="9834"/>
+            <File Name="Cable &amp; Deadpool 21" ID="128814" SERIESID="9831"/>
+            <File Name="Exiles 71" ID="125585" SERIESID="9300"/>
+            <File Name="Friendly Neighborhood Spider-Man 1" ID="131185" SERIESID="10230"/>
+            <File Name="Ghost Rider 2" ID="132205" SERIESID="10397"/>
+            <File Name="Ghost Rider:Director&apos;s Cut 1" ID="132212" SERIESID="10397"/>
+            <File Name="Gravity 5" ID="130216" SERIESID="10044"/>
+            <File Name="House of M 7" ID="131034" SERIESID="10208"/>
+            <File Name="Marvel Adventures Fantastic Four 5" ID="130964" SERIESID="10203"/>
+            <File Name="Marvel Knights 4 23" ID="129001" SERIESID="9837"/>
+            <File Name="Marvel Milestones:Blade, Man-Thing &amp; Satana ( 8)" ID="132631" SERIESID="10311"/>
+            <File Name="Marvel Monsters:Where Monsters Dwell 1" ID="132634" SERIESID="10471"/>
+            <File Name="Marvel Nemesis:The Imperfects 6" ID="130891" SERIESID="10200"/>
+            <File Name="Mega Morphs 4" ID="131306" SERIESID="10246"/>
+            <File Name="Mutopia X 4" ID="130222" SERIESID="10047"/>
+            <File Name="Ultimate X-Men 64" ID="125226" SERIESID="9257"/>
+            <File Name="Wolverine 34" ID="128028" SERIESID="9711"/>
+            <File Name="Daredevil Vs. Punisher 5" ID="131056" SERIESID="10210"/>
+            <File Name="Marvel 1602:New World 4" ID="131011" SERIESID="10204"/>
+            <File Name="Marvel Knights Spider-Man 19" ID="129356" SERIESID="9900"/>
+            <File Name="Marvel Monsters:Fing Fang Four 1" ID="132635" SERIESID="10471"/>
+            <File Name="Marvel Select Flip Magazine 5" ID="131342" SERIESID="10248"/>
+            <File Name="Marvel Tales Flip Magazine 4" ID="131310" SERIESID="10247"/>
+            <File Name="Nick Fury&apos;s Howling Commandos 1" ID="132244" SERIESID="10403"/>
+            <File Name="Official Handbook of the Marvel Universe:Horror 2005 1" ID="132630" SERIESID="9976"/>
+            <File Name="Runaways 9" ID="130704" SERIESID="10145"/>
+            <File Name="She-Hulk 1" ID="132586" SERIESID="10469"/>
+            <File Name="Spider-Man Family 1" ID="132683" SERIESID="10473"/>
+            <File Name="Supreme Power:Hyperion 2" ID="130322" SERIESID="10090"/>
+            <File Name="Thor:Blood Oath 3" ID="132221" SERIESID="10399"/>
+            <File Name="Ultimate Fantastic Four 24" ID="128870" SERIESID="9832"/>
+            <File Name="Ultimate Spider-Man 84" ID="124940" SERIESID="9218"/>
+            <File Name="Weapon X:Days of Future Now 4" ID="132099" SERIESID="10372"/>
+            <File Name="X-Men 176" ID="129872" SERIESID="4158"/>
+            <File Name="X-Men and Power Pack 1" ID="132300" SERIESID="10417"/>
+            <File Name="X-Men:Colossus Bloodline 2" ID="131059" SERIESID="10211"/>
+            <File Name="Amazing Fantasy 14" ID="129042" SERIESID="9840"/>
+            <File Name="Amazing Spider-Man 525" ID="128698" SERIESID="8896"/>
+            <File Name="Arana:The Heart of the Spider 10" ID="130287" SERIESID="10072"/>
+            <File Name="Black Panther 9" ID="130629" SERIESID="10141"/>
+            <File Name="Black Widow 2 2" ID="132238" SERIESID="10402"/>
+            <File Name="Book of Lost Souls 1" ID="131277" SERIESID="10241"/>
+            <File Name="Captain America 11" ID="130396" SERIESID="10102"/>
+            <File Name="Daredevil 78" ID="122572" SERIESID="8877"/>
+            <File Name="Defenders 4" ID="130204" SERIESID="10042"/>
+            <File Name="Drax the Destroyer 2" ID="131284" SERIESID="10242"/>
+            <File Name="Hulk:Destruction 4" ID="131021" SERIESID="10206"/>
+            <File Name="Kabuki 5" ID="129945" SERIESID="9975"/>
+            <File Name="Marvel Adventures Flip Magazine 5" ID="131240" SERIESID="10237"/>
+            <File Name="Marvel Heroes Flip Magazine 5" ID="132048" SERIESID="10360"/>
+            <File Name="Marvel Monsters:Monsters on the Prowl 1" ID="132636" SERIESID="10471"/>
+            <File Name="New Avengers 12" ID="129787" SERIESID="9964"/>
+            <File Name="New Thunderbolts 95" ID="130476" SERIESID="8761"/>
+            <File Name="New X-Men 19" ID="129523" SERIESID="9922"/>
+            <File Name="New X-Men:Academy X Yearbook 1" ID="132632" SERIESID="9922"/>
+            <File Name="Sentry 2" ID="132229" SERIESID="10401"/>
+            <File Name="Ultimate Secret 4" ID="130578" SERIESID="10132"/>
+            <File Name="Wolverine 35" ID="128029" SERIESID="9711"/>
+            <File Name="Young Avengers 8" ID="130685" SERIESID="10143"/>
         </Directory>
         <Directory Name="CMC 2005 11">
-            <File Name="Captain Universe/Hulk 1" ID="132788"/>
-            <File Name="House of M 8" ID="131035"/>
-            <File Name="Marvel Adventures Spider-Man 9" ID="130906"/>
-            <File Name="Marvel Team-Up 14" ID="128955"/>
-            <File Name="Nightcrawler 11" ID="129752"/>
-            <File Name="Powers 14" ID="129611"/>
-            <File Name="Punisher 27" ID="129085"/>
-            <File Name="Sentinel 1" ID="132765"/>
-            <File Name="Sentry Rough Cut 1" ID="132787"/>
-            <File Name="Spider-Girl 92" ID="122312"/>
-            <File Name="Spider-Man Unlimited 12" ID="128924"/>
-            <File Name="Spider-Man:House of M 5" ID="131300"/>
-            <File Name="Supreme Power:Nighthawk 3" ID="132215"/>
-            <File Name="Ultimate Marvel Flip Magazine 6" ID="132023"/>
-            <File Name="Ultimate Spider-Man 85" ID="124941"/>
-            <File Name="Ultimate Tales Flip Magazine 6" ID="131974"/>
-            <File Name="X-Men:Colossus Bloodline 3" ID="131060"/>
-            <File Name="Book of Lost Souls 2" ID="131278"/>
-            <File Name="Cable &amp; Deadpool 22" ID="128815"/>
-            <File Name="Captain Universe/Daredevil 1" ID="132789"/>
-            <File Name="Daredevil:Father 4" ID="129562"/>
-            <File Name="Decimation:House of M  The Day After 1" ID="132795"/>
-            <File Name="Drax the Destroyer 3" ID="131285"/>
-            <File Name="Exiles 72" ID="125586"/>
-            <File Name="Fantastic Four:The Wedding Special 1" ID="132785"/>
-            <File Name="Friendly Neighborhood Spider-Man 2" ID="131186"/>
-            <File Name="Ghost Rider 3" ID="132206"/>
-            <File Name="Incredible Hulk 88" ID="123145"/>
-            <File Name="Marvel Adventures Fantastic Four 6" ID="130965"/>
-            <File Name="Marvel Knights 4 24" ID="129002"/>
-            <File Name="New Excalibur 1" ID="132733"/>
-            <File Name="New Thunderbolts 96" ID="130477"/>
-            <File Name="New Warriors 5" ID="131228"/>
-            <File Name="New X-Men 20" ID="129524"/>
-            <File Name="Pulse 12" ID="129204"/>
-            <File Name="Thor:Blood Oath 4" ID="132222"/>
-            <File Name="Books of Doom 1" ID="130865"/>
-            <File Name="Captain Universe/X-23 1" ID="132790"/>
-            <File Name="Daredevil Vs. Punisher 6" ID="131057"/>
-            <File Name="Fantastic Four 532" ID="128455"/>
-            <File Name="Fantastic Four/Iron Man:Big in Japan 2" ID="132459"/>
-            <File Name="Marvel Knights Spider-Man 20" ID="129357"/>
-            <File Name="Marvel Milestones:Ultimate Spider-Man, Ultimate X-Men, Microman &amp; Mantor ( 9)" ID="132783"/>
-            <File Name="Marvel Monsters:From the Files of Ulysses Bloodstone (and the Monster Hunters) 1" ID="132637"/>
-            <File Name="Marvel Must Haves 26" ID="131337"/>
-            <File Name="Marvel Select Flip Magazine 6" ID="131343"/>
-            <File Name="Marvel Tales Flip Magazine 5" ID="131311"/>
-            <File Name="Mutopia X 5" ID="130223"/>
-            <File Name="Runaways 10" ID="130705"/>
-            <File Name="Thing 1" ID="132757"/>
-            <File Name="Ultimate Spider-Man 86" ID="124942"/>
-            <File Name="Weapon X:Days of Future Now 5" ID="132100"/>
-            <File Name="X-Men 177" ID="129873"/>
-            <File Name="X-Men:Deadly Genesis 1" ID="132775"/>
-            <File Name="Amazing Spider-Man 526" ID="128700"/>
-            <File Name="Arana:The Heart of the Spider 11" ID="130288"/>
-            <File Name="Black Widow:The Things They Say About Her 3" ID="132239"/>
-            <File Name="Captain America 12" ID="130397"/>
-            <File Name="Captain Universe/Invisible Woman 1" ID="132791"/>
-            <File Name="Daredevil 79" ID="122573"/>
-            <File Name="Marvel 1602:New World 5" ID="131012"/>
-            <File Name="Marvel Adventures Flip Magazine 6" ID="131241"/>
-            <File Name="Marvel Heroes Flip Magazine 6" ID="132049"/>
-            <File Name="Nick Fury&apos;s Howling Commandos 2" ID="132245"/>
-            <File Name="Nick Fury&apos;s Howling Commandos:Director&apos;s Cut 1" ID="132250"/>
-            <File Name="Punisher Vs. Bullseye 1" ID="132770"/>
-            <File Name="She-Hulk 2" ID="132587"/>
-            <File Name="Ultimate X-Men 65" ID="125227"/>
-            <File Name="Uncanny X-Men 466" ID="126219"/>
-            <File Name="Young Avengers 9" ID="130686"/>
-            <File Name="Amazing Fantasy 15" ID="129043"/>
-            <File Name="Black Panther 10" ID="130630"/>
-            <File Name="Captain Universe/Silver Surfer 1" ID="132792"/>
-            <File Name="Exiles 73" ID="125587"/>
-            <File Name="Generation M 1" ID="131287"/>
-            <File Name="Giant-Size Invaders 2" ID="132786"/>
-            <File Name="Incredible Hulk 89" ID="123146"/>
-            <File Name="Marvel Holiday Special 2005 1" ID="132799"/>
-            <File Name="New Avengers 13" ID="129788"/>
-            <File Name="Nightcrawler 12" ID="129753"/>
-            <File Name="Official Handbook of the Marvel Universe:X-Men 2005 1" ID="132784"/>
-            <File Name="Sentry 3" ID="132230"/>
-            <File Name="Ultimate Fantastic Four 25" ID="128871"/>
-            <File Name="Wolverine 36" ID="128030"/>
-            <File Name="X-Men 178" ID="129874"/>
-            <File Name="X-Men and Power Pack 2" ID="132301"/>
-            <File Name="X-Men:Kitty Pryde  Shadow &amp; Flame 5" ID="131276"/>
+            <File Name="Captain Universe/Hulk 1" ID="132788" SERIESID="10505"/>
+            <File Name="House of M 8" ID="131035" SERIESID="10208"/>
+            <File Name="Marvel Adventures Spider-Man 9" ID="130906" SERIESID="10202"/>
+            <File Name="Marvel Team-Up 14" ID="128955" SERIESID="9835"/>
+            <File Name="Nightcrawler 11" ID="129752" SERIESID="9959"/>
+            <File Name="Powers 14" ID="129611" SERIESID="9936"/>
+            <File Name="Punisher 27" ID="129085" SERIESID="9848"/>
+            <File Name="Sentinel 1" ID="132765" SERIESID="10501"/>
+            <File Name="Sentry Rough Cut 1" ID="132787" SERIESID="10401"/>
+            <File Name="Spider-Girl 92" ID="122312" SERIESID="8856"/>
+            <File Name="Spider-Man Unlimited 12" ID="128924" SERIESID="9833"/>
+            <File Name="Spider-Man:House of M 5" ID="131300" SERIESID="10245"/>
+            <File Name="Supreme Power:Nighthawk 3" ID="132215" SERIESID="10398"/>
+            <File Name="Ultimate Marvel Flip Magazine 6" ID="132023" SERIESID="10359"/>
+            <File Name="Ultimate Spider-Man 85" ID="124941" SERIESID="9218"/>
+            <File Name="Ultimate Tales Flip Magazine 6" ID="131974" SERIESID="10343"/>
+            <File Name="X-Men:Colossus Bloodline 3" ID="131060" SERIESID="10211"/>
+            <File Name="Book of Lost Souls 2" ID="131278" SERIESID="10241"/>
+            <File Name="Cable &amp; Deadpool 22" ID="128815" SERIESID="9831"/>
+            <File Name="Captain Universe/Daredevil 1" ID="132789" SERIESID="10505"/>
+            <File Name="Daredevil:Father 4" ID="129562" SERIESID="9923"/>
+            <File Name="Decimation:House of M  The Day After 1" ID="132795" SERIESID="10507"/>
+            <File Name="Drax the Destroyer 3" ID="131285" SERIESID="10242"/>
+            <File Name="Exiles 72" ID="125586" SERIESID="9300"/>
+            <File Name="Fantastic Four:The Wedding Special 1" ID="132785" SERIESID="10504"/>
+            <File Name="Friendly Neighborhood Spider-Man 2" ID="131186" SERIESID="10230"/>
+            <File Name="Ghost Rider 3" ID="132206" SERIESID="10397"/>
+            <File Name="Incredible Hulk 88" ID="123145" SERIESID="8925"/>
+            <File Name="Marvel Adventures Fantastic Four 6" ID="130965" SERIESID="10203"/>
+            <File Name="Marvel Knights 4 24" ID="129002" SERIESID="9837"/>
+            <File Name="New Excalibur 1" ID="132733" SERIESID="10499"/>
+            <File Name="New Thunderbolts 96" ID="130477" SERIESID="8761"/>
+            <File Name="New Warriors 5" ID="131228" SERIESID="10235"/>
+            <File Name="New X-Men 20" ID="129524" SERIESID="9922"/>
+            <File Name="Pulse 12" ID="129204" SERIESID="9875"/>
+            <File Name="Thor:Blood Oath 4" ID="132222" SERIESID="10399"/>
+            <File Name="Books of Doom 1" ID="130865" SERIESID="10197"/>
+            <File Name="Captain Universe/X-23 1" ID="132790" SERIESID="10505"/>
+            <File Name="Daredevil Vs. Punisher 6" ID="131057" SERIESID="10210"/>
+            <File Name="Fantastic Four 532" ID="128455" SERIESID="8778"/>
+            <File Name="Fantastic Four/Iron Man:Big in Japan 2" ID="132459" SERIESID="10432"/>
+            <File Name="Marvel Knights Spider-Man 20" ID="129357" SERIESID="9900"/>
+            <File Name="Marvel Milestones:Ultimate Spider-Man, Ultimate X-Men, Microman &amp; Mantor ( 9)" ID="132783" SERIESID="10311"/>
+            <File Name="Marvel Monsters:From the Files of Ulysses Bloodstone (and the Monster Hunters) 1" ID="132637" SERIESID="10471"/>
+            <File Name="Marvel Must Haves 26" ID="131337" SERIESID="9457"/>
+            <File Name="Marvel Select Flip Magazine 6" ID="131343" SERIESID="10248"/>
+            <File Name="Marvel Tales Flip Magazine 5" ID="131311" SERIESID="10247"/>
+            <File Name="Mutopia X 5" ID="130223" SERIESID="10047"/>
+            <File Name="Runaways 10" ID="130705" SERIESID="10145"/>
+            <File Name="Thing 1" ID="132757" SERIESID="10500"/>
+            <File Name="Ultimate Spider-Man 86" ID="124942" SERIESID="9218"/>
+            <File Name="Weapon X:Days of Future Now 5" ID="132100" SERIESID="10372"/>
+            <File Name="X-Men 177" ID="129873" SERIESID="4158"/>
+            <File Name="X-Men:Deadly Genesis 1" ID="132775" SERIESID="10503"/>
+            <File Name="Amazing Spider-Man 526" ID="128700" SERIESID="8896"/>
+            <File Name="Arana:The Heart of the Spider 11" ID="130288" SERIESID="10072"/>
+            <File Name="Black Widow:The Things They Say About Her 3" ID="132239" SERIESID="10402"/>
+            <File Name="Captain America 12" ID="130397" SERIESID="10102"/>
+            <File Name="Captain Universe/Invisible Woman 1" ID="132791" SERIESID="10505"/>
+            <File Name="Daredevil 79" ID="122573" SERIESID="8877"/>
+            <File Name="Marvel 1602:New World 5" ID="131012" SERIESID="10204"/>
+            <File Name="Marvel Adventures Flip Magazine 6" ID="131241" SERIESID="10237"/>
+            <File Name="Marvel Heroes Flip Magazine 6" ID="132049" SERIESID="10360"/>
+            <File Name="Nick Fury&apos;s Howling Commandos 2" ID="132245" SERIESID="10403"/>
+            <File Name="Nick Fury&apos;s Howling Commandos:Director&apos;s Cut 1" ID="132250" SERIESID="10403"/>
+            <File Name="Punisher Vs. Bullseye 1" ID="132770" SERIESID="10502"/>
+            <File Name="She-Hulk 2" ID="132587" SERIESID="10469"/>
+            <File Name="Ultimate X-Men 65" ID="125227" SERIESID="9257"/>
+            <File Name="Uncanny X-Men 466" ID="126219" SERIESID="3987"/>
+            <File Name="Young Avengers 9" ID="130686" SERIESID="10143"/>
+            <File Name="Amazing Fantasy 15" ID="129043" SERIESID="9840"/>
+            <File Name="Black Panther 10" ID="130630" SERIESID="10141"/>
+            <File Name="Captain Universe/Silver Surfer 1" ID="132792" SERIESID="10505"/>
+            <File Name="Exiles 73" ID="125587" SERIESID="9300"/>
+            <File Name="Generation M 1" ID="131287" SERIESID="10243"/>
+            <File Name="Giant-Size Invaders 2" ID="132786" SERIESID="4178"/>
+            <File Name="Incredible Hulk 89" ID="123146" SERIESID="8925"/>
+            <File Name="Marvel Holiday Special 2005 1" ID="132799" SERIESID="4722"/>
+            <File Name="New Avengers 13" ID="129788" SERIESID="9964"/>
+            <File Name="Nightcrawler 12" ID="129753" SERIESID="9959"/>
+            <File Name="Official Handbook of the Marvel Universe:X-Men 2005 1" ID="132784" SERIESID="9976"/>
+            <File Name="Sentry 3" ID="132230" SERIESID="10401"/>
+            <File Name="Ultimate Fantastic Four 25" ID="128871" SERIESID="9832"/>
+            <File Name="Wolverine 36" ID="128030" SERIESID="9711"/>
+            <File Name="X-Men 178" ID="129874" SERIESID="4158"/>
+            <File Name="X-Men and Power Pack 2" ID="132301" SERIESID="10417"/>
+            <File Name="X-Men:Kitty Pryde  Shadow &amp; Flame 5" ID="131276" SERIESID="10240"/>
         </Directory>
         <Directory Name="CMC 2005 12">
-            <File Name="Friendly Neighborhood Spider-Man 3" ID="131187"/>
-            <File Name="Marvel Adventures Spider-Man 10" ID="130907"/>
-            <File Name="Marvel Team-Up 15" ID="128956"/>
-            <File Name="Marvel Zombies 1" ID="130875"/>
-            <File Name="New Excalibur 2" ID="132734"/>
-            <File Name="New Warriors 6" ID="131229"/>
-            <File Name="Powers 15" ID="129612"/>
-            <File Name="Punisher 28" ID="129086"/>
-            <File Name="Sentinel 2" ID="132766"/>
-            <File Name="Spider-Girl 93" ID="122313"/>
-            <File Name="Spider-Man/Black Cat:The Evil That Men Do 4" ID="126642"/>
-            <File Name="Supreme Power:Nighthawk 4" ID="132216"/>
-            <File Name="Thor:Blood Oath 5" ID="132223"/>
-            <File Name="Ultimate Marvel Flip Magazine 7" ID="132024"/>
-            <File Name="Ultimate Spider-Man 87" ID="124943"/>
-            <File Name="Ultimate Tales Flip Magazine 7" ID="131975"/>
-            <File Name="Ultimates 2 9" ID="129474"/>
-            <File Name="What If:Captain America 1" ID="132933"/>
-            <File Name="X-Men Unlimited 12" ID="128939"/>
-            <File Name="X-Men:Colossus Bloodline 4" ID="131061"/>
-            <File Name="Books of Doom 2" ID="130866"/>
-            <File Name="Cable &amp; Deadpool 23" ID="128816"/>
-            <File Name="Fantastic Four/Iron Man:Big in Japan 3" ID="132460"/>
-            <File Name="Ghost Rider 4" ID="132207"/>
-            <File Name="GLX-Mas Special 1" ID="132906"/>
-            <File Name="Marvel Adventures Fantastic Four 7" ID="130966"/>
-            <File Name="Marvel Knights 4 25" ID="129003"/>
-            <File Name="Marvel Knights Spider-Man 21" ID="129358"/>
-            <File Name="Marvel Select Flip Magazine 7" ID="131344"/>
-            <File Name="Marvel Tales Flip Magazine 6" ID="131312"/>
-            <File Name="New Avengers:Most Wanted Files 1" ID="133007"/>
-            <File Name="New Thunderbolts 97" ID="130478"/>
-            <File Name="New X-Men 21" ID="129525"/>
-            <File Name="Punisher:Silent Night 1" ID="132905"/>
-            <File Name="Secret War 5" ID="129320"/>
-            <File Name="Son of M 1" ID="132907"/>
-            <File Name="Ultimate Iron Man 5" ID="130827"/>
-            <File Name="Uncanny X-Men 467" ID="126220"/>
-            <File Name="What If:Wolverine 1" ID="132934"/>
-            <File Name="X-Factor 1" ID="132802"/>
-            <File Name="X-Men 179" ID="129875"/>
-            <File Name="Book of Lost Souls 3" ID="131279"/>
-            <File Name="Captain America 13" ID="130398"/>
-            <File Name="Daughters of the Dragon Deadly Hands Special 1" ID="132986"/>
-            <File Name="Fantastic Four 533" ID="128456"/>
-            <File Name="Generation M 2" ID="131288"/>
-            <File Name="Incredible Hulk 90" ID="123147"/>
-            <File Name="Iron Man:The Inevitable 1" ID="131022"/>
-            <File Name="Marvel Adventures Flip Magazine 7" ID="131242"/>
-            <File Name="Marvel Heroes Flip Magazine 7" ID="132050"/>
-            <File Name="Marvel Spotlight:John Cassaday/Sean McKeever 1" ID="132939"/>
-            <File Name="Punisher Vs. Bullseye 2" ID="132771"/>
-            <File Name="Runaways 11" ID="130706"/>
-            <File Name="Spider-Woman:Origin 1" ID="133023"/>
-            <File Name="Supreme Power:Hyperion 3" ID="130323"/>
-            <File Name="Ultimate Wolverine Vs. Hulk 1" ID="132914"/>
-            <File Name="Ultimate X-Men/Fantastic Four 1" ID="132984"/>
-            <File Name="What If:Fantastic Four 1" ID="132937"/>
-            <File Name="What If:Submariner 1" ID="132938"/>
-            <File Name="X-Men:Deadly Genesis 2" ID="132776"/>
-            <File Name="Amazing Fantasy 16" ID="129044"/>
-            <File Name="Amazing Spider-Man 527" ID="128702"/>
-            <File Name="Arana:The Heart of the Spider 12" ID="130289"/>
-            <File Name="Black Panther 11" ID="130631"/>
-            <File Name="Black Widow 2 4" ID="132240"/>
-            <File Name="Daredevil 80" ID="122574"/>
-            <File Name="Daredevil:Father 5" ID="129563"/>
-            <File Name="Drax the Destroyer 4" ID="131286"/>
-            <File Name="Exiles 74" ID="125588"/>
-            <File Name="Fantastic Four Special 1" ID="133031"/>
-            <File Name="New Avengers 14" ID="129789"/>
-            <File Name="Nick Fury&apos;s Howling Commandos 3" ID="132246"/>
-            <File Name="Official Handbook of the Ultimate Marvel Universe:The Ultimates &amp; X-Men 2005 1" ID="132983"/>
-            <File Name="Sentry 4" ID="132231"/>
-            <File Name="She-Hulk 3" ID="132588"/>
-            <File Name="Spider-Man Loves Mary Jane 1" ID="132987"/>
-            <File Name="Spider-Man/Black Cat:The Evil That Men Do 5" ID="126643"/>
-            <File Name="Thing 2" ID="132758"/>
-            <File Name="Thor:Blood Oath 6" ID="132224"/>
-            <File Name="Ultimate Fantastic Four 26" ID="128872"/>
-            <File Name="Ultimate Spider-Man 88" ID="124944"/>
-            <File Name="What If:Daredevil 1" ID="132935"/>
-            <File Name="What If:Thor 1" ID="132936"/>
-            <File Name="Wolverine 37" ID="128032"/>
-            <File Name="X-Factor 2" ID="132803"/>
-            <File Name="X-Men 180" ID="129876"/>
-            <File Name="X-Men and Power Pack 3" ID="132302"/>
-            <File Name="Young Avengers Special 1" ID="132932"/>
+            <File Name="Friendly Neighborhood Spider-Man 3" ID="131187" SERIESID="10230"/>
+            <File Name="Marvel Adventures Spider-Man 10" ID="130907" SERIESID="10202"/>
+            <File Name="Marvel Team-Up 15" ID="128956" SERIESID="9835"/>
+            <File Name="Marvel Zombies 1" ID="130875" SERIESID="10199"/>
+            <File Name="New Excalibur 2" ID="132734" SERIESID="10499"/>
+            <File Name="New Warriors 6" ID="131229" SERIESID="10235"/>
+            <File Name="Powers 15" ID="129612" SERIESID="9936"/>
+            <File Name="Punisher 28" ID="129086" SERIESID="9848"/>
+            <File Name="Sentinel 2" ID="132766" SERIESID="10501"/>
+            <File Name="Spider-Girl 93" ID="122313" SERIESID="8856"/>
+            <File Name="Spider-Man/Black Cat:The Evil That Men Do 4" ID="126642" SERIESID="9493"/>
+            <File Name="Supreme Power:Nighthawk 4" ID="132216" SERIESID="10398"/>
+            <File Name="Thor:Blood Oath 5" ID="132223" SERIESID="10399"/>
+            <File Name="Ultimate Marvel Flip Magazine 7" ID="132024" SERIESID="10359"/>
+            <File Name="Ultimate Spider-Man 87" ID="124943" SERIESID="9218"/>
+            <File Name="Ultimate Tales Flip Magazine 7" ID="131975" SERIESID="10343"/>
+            <File Name="Ultimates 2 9" ID="129474" SERIESID="9915"/>
+            <File Name="What If:Captain America 1" ID="132933" SERIESID="10536"/>
+            <File Name="X-Men Unlimited 12" ID="128939" SERIESID="9834"/>
+            <File Name="X-Men:Colossus Bloodline 4" ID="131061" SERIESID="10211"/>
+            <File Name="Books of Doom 2" ID="130866" SERIESID="10197"/>
+            <File Name="Cable &amp; Deadpool 23" ID="128816" SERIESID="9831"/>
+            <File Name="Fantastic Four/Iron Man:Big in Japan 3" ID="132460" SERIESID="10432"/>
+            <File Name="Ghost Rider 4" ID="132207" SERIESID="10397"/>
+            <File Name="GLX-Mas Special 1" ID="132906" SERIESID="10533"/>
+            <File Name="Marvel Adventures Fantastic Four 7" ID="130966" SERIESID="10203"/>
+            <File Name="Marvel Knights 4 25" ID="129003" SERIESID="9837"/>
+            <File Name="Marvel Knights Spider-Man 21" ID="129358" SERIESID="9900"/>
+            <File Name="Marvel Select Flip Magazine 7" ID="131344" SERIESID="10248"/>
+            <File Name="Marvel Tales Flip Magazine 6" ID="131312" SERIESID="10247"/>
+            <File Name="New Avengers:Most Wanted Files 1" ID="133007" SERIESID="10540"/>
+            <File Name="New Thunderbolts 97" ID="130478" SERIESID="8761"/>
+            <File Name="New X-Men 21" ID="129525" SERIESID="9922"/>
+            <File Name="Punisher:Silent Night 1" ID="132905" SERIESID="10532"/>
+            <File Name="Secret War 5" ID="129320" SERIESID="9896"/>
+            <File Name="Son of M 1" ID="132907" SERIESID="10534"/>
+            <File Name="Ultimate Iron Man 5" ID="130827" SERIESID="10187"/>
+            <File Name="Uncanny X-Men 467" ID="126220" SERIESID="3987"/>
+            <File Name="What If:Wolverine 1" ID="132934" SERIESID="10536"/>
+            <File Name="X-Factor 1" ID="132802" SERIESID="10513"/>
+            <File Name="X-Men 179" ID="129875" SERIESID="4158"/>
+            <File Name="Book of Lost Souls 3" ID="131279" SERIESID="10241"/>
+            <File Name="Captain America 13" ID="130398" SERIESID="10102"/>
+            <File Name="Daughters of the Dragon Deadly Hands Special 1" ID="132986" SERIESID="10425"/>
+            <File Name="Fantastic Four 533" ID="128456" SERIESID="8778"/>
+            <File Name="Generation M 2" ID="131288" SERIESID="10243"/>
+            <File Name="Incredible Hulk 90" ID="123147" SERIESID="8925"/>
+            <File Name="Iron Man:The Inevitable 1" ID="131022" SERIESID="10207"/>
+            <File Name="Marvel Adventures Flip Magazine 7" ID="131242" SERIESID="10237"/>
+            <File Name="Marvel Heroes Flip Magazine 7" ID="132050" SERIESID="10360"/>
+            <File Name="Marvel Spotlight:John Cassaday/Sean McKeever 1" ID="132939" SERIESID="10537"/>
+            <File Name="Punisher Vs. Bullseye 2" ID="132771" SERIESID="10502"/>
+            <File Name="Runaways 11" ID="130706" SERIESID="10145"/>
+            <File Name="Spider-Woman:Origin 1" ID="133023" SERIESID="10542"/>
+            <File Name="Supreme Power:Hyperion 3" ID="130323" SERIESID="10090"/>
+            <File Name="Ultimate Wolverine Vs. Hulk 1" ID="132914" SERIESID="10535"/>
+            <File Name="Ultimate X-Men/Fantastic Four 1" ID="132984" SERIESID="10538"/>
+            <File Name="What If:Fantastic Four 1" ID="132937" SERIESID="10536"/>
+            <File Name="What If:Submariner 1" ID="132938" SERIESID="10536"/>
+            <File Name="X-Men:Deadly Genesis 2" ID="132776" SERIESID="10503"/>
+            <File Name="Amazing Fantasy 16" ID="129044" SERIESID="9840"/>
+            <File Name="Amazing Spider-Man 527" ID="128702" SERIESID="8896"/>
+            <File Name="Arana:The Heart of the Spider 12" ID="130289" SERIESID="10072"/>
+            <File Name="Black Panther 11" ID="130631" SERIESID="10141"/>
+            <File Name="Black Widow 2 4" ID="132240" SERIESID="10402"/>
+            <File Name="Daredevil 80" ID="122574" SERIESID="8877"/>
+            <File Name="Daredevil:Father 5" ID="129563" SERIESID="9923"/>
+            <File Name="Drax the Destroyer 4" ID="131286" SERIESID="10242"/>
+            <File Name="Exiles 74" ID="125588" SERIESID="9300"/>
+            <File Name="Fantastic Four Special 1" ID="133031" SERIESID="8778"/>
+            <File Name="New Avengers 14" ID="129789" SERIESID="9964"/>
+            <File Name="Nick Fury&apos;s Howling Commandos 3" ID="132246" SERIESID="10403"/>
+            <File Name="Official Handbook of the Ultimate Marvel Universe:The Ultimates &amp; X-Men 2005 1" ID="132983" SERIESID="9976"/>
+            <File Name="Sentry 4" ID="132231" SERIESID="10401"/>
+            <File Name="She-Hulk 3" ID="132588" SERIESID="10469"/>
+            <File Name="Spider-Man Loves Mary Jane 1" ID="132987" SERIESID="10539"/>
+            <File Name="Spider-Man/Black Cat:The Evil That Men Do 5" ID="126643" SERIESID="9493"/>
+            <File Name="Thing 2" ID="132758" SERIESID="10500"/>
+            <File Name="Thor:Blood Oath 6" ID="132224" SERIESID="10399"/>
+            <File Name="Ultimate Fantastic Four 26" ID="128872" SERIESID="9832"/>
+            <File Name="Ultimate Spider-Man 88" ID="124944" SERIESID="9218"/>
+            <File Name="What If:Daredevil 1" ID="132935" SERIESID="10536"/>
+            <File Name="What If:Thor 1" ID="132936" SERIESID="10536"/>
+            <File Name="Wolverine 37" ID="128032" SERIESID="9711"/>
+            <File Name="X-Factor 2" ID="132803" SERIESID="10513"/>
+            <File Name="X-Men 180" ID="129876" SERIESID="4158"/>
+            <File Name="X-Men and Power Pack 3" ID="132302" SERIESID="10417"/>
+            <File Name="Young Avengers Special 1" ID="132932" SERIESID="10143"/>
         </Directory>
     </Year>

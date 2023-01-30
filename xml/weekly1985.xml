@@ -2,723 +2,723 @@
 <!DOCTYPE xml>
     <Year Name="CMC 1985">
         <Directory Name="CMC 1985 01">
-            <File Name="Alien Legion 6" ID="60549"/>
-            <File Name="Alpha Flight 21" ID="48326"/>
-            <File Name="Amazing Spider-Man 263" ID="48015"/>
-            <File Name="Captain America 304" ID="47176"/>
-            <File Name="Doctor Strange 70" ID="47272"/>
-            <File Name="Dreadstar 17" ID="60967"/>
-            <File Name="Dune 1" ID="62671"/>
-            <File Name="Further Adventures of Indiana Jones 28" ID="59238"/>
-            <File Name="Heathcliff 1" ID="59341"/>
-            <File Name="Micronauts 7" ID="50920"/>
-            <File Name="Power Pack 9" ID="48533"/>
-            <File Name="Savage Sword of Conan 110" ID="58436"/>
-            <File Name="Sergio Aragones Groo the Wanderer 2" ID="63955"/>
-            <File Name="Sisterhood of Steel 2" ID="61242"/>
-            <File Name="Top Dog 1" ID="62674"/>
-            <File Name="Void Indigo 2" ID="62541"/>
-            <File Name="Wally the Wizard 1" ID="62707"/>
-            <File Name="Avengers 254" ID="46377"/>
-            <File Name="Conan the Barbarian 169" ID="56453"/>
-            <File Name="G.I. Joe a Real American Hero 34" ID="58872"/>
-            <File Name="Incredible Hulk 306" ID="46550"/>
-            <File Name="Kull the Conqueror 9" ID="56953"/>
-            <File Name="Marvel Age 25" ID="61878"/>
-            <File Name="Marvel Tales Starring Spider-Man 174" ID="47450"/>
-            <File Name="Power Man and Iron Fist 116" ID="48785"/>
-            <File Name="Rom 65" ID="49742"/>
-            <File Name="Uncanny X-Men 192" ID="48153"/>
-            <File Name="2010 1" ID="62700"/>
-            <File Name="Defenders 142" ID="45677"/>
-            <File Name="Doctor Who 7" ID="64084"/>
-            <File Name="Fantastic Four 277" ID="48855"/>
-            <File Name="Iron Man 193" ID="46177"/>
-            <File Name="Kitty Pryde and Wolverine 6" ID="47798"/>
-            <File Name="Mother Teresa of Calcutta 1" ID="61379"/>
-            <File Name="Official Marvel Index to the Amazing Spider-Man 1" ID="64250"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 101" ID="46948"/>
-            <File Name="Star Wars 94" ID="57723"/>
-            <File Name="Thor 354" ID="46724"/>
-            <File Name="Timespirits 3" ID="62665"/>
-            <File Name="Conan the King 28" ID="57813"/>
-            <File Name="Daredevil 218" ID="49421"/>
-            <File Name="New Mutants 27" ID="47833"/>
-            <File Name="Peter Porker, the Spectacular Spider-Ham 1" ID="65168"/>
-            <File Name="Planet Terry 2" ID="61104"/>
-            <File Name="Red Sonja 9" ID="58684"/>
-            <File Name="Thing 23" ID="49030"/>
-            <File Name="Web of Spider-Man 2" ID="48661"/>
-            <File Name="Alpha Flight 22" ID="48327"/>
-            <File Name="Amazing Spider-Man 264" ID="48016"/>
-            <File Name="Captain America 305" ID="47177"/>
-            <File Name="Dazzler 37" ID="47695"/>
-            <File Name="Dune 2" ID="62672"/>
-            <File Name="Ewoks 1" ID="58303"/>
-            <File Name="Further Adventures of Indiana Jones 29" ID="59239"/>
-            <File Name="Micronauts 8" ID="50921"/>
-            <File Name="Moonshadow 1" ID="61221"/>
-            <File Name="Power Pack 10" ID="48534"/>
-            <File Name="Savage Sword of Conan 111" ID="58437"/>
-            <File Name="Sergio Aragones Groo the Wanderer 3" ID="63956"/>
-            <File Name="Wally the Wizard 2" ID="62708"/>
+            <File Name="Alien Legion 6" ID="60549" SERIESID="4593"/>
+            <File Name="Alpha Flight 21" ID="48326" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 263" ID="48015" SERIESID="3985"/>
+            <File Name="Captain America 304" ID="47176" SERIESID="3983"/>
+            <File Name="Doctor Strange 70" ID="47272" SERIESID="4035"/>
+            <File Name="Dreadstar 17" ID="60967" SERIESID="4606"/>
+            <File Name="Dune 1" ID="62671" SERIESID="4708"/>
+            <File Name="Further Adventures of Indiana Jones 28" ID="59238" SERIESID="4535"/>
+            <File Name="Heathcliff 1" ID="59341" SERIESID="4539"/>
+            <File Name="Micronauts 7" ID="50920" SERIESID="4182"/>
+            <File Name="Power Pack 9" ID="48533" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 110" ID="58436" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 2" ID="63955" SERIESID="4775"/>
+            <File Name="Sisterhood of Steel 2" ID="61242" SERIESID="4641"/>
+            <File Name="Top Dog 1" ID="62674" SERIESID="4709"/>
+            <File Name="Void Indigo 2" ID="62541" SERIESID="4697"/>
+            <File Name="Wally the Wizard 1" ID="62707" SERIESID="4714"/>
+            <File Name="Avengers 254" ID="46377" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 169" ID="56453" SERIESID="4434"/>
+            <File Name="G.I. Joe a Real American Hero 34" ID="58872" SERIESID="4519"/>
+            <File Name="Incredible Hulk 306" ID="46550" SERIESID="3984"/>
+            <File Name="Kull the Conqueror 9" ID="56953" SERIESID="4456"/>
+            <File Name="Marvel Age 25" ID="61878" SERIESID="4664"/>
+            <File Name="Marvel Tales Starring Spider-Man 174" ID="47450" SERIESID="3994"/>
+            <File Name="Power Man and Iron Fist 116" ID="48785" SERIESID="4007"/>
+            <File Name="Rom 65" ID="49742" SERIESID="4133"/>
+            <File Name="Uncanny X-Men 192" ID="48153" SERIESID="3987"/>
+            <File Name="2010 1" ID="62700" SERIESID="4712"/>
+            <File Name="Defenders 142" ID="45677" SERIESID="4006"/>
+            <File Name="Doctor Who 7" ID="64084" SERIESID="4779"/>
+            <File Name="Fantastic Four 277" ID="48855" SERIESID="3649"/>
+            <File Name="Iron Man 193" ID="46177" SERIESID="3989"/>
+            <File Name="Kitty Pryde and Wolverine 6" ID="47798" SERIESID="4047"/>
+            <File Name="Mother Teresa of Calcutta 1" ID="61379" SERIESID="4652"/>
+            <File Name="Official Marvel Index to the Amazing Spider-Man 1" ID="64250" SERIESID="4799"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 101" ID="46948" SERIESID="4032"/>
+            <File Name="Star Wars 94" ID="57723" SERIESID="4470"/>
+            <File Name="Thor 354" ID="46724" SERIESID="3980"/>
+            <File Name="Timespirits 3" ID="62665" SERIESID="4707"/>
+            <File Name="Conan the King 28" ID="57813" SERIESID="4475"/>
+            <File Name="Daredevil 218" ID="49421" SERIESID="3988"/>
+            <File Name="New Mutants 27" ID="47833" SERIESID="4050"/>
+            <File Name="Peter Porker, the Spectacular Spider-Ham 1" ID="65168" SERIESID="4847"/>
+            <File Name="Planet Terry 2" ID="61104" SERIESID="4631"/>
+            <File Name="Red Sonja 9" ID="58684" SERIESID="4501"/>
+            <File Name="Thing 23" ID="49030" SERIESID="4095"/>
+            <File Name="Web of Spider-Man 2" ID="48661" SERIESID="4081"/>
+            <File Name="Alpha Flight 22" ID="48327" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 264" ID="48016" SERIESID="3985"/>
+            <File Name="Captain America 305" ID="47177" SERIESID="3983"/>
+            <File Name="Dazzler 37" ID="47695" SERIESID="4042"/>
+            <File Name="Dune 2" ID="62672" SERIESID="4708"/>
+            <File Name="Ewoks 1" ID="58303" SERIESID="4495"/>
+            <File Name="Further Adventures of Indiana Jones 29" ID="59239" SERIESID="4535"/>
+            <File Name="Micronauts 8" ID="50921" SERIESID="4182"/>
+            <File Name="Moonshadow 1" ID="61221" SERIESID="4638"/>
+            <File Name="Power Pack 10" ID="48534" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 111" ID="58437" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 3" ID="63956" SERIESID="4775"/>
+            <File Name="Wally the Wizard 2" ID="62708" SERIESID="4714"/>
         </Directory>
         <Directory Name="CMC 1985 02">
-            <File Name="Avengers 255" ID="46378"/>
-            <File Name="Conan the Barbarian 170" ID="56454"/>
-            <File Name="G.I. Joe a Real American Hero 35" ID="58873"/>
-            <File Name="Get Along Gang 1" ID="59687"/>
-            <File Name="Incredible Hulk 307" ID="46551"/>
-            <File Name="Marvel Age 26" ID="61879"/>
-            <File Name="Marvel Fanfare 20" ID="48570"/>
-            <File Name="Marvel Tales Starring Spider-Man 175" ID="47451"/>
-            <File Name="Muppet Babies 1" ID="60785"/>
-            <File Name="Power Man and Iron Fist 117" ID="48786"/>
-            <File Name="Rom 66" ID="49743"/>
-            <File Name="Royal Roy 1" ID="62688"/>
-            <File Name="Uncanny X-Men 193" ID="48154"/>
-            <File Name="2010 2" ID="62701"/>
-            <File Name="Coyote 11" ID="59474"/>
-            <File Name="Defenders 143" ID="45678"/>
-            <File Name="Doctor Who 8" ID="64085"/>
-            <File Name="Epic Illustrated 29" ID="60779"/>
-            <File Name="Fantastic Four 278" ID="48856"/>
-            <File Name="Iron Man 194" ID="46178"/>
-            <File Name="Official Marvel Index to the Amazing Spider-Man 2" ID="64251"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 102" ID="46949"/>
-            <File Name="Rocket Raccoon 1" ID="60076"/>
-            <File Name="Star Wars 95" ID="57724"/>
-            <File Name="Thor 355" ID="46725"/>
-            <File Name="Beauty and the Beast 4" ID="50913"/>
-            <File Name="Daredevil 219" ID="49422"/>
-            <File Name="Fraggle Rock 2" ID="62354"/>
-            <File Name="Gargoyle 1" ID="60811"/>
-            <File Name="Iceman 4" ID="48718"/>
-            <File Name="New Mutants 28" ID="47834"/>
-            <File Name="Planet Terry 3" ID="61105"/>
-            <File Name="Sectaurs 1" ID="60091"/>
-            <File Name="Starstruck 2" ID="60071"/>
-            <File Name="Strawberry Shortcake 2" ID="58692"/>
-            <File Name="Thing 24" ID="49031"/>
-            <File Name="Web of Spider-Man 3" ID="48662"/>
+            <File Name="Avengers 255" ID="46378" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 170" ID="56454" SERIESID="4434"/>
+            <File Name="G.I. Joe a Real American Hero 35" ID="58873" SERIESID="4519"/>
+            <File Name="Get Along Gang 1" ID="59687" SERIESID="4561"/>
+            <File Name="Incredible Hulk 307" ID="46551" SERIESID="3984"/>
+            <File Name="Marvel Age 26" ID="61879" SERIESID="4664"/>
+            <File Name="Marvel Fanfare 20" ID="48570" SERIESID="4075"/>
+            <File Name="Marvel Tales Starring Spider-Man 175" ID="47451" SERIESID="3994"/>
+            <File Name="Muppet Babies 1" ID="60785" SERIESID="4597"/>
+            <File Name="Power Man and Iron Fist 117" ID="48786" SERIESID="4007"/>
+            <File Name="Rom 66" ID="49743" SERIESID="4133"/>
+            <File Name="Royal Roy 1" ID="62688" SERIESID="4710"/>
+            <File Name="Uncanny X-Men 193" ID="48154" SERIESID="3987"/>
+            <File Name="2010 2" ID="62701" SERIESID="4712"/>
+            <File Name="Coyote 11" ID="59474" SERIESID="4541"/>
+            <File Name="Defenders 143" ID="45678" SERIESID="4006"/>
+            <File Name="Doctor Who 8" ID="64085" SERIESID="4779"/>
+            <File Name="Epic Illustrated 29" ID="60779" SERIESID="4596"/>
+            <File Name="Fantastic Four 278" ID="48856" SERIESID="3649"/>
+            <File Name="Iron Man 194" ID="46178" SERIESID="3989"/>
+            <File Name="Official Marvel Index to the Amazing Spider-Man 2" ID="64251" SERIESID="4799"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 102" ID="46949" SERIESID="4032"/>
+            <File Name="Rocket Raccoon 1" ID="60076" SERIESID="4571"/>
+            <File Name="Star Wars 95" ID="57724" SERIESID="4470"/>
+            <File Name="Thor 355" ID="46725" SERIESID="3980"/>
+            <File Name="Beauty and the Beast 4" ID="50913" SERIESID="4181"/>
+            <File Name="Daredevil 219" ID="49422" SERIESID="3988"/>
+            <File Name="Fraggle Rock 2" ID="62354" SERIESID="4692"/>
+            <File Name="Gargoyle 1" ID="60811" SERIESID="4598"/>
+            <File Name="Iceman 4" ID="48718" SERIESID="4086"/>
+            <File Name="New Mutants 28" ID="47834" SERIESID="4050"/>
+            <File Name="Planet Terry 3" ID="61105" SERIESID="4631"/>
+            <File Name="Sectaurs 1" ID="60091" SERIESID="4573"/>
+            <File Name="Starstruck 2" ID="60071" SERIESID="4570"/>
+            <File Name="Strawberry Shortcake 2" ID="58692" SERIESID="4503"/>
+            <File Name="Thing 24" ID="49031" SERIESID="4095"/>
+            <File Name="Web of Spider-Man 3" ID="48662" SERIESID="4081"/>
         </Directory>
         <Directory Name="CMC 1985 03">
-            <File Name="Alpha Flight 23" ID="48328"/>
-            <File Name="Amazing Spider-Man 265" ID="48017"/>
-            <File Name="Captain America 306" ID="47178"/>
-            <File Name="Doctor Strange 71" ID="47273"/>
-            <File Name="Dune 3" ID="62673"/>
-            <File Name="Heathcliff 2" ID="59342"/>
-            <File Name="Micronauts 9" ID="50922"/>
-            <File Name="Power Pack 11" ID="48535"/>
-            <File Name="Savage Sword of Conan 112" ID="58438"/>
-            <File Name="Sergio Aragones Groo the Wanderer 4" ID="63957"/>
-            <File Name="Sisterhood of Steel 3" ID="61243"/>
-            <File Name="Top Dog 2" ID="62675"/>
-            <File Name="Wally the Wizard 3" ID="62709"/>
-            <File Name="Alien Legion 7" ID="60550"/>
-            <File Name="Avengers 256" ID="46379"/>
-            <File Name="Conan the Barbarian 171" ID="56455"/>
-            <File Name="Dreadstar 18" ID="60968"/>
-            <File Name="G.I. Joe a Real American Hero 36" ID="58874"/>
-            <File Name="Incredible Hulk 308" ID="46552"/>
-            <File Name="Kull the Conqueror 10" ID="56954"/>
-            <File Name="Marvel Age 27" ID="61880"/>
-            <File Name="Marvel Tales Starring Spider-Man 176" ID="47452"/>
-            <File Name="Moon Knight 1" ID="49378"/>
-            <File Name="Rom 67" ID="49744"/>
-            <File Name="Uncanny X-Men 194" ID="48155"/>
-            <File Name="Defenders 144" ID="45679"/>
-            <File Name="Doctor Who 9" ID="64086"/>
-            <File Name="Fantastic Four 279" ID="48857"/>
-            <File Name="Iron Man 195" ID="46179"/>
-            <File Name="Official Marvel Index to the Amazing Spider-Man 3" ID="64252"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 103" ID="46950"/>
-            <File Name="Rocket Raccoon 2" ID="60077"/>
-            <File Name="Star Wars 96" ID="57725"/>
-            <File Name="Thor 356" ID="46726"/>
-            <File Name="Transformers 5" ID="59126"/>
-            <File Name="Cloak and Dagger 1" ID="49117"/>
-            <File Name="Conan the King 29" ID="57814"/>
-            <File Name="Daredevil 220" ID="49423"/>
-            <File Name="Dreadstar and Company 1" ID="61796"/>
-            <File Name="Gargoyle 2" ID="60812"/>
-            <File Name="Moonshadow 2" ID="61222"/>
-            <File Name="New Mutants 29" ID="47835"/>
-            <File Name="Peter Porker, the Spectacular Spider-Ham 2" ID="65169"/>
-            <File Name="Planet Terry 4" ID="61106"/>
-            <File Name="Swords of the Swashbucklers 1" ID="61197"/>
-            <File Name="Thing 25" ID="49032"/>
-            <File Name="Web of Spider-Man 4" ID="48663"/>
+            <File Name="Alpha Flight 23" ID="48328" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 265" ID="48017" SERIESID="3985"/>
+            <File Name="Captain America 306" ID="47178" SERIESID="3983"/>
+            <File Name="Doctor Strange 71" ID="47273" SERIESID="4035"/>
+            <File Name="Dune 3" ID="62673" SERIESID="4708"/>
+            <File Name="Heathcliff 2" ID="59342" SERIESID="4539"/>
+            <File Name="Micronauts 9" ID="50922" SERIESID="4182"/>
+            <File Name="Power Pack 11" ID="48535" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 112" ID="58438" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 4" ID="63957" SERIESID="4775"/>
+            <File Name="Sisterhood of Steel 3" ID="61243" SERIESID="4641"/>
+            <File Name="Top Dog 2" ID="62675" SERIESID="4709"/>
+            <File Name="Wally the Wizard 3" ID="62709" SERIESID="4714"/>
+            <File Name="Alien Legion 7" ID="60550" SERIESID="4593"/>
+            <File Name="Avengers 256" ID="46379" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 171" ID="56455" SERIESID="4434"/>
+            <File Name="Dreadstar 18" ID="60968" SERIESID="4606"/>
+            <File Name="G.I. Joe a Real American Hero 36" ID="58874" SERIESID="4519"/>
+            <File Name="Incredible Hulk 308" ID="46552" SERIESID="3984"/>
+            <File Name="Kull the Conqueror 10" ID="56954" SERIESID="4456"/>
+            <File Name="Marvel Age 27" ID="61880" SERIESID="4664"/>
+            <File Name="Marvel Tales Starring Spider-Man 176" ID="47452" SERIESID="3994"/>
+            <File Name="Moon Knight 1" ID="49378" SERIESID="4113"/>
+            <File Name="Rom 67" ID="49744" SERIESID="4133"/>
+            <File Name="Uncanny X-Men 194" ID="48155" SERIESID="3987"/>
+            <File Name="Defenders 144" ID="45679" SERIESID="4006"/>
+            <File Name="Doctor Who 9" ID="64086" SERIESID="4779"/>
+            <File Name="Fantastic Four 279" ID="48857" SERIESID="3649"/>
+            <File Name="Iron Man 195" ID="46179" SERIESID="3989"/>
+            <File Name="Official Marvel Index to the Amazing Spider-Man 3" ID="64252" SERIESID="4799"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 103" ID="46950" SERIESID="4032"/>
+            <File Name="Rocket Raccoon 2" ID="60077" SERIESID="4571"/>
+            <File Name="Star Wars 96" ID="57725" SERIESID="4470"/>
+            <File Name="Thor 356" ID="46726" SERIESID="3980"/>
+            <File Name="Transformers 5" ID="59126" SERIESID="4530"/>
+            <File Name="Cloak and Dagger 1" ID="49117" SERIESID="4106"/>
+            <File Name="Conan the King 29" ID="57814" SERIESID="4475"/>
+            <File Name="Daredevil 220" ID="49423" SERIESID="3988"/>
+            <File Name="Dreadstar and Company 1" ID="61796" SERIESID="4661"/>
+            <File Name="Gargoyle 2" ID="60812" SERIESID="4598"/>
+            <File Name="Moonshadow 2" ID="61222" SERIESID="4638"/>
+            <File Name="New Mutants 29" ID="47835" SERIESID="4050"/>
+            <File Name="Peter Porker, the Spectacular Spider-Ham 2" ID="65169" SERIESID="4847"/>
+            <File Name="Planet Terry 4" ID="61106" SERIESID="4631"/>
+            <File Name="Swords of the Swashbucklers 1" ID="61197" SERIESID="4636"/>
+            <File Name="Thing 25" ID="49032" SERIESID="4095"/>
+            <File Name="Web of Spider-Man 4" ID="48663" SERIESID="4081"/>
         </Directory>
         <Directory Name="CMC 1985 04">
-            <File Name="Alpha Flight 24" ID="48329"/>
-            <File Name="Amazing Spider-Man 266" ID="48018"/>
-            <File Name="Black Dragon 1" ID="62542"/>
-            <File Name="Captain America 307" ID="47179"/>
-            <File Name="Dazzler 38" ID="47696"/>
-            <File Name="Ewoks 2" ID="58304"/>
-            <File Name="Further Adventures of Indiana Jones 30" ID="59240"/>
-            <File Name="Micronauts 10" ID="50923"/>
-            <File Name="Power Pack 12" ID="48536"/>
-            <File Name="Savage Sword of Conan 113" ID="58439"/>
-            <File Name="Sergio Aragones Groo the Wanderer 5" ID="63958"/>
-            <File Name="Timespirits 4" ID="62666"/>
-            <File Name="Wally the Wizard 4" ID="62710"/>
-            <File Name="Avengers 257" ID="46380"/>
-            <File Name="Conan the Barbarian 172" ID="56456"/>
-            <File Name="G.I. Joe a Real American Hero 37" ID="58875"/>
-            <File Name="Get Along Gang 2" ID="59688"/>
-            <File Name="Incredible Hulk 309" ID="46553"/>
-            <File Name="Marvel Age 28" ID="61881"/>
-            <File Name="Marvel Fanfare 21" ID="48571"/>
-            <File Name="Marvel Tales Starring Spider-Man 177" ID="47453"/>
-            <File Name="Moon Knight 2" ID="49379"/>
-            <File Name="Muppet Babies 2" ID="60786"/>
-            <File Name="Power Man and Iron Fist 118" ID="48787"/>
-            <File Name="Rom 68" ID="49745"/>
-            <File Name="Royal Roy 2" ID="62689"/>
-            <File Name="Uncanny X-Men 195" ID="48156"/>
-            <File Name="Coyote 12" ID="59475"/>
-            <File Name="Defenders 145" ID="45680"/>
-            <File Name="Doctor Who 10" ID="64087"/>
-            <File Name="Epic Illustrated 30" ID="60780"/>
-            <File Name="Fantastic Four 280" ID="48858"/>
-            <File Name="Iron Man 196" ID="46180"/>
-            <File Name="Official Marvel Index to the Amazing Spider-Man 4" ID="64253"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 104" ID="46951"/>
-            <File Name="Rocket Raccoon 3" ID="60078"/>
-            <File Name="Secret Wars II 1" ID="48488"/>
-            <File Name="Star Wars 97" ID="57726"/>
-            <File Name="Thor 357" ID="46727"/>
-            <File Name="Transformers 6" ID="59127"/>
-            <File Name="Daredevil 221" ID="49424"/>
-            <File Name="Dreadstar and Company 2" ID="61797"/>
-            <File Name="Fraggle Rock 3" ID="62355"/>
-            <File Name="Gargoyle 3" ID="60813"/>
-            <File Name="Life of Captain Marvel 1" ID="62587"/>
-            <File Name="New Mutants 30" ID="47836"/>
-            <File Name="Planet Terry 5" ID="61107"/>
-            <File Name="Rawhide Kid 1" ID="57617"/>
-            <File Name="Red Sonja 10" ID="58685"/>
-            <File Name="Sectaurs 2" ID="60092"/>
-            <File Name="Starstruck 3" ID="60072"/>
-            <File Name="Strawberry Shortcake 3" ID="58693"/>
-            <File Name="Thing 26" ID="49033"/>
-            <File Name="Web of Spider-Man 5" ID="48664"/>
-            <File Name="Alpha Flight 25" ID="48330"/>
-            <File Name="Amazing Spider-Man 267" ID="48019"/>
-            <File Name="Black Dragon 2" ID="62543"/>
-            <File Name="Captain America 308" ID="47180"/>
-            <File Name="Doctor Strange 72" ID="47274"/>
-            <File Name="Heathcliff 3" ID="59343"/>
-            <File Name="Micronauts 11" ID="50924"/>
-            <File Name="Power Pack 13" ID="48537"/>
-            <File Name="Savage Sword of Conan 114" ID="58440"/>
-            <File Name="Sergio Aragones Groo the Wanderer 6" ID="63959"/>
-            <File Name="Sisterhood of Steel 4" ID="61244"/>
-            <File Name="Top Dog 3" ID="62676"/>
-            <File Name="Wally the Wizard 5" ID="62711"/>
+            <File Name="Alpha Flight 24" ID="48329" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 266" ID="48018" SERIESID="3985"/>
+            <File Name="Black Dragon 1" ID="62542" SERIESID="4698"/>
+            <File Name="Captain America 307" ID="47179" SERIESID="3983"/>
+            <File Name="Dazzler 38" ID="47696" SERIESID="4042"/>
+            <File Name="Ewoks 2" ID="58304" SERIESID="4495"/>
+            <File Name="Further Adventures of Indiana Jones 30" ID="59240" SERIESID="4535"/>
+            <File Name="Micronauts 10" ID="50923" SERIESID="4182"/>
+            <File Name="Power Pack 12" ID="48536" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 113" ID="58439" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 5" ID="63958" SERIESID="4775"/>
+            <File Name="Timespirits 4" ID="62666" SERIESID="4707"/>
+            <File Name="Wally the Wizard 4" ID="62710" SERIESID="4714"/>
+            <File Name="Avengers 257" ID="46380" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 172" ID="56456" SERIESID="4434"/>
+            <File Name="G.I. Joe a Real American Hero 37" ID="58875" SERIESID="4519"/>
+            <File Name="Get Along Gang 2" ID="59688" SERIESID="4561"/>
+            <File Name="Incredible Hulk 309" ID="46553" SERIESID="3984"/>
+            <File Name="Marvel Age 28" ID="61881" SERIESID="4664"/>
+            <File Name="Marvel Fanfare 21" ID="48571" SERIESID="4075"/>
+            <File Name="Marvel Tales Starring Spider-Man 177" ID="47453" SERIESID="3994"/>
+            <File Name="Moon Knight 2" ID="49379" SERIESID="4113"/>
+            <File Name="Muppet Babies 2" ID="60786" SERIESID="4597"/>
+            <File Name="Power Man and Iron Fist 118" ID="48787" SERIESID="4007"/>
+            <File Name="Rom 68" ID="49745" SERIESID="4133"/>
+            <File Name="Royal Roy 2" ID="62689" SERIESID="4710"/>
+            <File Name="Uncanny X-Men 195" ID="48156" SERIESID="3987"/>
+            <File Name="Coyote 12" ID="59475" SERIESID="4541"/>
+            <File Name="Defenders 145" ID="45680" SERIESID="4006"/>
+            <File Name="Doctor Who 10" ID="64087" SERIESID="4779"/>
+            <File Name="Epic Illustrated 30" ID="60780" SERIESID="4596"/>
+            <File Name="Fantastic Four 280" ID="48858" SERIESID="3649"/>
+            <File Name="Iron Man 196" ID="46180" SERIESID="3989"/>
+            <File Name="Official Marvel Index to the Amazing Spider-Man 4" ID="64253" SERIESID="4799"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 104" ID="46951" SERIESID="4032"/>
+            <File Name="Rocket Raccoon 3" ID="60078" SERIESID="4571"/>
+            <File Name="Secret Wars II 1" ID="48488" SERIESID="4071"/>
+            <File Name="Star Wars 97" ID="57726" SERIESID="4470"/>
+            <File Name="Thor 357" ID="46727" SERIESID="3980"/>
+            <File Name="Transformers 6" ID="59127" SERIESID="4530"/>
+            <File Name="Daredevil 221" ID="49424" SERIESID="3988"/>
+            <File Name="Dreadstar and Company 2" ID="61797" SERIESID="4661"/>
+            <File Name="Fraggle Rock 3" ID="62355" SERIESID="4692"/>
+            <File Name="Gargoyle 3" ID="60813" SERIESID="4598"/>
+            <File Name="Life of Captain Marvel 1" ID="62587" SERIESID="4701"/>
+            <File Name="New Mutants 30" ID="47836" SERIESID="4050"/>
+            <File Name="Planet Terry 5" ID="61107" SERIESID="4631"/>
+            <File Name="Rawhide Kid 1" ID="57617" SERIESID="4469"/>
+            <File Name="Red Sonja 10" ID="58685" SERIESID="4501"/>
+            <File Name="Sectaurs 2" ID="60092" SERIESID="4573"/>
+            <File Name="Starstruck 3" ID="60072" SERIESID="4570"/>
+            <File Name="Strawberry Shortcake 3" ID="58693" SERIESID="4503"/>
+            <File Name="Thing 26" ID="49033" SERIESID="4095"/>
+            <File Name="Web of Spider-Man 5" ID="48664" SERIESID="4081"/>
+            <File Name="Alpha Flight 25" ID="48330" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 267" ID="48019" SERIESID="3985"/>
+            <File Name="Black Dragon 2" ID="62543" SERIESID="4698"/>
+            <File Name="Captain America 308" ID="47180" SERIESID="3983"/>
+            <File Name="Doctor Strange 72" ID="47274" SERIESID="4035"/>
+            <File Name="Heathcliff 3" ID="59343" SERIESID="4539"/>
+            <File Name="Micronauts 11" ID="50924" SERIESID="4182"/>
+            <File Name="Power Pack 13" ID="48537" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 114" ID="58440" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 6" ID="63959" SERIESID="4775"/>
+            <File Name="Sisterhood of Steel 4" ID="61244" SERIESID="4641"/>
+            <File Name="Top Dog 3" ID="62676" SERIESID="4709"/>
+            <File Name="Wally the Wizard 5" ID="62711" SERIESID="4714"/>
         </Directory>
         <Directory Name="CMC 1985 05">
-            <File Name="Avengers 258" ID="46381"/>
-            <File Name="Conan the Barbarian 173" ID="56457"/>
-            <File Name="Dreadstar 19" ID="60969"/>
-            <File Name="G.I. Joe a Real American Hero 38" ID="58876"/>
-            <File Name="Incredible Hulk 310" ID="46554"/>
-            <File Name="Marvel Age 29" ID="61882"/>
-            <File Name="Marvel Tales Starring Spider-Man 178" ID="47454"/>
-            <File Name="Moon Knight 3" ID="49380"/>
-            <File Name="Rom 69" ID="49746"/>
-            <File Name="Uncanny X-Men 196" ID="48157"/>
-            <File Name="Alien Legion 8" ID="60551"/>
-            <File Name="Defenders 146" ID="45681"/>
-            <File Name="Doctor Who 11" ID="64088"/>
-            <File Name="Elfquest 1" ID="61260"/>
-            <File Name="Fantastic Four 281" ID="48859"/>
-            <File Name="Iron Man 197" ID="46181"/>
-            <File Name="Official Marvel Index to the Amazing Spider-Man 5" ID="64254"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 105" ID="46952"/>
-            <File Name="Rocket Raccoon 4" ID="60079"/>
-            <File Name="Secret Wars II 2" ID="48489"/>
-            <File Name="Star Wars 98" ID="57727"/>
-            <File Name="Thor 358" ID="46728"/>
-            <File Name="Transformers 7" ID="59128"/>
-            <File Name="Cloak and Dagger 2" ID="49118"/>
-            <File Name="Conan the King 30" ID="57815"/>
-            <File Name="Daredevil 222" ID="49425"/>
-            <File Name="Dreadstar and Company 3" ID="61798"/>
-            <File Name="Gargoyle 4" ID="60814"/>
-            <File Name="Life of Captain Marvel 2" ID="62588"/>
-            <File Name="Moonshadow 3" ID="61223"/>
-            <File Name="New Mutants 31" ID="47837"/>
-            <File Name="Peter Porker, the Spectacular Spider-Ham 3" ID="65170"/>
-            <File Name="Planet Terry 6" ID="61108"/>
-            <File Name="Rawhide Kid 2" ID="57618"/>
-            <File Name="Squadron Supreme 1" ID="49064"/>
-            <File Name="Swords of the Swashbucklers 2" ID="61198"/>
-            <File Name="Thing 27" ID="49034"/>
-            <File Name="Web of Spider-Man 6" ID="48665"/>
+            <File Name="Avengers 258" ID="46381" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 173" ID="56457" SERIESID="4434"/>
+            <File Name="Dreadstar 19" ID="60969" SERIESID="4606"/>
+            <File Name="G.I. Joe a Real American Hero 38" ID="58876" SERIESID="4519"/>
+            <File Name="Incredible Hulk 310" ID="46554" SERIESID="3984"/>
+            <File Name="Marvel Age 29" ID="61882" SERIESID="4664"/>
+            <File Name="Marvel Tales Starring Spider-Man 178" ID="47454" SERIESID="3994"/>
+            <File Name="Moon Knight 3" ID="49380" SERIESID="4113"/>
+            <File Name="Rom 69" ID="49746" SERIESID="4133"/>
+            <File Name="Uncanny X-Men 196" ID="48157" SERIESID="3987"/>
+            <File Name="Alien Legion 8" ID="60551" SERIESID="4593"/>
+            <File Name="Defenders 146" ID="45681" SERIESID="4006"/>
+            <File Name="Doctor Who 11" ID="64088" SERIESID="4779"/>
+            <File Name="Elfquest 1" ID="61260" SERIESID="4645"/>
+            <File Name="Fantastic Four 281" ID="48859" SERIESID="3649"/>
+            <File Name="Iron Man 197" ID="46181" SERIESID="3989"/>
+            <File Name="Official Marvel Index to the Amazing Spider-Man 5" ID="64254" SERIESID="4799"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 105" ID="46952" SERIESID="4032"/>
+            <File Name="Rocket Raccoon 4" ID="60079" SERIESID="4571"/>
+            <File Name="Secret Wars II 2" ID="48489" SERIESID="4071"/>
+            <File Name="Star Wars 98" ID="57727" SERIESID="4470"/>
+            <File Name="Thor 358" ID="46728" SERIESID="3980"/>
+            <File Name="Transformers 7" ID="59128" SERIESID="4530"/>
+            <File Name="Cloak and Dagger 2" ID="49118" SERIESID="4106"/>
+            <File Name="Conan the King 30" ID="57815" SERIESID="4475"/>
+            <File Name="Daredevil 222" ID="49425" SERIESID="3988"/>
+            <File Name="Dreadstar and Company 3" ID="61798" SERIESID="4661"/>
+            <File Name="Gargoyle 4" ID="60814" SERIESID="4598"/>
+            <File Name="Life of Captain Marvel 2" ID="62588" SERIESID="4701"/>
+            <File Name="Moonshadow 3" ID="61223" SERIESID="4638"/>
+            <File Name="New Mutants 31" ID="47837" SERIESID="4050"/>
+            <File Name="Peter Porker, the Spectacular Spider-Ham 3" ID="65170" SERIESID="4847"/>
+            <File Name="Planet Terry 6" ID="61108" SERIESID="4631"/>
+            <File Name="Rawhide Kid 2" ID="57618" SERIESID="4469"/>
+            <File Name="Squadron Supreme 1" ID="49064" SERIESID="4099"/>
+            <File Name="Swords of the Swashbucklers 2" ID="61198" SERIESID="4636"/>
+            <File Name="Thing 27" ID="49034" SERIESID="4095"/>
+            <File Name="Web of Spider-Man 6" ID="48665" SERIESID="4081"/>
         </Directory>
         <Directory Name="CMC 1985 06">
-            <File Name="Adventures of Kool-Aid Man 3" ID="205938"/>
-            <File Name="Alpha Flight 26" ID="48331"/>
-            <File Name="Amazing Spider-Man 268" ID="48020"/>
-            <File Name="Black Dragon 3" ID="62544"/>
-            <File Name="Captain America 309" ID="47181"/>
-            <File Name="Dazzler 39" ID="47697"/>
-            <File Name="Ewoks 3" ID="58305"/>
-            <File Name="Further Adventures of Indiana Jones 31" ID="59241"/>
-            <File Name="Longshot 1" ID="48419"/>
-            <File Name="Micronauts 12" ID="50925"/>
-            <File Name="One 1" ID="62581"/>
-            <File Name="Power Pack 14" ID="48538"/>
-            <File Name="Savage Sword of Conan 115" ID="58441"/>
-            <File Name="Sergio Aragones Groo the Wanderer 7" ID="63960"/>
-            <File Name="Timespirits 5" ID="62667"/>
-            <File Name="Wally the Wizard 6" ID="62712"/>
-            <File Name="Avengers 259" ID="46382"/>
-            <File Name="Conan the Barbarian 174" ID="56458"/>
-            <File Name="G.I. Joe a Real American Hero 39" ID="58877"/>
-            <File Name="Get Along Gang 3" ID="59689"/>
-            <File Name="Incredible Hulk 311" ID="46555"/>
-            <File Name="Marvel Age 30" ID="61883"/>
-            <File Name="Marvel Fanfare 22" ID="48572"/>
-            <File Name="Marvel Tales Starring Spider-Man 179" ID="47455"/>
-            <File Name="Moon Knight 4" ID="49381"/>
-            <File Name="Muppet Babies 3" ID="60787"/>
-            <File Name="Power Man and Iron Fist 119" ID="48788"/>
-            <File Name="Rom 70" ID="49747"/>
-            <File Name="Royal Roy 3" ID="62690"/>
-            <File Name="Solomon Kane 1" ID="61097"/>
-            <File Name="Uncanny X-Men 197" ID="48158"/>
-            <File Name="Web of Spider-Man Annual 1" ID="48693"/>
-            <File Name="Coyote 13" ID="59476"/>
-            <File Name="Defenders 147" ID="45682"/>
-            <File Name="Doctor Who 12" ID="64089"/>
-            <File Name="Elfquest 2" ID="61261"/>
-            <File Name="Epic Illustrated 31" ID="60781"/>
-            <File Name="Fantastic Four 282" ID="48860"/>
-            <File Name="Iron Man 198" ID="46182"/>
-            <File Name="Official Marvel Index to the Amazing Spider-Man 6" ID="64255"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 106" ID="46953"/>
-            <File Name="Secret Wars II 3" ID="48490"/>
-            <File Name="Star Wars 99" ID="57728"/>
-            <File Name="Thor 359" ID="46729"/>
-            <File Name="Transformers 8" ID="59129"/>
-            <File Name="Daredevil 223" ID="49426"/>
-            <File Name="Dreadstar and Company 4" ID="61799"/>
-            <File Name="Fraggle Rock 4" ID="62356"/>
-            <File Name="Life of Captain Marvel 3" ID="62589"/>
-            <File Name="Marvel Super Special 38" ID="60854"/>
-            <File Name="New Mutants 32" ID="47838"/>
-            <File Name="Planet Terry 7" ID="61109"/>
-            <File Name="Rawhide Kid 3" ID="57619"/>
-            <File Name="Sectaurs 3" ID="60093"/>
-            <File Name="Squadron Supreme 2" ID="49065"/>
-            <File Name="Starstruck 4" ID="60073"/>
-            <File Name="Strawberry Shortcake 4" ID="58694"/>
-            <File Name="Thing 28" ID="49035"/>
-            <File Name="Web of Spider-Man 7" ID="48666"/>
-            <File Name="West Coast Avengers 1" ID="49193"/>
+            <File Name="Adventures of Kool-Aid Man 3" ID="205938" SERIESID="20512"/>
+            <File Name="Alpha Flight 26" ID="48331" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 268" ID="48020" SERIESID="3985"/>
+            <File Name="Black Dragon 3" ID="62544" SERIESID="4698"/>
+            <File Name="Captain America 309" ID="47181" SERIESID="3983"/>
+            <File Name="Dazzler 39" ID="47697" SERIESID="4042"/>
+            <File Name="Ewoks 3" ID="58305" SERIESID="4495"/>
+            <File Name="Further Adventures of Indiana Jones 31" ID="59241" SERIESID="4535"/>
+            <File Name="Longshot 1" ID="48419" SERIESID="4067"/>
+            <File Name="Micronauts 12" ID="50925" SERIESID="4182"/>
+            <File Name="One 1" ID="62581" SERIESID="4700"/>
+            <File Name="Power Pack 14" ID="48538" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 115" ID="58441" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 7" ID="63960" SERIESID="4775"/>
+            <File Name="Timespirits 5" ID="62667" SERIESID="4707"/>
+            <File Name="Wally the Wizard 6" ID="62712" SERIESID="4714"/>
+            <File Name="Avengers 259" ID="46382" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 174" ID="56458" SERIESID="4434"/>
+            <File Name="G.I. Joe a Real American Hero 39" ID="58877" SERIESID="4519"/>
+            <File Name="Get Along Gang 3" ID="59689" SERIESID="4561"/>
+            <File Name="Incredible Hulk 311" ID="46555" SERIESID="3984"/>
+            <File Name="Marvel Age 30" ID="61883" SERIESID="4664"/>
+            <File Name="Marvel Fanfare 22" ID="48572" SERIESID="4075"/>
+            <File Name="Marvel Tales Starring Spider-Man 179" ID="47455" SERIESID="3994"/>
+            <File Name="Moon Knight 4" ID="49381" SERIESID="4113"/>
+            <File Name="Muppet Babies 3" ID="60787" SERIESID="4597"/>
+            <File Name="Power Man and Iron Fist 119" ID="48788" SERIESID="4007"/>
+            <File Name="Rom 70" ID="49747" SERIESID="4133"/>
+            <File Name="Royal Roy 3" ID="62690" SERIESID="4710"/>
+            <File Name="Solomon Kane 1" ID="61097" SERIESID="4630"/>
+            <File Name="Uncanny X-Men 197" ID="48158" SERIESID="3987"/>
+            <File Name="Web of Spider-Man Annual 1" ID="48693" SERIESID="4081"/>
+            <File Name="Coyote 13" ID="59476" SERIESID="4541"/>
+            <File Name="Defenders 147" ID="45682" SERIESID="4006"/>
+            <File Name="Doctor Who 12" ID="64089" SERIESID="4779"/>
+            <File Name="Elfquest 2" ID="61261" SERIESID="4645"/>
+            <File Name="Epic Illustrated 31" ID="60781" SERIESID="4596"/>
+            <File Name="Fantastic Four 282" ID="48860" SERIESID="3649"/>
+            <File Name="Iron Man 198" ID="46182" SERIESID="3989"/>
+            <File Name="Official Marvel Index to the Amazing Spider-Man 6" ID="64255" SERIESID="4799"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 106" ID="46953" SERIESID="4032"/>
+            <File Name="Secret Wars II 3" ID="48490" SERIESID="4071"/>
+            <File Name="Star Wars 99" ID="57728" SERIESID="4470"/>
+            <File Name="Thor 359" ID="46729" SERIESID="3980"/>
+            <File Name="Transformers 8" ID="59129" SERIESID="4530"/>
+            <File Name="Daredevil 223" ID="49426" SERIESID="3988"/>
+            <File Name="Dreadstar and Company 4" ID="61799" SERIESID="4661"/>
+            <File Name="Fraggle Rock 4" ID="62356" SERIESID="4692"/>
+            <File Name="Life of Captain Marvel 3" ID="62589" SERIESID="4701"/>
+            <File Name="Marvel Super Special 38" ID="60854" SERIESID="4600"/>
+            <File Name="New Mutants 32" ID="47838" SERIESID="4050"/>
+            <File Name="Planet Terry 7" ID="61109" SERIESID="4631"/>
+            <File Name="Rawhide Kid 3" ID="57619" SERIESID="4469"/>
+            <File Name="Sectaurs 3" ID="60093" SERIESID="4573"/>
+            <File Name="Squadron Supreme 2" ID="49065" SERIESID="4099"/>
+            <File Name="Starstruck 4" ID="60073" SERIESID="4570"/>
+            <File Name="Strawberry Shortcake 4" ID="58694" SERIESID="4503"/>
+            <File Name="Thing 28" ID="49035" SERIESID="4095"/>
+            <File Name="Web of Spider-Man 7" ID="48666" SERIESID="4081"/>
+            <File Name="West Coast Avengers 1" ID="49193" SERIESID="4109"/>
         </Directory>
         <Directory Name="CMC 1985 07">
-            <File Name="Alpha Flight 27" ID="48332"/>
-            <File Name="Amazing Spider-Man 269" ID="48021"/>
-            <File Name="Black Dragon 4" ID="62545"/>
-            <File Name="Captain America 310" ID="47182"/>
-            <File Name="Doctor Strange 73" ID="47275"/>
-            <File Name="Heathcliff 4" ID="59344"/>
-            <File Name="Longshot 2" ID="48420"/>
-            <File Name="Micronauts 13" ID="50926"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man Annual 5" ID="46973"/>
-            <File Name="Power Pack 15" ID="48539"/>
-            <File Name="Savage Sword of Conan 116" ID="58442"/>
-            <File Name="Sergio Aragones Groo the Wanderer 8" ID="63961"/>
-            <File Name="Sisterhood of Steel 5" ID="61245"/>
-            <File Name="Top Dog 4" ID="62677"/>
-            <File Name="Vision and the Scarlet Witch 1" ID="48696"/>
-            <File Name="Wally the Wizard 7" ID="62713"/>
-            <File Name="Amazing High Adventure 2" ID="60537"/>
-            <File Name="Avengers 260" ID="46383"/>
-            <File Name="Conan the Barbarian 175" ID="56459"/>
-            <File Name="Dreadstar 20" ID="60970"/>
-            <File Name="Eternals 1" ID="49052"/>
-            <File Name="G.I. Joe a Real American Hero 40" ID="58878"/>
-            <File Name="Incredible Hulk 312" ID="46556"/>
-            <File Name="Marvel Age 31" ID="61884"/>
-            <File Name="Marvel Tales Starring Spider-Man 180" ID="47456"/>
-            <File Name="Rom 71" ID="49748"/>
-            <File Name="Uncanny X-Men 198" ID="48159"/>
-            <File Name="Alien Legion 9" ID="60552"/>
-            <File Name="Defenders 148" ID="45683"/>
-            <File Name="Doctor Who 13" ID="64090"/>
-            <File Name="Elfquest 3" ID="61262"/>
-            <File Name="Fantastic Four 283" ID="48861"/>
-            <File Name="Iron Man 199" ID="46183"/>
-            <File Name="Official Marvel Index to the Amazing Spider-Man 7" ID="64256"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 107" ID="46954"/>
-            <File Name="Secret Wars II 4" ID="48491"/>
-            <File Name="Star Wars 100" ID="57729"/>
-            <File Name="Thor 360" ID="46730"/>
-            <File Name="Transformers 9" ID="59130"/>
-            <File Name="Cloak and Dagger 3" ID="49119"/>
-            <File Name="Conan the King 31" ID="57816"/>
-            <File Name="Daredevil 224" ID="49427"/>
-            <File Name="Dreadstar and Company 5" ID="61800"/>
-            <File Name="Life of Captain Marvel 4" ID="62590"/>
-            <File Name="Marvel Age Annual 1" ID="61994"/>
-            <File Name="Moonshadow 4" ID="61224"/>
-            <File Name="New Mutants 33" ID="47839"/>
-            <File Name="Peter Porker, the Spectacular Spider-Ham 4" ID="65171"/>
-            <File Name="Planet Terry 8" ID="61110"/>
-            <File Name="Questprobe 3" ID="62350"/>
-            <File Name="Rawhide Kid 4" ID="57620"/>
-            <File Name="Red Sonja:The Movie 1" ID="58689"/>
-            <File Name="Squadron Supreme 3" ID="49066"/>
-            <File Name="Swords of the Swashbucklers 3" ID="61199"/>
-            <File Name="Thing 29" ID="49036"/>
-            <File Name="Web of Spider-Man 8" ID="48667"/>
-            <File Name="West Coast Avengers 2" ID="49194"/>
-            <File Name="Alpha Flight 28" ID="48333"/>
-            <File Name="Amazing Spider-Man 270" ID="48022"/>
-            <File Name="Avengers Annual 14" ID="46406"/>
-            <File Name="Black Dragon 5" ID="62546"/>
-            <File Name="Captain America 311" ID="47183"/>
-            <File Name="Dazzler 40" ID="47698"/>
-            <File Name="Ewoks 4" ID="58306"/>
-            <File Name="Further Adventures of Indiana Jones 32" ID="59242"/>
-            <File Name="Longshot 3" ID="48421"/>
-            <File Name="Micronauts 14" ID="50927"/>
-            <File Name="One 2" ID="62582"/>
-            <File Name="Power Pack 16" ID="48540"/>
-            <File Name="Red Sonja 11" ID="58686"/>
-            <File Name="Savage Sword of Conan 117" ID="58443"/>
-            <File Name="Sergio Aragones Groo the Wanderer 9" ID="63962"/>
-            <File Name="Timespirits 6" ID="62668"/>
-            <File Name="Vision and the Scarlet Witch 2" ID="48697"/>
-            <File Name="Wally the Wizard 8" ID="62714"/>
+            <File Name="Alpha Flight 27" ID="48332" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 269" ID="48021" SERIESID="3985"/>
+            <File Name="Black Dragon 4" ID="62545" SERIESID="4698"/>
+            <File Name="Captain America 310" ID="47182" SERIESID="3983"/>
+            <File Name="Doctor Strange 73" ID="47275" SERIESID="4035"/>
+            <File Name="Heathcliff 4" ID="59344" SERIESID="4539"/>
+            <File Name="Longshot 2" ID="48420" SERIESID="4067"/>
+            <File Name="Micronauts 13" ID="50926" SERIESID="4182"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man Annual 5" ID="46973" SERIESID="4032"/>
+            <File Name="Power Pack 15" ID="48539" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 116" ID="58442" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 8" ID="63961" SERIESID="4775"/>
+            <File Name="Sisterhood of Steel 5" ID="61245" SERIESID="4641"/>
+            <File Name="Top Dog 4" ID="62677" SERIESID="4709"/>
+            <File Name="Vision and the Scarlet Witch 1" ID="48696" SERIESID="4082"/>
+            <File Name="Wally the Wizard 7" ID="62713" SERIESID="4714"/>
+            <File Name="Amazing High Adventure 2" ID="60537" SERIESID="4591"/>
+            <File Name="Avengers 260" ID="46383" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 175" ID="56459" SERIESID="4434"/>
+            <File Name="Dreadstar 20" ID="60970" SERIESID="4606"/>
+            <File Name="Eternals 1" ID="49052" SERIESID="4098"/>
+            <File Name="G.I. Joe a Real American Hero 40" ID="58878" SERIESID="4519"/>
+            <File Name="Incredible Hulk 312" ID="46556" SERIESID="3984"/>
+            <File Name="Marvel Age 31" ID="61884" SERIESID="4664"/>
+            <File Name="Marvel Tales Starring Spider-Man 180" ID="47456" SERIESID="3994"/>
+            <File Name="Rom 71" ID="49748" SERIESID="4133"/>
+            <File Name="Uncanny X-Men 198" ID="48159" SERIESID="3987"/>
+            <File Name="Alien Legion 9" ID="60552" SERIESID="4593"/>
+            <File Name="Defenders 148" ID="45683" SERIESID="4006"/>
+            <File Name="Doctor Who 13" ID="64090" SERIESID="4779"/>
+            <File Name="Elfquest 3" ID="61262" SERIESID="4645"/>
+            <File Name="Fantastic Four 283" ID="48861" SERIESID="3649"/>
+            <File Name="Iron Man 199" ID="46183" SERIESID="3989"/>
+            <File Name="Official Marvel Index to the Amazing Spider-Man 7" ID="64256" SERIESID="4799"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 107" ID="46954" SERIESID="4032"/>
+            <File Name="Secret Wars II 4" ID="48491" SERIESID="4071"/>
+            <File Name="Star Wars 100" ID="57729" SERIESID="4470"/>
+            <File Name="Thor 360" ID="46730" SERIESID="3980"/>
+            <File Name="Transformers 9" ID="59130" SERIESID="4530"/>
+            <File Name="Cloak and Dagger 3" ID="49119" SERIESID="4106"/>
+            <File Name="Conan the King 31" ID="57816" SERIESID="4475"/>
+            <File Name="Daredevil 224" ID="49427" SERIESID="3988"/>
+            <File Name="Dreadstar and Company 5" ID="61800" SERIESID="4661"/>
+            <File Name="Life of Captain Marvel 4" ID="62590" SERIESID="4701"/>
+            <File Name="Marvel Age Annual 1" ID="61994" SERIESID="4664"/>
+            <File Name="Moonshadow 4" ID="61224" SERIESID="4638"/>
+            <File Name="New Mutants 33" ID="47839" SERIESID="4050"/>
+            <File Name="Peter Porker, the Spectacular Spider-Ham 4" ID="65171" SERIESID="4847"/>
+            <File Name="Planet Terry 8" ID="61110" SERIESID="4631"/>
+            <File Name="Questprobe 3" ID="62350" SERIESID="4689"/>
+            <File Name="Rawhide Kid 4" ID="57620" SERIESID="4469"/>
+            <File Name="Red Sonja:The Movie 1" ID="58689" SERIESID="4502"/>
+            <File Name="Squadron Supreme 3" ID="49066" SERIESID="4099"/>
+            <File Name="Swords of the Swashbucklers 3" ID="61199" SERIESID="4636"/>
+            <File Name="Thing 29" ID="49036" SERIESID="4095"/>
+            <File Name="Web of Spider-Man 8" ID="48667" SERIESID="4081"/>
+            <File Name="West Coast Avengers 2" ID="49194" SERIESID="4109"/>
+            <File Name="Alpha Flight 28" ID="48333" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 270" ID="48022" SERIESID="3985"/>
+            <File Name="Avengers Annual 14" ID="46406" SERIESID="3986"/>
+            <File Name="Black Dragon 5" ID="62546" SERIESID="4698"/>
+            <File Name="Captain America 311" ID="47183" SERIESID="3983"/>
+            <File Name="Dazzler 40" ID="47698" SERIESID="4042"/>
+            <File Name="Ewoks 4" ID="58306" SERIESID="4495"/>
+            <File Name="Further Adventures of Indiana Jones 32" ID="59242" SERIESID="4535"/>
+            <File Name="Longshot 3" ID="48421" SERIESID="4067"/>
+            <File Name="Micronauts 14" ID="50927" SERIESID="4182"/>
+            <File Name="One 2" ID="62582" SERIESID="4700"/>
+            <File Name="Power Pack 16" ID="48540" SERIESID="4074"/>
+            <File Name="Red Sonja 11" ID="58686" SERIESID="4501"/>
+            <File Name="Savage Sword of Conan 117" ID="58443" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 9" ID="63962" SERIESID="4775"/>
+            <File Name="Timespirits 6" ID="62668" SERIESID="4707"/>
+            <File Name="Vision and the Scarlet Witch 2" ID="48697" SERIESID="4082"/>
+            <File Name="Wally the Wizard 8" ID="62714" SERIESID="4714"/>
         </Directory>
         <Directory Name="CMC 1985 08">
-            <File Name="Avengers 261" ID="46384"/>
-            <File Name="Conan the Barbarian 176" ID="56460"/>
-            <File Name="Eternals 2" ID="49053"/>
-            <File Name="Fantastic Four Annual 19" ID="48904"/>
-            <File Name="G.I. Joe a Real American Hero 41" ID="58879"/>
-            <File Name="Get Along Gang 4" ID="59690"/>
-            <File Name="Incredible Hulk 313" ID="46557"/>
-            <File Name="Marvel Age 32" ID="61885"/>
-            <File Name="Marvel Fanfare 23" ID="48573"/>
-            <File Name="Marvel Tales Starring Spider-Man 181" ID="47457"/>
-            <File Name="Moon Knight 5" ID="49382"/>
-            <File Name="Muppet Babies 4" ID="60788"/>
-            <File Name="Nightcrawler 1" ID="48348"/>
-            <File Name="Power Man and Iron Fist 120" ID="48789"/>
-            <File Name="Rom 72" ID="49749"/>
-            <File Name="Royal Roy 4" ID="62691"/>
-            <File Name="Solomon Kane 2" ID="61098"/>
-            <File Name="Uncanny X-Men 199" ID="48160"/>
-            <File Name="Amazing Spider-Man Annual 19" ID="48065"/>
-            <File Name="Coyote 14" ID="59477"/>
-            <File Name="Defenders 149" ID="45684"/>
-            <File Name="Doctor Who 14" ID="64091"/>
-            <File Name="Elfquest 4" ID="61263"/>
-            <File Name="Epic Illustrated 32" ID="60782"/>
-            <File Name="Fantastic Four 284" ID="48862"/>
-            <File Name="Iron Man 200" ID="46184"/>
-            <File Name="Official Marvel Index to the Amazing Spider-Man 8" ID="64257"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 108" ID="46955"/>
-            <File Name="Savage Tales 1" ID="62618"/>
-            <File Name="Secret Wars II 5" ID="48492"/>
-            <File Name="Star Wars 101" ID="57730"/>
-            <File Name="Thor 361" ID="46731"/>
-            <File Name="Transformers 10" ID="59131"/>
-            <File Name="Care Bears 1" ID="59321"/>
-            <File Name="Daredevil 225" ID="49428"/>
-            <File Name="Dreadstar and Company 6" ID="61801"/>
-            <File Name="Fraggle Rock 5" ID="62357"/>
-            <File Name="Incredible Hulk Annual 14" ID="46580"/>
-            <File Name="Life of Captain Marvel 5" ID="62591"/>
-            <File Name="Misty 1" ID="62694"/>
-            <File Name="New Mutants 34" ID="47840"/>
-            <File Name="Official Handbook of the Marvel Universe 1" ID="65352"/>
-            <File Name="Planet Terry 9" ID="61111"/>
-            <File Name="Red Sonja:The Movie 2" ID="58690"/>
-            <File Name="Squadron Supreme 4" ID="49067"/>
-            <File Name="Strawberry Shortcake 5" ID="58695"/>
-            <File Name="Thing 30" ID="49037"/>
-            <File Name="Thundercats 1" ID="59697"/>
-            <File Name="Web of Spider-Man 9" ID="48668"/>
-            <File Name="West Coast Avengers 3" ID="49195"/>
+            <File Name="Avengers 261" ID="46384" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 176" ID="56460" SERIESID="4434"/>
+            <File Name="Eternals 2" ID="49053" SERIESID="4098"/>
+            <File Name="Fantastic Four Annual 19" ID="48904" SERIESID="3649"/>
+            <File Name="G.I. Joe a Real American Hero 41" ID="58879" SERIESID="4519"/>
+            <File Name="Get Along Gang 4" ID="59690" SERIESID="4561"/>
+            <File Name="Incredible Hulk 313" ID="46557" SERIESID="3984"/>
+            <File Name="Marvel Age 32" ID="61885" SERIESID="4664"/>
+            <File Name="Marvel Fanfare 23" ID="48573" SERIESID="4075"/>
+            <File Name="Marvel Tales Starring Spider-Man 181" ID="47457" SERIESID="3994"/>
+            <File Name="Moon Knight 5" ID="49382" SERIESID="4113"/>
+            <File Name="Muppet Babies 4" ID="60788" SERIESID="4597"/>
+            <File Name="Nightcrawler 1" ID="48348" SERIESID="4059"/>
+            <File Name="Power Man and Iron Fist 120" ID="48789" SERIESID="4007"/>
+            <File Name="Rom 72" ID="49749" SERIESID="4133"/>
+            <File Name="Royal Roy 4" ID="62691" SERIESID="4710"/>
+            <File Name="Solomon Kane 2" ID="61098" SERIESID="4630"/>
+            <File Name="Uncanny X-Men 199" ID="48160" SERIESID="3987"/>
+            <File Name="Amazing Spider-Man Annual 19" ID="48065" SERIESID="3985"/>
+            <File Name="Coyote 14" ID="59477" SERIESID="4541"/>
+            <File Name="Defenders 149" ID="45684" SERIESID="4006"/>
+            <File Name="Doctor Who 14" ID="64091" SERIESID="4779"/>
+            <File Name="Elfquest 4" ID="61263" SERIESID="4645"/>
+            <File Name="Epic Illustrated 32" ID="60782" SERIESID="4596"/>
+            <File Name="Fantastic Four 284" ID="48862" SERIESID="3649"/>
+            <File Name="Iron Man 200" ID="46184" SERIESID="3989"/>
+            <File Name="Official Marvel Index to the Amazing Spider-Man 8" ID="64257" SERIESID="4799"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 108" ID="46955" SERIESID="4032"/>
+            <File Name="Savage Tales 1" ID="62618" SERIESID="4704"/>
+            <File Name="Secret Wars II 5" ID="48492" SERIESID="4071"/>
+            <File Name="Star Wars 101" ID="57730" SERIESID="4470"/>
+            <File Name="Thor 361" ID="46731" SERIESID="3980"/>
+            <File Name="Transformers 10" ID="59131" SERIESID="4530"/>
+            <File Name="Care Bears 1" ID="59321" SERIESID="4538"/>
+            <File Name="Daredevil 225" ID="49428" SERIESID="3988"/>
+            <File Name="Dreadstar and Company 6" ID="61801" SERIESID="4661"/>
+            <File Name="Fraggle Rock 5" ID="62357" SERIESID="4692"/>
+            <File Name="Incredible Hulk Annual 14" ID="46580" SERIESID="3984"/>
+            <File Name="Life of Captain Marvel 5" ID="62591" SERIESID="4701"/>
+            <File Name="Misty 1" ID="62694" SERIESID="4711"/>
+            <File Name="New Mutants 34" ID="47840" SERIESID="4050"/>
+            <File Name="Official Handbook of the Marvel Universe 1" ID="65352" SERIESID="4878"/>
+            <File Name="Planet Terry 9" ID="61111" SERIESID="4631"/>
+            <File Name="Red Sonja:The Movie 2" ID="58690" SERIESID="4502"/>
+            <File Name="Squadron Supreme 4" ID="49067" SERIESID="4099"/>
+            <File Name="Strawberry Shortcake 5" ID="58695" SERIESID="4503"/>
+            <File Name="Thing 30" ID="49037" SERIESID="4095"/>
+            <File Name="Thundercats 1" ID="59697" SERIESID="4563"/>
+            <File Name="Web of Spider-Man 9" ID="48668" SERIESID="4081"/>
+            <File Name="West Coast Avengers 3" ID="49195" SERIESID="4109"/>
         </Directory>
         <Directory Name="CMC 1985 09">
-            <File Name="Alpha Flight 29" ID="48334"/>
-            <File Name="Amazing Spider-Man 271" ID="48023"/>
-            <File Name="Balder the Brave 1" ID="62361"/>
-            <File Name="Black Dragon 6" ID="62547"/>
-            <File Name="Captain America 312" ID="47184"/>
-            <File Name="Doctor Strange 74" ID="47276"/>
-            <File Name="Heathcliff 5" ID="59345"/>
-            <File Name="Heroes for Hope Starring the X-Men 1" ID="65203"/>
-            <File Name="Longshot 4" ID="48422"/>
-            <File Name="Marvel Saga the Official History of the Marvel Universe 1" ID="50518"/>
-            <File Name="Micronauts 15" ID="50928"/>
-            <File Name="Official Marvel Index to the Fantastic Four 1" ID="64266"/>
-            <File Name="Power Pack 17" ID="48541"/>
-            <File Name="Rom Annual 4" ID="49756"/>
-            <File Name="Savage Sword of Conan 118" ID="58444"/>
-            <File Name="Sergio Aragones Groo the Wanderer 10" ID="63963"/>
-            <File Name="Sisterhood of Steel 6" ID="61246"/>
-            <File Name="Top Dog 5" ID="62678"/>
-            <File Name="Vision and the Scarlet Witch 3" ID="48698"/>
-            <File Name="Wally the Wizard 9" ID="62715"/>
-            <File Name="Avengers 262" ID="46385"/>
-            <File Name="Conan the Barbarian 177" ID="56461"/>
-            <File Name="Dreadstar 21" ID="60971"/>
-            <File Name="Eternals 3" ID="49054"/>
-            <File Name="G.I. Joe a Real American Hero 42" ID="58880"/>
-            <File Name="Incredible Hulk 314" ID="46558"/>
-            <File Name="Marvel Age 33" ID="61886"/>
-            <File Name="Marvel Tales Starring Spider-Man 182" ID="47458"/>
-            <File Name="Moon Knight 6" ID="49383"/>
-            <File Name="Nightcrawler 2" ID="48349"/>
-            <File Name="Rom 73" ID="49750"/>
-            <File Name="Thor Annual 13" ID="46753"/>
-            <File Name="Uncanny X-Men 200" ID="48161"/>
-            <File Name="X-Men/Alpha Flight 1" ID="49076"/>
-            <File Name="Alien Legion 10" ID="60553"/>
-            <File Name="Defenders 150" ID="45685"/>
-            <File Name="Doctor Who 15" ID="64092"/>
-            <File Name="Elfquest 5" ID="61264"/>
-            <File Name="Fantastic Four 285" ID="48863"/>
-            <File Name="Iron Man 201" ID="46185"/>
-            <File Name="New Mutants Special Edition 1" ID="61384"/>
-            <File Name="Official Marvel Index to the Amazing Spider-Man 9" ID="64258"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 109" ID="46956"/>
-            <File Name="Secret Wars II 6" ID="48493"/>
-            <File Name="Star Wars 102" ID="57731"/>
-            <File Name="Thor 362" ID="46732"/>
-            <File Name="Transformers 11" ID="59132"/>
-            <File Name="Cloak and Dagger 4" ID="49120"/>
-            <File Name="Conan the King 32" ID="57817"/>
-            <File Name="Daredevil 226" ID="49429"/>
-            <File Name="Moonshadow 5" ID="61225"/>
-            <File Name="New Mutants 35" ID="47841"/>
-            <File Name="Official Handbook of the Marvel Universe 2" ID="65353"/>
-            <File Name="Peter Porker, the Spectacular Spider-Ham 5" ID="65172"/>
-            <File Name="Planet Terry 10" ID="61112"/>
-            <File Name="Squadron Supreme 5" ID="49068"/>
-            <File Name="Starstruck 5" ID="60074"/>
-            <File Name="Swords of the Swashbucklers 4" ID="61200"/>
-            <File Name="Thing 31" ID="49038"/>
-            <File Name="Web of Spider-Man 10" ID="48669"/>
-            <File Name="West Coast Avengers 4" ID="49196"/>
+            <File Name="Alpha Flight 29" ID="48334" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 271" ID="48023" SERIESID="3985"/>
+            <File Name="Balder the Brave 1" ID="62361" SERIESID="4693"/>
+            <File Name="Black Dragon 6" ID="62547" SERIESID="4698"/>
+            <File Name="Captain America 312" ID="47184" SERIESID="3983"/>
+            <File Name="Doctor Strange 74" ID="47276" SERIESID="4035"/>
+            <File Name="Heathcliff 5" ID="59345" SERIESID="4539"/>
+            <File Name="Heroes for Hope Starring the X-Men 1" ID="65203" SERIESID="4850"/>
+            <File Name="Longshot 4" ID="48422" SERIESID="4067"/>
+            <File Name="Marvel Saga the Official History of the Marvel Universe 1" ID="50518" SERIESID="4150"/>
+            <File Name="Micronauts 15" ID="50928" SERIESID="4182"/>
+            <File Name="Official Marvel Index to the Fantastic Four 1" ID="64266" SERIESID="4801"/>
+            <File Name="Power Pack 17" ID="48541" SERIESID="4074"/>
+            <File Name="Rom Annual 4" ID="49756" SERIESID="4133"/>
+            <File Name="Savage Sword of Conan 118" ID="58444" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 10" ID="63963" SERIESID="4775"/>
+            <File Name="Sisterhood of Steel 6" ID="61246" SERIESID="4641"/>
+            <File Name="Top Dog 5" ID="62678" SERIESID="4709"/>
+            <File Name="Vision and the Scarlet Witch 3" ID="48698" SERIESID="4082"/>
+            <File Name="Wally the Wizard 9" ID="62715" SERIESID="4714"/>
+            <File Name="Avengers 262" ID="46385" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 177" ID="56461" SERIESID="4434"/>
+            <File Name="Dreadstar 21" ID="60971" SERIESID="4606"/>
+            <File Name="Eternals 3" ID="49054" SERIESID="4098"/>
+            <File Name="G.I. Joe a Real American Hero 42" ID="58880" SERIESID="4519"/>
+            <File Name="Incredible Hulk 314" ID="46558" SERIESID="3984"/>
+            <File Name="Marvel Age 33" ID="61886" SERIESID="4664"/>
+            <File Name="Marvel Tales Starring Spider-Man 182" ID="47458" SERIESID="3994"/>
+            <File Name="Moon Knight 6" ID="49383" SERIESID="4113"/>
+            <File Name="Nightcrawler 2" ID="48349" SERIESID="4059"/>
+            <File Name="Rom 73" ID="49750" SERIESID="4133"/>
+            <File Name="Thor Annual 13" ID="46753" SERIESID="3980"/>
+            <File Name="Uncanny X-Men 200" ID="48161" SERIESID="3987"/>
+            <File Name="X-Men/Alpha Flight 1" ID="49076" SERIESID="4100"/>
+            <File Name="Alien Legion 10" ID="60553" SERIESID="4593"/>
+            <File Name="Defenders 150" ID="45685" SERIESID="4006"/>
+            <File Name="Doctor Who 15" ID="64092" SERIESID="4779"/>
+            <File Name="Elfquest 5" ID="61264" SERIESID="4645"/>
+            <File Name="Fantastic Four 285" ID="48863" SERIESID="3649"/>
+            <File Name="Iron Man 201" ID="46185" SERIESID="3989"/>
+            <File Name="New Mutants Special Edition 1" ID="61384" SERIESID="4654"/>
+            <File Name="Official Marvel Index to the Amazing Spider-Man 9" ID="64258" SERIESID="4799"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 109" ID="46956" SERIESID="4032"/>
+            <File Name="Secret Wars II 6" ID="48493" SERIESID="4071"/>
+            <File Name="Star Wars 102" ID="57731" SERIESID="4470"/>
+            <File Name="Thor 362" ID="46732" SERIESID="3980"/>
+            <File Name="Transformers 11" ID="59132" SERIESID="4530"/>
+            <File Name="Cloak and Dagger 4" ID="49120" SERIESID="4106"/>
+            <File Name="Conan the King 32" ID="57817" SERIESID="4475"/>
+            <File Name="Daredevil 226" ID="49429" SERIESID="3988"/>
+            <File Name="Moonshadow 5" ID="61225" SERIESID="4638"/>
+            <File Name="New Mutants 35" ID="47841" SERIESID="4050"/>
+            <File Name="Official Handbook of the Marvel Universe 2" ID="65353" SERIESID="4878"/>
+            <File Name="Peter Porker, the Spectacular Spider-Ham 5" ID="65172" SERIESID="4847"/>
+            <File Name="Planet Terry 10" ID="61112" SERIESID="4631"/>
+            <File Name="Squadron Supreme 5" ID="49068" SERIESID="4099"/>
+            <File Name="Starstruck 5" ID="60074" SERIESID="4570"/>
+            <File Name="Swords of the Swashbucklers 4" ID="61200" SERIESID="4636"/>
+            <File Name="Thing 31" ID="49038" SERIESID="4095"/>
+            <File Name="Web of Spider-Man 10" ID="48669" SERIESID="4081"/>
+            <File Name="West Coast Avengers 4" ID="49196" SERIESID="4109"/>
         </Directory>
         <Directory Name="CMC 1985 10">
-            <File Name="Alpha Flight 30" ID="48335"/>
-            <File Name="Amazing Spider-Man 272" ID="48024"/>
-            <File Name="Captain America 313" ID="47185"/>
-            <File Name="Dazzler 41" ID="47699"/>
-            <File Name="Ewoks 5" ID="58307"/>
-            <File Name="Further Adventures of Indiana Jones 33" ID="59243"/>
-            <File Name="Longshot 5" ID="48423"/>
-            <File Name="Micronauts 16" ID="50929"/>
-            <File Name="Official Marvel Index to the Fantastic Four 2" ID="64267"/>
-            <File Name="One 3" ID="62583"/>
-            <File Name="Power Pack 18" ID="48542"/>
-            <File Name="Savage Sword of Conan 119" ID="58445"/>
-            <File Name="Sergio Aragones Groo the Wanderer 11" ID="63964"/>
-            <File Name="Vision and the Scarlet Witch 4" ID="48699"/>
-            <File Name="Wally the Wizard 10" ID="62716"/>
-            <File Name="X-Men Annual 9" ID="48179"/>
-            <File Name="Avengers 263" ID="46386"/>
-            <File Name="Balder the Brave 2" ID="62362"/>
-            <File Name="Conan the Barbarian 178" ID="56462"/>
-            <File Name="Eternals 4" ID="49055"/>
-            <File Name="G.I. Joe a Real American Hero 43" ID="58881"/>
-            <File Name="Get Along Gang 5" ID="59691"/>
-            <File Name="Howard the Duck 32" ID="61064"/>
-            <File Name="Incredible Hulk 315" ID="46559"/>
-            <File Name="Marvel Age 34" ID="61887"/>
-            <File Name="Marvel Fanfare 24" ID="65374"/>
-            <File Name="Marvel Saga the Official History of the Marvel Universe 2" ID="50519"/>
-            <File Name="Marvel Tales Starring Spider-Man 183" ID="47459"/>
-            <File Name="Muppet Babies 5" ID="60789"/>
-            <File Name="Nightcrawler 3" ID="48350"/>
-            <File Name="Power Man and Iron Fist 121" ID="48790"/>
-            <File Name="Punisher 1" ID="48624"/>
-            <File Name="Rom 74" ID="49751"/>
-            <File Name="Royal Roy 5" ID="62692"/>
-            <File Name="Solomon Kane 3" ID="61099"/>
-            <File Name="Uncanny X-Men 201" ID="48162"/>
-            <File Name="X-Men/Alpha Flight 2" ID="49077"/>
-            <File Name="Care Bears 2" ID="59322"/>
-            <File Name="Coyote 15" ID="59478"/>
-            <File Name="Defenders 151" ID="45686"/>
-            <File Name="Doctor Who 16" ID="64093"/>
-            <File Name="Elfquest 6" ID="61265"/>
-            <File Name="Epic Illustrated 33" ID="60783"/>
-            <File Name="Fantastic Four 286" ID="48864"/>
-            <File Name="Iron Man 202" ID="46186"/>
-            <File Name="Official Handbook of the Conan Universe 1" ID="65205"/>
-            <File Name="Official Marvel Index to Marvel Team-Up 1" ID="64244"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 110" ID="46957"/>
-            <File Name="Savage Tales 2" ID="62619"/>
-            <File Name="Secret Wars II 7" ID="48494"/>
-            <File Name="Sectaurs 4" ID="60094"/>
-            <File Name="Star Wars 103" ID="57732"/>
-            <File Name="Thor 363" ID="46733"/>
-            <File Name="Timespirits 7" ID="62669"/>
-            <File Name="Transformers 12" ID="59133"/>
-            <File Name="Conan Annual 10" ID="56569"/>
-            <File Name="Daredevil 227" ID="49430"/>
-            <File Name="Fraggle Rock 6" ID="62358"/>
-            <File Name="Misty 2" ID="62695"/>
-            <File Name="New Mutants 36" ID="47842"/>
-            <File Name="Official Handbook of the Marvel Universe 3" ID="65354"/>
-            <File Name="Planet Terry 11" ID="61113"/>
-            <File Name="Red Sonja 12" ID="58687"/>
-            <File Name="Robotix 1" ID="64285"/>
-            <File Name="Squadron Supreme 6" ID="49069"/>
-            <File Name="Strawberry Shortcake 6" ID="58696"/>
-            <File Name="Thing 32" ID="49039"/>
-            <File Name="Thundercats 2" ID="59698"/>
-            <File Name="Web of Spider-Man 11" ID="48670"/>
-            <File Name="West Coast Avengers 5" ID="49197"/>
-            <File Name="Alpha Flight 31" ID="48336"/>
-            <File Name="Amazing Spider-Man 273" ID="48025"/>
-            <File Name="Bozz Chronicles 1" ID="60651"/>
-            <File Name="Captain America 314" ID="47186"/>
-            <File Name="Doctor Strange 75" ID="47277"/>
-            <File Name="Heathcliff 6" ID="59346"/>
-            <File Name="Longshot 6" ID="48424"/>
-            <File Name="Micronauts 17" ID="50930"/>
-            <File Name="Official Marvel Index to the Fantastic Four 3" ID="64268"/>
-            <File Name="Power Pack 19" ID="48543"/>
-            <File Name="Savage Sword of Conan 120" ID="58446"/>
-            <File Name="Sergio Aragones Groo the Wanderer 12" ID="63965"/>
-            <File Name="Sisterhood of Steel 7" ID="61247"/>
-            <File Name="Top Dog 6" ID="62679"/>
-            <File Name="Vision and the Scarlet Witch 5" ID="48700"/>
-            <File Name="Wally the Wizard 11" ID="62717"/>
+            <File Name="Alpha Flight 30" ID="48335" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 272" ID="48024" SERIESID="3985"/>
+            <File Name="Captain America 313" ID="47185" SERIESID="3983"/>
+            <File Name="Dazzler 41" ID="47699" SERIESID="4042"/>
+            <File Name="Ewoks 5" ID="58307" SERIESID="4495"/>
+            <File Name="Further Adventures of Indiana Jones 33" ID="59243" SERIESID="4535"/>
+            <File Name="Longshot 5" ID="48423" SERIESID="4067"/>
+            <File Name="Micronauts 16" ID="50929" SERIESID="4182"/>
+            <File Name="Official Marvel Index to the Fantastic Four 2" ID="64267" SERIESID="4801"/>
+            <File Name="One 3" ID="62583" SERIESID="4700"/>
+            <File Name="Power Pack 18" ID="48542" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 119" ID="58445" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 11" ID="63964" SERIESID="4775"/>
+            <File Name="Vision and the Scarlet Witch 4" ID="48699" SERIESID="4082"/>
+            <File Name="Wally the Wizard 10" ID="62716" SERIESID="4714"/>
+            <File Name="X-Men Annual 9" ID="48179" SERIESID="3987"/>
+            <File Name="Avengers 263" ID="46386" SERIESID="3986"/>
+            <File Name="Balder the Brave 2" ID="62362" SERIESID="4693"/>
+            <File Name="Conan the Barbarian 178" ID="56462" SERIESID="4434"/>
+            <File Name="Eternals 4" ID="49055" SERIESID="4098"/>
+            <File Name="G.I. Joe a Real American Hero 43" ID="58881" SERIESID="4519"/>
+            <File Name="Get Along Gang 5" ID="59691" SERIESID="4561"/>
+            <File Name="Howard the Duck 32" ID="61064" SERIESID="4557"/>
+            <File Name="Incredible Hulk 315" ID="46559" SERIESID="3984"/>
+            <File Name="Marvel Age 34" ID="61887" SERIESID="4664"/>
+            <File Name="Marvel Fanfare 24" ID="65374" SERIESID="4075"/>
+            <File Name="Marvel Saga the Official History of the Marvel Universe 2" ID="50519" SERIESID="4150"/>
+            <File Name="Marvel Tales Starring Spider-Man 183" ID="47459" SERIESID="3994"/>
+            <File Name="Muppet Babies 5" ID="60789" SERIESID="4597"/>
+            <File Name="Nightcrawler 3" ID="48350" SERIESID="4059"/>
+            <File Name="Power Man and Iron Fist 121" ID="48790" SERIESID="4007"/>
+            <File Name="Punisher 1" ID="48624" SERIESID="4078"/>
+            <File Name="Rom 74" ID="49751" SERIESID="4133"/>
+            <File Name="Royal Roy 5" ID="62692" SERIESID="4710"/>
+            <File Name="Solomon Kane 3" ID="61099" SERIESID="4630"/>
+            <File Name="Uncanny X-Men 201" ID="48162" SERIESID="3987"/>
+            <File Name="X-Men/Alpha Flight 2" ID="49077" SERIESID="4100"/>
+            <File Name="Care Bears 2" ID="59322" SERIESID="4538"/>
+            <File Name="Coyote 15" ID="59478" SERIESID="4541"/>
+            <File Name="Defenders 151" ID="45686" SERIESID="4006"/>
+            <File Name="Doctor Who 16" ID="64093" SERIESID="4779"/>
+            <File Name="Elfquest 6" ID="61265" SERIESID="4645"/>
+            <File Name="Epic Illustrated 33" ID="60783" SERIESID="4596"/>
+            <File Name="Fantastic Four 286" ID="48864" SERIESID="3649"/>
+            <File Name="Iron Man 202" ID="46186" SERIESID="3989"/>
+            <File Name="Official Handbook of the Conan Universe 1" ID="65205" SERIESID="4852"/>
+            <File Name="Official Marvel Index to Marvel Team-Up 1" ID="64244" SERIESID="4798"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 110" ID="46957" SERIESID="4032"/>
+            <File Name="Savage Tales 2" ID="62619" SERIESID="4704"/>
+            <File Name="Secret Wars II 7" ID="48494" SERIESID="4071"/>
+            <File Name="Sectaurs 4" ID="60094" SERIESID="4573"/>
+            <File Name="Star Wars 103" ID="57732" SERIESID="4470"/>
+            <File Name="Thor 363" ID="46733" SERIESID="3980"/>
+            <File Name="Timespirits 7" ID="62669" SERIESID="4707"/>
+            <File Name="Transformers 12" ID="59133" SERIESID="4530"/>
+            <File Name="Conan Annual 10" ID="56569" SERIESID="4434"/>
+            <File Name="Daredevil 227" ID="49430" SERIESID="3988"/>
+            <File Name="Fraggle Rock 6" ID="62358" SERIESID="4692"/>
+            <File Name="Misty 2" ID="62695" SERIESID="4711"/>
+            <File Name="New Mutants 36" ID="47842" SERIESID="4050"/>
+            <File Name="Official Handbook of the Marvel Universe 3" ID="65354" SERIESID="4878"/>
+            <File Name="Planet Terry 11" ID="61113" SERIESID="4631"/>
+            <File Name="Red Sonja 12" ID="58687" SERIESID="4501"/>
+            <File Name="Robotix 1" ID="64285" SERIESID="4803"/>
+            <File Name="Squadron Supreme 6" ID="49069" SERIESID="4099"/>
+            <File Name="Strawberry Shortcake 6" ID="58696" SERIESID="4503"/>
+            <File Name="Thing 32" ID="49039" SERIESID="4095"/>
+            <File Name="Thundercats 2" ID="59698" SERIESID="4563"/>
+            <File Name="Web of Spider-Man 11" ID="48670" SERIESID="4081"/>
+            <File Name="West Coast Avengers 5" ID="49197" SERIESID="4109"/>
+            <File Name="Alpha Flight 31" ID="48336" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 273" ID="48025" SERIESID="3985"/>
+            <File Name="Bozz Chronicles 1" ID="60651" SERIESID="4594"/>
+            <File Name="Captain America 314" ID="47186" SERIESID="3983"/>
+            <File Name="Doctor Strange 75" ID="47277" SERIESID="4035"/>
+            <File Name="Heathcliff 6" ID="59346" SERIESID="4539"/>
+            <File Name="Longshot 6" ID="48424" SERIESID="4067"/>
+            <File Name="Micronauts 17" ID="50930" SERIESID="4182"/>
+            <File Name="Official Marvel Index to the Fantastic Four 3" ID="64268" SERIESID="4801"/>
+            <File Name="Power Pack 19" ID="48543" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 120" ID="58446" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 12" ID="63965" SERIESID="4775"/>
+            <File Name="Sisterhood of Steel 7" ID="61247" SERIESID="4641"/>
+            <File Name="Top Dog 6" ID="62679" SERIESID="4709"/>
+            <File Name="Vision and the Scarlet Witch 5" ID="48700" SERIESID="4082"/>
+            <File Name="Wally the Wizard 11" ID="62717" SERIESID="4714"/>
         </Directory>
         <Directory Name="CMC 1985 11">
-            <File Name="Avengers 264" ID="46387"/>
-            <File Name="Conan the Barbarian 179" ID="56463"/>
-            <File Name="Dreadstar 22" ID="60972"/>
-            <File Name="Eternals 5" ID="49056"/>
-            <File Name="G.I. Joe a Real American Hero 44" ID="58882"/>
-            <File Name="Incredible Hulk 316" ID="46560"/>
-            <File Name="Marvel Age 35" ID="61888"/>
-            <File Name="Marvel Saga the Official History of the Marvel Universe 3" ID="50520"/>
-            <File Name="Marvel Tales Starring Spider-Man 184" ID="47460"/>
-            <File Name="Nightcrawler 4" ID="48351"/>
-            <File Name="Punisher 2" ID="48625"/>
-            <File Name="Rom 75" ID="49752"/>
-            <File Name="Uncanny X-Men 202" ID="48163"/>
-            <File Name="Alien Legion 11" ID="60554"/>
-            <File Name="Defenders 152" ID="45687"/>
-            <File Name="Doctor Who 17" ID="64094"/>
-            <File Name="Elfquest 7" ID="61266"/>
-            <File Name="Fantastic Four 287" ID="48865"/>
-            <File Name="Iron Man 203" ID="46187"/>
-            <File Name="Official Marvel Index to Marvel Team-Up 2" ID="64245"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 111" ID="46958"/>
-            <File Name="Secret Wars II 8" ID="48495"/>
-            <File Name="Six from Sirius 2 1" ID="61237"/>
-            <File Name="Thor 364" ID="46734"/>
-            <File Name="Transformers 13" ID="59134"/>
-            <File Name="X-Factor 1" ID="48425"/>
-            <File Name="Cloak and Dagger 5" ID="49121"/>
-            <File Name="Conan the King 33" ID="57818"/>
-            <File Name="Daredevil 228" ID="49431"/>
-            <File Name="Marvel Super Special 39" ID="60855"/>
-            <File Name="Moonshadow 6" ID="61226"/>
-            <File Name="New Mutants 37" ID="47843"/>
-            <File Name="Official Handbook of the Marvel Universe 4" ID="65355"/>
-            <File Name="Peter Porker, the Spectacular Spider-Ham 6" ID="65173"/>
-            <File Name="Planet Terry 12" ID="61114"/>
-            <File Name="Squadron Supreme 7" ID="49070"/>
-            <File Name="Starstruck 6" ID="60075"/>
-            <File Name="Swords of the Swashbucklers 5" ID="61201"/>
-            <File Name="Thing 33" ID="49040"/>
-            <File Name="Web of Spider-Man 12" ID="48671"/>
-            <File Name="West Coast Avengers 6" ID="49198"/>
+            <File Name="Avengers 264" ID="46387" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 179" ID="56463" SERIESID="4434"/>
+            <File Name="Dreadstar 22" ID="60972" SERIESID="4606"/>
+            <File Name="Eternals 5" ID="49056" SERIESID="4098"/>
+            <File Name="G.I. Joe a Real American Hero 44" ID="58882" SERIESID="4519"/>
+            <File Name="Incredible Hulk 316" ID="46560" SERIESID="3984"/>
+            <File Name="Marvel Age 35" ID="61888" SERIESID="4664"/>
+            <File Name="Marvel Saga the Official History of the Marvel Universe 3" ID="50520" SERIESID="4150"/>
+            <File Name="Marvel Tales Starring Spider-Man 184" ID="47460" SERIESID="3994"/>
+            <File Name="Nightcrawler 4" ID="48351" SERIESID="4059"/>
+            <File Name="Punisher 2" ID="48625" SERIESID="4078"/>
+            <File Name="Rom 75" ID="49752" SERIESID="4133"/>
+            <File Name="Uncanny X-Men 202" ID="48163" SERIESID="3987"/>
+            <File Name="Alien Legion 11" ID="60554" SERIESID="4593"/>
+            <File Name="Defenders 152" ID="45687" SERIESID="4006"/>
+            <File Name="Doctor Who 17" ID="64094" SERIESID="4779"/>
+            <File Name="Elfquest 7" ID="61266" SERIESID="4645"/>
+            <File Name="Fantastic Four 287" ID="48865" SERIESID="3649"/>
+            <File Name="Iron Man 203" ID="46187" SERIESID="3989"/>
+            <File Name="Official Marvel Index to Marvel Team-Up 2" ID="64245" SERIESID="4798"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 111" ID="46958" SERIESID="4032"/>
+            <File Name="Secret Wars II 8" ID="48495" SERIESID="4071"/>
+            <File Name="Six from Sirius 2 1" ID="61237" SERIESID="4640"/>
+            <File Name="Thor 364" ID="46734" SERIESID="3980"/>
+            <File Name="Transformers 13" ID="59134" SERIESID="4530"/>
+            <File Name="X-Factor 1" ID="48425" SERIESID="4068"/>
+            <File Name="Cloak and Dagger 5" ID="49121" SERIESID="4106"/>
+            <File Name="Conan the King 33" ID="57818" SERIESID="4475"/>
+            <File Name="Daredevil 228" ID="49431" SERIESID="3988"/>
+            <File Name="Marvel Super Special 39" ID="60855" SERIESID="4600"/>
+            <File Name="Moonshadow 6" ID="61226" SERIESID="4638"/>
+            <File Name="New Mutants 37" ID="47843" SERIESID="4050"/>
+            <File Name="Official Handbook of the Marvel Universe 4" ID="65355" SERIESID="4878"/>
+            <File Name="Peter Porker, the Spectacular Spider-Ham 6" ID="65173" SERIESID="4847"/>
+            <File Name="Planet Terry 12" ID="61114" SERIESID="4631"/>
+            <File Name="Squadron Supreme 7" ID="49070" SERIESID="4099"/>
+            <File Name="Starstruck 6" ID="60075" SERIESID="4570"/>
+            <File Name="Swords of the Swashbucklers 5" ID="61201" SERIESID="4636"/>
+            <File Name="Thing 33" ID="49040" SERIESID="4095"/>
+            <File Name="Web of Spider-Man 12" ID="48671" SERIESID="4081"/>
+            <File Name="West Coast Avengers 6" ID="49198" SERIESID="4109"/>
         </Directory>
         <Directory Name="CMC 1985 12">
-            <File Name="Alpha Flight 32" ID="48337"/>
-            <File Name="Amazing Spider-Man 274" ID="48026"/>
-            <File Name="Captain America 315" ID="47187"/>
-            <File Name="Dazzler 42" ID="47700"/>
-            <File Name="Ewoks 6" ID="58308"/>
-            <File Name="Firestar 1" ID="48711"/>
-            <File Name="Further Adventures of Indiana Jones 34" ID="59244"/>
-            <File Name="Micronauts 18" ID="50931"/>
-            <File Name="Official Marvel Index to the Fantastic Four 4" ID="64269"/>
-            <File Name="One 4" ID="62584"/>
-            <File Name="Power Pack 20" ID="48544"/>
-            <File Name="Savage Sword of Conan 121" ID="58447"/>
-            <File Name="Sergio Aragones Groo the Wanderer 13" ID="63966"/>
-            <File Name="Vision and the Scarlet Witch 6" ID="48701"/>
-            <File Name="Wally the Wizard 12" ID="62718"/>
-            <File Name="Wonder Man 1" ID="49085"/>
-            <File Name="Avengers 265" ID="46388"/>
-            <File Name="Balder the Brave 3" ID="62363"/>
-            <File Name="Conan the Barbarian 180" ID="56464"/>
-            <File Name="Eternals 6" ID="49057"/>
-            <File Name="G.I. Joe a Real American Hero 45" ID="58883"/>
-            <File Name="Get Along Gang 6" ID="59692"/>
-            <File Name="Incredible Hulk 317" ID="46561"/>
-            <File Name="Marvel Age 36" ID="61889"/>
-            <File Name="Marvel Fanfare 25" ID="65375"/>
-            <File Name="Marvel Saga the Official History of the Marvel Universe 4" ID="50521"/>
-            <File Name="Marvel Tales Starring Spider-Man 185" ID="47461"/>
-            <File Name="Muppet Babies 6" ID="60790"/>
-            <File Name="Power Man and Iron Fist 122" ID="48791"/>
-            <File Name="Punisher 3" ID="48626"/>
-            <File Name="Royal Roy 6" ID="62693"/>
-            <File Name="Solomon Kane 4" ID="61100"/>
-            <File Name="Uncanny X-Men 203" ID="48164"/>
-            <File Name="Care Bears 3" ID="59323"/>
-            <File Name="Coyote 16" ID="59479"/>
-            <File Name="Doctor Who 18" ID="64095"/>
-            <File Name="Elfquest 8" ID="61267"/>
-            <File Name="Epic Illustrated 34" ID="60784"/>
-            <File Name="Fantastic Four 288" ID="48866"/>
-            <File Name="G.I. Joe a Real American Hero Yearbook 2" ID="58995"/>
-            <File Name="Iron Man 204" ID="46188"/>
-            <File Name="Peter Parker, the Spectacular Spider-Man 112" ID="46959"/>
-            <File Name="Savage Tales 3" ID="62620"/>
-            <File Name="Secret Wars II 9" ID="48496"/>
-            <File Name="Sectaurs 5" ID="60095"/>
-            <File Name="Six from Sirius 2 2" ID="61238"/>
-            <File Name="Star Wars 104" ID="57733"/>
-            <File Name="Thor 365" ID="46735"/>
-            <File Name="Timespirits 8" ID="62670"/>
-            <File Name="Transformers 14" ID="59135"/>
-            <File Name="X-Factor 2" ID="48426"/>
-            <File Name="Daredevil 229" ID="49432"/>
-            <File Name="Misty 3" ID="62696"/>
-            <File Name="New Mutants 38" ID="47844"/>
-            <File Name="Squadron Supreme 8" ID="49071"/>
-            <File Name="Thing 34" ID="49041"/>
-            <File Name="Thundercats 3" ID="59699"/>
-            <File Name="Web of Spider-Man 13" ID="48672"/>
-            <File Name="West Coast Avengers 7" ID="49199"/>
-            <File Name="Alpha Flight 33" ID="48338"/>
-            <File Name="Amazing Spider-Man 275" ID="48027"/>
-            <File Name="Bozz Chronicles 2" ID="60652"/>
-            <File Name="Captain America 316" ID="47188"/>
-            <File Name="Doctor Strange 76" ID="47278"/>
-            <File Name="Firestar 2" ID="48712"/>
-            <File Name="Heathcliff 7" ID="59347"/>
-            <File Name="Micronauts 19" ID="50932"/>
-            <File Name="Official Handbook of the Marvel Universe 5" ID="65356"/>
-            <File Name="Official Marvel Index to the Fantastic Four 5" ID="64270"/>
-            <File Name="Power Pack 21" ID="48545"/>
-            <File Name="Savage Sword of Conan 122" ID="58448"/>
-            <File Name="Sergio Aragones Groo the Wanderer 14" ID="63967"/>
-            <File Name="Sisterhood of Steel 8" ID="61248"/>
-            <File Name="Vision and the Scarlet Witch 7" ID="48702"/>
+            <File Name="Alpha Flight 32" ID="48337" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 274" ID="48026" SERIESID="3985"/>
+            <File Name="Captain America 315" ID="47187" SERIESID="3983"/>
+            <File Name="Dazzler 42" ID="47700" SERIESID="4042"/>
+            <File Name="Ewoks 6" ID="58308" SERIESID="4495"/>
+            <File Name="Firestar 1" ID="48711" SERIESID="4085"/>
+            <File Name="Further Adventures of Indiana Jones 34" ID="59244" SERIESID="4535"/>
+            <File Name="Micronauts 18" ID="50931" SERIESID="4182"/>
+            <File Name="Official Marvel Index to the Fantastic Four 4" ID="64269" SERIESID="4801"/>
+            <File Name="One 4" ID="62584" SERIESID="4700"/>
+            <File Name="Power Pack 20" ID="48544" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 121" ID="58447" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 13" ID="63966" SERIESID="4775"/>
+            <File Name="Vision and the Scarlet Witch 6" ID="48701" SERIESID="4082"/>
+            <File Name="Wally the Wizard 12" ID="62718" SERIESID="4714"/>
+            <File Name="Wonder Man 1" ID="49085" SERIESID="4104"/>
+            <File Name="Avengers 265" ID="46388" SERIESID="3986"/>
+            <File Name="Balder the Brave 3" ID="62363" SERIESID="4693"/>
+            <File Name="Conan the Barbarian 180" ID="56464" SERIESID="4434"/>
+            <File Name="Eternals 6" ID="49057" SERIESID="4098"/>
+            <File Name="G.I. Joe a Real American Hero 45" ID="58883" SERIESID="4519"/>
+            <File Name="Get Along Gang 6" ID="59692" SERIESID="4561"/>
+            <File Name="Incredible Hulk 317" ID="46561" SERIESID="3984"/>
+            <File Name="Marvel Age 36" ID="61889" SERIESID="4664"/>
+            <File Name="Marvel Fanfare 25" ID="65375" SERIESID="4075"/>
+            <File Name="Marvel Saga the Official History of the Marvel Universe 4" ID="50521" SERIESID="4150"/>
+            <File Name="Marvel Tales Starring Spider-Man 185" ID="47461" SERIESID="3994"/>
+            <File Name="Muppet Babies 6" ID="60790" SERIESID="4597"/>
+            <File Name="Power Man and Iron Fist 122" ID="48791" SERIESID="4007"/>
+            <File Name="Punisher 3" ID="48626" SERIESID="4078"/>
+            <File Name="Royal Roy 6" ID="62693" SERIESID="4710"/>
+            <File Name="Solomon Kane 4" ID="61100" SERIESID="4630"/>
+            <File Name="Uncanny X-Men 203" ID="48164" SERIESID="3987"/>
+            <File Name="Care Bears 3" ID="59323" SERIESID="4538"/>
+            <File Name="Coyote 16" ID="59479" SERIESID="4541"/>
+            <File Name="Doctor Who 18" ID="64095" SERIESID="4779"/>
+            <File Name="Elfquest 8" ID="61267" SERIESID="4645"/>
+            <File Name="Epic Illustrated 34" ID="60784" SERIESID="4596"/>
+            <File Name="Fantastic Four 288" ID="48866" SERIESID="3649"/>
+            <File Name="G.I. Joe a Real American Hero Yearbook 2" ID="58995" SERIESID="4519"/>
+            <File Name="Iron Man 204" ID="46188" SERIESID="3989"/>
+            <File Name="Peter Parker, the Spectacular Spider-Man 112" ID="46959" SERIESID="4032"/>
+            <File Name="Savage Tales 3" ID="62620" SERIESID="4704"/>
+            <File Name="Secret Wars II 9" ID="48496" SERIESID="4071"/>
+            <File Name="Sectaurs 5" ID="60095" SERIESID="4573"/>
+            <File Name="Six from Sirius 2 2" ID="61238" SERIESID="4640"/>
+            <File Name="Star Wars 104" ID="57733" SERIESID="4470"/>
+            <File Name="Thor 365" ID="46735" SERIESID="3980"/>
+            <File Name="Timespirits 8" ID="62670" SERIESID="4707"/>
+            <File Name="Transformers 14" ID="59135" SERIESID="4530"/>
+            <File Name="X-Factor 2" ID="48426" SERIESID="4068"/>
+            <File Name="Daredevil 229" ID="49432" SERIESID="3988"/>
+            <File Name="Misty 3" ID="62696" SERIESID="4711"/>
+            <File Name="New Mutants 38" ID="47844" SERIESID="4050"/>
+            <File Name="Squadron Supreme 8" ID="49071" SERIESID="4099"/>
+            <File Name="Thing 34" ID="49041" SERIESID="4095"/>
+            <File Name="Thundercats 3" ID="59699" SERIESID="4563"/>
+            <File Name="Web of Spider-Man 13" ID="48672" SERIESID="4081"/>
+            <File Name="West Coast Avengers 7" ID="49199" SERIESID="4109"/>
+            <File Name="Alpha Flight 33" ID="48338" SERIESID="4058"/>
+            <File Name="Amazing Spider-Man 275" ID="48027" SERIESID="3985"/>
+            <File Name="Bozz Chronicles 2" ID="60652" SERIESID="4594"/>
+            <File Name="Captain America 316" ID="47188" SERIESID="3983"/>
+            <File Name="Doctor Strange 76" ID="47278" SERIESID="4035"/>
+            <File Name="Firestar 2" ID="48712" SERIESID="4085"/>
+            <File Name="Heathcliff 7" ID="59347" SERIESID="4539"/>
+            <File Name="Micronauts 19" ID="50932" SERIESID="4182"/>
+            <File Name="Official Handbook of the Marvel Universe 5" ID="65356" SERIESID="4878"/>
+            <File Name="Official Marvel Index to the Fantastic Four 5" ID="64270" SERIESID="4801"/>
+            <File Name="Power Pack 21" ID="48545" SERIESID="4074"/>
+            <File Name="Savage Sword of Conan 122" ID="58448" SERIESID="4497"/>
+            <File Name="Sergio Aragones Groo the Wanderer 14" ID="63967" SERIESID="4775"/>
+            <File Name="Sisterhood of Steel 8" ID="61248" SERIESID="4641"/>
+            <File Name="Vision and the Scarlet Witch 7" ID="48702" SERIESID="4082"/>
         </Directory>
     </Year>

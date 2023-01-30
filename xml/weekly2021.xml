@@ -2,813 +2,813 @@
 <!DOCTYPE xml>
     <Year Name="CMC 2021">
         <Directory Name="CMC 2021 01">
-            <File Name="Amazing Spider-Man 56" ID="238256"/>
-            <File Name="Captain America (Facsimile Edition) 117" ID="241195"/>
-            <File Name="Eternals 1" ID="247247"/>
-            <File Name="Eternals:Never Die, Never Win 1" ID="247307"/>
-            <File Name="Guardians of the Galaxy 10" ID="237840"/>
-            <File Name="Hellions 8" ID="239091"/>
-            <File Name="Iron Man 5" ID="242187"/>
-            <File Name="Juggernaut 5" ID="240981"/>
-            <File Name="King in Black:Return of the Valkyries 1" ID="242934"/>
-            <File Name="M.O.D.O.K.:Head Games 2" ID="243012"/>
-            <File Name="Marvel Action Avengers 3" ID="241035"/>
-            <File Name="Marvel Tales:Symbiote Spider-Man 1" ID="243947"/>
-            <File Name="Miles Morales:Spider-Man 22" ID="243815"/>
-            <File Name="Rise of Ultraman 5" ID="242244"/>
-            <File Name="Spider-Woman 8" ID="241181"/>
-            <File Name="Star Wars 10" ID="238029"/>
-            <File Name="Star Wars:The High Republic 1" ID="243869"/>
-            <File Name="Symbiote Spider-Man:King in Black 3" ID="242260"/>
-            <File Name="Thor 11" ID="237698"/>
-            <File Name="Venom 32" ID="239508"/>
-            <File Name="X-Factor 6" ID="241299"/>
-            <File Name="Amazing Spider-Man 57" ID="238262"/>
-            <File Name="Captain America (Facsimile Edition) 354" ID="241196"/>
-            <File Name="Chris Claremont Anniversary Special 1" ID="242747"/>
-            <File Name="Immortal Hulk 42" ID="237936"/>
-            <File Name="King in Black:Gwenom Vs. Carnage 1" ID="243743"/>
-            <File Name="King in Black:Planet of the Symbiotes 1" ID="242911"/>
-            <File Name="King in Black:Thunderbolts 1" ID="242958"/>
-            <File Name="Marauders 17" ID="235484"/>
-            <File Name="S.W.O.R.D. 2" ID="243806"/>
-            <File Name="Star Wars:Darth Vader 9" ID="241023"/>
-            <File Name="Union 2" ID="242296"/>
-            <File Name="Avengers 41" ID="240396"/>
-            <File Name="Black Cat 2" ID="242872"/>
-            <File Name="Cable 7" ID="239237"/>
-            <File Name="Iron Fist:Heart of the Dragon 1" ID="243575"/>
-            <File Name="King in Black 3" ID="245859"/>
-            <File Name="Maestro:War &amp; Pax 1" ID="242968"/>
-            <File Name="Star Wars:Doctor Aphra 7" ID="240360"/>
-            <File Name="X-Force 16" ID="235748"/>
-            <File Name="Amazing Spider-Man 58" ID="238265"/>
-            <File Name="Captain Marvel 25" ID="242845"/>
-            <File Name="Conan the Barbarian 18" ID="243594"/>
-            <File Name="Daredevil 26" ID="243561"/>
-            <File Name="Deadpool 10" ID="237024"/>
-            <File Name="Excalibur 17" ID="234603"/>
-            <File Name="Fantastic Four 28" ID="242988"/>
-            <File Name="King in Black:Namor 3" ID="242906"/>
-            <File Name="Marvel 4" ID="240989"/>
-            <File Name="New Mutants 15" ID="235598"/>
-            <File Name="Savage Avengers 17" ID="228704"/>
-            <File Name="Shang-Chi 5" ID="242004"/>
-            <File Name="Star Wars:Bounty Hunters 9" ID="239132"/>
-            <File Name="Strange Academy 7" ID="241357"/>
-            <File Name="Werewolf by Night 4" ID="241243"/>
-            <File Name="Wolverine 9" ID="240607"/>
-            <File Name="X-Men 17" ID="234539"/>
+            <File Name="Amazing Spider-Man 56" ID="238256" SERIESID="22403"/>
+            <File Name="Captain America (Facsimile Edition) 117" ID="241195" SERIESID="22831"/>
+            <File Name="Eternals 1" ID="247247" SERIESID="25311"/>
+            <File Name="Eternals:Never Die, Never Win 1" ID="247307" SERIESID="25312"/>
+            <File Name="Guardians of the Galaxy 10" ID="237840" SERIESID="24276"/>
+            <File Name="Hellions 8" ID="239091" SERIESID="24391"/>
+            <File Name="Iron Man 5" ID="242187" SERIESID="24810"/>
+            <File Name="Juggernaut 5" ID="240981" SERIESID="24685"/>
+            <File Name="King in Black:Return of the Valkyries 1" ID="242934" SERIESID="24954"/>
+            <File Name="M.O.D.O.K.:Head Games 2" ID="243012" SERIESID="24959"/>
+            <File Name="Marvel Action Avengers 3" ID="241035" SERIESID="24696"/>
+            <File Name="Marvel Tales:Symbiote Spider-Man 1" ID="243947" SERIESID="23423"/>
+            <File Name="Miles Morales:Spider-Man 22" ID="243815" SERIESID="22817"/>
+            <File Name="Rise of Ultraman 5" ID="242244" SERIESID="24827"/>
+            <File Name="Spider-Woman 8" ID="241181" SERIESID="24693"/>
+            <File Name="Star Wars 10" ID="238029" SERIESID="24280"/>
+            <File Name="Star Wars:The High Republic 1" ID="243869" SERIESID="25017"/>
+            <File Name="Symbiote Spider-Man:King in Black 3" ID="242260" SERIESID="24828"/>
+            <File Name="Thor 11" ID="237698" SERIESID="24213"/>
+            <File Name="Venom 32" ID="239508" SERIESID="22075"/>
+            <File Name="X-Factor 6" ID="241299" SERIESID="24694"/>
+            <File Name="Amazing Spider-Man 57" ID="238262" SERIESID="22403"/>
+            <File Name="Captain America (Facsimile Edition) 354" ID="241196" SERIESID="22831"/>
+            <File Name="Chris Claremont Anniversary Special 1" ID="242747" SERIESID="24913"/>
+            <File Name="Immortal Hulk 42" ID="237936" SERIESID="22135"/>
+            <File Name="King in Black:Gwenom Vs. Carnage 1" ID="243743" SERIESID="25007"/>
+            <File Name="King in Black:Planet of the Symbiotes 1" ID="242911" SERIESID="24949"/>
+            <File Name="King in Black:Thunderbolts 1" ID="242958" SERIESID="24955"/>
+            <File Name="Marauders 17" ID="235484" SERIESID="23869"/>
+            <File Name="S.W.O.R.D. 2" ID="243806" SERIESID="25015"/>
+            <File Name="Star Wars:Darth Vader 9" ID="241023" SERIESID="24695"/>
+            <File Name="Union 2" ID="242296" SERIESID="24812"/>
+            <File Name="Avengers 41" ID="240396" SERIESID="22001"/>
+            <File Name="Black Cat 2" ID="242872" SERIESID="24958"/>
+            <File Name="Cable 7" ID="239237" SERIESID="24392"/>
+            <File Name="Iron Fist:Heart of the Dragon 1" ID="243575" SERIESID="25016"/>
+            <File Name="King in Black 3" ID="245859" SERIESID="25249"/>
+            <File Name="Maestro:War &amp; Pax 1" ID="242968" SERIESID="24957"/>
+            <File Name="Star Wars:Doctor Aphra 7" ID="240360" SERIESID="24624"/>
+            <File Name="X-Force 16" ID="235748" SERIESID="23876"/>
+            <File Name="Amazing Spider-Man 58" ID="238265" SERIESID="22403"/>
+            <File Name="Captain Marvel 25" ID="242845" SERIESID="22959"/>
+            <File Name="Conan the Barbarian 18" ID="243594" SERIESID="22823"/>
+            <File Name="Daredevil 26" ID="243561" SERIESID="22829"/>
+            <File Name="Deadpool 10" ID="237024" SERIESID="24212"/>
+            <File Name="Excalibur 17" ID="234603" SERIESID="23696"/>
+            <File Name="Fantastic Four 28" ID="242988" SERIESID="22545"/>
+            <File Name="King in Black:Namor 3" ID="242906" SERIESID="24948"/>
+            <File Name="Marvel 4" ID="240989" SERIESID="24686"/>
+            <File Name="New Mutants 15" ID="235598" SERIESID="23868"/>
+            <File Name="Savage Avengers 17" ID="228704" SERIESID="23091"/>
+            <File Name="Shang-Chi 5" ID="242004" SERIESID="24808"/>
+            <File Name="Star Wars:Bounty Hunters 9" ID="239132" SERIESID="24393"/>
+            <File Name="Strange Academy 7" ID="241357" SERIESID="24697"/>
+            <File Name="Werewolf by Night 4" ID="241243" SERIESID="24689"/>
+            <File Name="Wolverine 9" ID="240607" SERIESID="24628"/>
+            <File Name="X-Men 17" ID="234539" SERIESID="23687"/>
         </Directory>
         <Directory Name="CMC 2021 02">
-            <File Name="Amazing Spider-Man (Facsimile Edition) 101" ID="241197"/>
-            <File Name="Avengers 42" ID="240400"/>
-            <File Name="Avengers:Mech Strike 1" ID="243541"/>
-            <File Name="Hellions 9" ID="239094"/>
-            <File Name="Immortal Hulk 43" ID="237939"/>
-            <File Name="King in Black:Black Knight 1" ID="242925"/>
-            <File Name="King in Black:Gwenom Vs. Carnage 2" ID="243761"/>
-            <File Name="King in Black:Marauders 1" ID="243791"/>
-            <File Name="King in Black:Return of the Valkyries 2" ID="242949"/>
-            <File Name="Legend of Shang-Chi 1" ID="242754"/>
-            <File Name="Marvel Action Chillers 4" ID="242054"/>
-            <File Name="Marvel Action:Origins 1" ID="248039"/>
-            <File Name="Runaways 33" ID="243004"/>
-            <File Name="Star Wars 11" ID="238033"/>
-            <File Name="Star Wars:The High Republic 2" ID="243886"/>
-            <File Name="Strange Academy 8" ID="241362"/>
-            <File Name="Venom 33" ID="239512"/>
-            <File Name="Warhammer 40,000:Marneus Calgar 4" ID="243736"/>
-            <File Name="X-Factor 7" ID="241300"/>
-            <File Name="Amazing Spider-Man 59" ID="238270"/>
-            <File Name="Daredevil 27" ID="243565"/>
-            <File Name="Eternals 2" ID="247290"/>
-            <File Name="Excalibur 18" ID="234604"/>
-            <File Name="Fantastic Four 29" ID="242990"/>
-            <File Name="King in Black:Black Panther 1" ID="243782"/>
-            <File Name="King in Black:Thunderbolts 2" ID="242961"/>
-            <File Name="Morbius:Bond of Blood 1" ID="243614"/>
-            <File Name="Power Pack 3" ID="241110"/>
-            <File Name="S.W.O.R.D. 3" ID="243809"/>
-            <File Name="Star Wars:Darth Vader 10" ID="241027"/>
-            <File Name="Taskmaster 3" ID="241225"/>
-            <File Name="Wolverine:Black, White &amp; Blood 3" ID="242352"/>
-            <File Name="X-Force 17" ID="235750"/>
-            <File Name="Black Knight (Facsimile Edition) 1" ID="241194"/>
-            <File Name="Black Widow 5" ID="240912"/>
-            <File Name="Cable 8" ID="239238"/>
-            <File Name="Captain America 27" ID="239209"/>
-            <File Name="Champions 4" ID="240874"/>
-            <File Name="Guardians of the Galaxy 11" ID="237842"/>
-            <File Name="Immortal Hulk:Flatline 1" ID="242785"/>
-            <File Name="Iron Fist:Heart of the Dragon 2" ID="243583"/>
-            <File Name="Iron Man 6" ID="242191"/>
-            <File Name="King in Black 4" ID="245871"/>
-            <File Name="King in Black:Planet of the Symbiotes 2" ID="242921"/>
-            <File Name="M.O.D.O.K.:Head Games 3" ID="243014"/>
-            <File Name="Marauders 18" ID="235486"/>
-            <File Name="Marvel 5" ID="240991"/>
-            <File Name="Miles Morales:Spider-Man 23" ID="243817"/>
-            <File Name="Savage Avengers 18" ID="245612"/>
-            <File Name="Spider-Woman 9" ID="241184"/>
-            <File Name="Thor 12" ID="237708"/>
-            <File Name="X-Men:Legends 1" ID="247308"/>
-            <File Name="Amazing Spider-Man 60" ID="238276"/>
-            <File Name="Black Cat 3" ID="242878"/>
-            <File Name="Black Panther 23" ID="242056"/>
-            <File Name="Captain Marvel 26" ID="242848"/>
-            <File Name="Captain Marvel:Marvels Snapshots 1" ID="240440"/>
-            <File Name="King in Black:Namor 4" ID="242908"/>
-            <File Name="King in Black:Return of the Valkyries 3" ID="242951"/>
-            <File Name="Maestro:War &amp; Pax 2" ID="242975"/>
-            <File Name="Magnificent Ms. Marvel 18" ID="245620"/>
-            <File Name="Marvel&apos;s Voices:Legacy 1" ID="242321"/>
-            <File Name="New Mutants 16" ID="235599"/>
-            <File Name="Symbiote Spider-Man:King in Black 4" ID="242262"/>
-            <File Name="U.S.Agent 3" ID="242334"/>
-            <File Name="Union 3" ID="242299"/>
-            <File Name="Warhammer 40,000:Marneus Calgar 5" ID="243739"/>
-            <File Name="Wolverine 10" ID="240612"/>
-            <File Name="X-Men 18" ID="234541"/>
+            <File Name="Amazing Spider-Man (Facsimile Edition) 101" ID="241197" SERIESID="22831"/>
+            <File Name="Avengers 42" ID="240400" SERIESID="22001"/>
+            <File Name="Avengers:Mech Strike 1" ID="243541" SERIESID="25006"/>
+            <File Name="Hellions 9" ID="239094" SERIESID="24391"/>
+            <File Name="Immortal Hulk 43" ID="237939" SERIESID="22135"/>
+            <File Name="King in Black:Black Knight 1" ID="242925" SERIESID="24951"/>
+            <File Name="King in Black:Gwenom Vs. Carnage 2" ID="243761" SERIESID="25007"/>
+            <File Name="King in Black:Marauders 1" ID="243791" SERIESID="25011"/>
+            <File Name="King in Black:Return of the Valkyries 2" ID="242949" SERIESID="24954"/>
+            <File Name="Legend of Shang-Chi 1" ID="242754" SERIESID="24915"/>
+            <File Name="Marvel Action Chillers 4" ID="242054" SERIESID="24826"/>
+            <File Name="Marvel Action:Origins 1" ID="248039" SERIESID="25443"/>
+            <File Name="Runaways 33" ID="243004" SERIESID="21246"/>
+            <File Name="Star Wars 11" ID="238033" SERIESID="24280"/>
+            <File Name="Star Wars:The High Republic 2" ID="243886" SERIESID="25017"/>
+            <File Name="Strange Academy 8" ID="241362" SERIESID="24697"/>
+            <File Name="Venom 33" ID="239512" SERIESID="22075"/>
+            <File Name="Warhammer 40,000:Marneus Calgar 4" ID="243736" SERIESID="25004"/>
+            <File Name="X-Factor 7" ID="241300" SERIESID="24694"/>
+            <File Name="Amazing Spider-Man 59" ID="238270" SERIESID="22403"/>
+            <File Name="Daredevil 27" ID="243565" SERIESID="22829"/>
+            <File Name="Eternals 2" ID="247290" SERIESID="25311"/>
+            <File Name="Excalibur 18" ID="234604" SERIESID="23696"/>
+            <File Name="Fantastic Four 29" ID="242990" SERIESID="22545"/>
+            <File Name="King in Black:Black Panther 1" ID="243782" SERIESID="25008"/>
+            <File Name="King in Black:Thunderbolts 2" ID="242961" SERIESID="24955"/>
+            <File Name="Morbius:Bond of Blood 1" ID="243614" SERIESID="25019"/>
+            <File Name="Power Pack 3" ID="241110" SERIESID="24687"/>
+            <File Name="S.W.O.R.D. 3" ID="243809" SERIESID="25015"/>
+            <File Name="Star Wars:Darth Vader 10" ID="241027" SERIESID="24695"/>
+            <File Name="Taskmaster 3" ID="241225" SERIESID="24688"/>
+            <File Name="Wolverine:Black, White &amp; Blood 3" ID="242352" SERIESID="24829"/>
+            <File Name="X-Force 17" ID="235750" SERIESID="23876"/>
+            <File Name="Black Knight (Facsimile Edition) 1" ID="241194" SERIESID="22831"/>
+            <File Name="Black Widow 5" ID="240912" SERIESID="24692"/>
+            <File Name="Cable 8" ID="239238" SERIESID="24392"/>
+            <File Name="Captain America 27" ID="239209" SERIESID="22149"/>
+            <File Name="Champions 4" ID="240874" SERIESID="24690"/>
+            <File Name="Guardians of the Galaxy 11" ID="237842" SERIESID="24276"/>
+            <File Name="Immortal Hulk:Flatline 1" ID="242785" SERIESID="24919"/>
+            <File Name="Iron Fist:Heart of the Dragon 2" ID="243583" SERIESID="25016"/>
+            <File Name="Iron Man 6" ID="242191" SERIESID="24810"/>
+            <File Name="King in Black 4" ID="245871" SERIESID="25249"/>
+            <File Name="King in Black:Planet of the Symbiotes 2" ID="242921" SERIESID="24949"/>
+            <File Name="M.O.D.O.K.:Head Games 3" ID="243014" SERIESID="24959"/>
+            <File Name="Marauders 18" ID="235486" SERIESID="23869"/>
+            <File Name="Marvel 5" ID="240991" SERIESID="24686"/>
+            <File Name="Miles Morales:Spider-Man 23" ID="243817" SERIESID="22817"/>
+            <File Name="Savage Avengers 18" ID="245612" SERIESID="23091"/>
+            <File Name="Spider-Woman 9" ID="241184" SERIESID="24693"/>
+            <File Name="Thor 12" ID="237708" SERIESID="24213"/>
+            <File Name="X-Men:Legends 1" ID="247308" SERIESID="25321"/>
+            <File Name="Amazing Spider-Man 60" ID="238276" SERIESID="22403"/>
+            <File Name="Black Cat 3" ID="242878" SERIESID="24958"/>
+            <File Name="Black Panther 23" ID="242056" SERIESID="21985"/>
+            <File Name="Captain Marvel 26" ID="242848" SERIESID="22959"/>
+            <File Name="Captain Marvel:Marvels Snapshots 1" ID="240440" SERIESID="24621"/>
+            <File Name="King in Black:Namor 4" ID="242908" SERIESID="24948"/>
+            <File Name="King in Black:Return of the Valkyries 3" ID="242951" SERIESID="24954"/>
+            <File Name="Maestro:War &amp; Pax 2" ID="242975" SERIESID="24957"/>
+            <File Name="Magnificent Ms. Marvel 18" ID="245620" SERIESID="23082"/>
+            <File Name="Marvel&apos;s Voices:Legacy 1" ID="242321" SERIESID="24813"/>
+            <File Name="New Mutants 16" ID="235599" SERIESID="23868"/>
+            <File Name="Symbiote Spider-Man:King in Black 4" ID="242262" SERIESID="24828"/>
+            <File Name="U.S.Agent 3" ID="242334" SERIESID="24825"/>
+            <File Name="Union 3" ID="242299" SERIESID="24812"/>
+            <File Name="Warhammer 40,000:Marneus Calgar 5" ID="243739" SERIESID="25004"/>
+            <File Name="Wolverine 10" ID="240612" SERIESID="24628"/>
+            <File Name="X-Men 18" ID="234541" SERIESID="23687"/>
         </Directory>
         <Directory Name="CMC 2021 03">
-            <File Name="America Chavez:Made in the U.S.A. 1" ID="247096"/>
-            <File Name="Avengers 43" ID="240406"/>
-            <File Name="Avengers:Mech Strike 2" ID="243545"/>
-            <File Name="Demon Days:X-Men 1" ID="243636"/>
-            <File Name="Hellions 10" ID="239097"/>
-            <File Name="King in Black Handbook 1" ID="242924"/>
-            <File Name="King in Black:Captain America 1" ID="243784"/>
-            <File Name="King in Black:Gwenom Vs. Carnage 3" ID="243773"/>
-            <File Name="King in Black:Thunderbolts 3" ID="242963"/>
-            <File Name="King in Black:Wiccan and Hulkling 1" ID="242965"/>
-            <File Name="Marvel Action Captain Marvel 1" ID="242076"/>
-            <File Name="Power Pack 4" ID="241111"/>
-            <File Name="Runaways 34" ID="243005"/>
-            <File Name="Star Wars:The High Republic 3" ID="243899"/>
-            <File Name="Amazing Spider-Man 61" ID="238277"/>
-            <File Name="Children of the Atom 1" ID="243520"/>
-            <File Name="Conan the Barbarian 19" ID="243596"/>
-            <File Name="Daredevil 28" ID="243567"/>
-            <File Name="Deadpool:Nerdy 30 1" ID="243617"/>
-            <File Name="Eternals 3" ID="247295"/>
-            <File Name="Immortal Hulk 44" ID="237942"/>
-            <File Name="Non-Stop Spider-Man 1" ID="245710"/>
-            <File Name="Star Wars 12" ID="238037"/>
-            <File Name="Strange Academy 9" ID="241367"/>
-            <File Name="Taskmaster 4" ID="241230"/>
-            <File Name="Thor &amp; Loki:Double Trouble 1" ID="245541"/>
-            <File Name="Wolverine:Black, White &amp; Blood 4" ID="242354"/>
-            <File Name="X-Factor 8" ID="241301"/>
-            <File Name="Black Knight:Curse of the Ebony Blade 1" ID="245740"/>
-            <File Name="Captain America Anniversary Tribute 1" ID="243615"/>
-            <File Name="Captain Marvel 27" ID="242852"/>
-            <File Name="Champions 5" ID="240876"/>
-            <File Name="Iron Fist:Heart of the Dragon 3" ID="243586"/>
-            <File Name="Iron Man 7" ID="242194"/>
-            <File Name="King in Black:Spider-Man 1" ID="243798"/>
-            <File Name="Marvel 6" ID="240993"/>
-            <File Name="S.W.O.R.D. 4" ID="243811"/>
-            <File Name="Spider-Woman 10" ID="241186"/>
-            <File Name="Star Wars:Bounty Hunters 10" ID="239134"/>
-            <File Name="Thor 13" ID="237716"/>
-            <File Name="Ultraman:The Trials of Ultraman 1" ID="247889"/>
-            <File Name="X-Force 18" ID="235751"/>
-            <File Name="Alien 1" ID="245549"/>
-            <File Name="Amazing Spider-Man 62" ID="238285"/>
-            <File Name="Black Panther 24" ID="242060"/>
-            <File Name="Cable 9" ID="239239"/>
-            <File Name="Carnage:Black, White &amp; Blood 1" ID="247694"/>
-            <File Name="Excalibur 19" ID="234606"/>
-            <File Name="Guardians of the Galaxy 12" ID="237844"/>
-            <File Name="King in Black:Scream 1" ID="243794"/>
-            <File Name="Maestro:War &amp; Pax 3" ID="242977"/>
-            <File Name="Miles Morales:Spider-Man 24" ID="243824"/>
-            <File Name="Savage Avengers 19" ID="245615"/>
-            <File Name="Star Wars:Doctor Aphra 8" ID="240363"/>
-            <File Name="Taskmaster 5" ID="241232"/>
-            <File Name="Avengers:Curse of the Man-Thing 1" ID="243604"/>
-            <File Name="Beta Ray Bill 1" ID="245691"/>
-            <File Name="Black Cat 4" ID="242880"/>
-            <File Name="Captain America 28" ID="239212"/>
-            <File Name="King in Black:Ghost Rider 1" ID="243788"/>
-            <File Name="King in Black:Return of the Valkyries 4" ID="242955"/>
-            <File Name="Marvel Action Spider-Man 1" ID="248975"/>
-            <File Name="Silk 1" ID="245757"/>
-            <File Name="Symbiote Spider-Man:King in Black 5" ID="242264"/>
-            <File Name="U.S.Agent 4" ID="242336"/>
-            <File Name="Union 4" ID="242302"/>
-            <File Name="X-Men 19" ID="245659"/>
-            <File Name="X-Men:Legends 2" ID="247322"/>
+            <File Name="America Chavez:Made in the U.S.A. 1" ID="247096" SERIESID="25323"/>
+            <File Name="Avengers 43" ID="240406" SERIESID="22001"/>
+            <File Name="Avengers:Mech Strike 2" ID="243545" SERIESID="25006"/>
+            <File Name="Demon Days:X-Men 1" ID="243636" SERIESID="25946"/>
+            <File Name="Hellions 10" ID="239097" SERIESID="24391"/>
+            <File Name="King in Black Handbook 1" ID="242924" SERIESID="24950"/>
+            <File Name="King in Black:Captain America 1" ID="243784" SERIESID="25009"/>
+            <File Name="King in Black:Gwenom Vs. Carnage 3" ID="243773" SERIESID="25007"/>
+            <File Name="King in Black:Thunderbolts 3" ID="242963" SERIESID="24955"/>
+            <File Name="King in Black:Wiccan and Hulkling 1" ID="242965" SERIESID="24956"/>
+            <File Name="Marvel Action Captain Marvel 1" ID="242076" SERIESID="24830"/>
+            <File Name="Power Pack 4" ID="241111" SERIESID="24687"/>
+            <File Name="Runaways 34" ID="243005" SERIESID="21246"/>
+            <File Name="Star Wars:The High Republic 3" ID="243899" SERIESID="25017"/>
+            <File Name="Amazing Spider-Man 61" ID="238277" SERIESID="22403"/>
+            <File Name="Children of the Atom 1" ID="243520" SERIESID="25005"/>
+            <File Name="Conan the Barbarian 19" ID="243596" SERIESID="22823"/>
+            <File Name="Daredevil 28" ID="243567" SERIESID="22829"/>
+            <File Name="Deadpool:Nerdy 30 1" ID="243617" SERIESID="25021"/>
+            <File Name="Eternals 3" ID="247295" SERIESID="25311"/>
+            <File Name="Immortal Hulk 44" ID="237942" SERIESID="22135"/>
+            <File Name="Non-Stop Spider-Man 1" ID="245710" SERIESID="25251"/>
+            <File Name="Star Wars 12" ID="238037" SERIESID="24280"/>
+            <File Name="Strange Academy 9" ID="241367" SERIESID="24697"/>
+            <File Name="Taskmaster 4" ID="241230" SERIESID="24688"/>
+            <File Name="Thor &amp; Loki:Double Trouble 1" ID="245541" SERIESID="25248"/>
+            <File Name="Wolverine:Black, White &amp; Blood 4" ID="242354" SERIESID="24829"/>
+            <File Name="X-Factor 8" ID="241301" SERIESID="24694"/>
+            <File Name="Black Knight:Curse of the Ebony Blade 1" ID="245740" SERIESID="25253"/>
+            <File Name="Captain America Anniversary Tribute 1" ID="243615" SERIESID="25020"/>
+            <File Name="Captain Marvel 27" ID="242852" SERIESID="22959"/>
+            <File Name="Champions 5" ID="240876" SERIESID="24690"/>
+            <File Name="Iron Fist:Heart of the Dragon 3" ID="243586" SERIESID="25016"/>
+            <File Name="Iron Man 7" ID="242194" SERIESID="24810"/>
+            <File Name="King in Black:Spider-Man 1" ID="243798" SERIESID="25014"/>
+            <File Name="Marvel 6" ID="240993" SERIESID="24686"/>
+            <File Name="S.W.O.R.D. 4" ID="243811" SERIESID="25015"/>
+            <File Name="Spider-Woman 10" ID="241186" SERIESID="24693"/>
+            <File Name="Star Wars:Bounty Hunters 10" ID="239134" SERIESID="24393"/>
+            <File Name="Thor 13" ID="237716" SERIESID="24213"/>
+            <File Name="Ultraman:The Trials of Ultraman 1" ID="247889" SERIESID="25395"/>
+            <File Name="X-Force 18" ID="235751" SERIESID="23876"/>
+            <File Name="Alien 1" ID="245549" SERIESID="25252"/>
+            <File Name="Amazing Spider-Man 62" ID="238285" SERIESID="22403"/>
+            <File Name="Black Panther 24" ID="242060" SERIESID="21985"/>
+            <File Name="Cable 9" ID="239239" SERIESID="24392"/>
+            <File Name="Carnage:Black, White &amp; Blood 1" ID="247694" SERIESID="25393"/>
+            <File Name="Excalibur 19" ID="234606" SERIESID="23696"/>
+            <File Name="Guardians of the Galaxy 12" ID="237844" SERIESID="24276"/>
+            <File Name="King in Black:Scream 1" ID="243794" SERIESID="25013"/>
+            <File Name="Maestro:War &amp; Pax 3" ID="242977" SERIESID="24957"/>
+            <File Name="Miles Morales:Spider-Man 24" ID="243824" SERIESID="22817"/>
+            <File Name="Savage Avengers 19" ID="245615" SERIESID="23091"/>
+            <File Name="Star Wars:Doctor Aphra 8" ID="240363" SERIESID="24624"/>
+            <File Name="Taskmaster 5" ID="241232" SERIESID="24688"/>
+            <File Name="Avengers:Curse of the Man-Thing 1" ID="243604" SERIESID="25018"/>
+            <File Name="Beta Ray Bill 1" ID="245691" SERIESID="25250"/>
+            <File Name="Black Cat 4" ID="242880" SERIESID="24958"/>
+            <File Name="Captain America 28" ID="239212" SERIESID="22149"/>
+            <File Name="King in Black:Ghost Rider 1" ID="243788" SERIESID="25010"/>
+            <File Name="King in Black:Return of the Valkyries 4" ID="242955" SERIESID="24954"/>
+            <File Name="Marvel Action Spider-Man 1" ID="248975" SERIESID="25581"/>
+            <File Name="Silk 1" ID="245757" SERIESID="25254"/>
+            <File Name="Symbiote Spider-Man:King in Black 5" ID="242264" SERIESID="24828"/>
+            <File Name="U.S.Agent 4" ID="242336" SERIESID="24825"/>
+            <File Name="Union 4" ID="242302" SERIESID="24812"/>
+            <File Name="X-Men 19" ID="245659" SERIESID="23687"/>
+            <File Name="X-Men:Legends 2" ID="247322" SERIESID="25321"/>
         </Directory>
         <Directory Name="CMC 2021 04">
-            <File Name="Amazing Spider-Man 63" ID="238291"/>
-            <File Name="America Chavez:Made in the U.S.A. 2" ID="247101"/>
-            <File Name="Avengers 44" ID="240414"/>
-            <File Name="Avengers:Mech Strike 3" ID="243547"/>
-            <File Name="Conan the Barbarian 20" ID="243598"/>
-            <File Name="Excalibur 20" ID="245631"/>
-            <File Name="Immortal Hulk 45" ID="237945"/>
-            <File Name="King in Black 5" ID="245882"/>
-            <File Name="King in Black:Planet of the Symbiotes 3" ID="242923"/>
-            <File Name="Marauders 19" ID="235487"/>
-            <File Name="Marvel Action Captain Marvel 2" ID="242078"/>
-            <File Name="Marvel Tales:Squadron Supreme 1" ID="243949"/>
-            <File Name="Runaways 35" ID="243007"/>
-            <File Name="Star Wars:The High Republic 4" ID="243920"/>
-            <File Name="Venom 34" ID="239516"/>
-            <File Name="Black Cat 5" ID="242884"/>
-            <File Name="Children of the Atom 2" ID="243534"/>
-            <File Name="Daredevil 29" ID="243569"/>
-            <File Name="Darkhawk:Heart of the Hawk 1" ID="243633"/>
-            <File Name="Fantastic Four 30" ID="242992"/>
-            <File Name="Guardians of the Galaxy 13" ID="237846"/>
-            <File Name="Iron Fist:Heart of the Dragon 4" ID="243588"/>
-            <File Name="Iron Man 8" ID="242197"/>
-            <File Name="King in Black:Namor 5" ID="242910"/>
-            <File Name="Maestro:War &amp; Pax 4" ID="242979"/>
-            <File Name="Non-Stop Spider-Man 2" ID="245732"/>
-            <File Name="Power Pack 5" ID="241112"/>
-            <File Name="Spider-Man:Spider&apos;s Shadow 1" ID="247867"/>
-            <File Name="Star Wars:Bounty Hunters 11" ID="239136"/>
-            <File Name="Thor 14" ID="237721"/>
-            <File Name="Thor &amp; Loki:Double Trouble 2" ID="245546"/>
-            <File Name="Wolverine 11" ID="240617"/>
-            <File Name="Alien 2" ID="245591"/>
-            <File Name="Amazing Spider-Man 64" ID="238294"/>
-            <File Name="Avengers 45" ID="240419"/>
-            <File Name="Black Knight:Curse of the Ebony Blade 2" ID="245749"/>
-            <File Name="Captain Marvel 28" ID="242855"/>
-            <File Name="Carnage:Black, White &amp; Blood 2" ID="247712"/>
-            <File Name="Champions 6" ID="240878"/>
-            <File Name="Eternals 4" ID="247299"/>
-            <File Name="Mighty Valkyries 1" ID="247331"/>
-            <File Name="S.W.O.R.D. 5" ID="243813"/>
-            <File Name="Spider-Woman 11" ID="241190"/>
-            <File Name="Star Wars:Doctor Aphra 9" ID="240365"/>
-            <File Name="Ultraman:The Trials of Ultraman 2" ID="247898"/>
-            <File Name="Way of X 1" ID="247029"/>
-            <File Name="Women of Marvel 1" ID="248809"/>
-            <File Name="X-Force 19" ID="247344"/>
-            <File Name="Beta Ray Bill 2" ID="245703"/>
-            <File Name="Black Widow 6" ID="240915"/>
-            <File Name="Cable 10" ID="239240"/>
-            <File Name="Fantastic Four 31" ID="242994"/>
-            <File Name="Hellfire Gala Official Guide 1" ID="247094"/>
-            <File Name="M.O.D.O.K.:Head Games 4" ID="243016"/>
-            <File Name="Marvels 1" ID="248007"/>
-            <File Name="Miles Morales:Spider-Man 25" ID="243826"/>
-            <File Name="New Mutants 17" ID="245605"/>
-            <File Name="Savage Avengers 20" ID="245617"/>
-            <File Name="Silk 2" ID="245782"/>
-            <File Name="Spider-Man:Curse of the Man-Thing 1" ID="243610"/>
-            <File Name="Star Wars:Darth Vader 11" ID="241029"/>
-            <File Name="Star Wars:The Empire Strikes Back:The 40th Anniversary Covers by Chris Sprouse 1" ID="247623"/>
-            <File Name="U.S.Agent 5" ID="242338"/>
-            <File Name="X-Men:Legends 3" ID="247325"/>
+            <File Name="Amazing Spider-Man 63" ID="238291" SERIESID="22403"/>
+            <File Name="America Chavez:Made in the U.S.A. 2" ID="247101" SERIESID="25323"/>
+            <File Name="Avengers 44" ID="240414" SERIESID="22001"/>
+            <File Name="Avengers:Mech Strike 3" ID="243547" SERIESID="25006"/>
+            <File Name="Conan the Barbarian 20" ID="243598" SERIESID="22823"/>
+            <File Name="Excalibur 20" ID="245631" SERIESID="23696"/>
+            <File Name="Immortal Hulk 45" ID="237945" SERIESID="22135"/>
+            <File Name="King in Black 5" ID="245882" SERIESID="25249"/>
+            <File Name="King in Black:Planet of the Symbiotes 3" ID="242923" SERIESID="24949"/>
+            <File Name="Marauders 19" ID="235487" SERIESID="23869"/>
+            <File Name="Marvel Action Captain Marvel 2" ID="242078" SERIESID="24830"/>
+            <File Name="Marvel Tales:Squadron Supreme 1" ID="243949" SERIESID="23423"/>
+            <File Name="Runaways 35" ID="243007" SERIESID="21246"/>
+            <File Name="Star Wars:The High Republic 4" ID="243920" SERIESID="25017"/>
+            <File Name="Venom 34" ID="239516" SERIESID="22075"/>
+            <File Name="Black Cat 5" ID="242884" SERIESID="24958"/>
+            <File Name="Children of the Atom 2" ID="243534" SERIESID="25005"/>
+            <File Name="Daredevil 29" ID="243569" SERIESID="22829"/>
+            <File Name="Darkhawk:Heart of the Hawk 1" ID="243633" SERIESID="25024"/>
+            <File Name="Fantastic Four 30" ID="242992" SERIESID="22545"/>
+            <File Name="Guardians of the Galaxy 13" ID="237846" SERIESID="24276"/>
+            <File Name="Iron Fist:Heart of the Dragon 4" ID="243588" SERIESID="25016"/>
+            <File Name="Iron Man 8" ID="242197" SERIESID="24810"/>
+            <File Name="King in Black:Namor 5" ID="242910" SERIESID="24948"/>
+            <File Name="Maestro:War &amp; Pax 4" ID="242979" SERIESID="24957"/>
+            <File Name="Non-Stop Spider-Man 2" ID="245732" SERIESID="25251"/>
+            <File Name="Power Pack 5" ID="241112" SERIESID="24687"/>
+            <File Name="Spider-Man:Spider&apos;s Shadow 1" ID="247867" SERIESID="25394"/>
+            <File Name="Star Wars:Bounty Hunters 11" ID="239136" SERIESID="24393"/>
+            <File Name="Thor 14" ID="237721" SERIESID="24213"/>
+            <File Name="Thor &amp; Loki:Double Trouble 2" ID="245546" SERIESID="25248"/>
+            <File Name="Wolverine 11" ID="240617" SERIESID="24628"/>
+            <File Name="Alien 2" ID="245591" SERIESID="25252"/>
+            <File Name="Amazing Spider-Man 64" ID="238294" SERIESID="22403"/>
+            <File Name="Avengers 45" ID="240419" SERIESID="22001"/>
+            <File Name="Black Knight:Curse of the Ebony Blade 2" ID="245749" SERIESID="25253"/>
+            <File Name="Captain Marvel 28" ID="242855" SERIESID="22959"/>
+            <File Name="Carnage:Black, White &amp; Blood 2" ID="247712" SERIESID="25393"/>
+            <File Name="Champions 6" ID="240878" SERIESID="24690"/>
+            <File Name="Eternals 4" ID="247299" SERIESID="25311"/>
+            <File Name="Mighty Valkyries 1" ID="247331" SERIESID="25322"/>
+            <File Name="S.W.O.R.D. 5" ID="243813" SERIESID="25015"/>
+            <File Name="Spider-Woman 11" ID="241190" SERIESID="24693"/>
+            <File Name="Star Wars:Doctor Aphra 9" ID="240365" SERIESID="24624"/>
+            <File Name="Ultraman:The Trials of Ultraman 2" ID="247898" SERIESID="25395"/>
+            <File Name="Way of X 1" ID="247029" SERIESID="25313"/>
+            <File Name="Women of Marvel 1" ID="248809" SERIESID="25545"/>
+            <File Name="X-Force 19" ID="247344" SERIESID="23876"/>
+            <File Name="Beta Ray Bill 2" ID="245703" SERIESID="25250"/>
+            <File Name="Black Widow 6" ID="240915" SERIESID="24692"/>
+            <File Name="Cable 10" ID="239240" SERIESID="24392"/>
+            <File Name="Fantastic Four 31" ID="242994" SERIESID="22545"/>
+            <File Name="Hellfire Gala Official Guide 1" ID="247094" SERIESID="25319"/>
+            <File Name="M.O.D.O.K.:Head Games 4" ID="243016" SERIESID="24959"/>
+            <File Name="Marvels 1" ID="248007" SERIESID="25441"/>
+            <File Name="Miles Morales:Spider-Man 25" ID="243826" SERIESID="22817"/>
+            <File Name="New Mutants 17" ID="245605" SERIESID="23868"/>
+            <File Name="Savage Avengers 20" ID="245617" SERIESID="23091"/>
+            <File Name="Silk 2" ID="245782" SERIESID="25254"/>
+            <File Name="Spider-Man:Curse of the Man-Thing 1" ID="243610" SERIESID="25018"/>
+            <File Name="Star Wars:Darth Vader 11" ID="241029" SERIESID="24695"/>
+            <File Name="Star Wars:The Empire Strikes Back:The 40th Anniversary Covers by Chris Sprouse 1" ID="247623" SERIESID="25391"/>
+            <File Name="U.S.Agent 5" ID="242338" SERIESID="24825"/>
+            <File Name="X-Men:Legends 3" ID="247325" SERIESID="25321"/>
         </Directory>
         <Directory Name="CMC 2021 05">
-            <File Name="Amazing Spider-Man 65" ID="245644"/>
-            <File Name="America Chavez:Made in the U.S.A. 3" ID="247103"/>
-            <File Name="Carnage:Black, White &amp; Blood 3" ID="247718"/>
-            <File Name="Hellions 11" ID="239100"/>
-            <File Name="Heroes Reborn 1" ID="247174"/>
-            <File Name="Immortal Hulk 46" ID="245676"/>
-            <File Name="Iron Fist:Heart of the Dragon 5" ID="243590"/>
-            <File Name="Marauders 20" ID="245621"/>
-            <File Name="Marvel Tales:Thanos Quest 1" ID="243951"/>
-            <File Name="Star Wars:War of the Bounty Hunters Alpha 1" ID="249041"/>
-            <File Name="Star Wars:War of the Bounty Hunters Alpha Director&apos;s Cut 1" ID="249092"/>
-            <File Name="Strange Academy 10" ID="241372"/>
-            <File Name="Thor &amp; Loki:Double Trouble 3" ID="245548"/>
-            <File Name="Union 5" ID="242305"/>
-            <File Name="X-Men:Curse of the Man-Thing 1" ID="243612"/>
-            <File Name="Black Cat 6" ID="242887"/>
-            <File Name="Children of the Atom 3" ID="243537"/>
-            <File Name="Conan the Barbarian 21" ID="243600"/>
-            <File Name="Fantastic Four 32" ID="242996"/>
-            <File Name="Giant-Size Amazing Spider-Man:King&apos;s Ransom 1" ID="247092"/>
-            <File Name="Guardians of the Galaxy 14" ID="247997"/>
-            <File Name="Heroes Reborn 2" ID="247189"/>
-            <File Name="Heroes Reborn:Hyperion &amp; the Imperial Guard 1" ID="247227"/>
-            <File Name="Heroes Reborn:Peter Parker, the Amazing Shutterbug 1" ID="247237"/>
-            <File Name="Marvel Action Spider-Man 2" ID="248977"/>
-            <File Name="Silk 3" ID="245786"/>
-            <File Name="Spider-Man:Spider&apos;s Shadow 2" ID="247883"/>
-            <File Name="Spider-Woman 12" ID="241193"/>
-            <File Name="Star Wars 13" ID="248080"/>
-            <File Name="Star Wars:The High Republic 5" ID="243936"/>
-            <File Name="X-Corp 1" ID="247519"/>
-            <File Name="X-Factor 9" ID="241302"/>
-            <File Name="Amazing Spider-Man 66" ID="245645"/>
-            <File Name="Black Knight:Curse of the Ebony Blade 3" ID="245752"/>
-            <File Name="Captain America 29" ID="245653"/>
-            <File Name="Champions 7" ID="240880"/>
-            <File Name="Daredevil 30" ID="243574"/>
-            <File Name="Fantastic Four:Life Story 1" ID="247978"/>
-            <File Name="Heroes Reborn 3" ID="247195"/>
-            <File Name="Immortal Hulk:Time of Monsters 1" ID="245689"/>
-            <File Name="Mighty Valkyries 2" ID="247337"/>
-            <File Name="Runaways 36" ID="243008"/>
-            <File Name="Shang-Chi 1" ID="248094"/>
-            <File Name="Star Wars:Bounty Hunters 12" ID="247120"/>
-            <File Name="Ultraman:The Trials of Ultraman 3" ID="247901"/>
-            <File Name="Way of X 2" ID="247035"/>
-            <File Name="Wolverine 12" ID="248116"/>
-            <File Name="Alien 3" ID="245597"/>
-            <File Name="Beta Ray Bill 3" ID="245706"/>
-            <File Name="Black Panther 25" ID="242064"/>
-            <File Name="Black Widow 7" ID="245640"/>
-            <File Name="Heroes Reborn 4" ID="247201"/>
-            <File Name="Heroes Reborn:Magneto &amp; the Mutant Force 1" ID="247229"/>
-            <File Name="Heroes Reborn:Siege Society 1" ID="247239"/>
-            <File Name="Heroes Reborn:Young Squadron 1" ID="247245"/>
-            <File Name="Maestro:War &amp; Pax 5" ID="242981"/>
-            <File Name="Marvel Action Captain Marvel 3" ID="242080"/>
-            <File Name="Marvel Action Classics:Spider-Man Two-in-One 3" ID="242031"/>
-            <File Name="Marvels 2" ID="248016"/>
-            <File Name="Miles Morales:Spider-Man 26" ID="243856"/>
-            <File Name="New Mutants 18" ID="245607"/>
-            <File Name="Reptil 1" ID="248022"/>
-            <File Name="Star Wars:Darth Vader 12" ID="248030"/>
-            <File Name="Star Wars:Doctor Aphra 10" ID="247625"/>
-            <File Name="X-Men 20" ID="245663"/>
+            <File Name="Amazing Spider-Man 65" ID="245644" SERIESID="22403"/>
+            <File Name="America Chavez:Made in the U.S.A. 3" ID="247103" SERIESID="25323"/>
+            <File Name="Carnage:Black, White &amp; Blood 3" ID="247718" SERIESID="25393"/>
+            <File Name="Hellions 11" ID="239100" SERIESID="24391"/>
+            <File Name="Heroes Reborn 1" ID="247174" SERIESID="25300"/>
+            <File Name="Immortal Hulk 46" ID="245676" SERIESID="22135"/>
+            <File Name="Iron Fist:Heart of the Dragon 5" ID="243590" SERIESID="25016"/>
+            <File Name="Marauders 20" ID="245621" SERIESID="23869"/>
+            <File Name="Marvel Tales:Thanos Quest 1" ID="243951" SERIESID="23423"/>
+            <File Name="Star Wars:War of the Bounty Hunters Alpha 1" ID="249041" SERIESID="25580"/>
+            <File Name="Star Wars:War of the Bounty Hunters Alpha Director&apos;s Cut 1" ID="249092" SERIESID="25580"/>
+            <File Name="Strange Academy 10" ID="241372" SERIESID="24697"/>
+            <File Name="Thor &amp; Loki:Double Trouble 3" ID="245548" SERIESID="25248"/>
+            <File Name="Union 5" ID="242305" SERIESID="24812"/>
+            <File Name="X-Men:Curse of the Man-Thing 1" ID="243612" SERIESID="25018"/>
+            <File Name="Black Cat 6" ID="242887" SERIESID="24958"/>
+            <File Name="Children of the Atom 3" ID="243537" SERIESID="25005"/>
+            <File Name="Conan the Barbarian 21" ID="243600" SERIESID="22823"/>
+            <File Name="Fantastic Four 32" ID="242996" SERIESID="22545"/>
+            <File Name="Giant-Size Amazing Spider-Man:King&apos;s Ransom 1" ID="247092" SERIESID="25318"/>
+            <File Name="Guardians of the Galaxy 14" ID="247997" SERIESID="24276"/>
+            <File Name="Heroes Reborn 2" ID="247189" SERIESID="25300"/>
+            <File Name="Heroes Reborn:Hyperion &amp; the Imperial Guard 1" ID="247227" SERIESID="25302"/>
+            <File Name="Heroes Reborn:Peter Parker, the Amazing Shutterbug 1" ID="247237" SERIESID="25306"/>
+            <File Name="Marvel Action Spider-Man 2" ID="248977" SERIESID="25581"/>
+            <File Name="Silk 3" ID="245786" SERIESID="25254"/>
+            <File Name="Spider-Man:Spider&apos;s Shadow 2" ID="247883" SERIESID="25394"/>
+            <File Name="Spider-Woman 12" ID="241193" SERIESID="24693"/>
+            <File Name="Star Wars 13" ID="248080" SERIESID="24280"/>
+            <File Name="Star Wars:The High Republic 5" ID="243936" SERIESID="25017"/>
+            <File Name="X-Corp 1" ID="247519" SERIESID="25392"/>
+            <File Name="X-Factor 9" ID="241302" SERIESID="24694"/>
+            <File Name="Amazing Spider-Man 66" ID="245645" SERIESID="22403"/>
+            <File Name="Black Knight:Curse of the Ebony Blade 3" ID="245752" SERIESID="25253"/>
+            <File Name="Captain America 29" ID="245653" SERIESID="22149"/>
+            <File Name="Champions 7" ID="240880" SERIESID="24690"/>
+            <File Name="Daredevil 30" ID="243574" SERIESID="22829"/>
+            <File Name="Fantastic Four:Life Story 1" ID="247978" SERIESID="25439"/>
+            <File Name="Heroes Reborn 3" ID="247195" SERIESID="25300"/>
+            <File Name="Immortal Hulk:Time of Monsters 1" ID="245689" SERIESID="25255"/>
+            <File Name="Mighty Valkyries 2" ID="247337" SERIESID="25322"/>
+            <File Name="Runaways 36" ID="243008" SERIESID="21246"/>
+            <File Name="Shang-Chi 1" ID="248094" SERIESID="25454"/>
+            <File Name="Star Wars:Bounty Hunters 12" ID="247120" SERIESID="24393"/>
+            <File Name="Ultraman:The Trials of Ultraman 3" ID="247901" SERIESID="25395"/>
+            <File Name="Way of X 2" ID="247035" SERIESID="25313"/>
+            <File Name="Wolverine 12" ID="248116" SERIESID="24628"/>
+            <File Name="Alien 3" ID="245597" SERIESID="25252"/>
+            <File Name="Beta Ray Bill 3" ID="245706" SERIESID="25250"/>
+            <File Name="Black Panther 25" ID="242064" SERIESID="21985"/>
+            <File Name="Black Widow 7" ID="245640" SERIESID="24692"/>
+            <File Name="Heroes Reborn 4" ID="247201" SERIESID="25300"/>
+            <File Name="Heroes Reborn:Magneto &amp; the Mutant Force 1" ID="247229" SERIESID="25303"/>
+            <File Name="Heroes Reborn:Siege Society 1" ID="247239" SERIESID="25307"/>
+            <File Name="Heroes Reborn:Young Squadron 1" ID="247245" SERIESID="25310"/>
+            <File Name="Maestro:War &amp; Pax 5" ID="242981" SERIESID="24957"/>
+            <File Name="Marvel Action Captain Marvel 3" ID="242080" SERIESID="24830"/>
+            <File Name="Marvel Action Classics:Spider-Man Two-in-One 3" ID="242031" SERIESID="23414"/>
+            <File Name="Marvels 2" ID="248016" SERIESID="25441"/>
+            <File Name="Miles Morales:Spider-Man 26" ID="243856" SERIESID="22817"/>
+            <File Name="New Mutants 18" ID="245607" SERIESID="23868"/>
+            <File Name="Reptil 1" ID="248022" SERIESID="25442"/>
+            <File Name="Star Wars:Darth Vader 12" ID="248030" SERIESID="24695"/>
+            <File Name="Star Wars:Doctor Aphra 10" ID="247625" SERIESID="24624"/>
+            <File Name="X-Men 20" ID="245663" SERIESID="23687"/>
         </Directory>
         <Directory Name="CMC 2021 06">
-            <File Name="Amazing Spider-Man 67" ID="245646"/>
-            <File Name="Black Cat 7" ID="242888"/>
-            <File Name="Hellions 12" ID="247634"/>
-            <File Name="Heroes Reborn 5" ID="247207"/>
-            <File Name="Heroes Reborn:American Knights 1" ID="247225"/>
-            <File Name="Heroes Reborn:Marvel Double Action 1" ID="247232"/>
-            <File Name="Immortal Hulk 47" ID="245679"/>
-            <File Name="Iron Fist:Heart of the Dragon 6" ID="243592"/>
-            <File Name="Iron Man Annual 1" ID="245684"/>
-            <File Name="Marauders 21" ID="245622"/>
-            <File Name="Marvel Action:Origins 2" ID="248042"/>
-            <File Name="Marvel Tales:The Trials of Loki 1" ID="243953"/>
-            <File Name="Non-Stop Spider-Man 3" ID="245738"/>
-            <File Name="Savage Avengers 21" ID="245619"/>
-            <File Name="Star Wars:War of the Bounty Hunters 1" ID="249094"/>
-            <File Name="X-Force 20" ID="247345"/>
-            <File Name="Amazing Spider-Man 68" ID="245648"/>
-            <File Name="Children of the Atom 4" ID="243539"/>
-            <File Name="Conan the Barbarian 22" ID="243602"/>
-            <File Name="Excalibur 21" ID="245632"/>
-            <File Name="Heroes Reborn 6" ID="247213"/>
-            <File Name="Heroes Reborn:Night-Gwen 1" ID="247234"/>
-            <File Name="Heroes Reborn:Squadron Savage 1" ID="247241"/>
-            <File Name="Iron Man 9" ID="245682"/>
-            <File Name="Spider-Man:Spider&apos;s Shadow 3" ID="247885"/>
-            <File Name="Star Wars:Bounty Hunters 13" ID="247123"/>
-            <File Name="Strange Academy 11" ID="247599"/>
-            <File Name="Web of Spider-Man 1" ID="248133"/>
-            <File Name="X-Men 21" ID="245667"/>
-            <File Name="Alien 4" ID="245602"/>
-            <File Name="Captain America Annual ( 2)" ID="245655"/>
-            <File Name="Demon Days:Mariko 1" ID="247071"/>
-            <File Name="Fantastic Four 33" ID="247973"/>
-            <File Name="Heroes Reborn 7" ID="247219"/>
-            <File Name="Heroes Reborn:Weapon X &amp; Final Flight 1" ID="247243"/>
-            <File Name="Mighty Valkyries 3" ID="247340"/>
-            <File Name="Miles Morales:Spider-Man 27" ID="243865"/>
-            <File Name="New Mutants 19" ID="245608"/>
-            <File Name="Planet-Size X-Men 1" ID="247603"/>
-            <File Name="Star Wars 14" ID="248085"/>
-            <File Name="Venom 35" ID="251704"/>
-            <File Name="X-Corp 2" ID="247524"/>
-            <File Name="Amazing Spider-Man 69" ID="245650"/>
-            <File Name="Captain Marvel 29" ID="248357"/>
-            <File Name="Fantastic Four:Life Story 2" ID="247982"/>
-            <File Name="Gamma Flight 1" ID="247987"/>
-            <File Name="Guardians of the Galaxy 15" ID="247999"/>
-            <File Name="Heroes Return 1" ID="249316"/>
-            <File Name="Marvel&apos;s Voices:Pride 1" ID="247610"/>
-            <File Name="Reptil 2" ID="248025"/>
-            <File Name="S.W.O.R.D. 6" ID="248261"/>
-            <File Name="Silk 4" ID="245790"/>
-            <File Name="Star Wars:Darth Vader 13" ID="248033"/>
-            <File Name="Way of X 3" ID="247037"/>
-            <File Name="Web of Spider-Man 2" ID="248137"/>
-            <File Name="Wolverine 13" ID="248119"/>
-            <File Name="X-Men:Legends 4" ID="247328"/>
-            <File Name="Avengers:Mech Strike 4" ID="247995"/>
-            <File Name="Beta Ray Bill 4" ID="245708"/>
-            <File Name="Black Cat Annual 1" ID="248148"/>
-            <File Name="Black Knight:Curse of the Ebony Blade 4" ID="245755"/>
-            <File Name="Black Widow 8" ID="245642"/>
-            <File Name="Cable 11" ID="245652"/>
-            <File Name="Daredevil 31" ID="247601"/>
-            <File Name="Eternals 5" ID="247303"/>
-            <File Name="Giant-Size Amazing Spider-Man:Chameleon Conspiracy 1" ID="247090"/>
-            <File Name="Marvel Action Captain Marvel 4" ID="249307"/>
-            <File Name="Marvel Action Spider-Man 3" ID="248979"/>
-            <File Name="Marvels 3" ID="248020"/>
-            <File Name="Shang-Chi 2" ID="248100"/>
-            <File Name="Star Wars:Doctor Aphra 11" ID="247628"/>
-            <File Name="Star Wars:The High Republic 6" ID="248682"/>
-            <File Name="United States of Captain America 1" ID="248108"/>
-            <File Name="X-Factor 10" ID="248996"/>
+            <File Name="Amazing Spider-Man 67" ID="245646" SERIESID="22403"/>
+            <File Name="Black Cat 7" ID="242888" SERIESID="24958"/>
+            <File Name="Hellions 12" ID="247634" SERIESID="24391"/>
+            <File Name="Heroes Reborn 5" ID="247207" SERIESID="25300"/>
+            <File Name="Heroes Reborn:American Knights 1" ID="247225" SERIESID="25301"/>
+            <File Name="Heroes Reborn:Marvel Double Action 1" ID="247232" SERIESID="25304"/>
+            <File Name="Immortal Hulk 47" ID="245679" SERIESID="22135"/>
+            <File Name="Iron Fist:Heart of the Dragon 6" ID="243592" SERIESID="25016"/>
+            <File Name="Iron Man Annual 1" ID="245684" SERIESID="24810"/>
+            <File Name="Marauders 21" ID="245622" SERIESID="23869"/>
+            <File Name="Marvel Action:Origins 2" ID="248042" SERIESID="25443"/>
+            <File Name="Marvel Tales:The Trials of Loki 1" ID="243953" SERIESID="23423"/>
+            <File Name="Non-Stop Spider-Man 3" ID="245738" SERIESID="25251"/>
+            <File Name="Savage Avengers 21" ID="245619" SERIESID="23091"/>
+            <File Name="Star Wars:War of the Bounty Hunters 1" ID="249094" SERIESID="25580"/>
+            <File Name="X-Force 20" ID="247345" SERIESID="23876"/>
+            <File Name="Amazing Spider-Man 68" ID="245648" SERIESID="22403"/>
+            <File Name="Children of the Atom 4" ID="243539" SERIESID="25005"/>
+            <File Name="Conan the Barbarian 22" ID="243602" SERIESID="22823"/>
+            <File Name="Excalibur 21" ID="245632" SERIESID="23696"/>
+            <File Name="Heroes Reborn 6" ID="247213" SERIESID="25300"/>
+            <File Name="Heroes Reborn:Night-Gwen 1" ID="247234" SERIESID="25305"/>
+            <File Name="Heroes Reborn:Squadron Savage 1" ID="247241" SERIESID="25308"/>
+            <File Name="Iron Man 9" ID="245682" SERIESID="24810"/>
+            <File Name="Spider-Man:Spider&apos;s Shadow 3" ID="247885" SERIESID="25394"/>
+            <File Name="Star Wars:Bounty Hunters 13" ID="247123" SERIESID="24393"/>
+            <File Name="Strange Academy 11" ID="247599" SERIESID="24697"/>
+            <File Name="Web of Spider-Man 1" ID="248133" SERIESID="25456"/>
+            <File Name="X-Men 21" ID="245667" SERIESID="23687"/>
+            <File Name="Alien 4" ID="245602" SERIESID="25252"/>
+            <File Name="Captain America Annual ( 2)" ID="245655" SERIESID="22149"/>
+            <File Name="Demon Days:Mariko 1" ID="247071" SERIESID="25946"/>
+            <File Name="Fantastic Four 33" ID="247973" SERIESID="22545"/>
+            <File Name="Heroes Reborn 7" ID="247219" SERIESID="25300"/>
+            <File Name="Heroes Reborn:Weapon X &amp; Final Flight 1" ID="247243" SERIESID="25309"/>
+            <File Name="Mighty Valkyries 3" ID="247340" SERIESID="25322"/>
+            <File Name="Miles Morales:Spider-Man 27" ID="243865" SERIESID="22817"/>
+            <File Name="New Mutants 19" ID="245608" SERIESID="23868"/>
+            <File Name="Planet-Size X-Men 1" ID="247603" SERIESID="25390"/>
+            <File Name="Star Wars 14" ID="248085" SERIESID="24280"/>
+            <File Name="Venom 35" ID="251704" SERIESID="22075"/>
+            <File Name="X-Corp 2" ID="247524" SERIESID="25392"/>
+            <File Name="Amazing Spider-Man 69" ID="245650" SERIESID="22403"/>
+            <File Name="Captain Marvel 29" ID="248357" SERIESID="22959"/>
+            <File Name="Fantastic Four:Life Story 2" ID="247982" SERIESID="25439"/>
+            <File Name="Gamma Flight 1" ID="247987" SERIESID="25440"/>
+            <File Name="Guardians of the Galaxy 15" ID="247999" SERIESID="24276"/>
+            <File Name="Heroes Return 1" ID="249316" SERIESID="25598"/>
+            <File Name="Marvel&apos;s Voices:Pride 1" ID="247610" SERIESID="24813"/>
+            <File Name="Reptil 2" ID="248025" SERIESID="25442"/>
+            <File Name="S.W.O.R.D. 6" ID="248261" SERIESID="25015"/>
+            <File Name="Silk 4" ID="245790" SERIESID="25254"/>
+            <File Name="Star Wars:Darth Vader 13" ID="248033" SERIESID="24695"/>
+            <File Name="Way of X 3" ID="247037" SERIESID="25313"/>
+            <File Name="Web of Spider-Man 2" ID="248137" SERIESID="25456"/>
+            <File Name="Wolverine 13" ID="248119" SERIESID="24628"/>
+            <File Name="X-Men:Legends 4" ID="247328" SERIESID="25321"/>
+            <File Name="Avengers:Mech Strike 4" ID="247995" SERIESID="25006"/>
+            <File Name="Beta Ray Bill 4" ID="245708" SERIESID="25250"/>
+            <File Name="Black Cat Annual 1" ID="248148" SERIESID="24958"/>
+            <File Name="Black Knight:Curse of the Ebony Blade 4" ID="245755" SERIESID="25253"/>
+            <File Name="Black Widow 8" ID="245642" SERIESID="24692"/>
+            <File Name="Cable 11" ID="245652" SERIESID="24392"/>
+            <File Name="Daredevil 31" ID="247601" SERIESID="22829"/>
+            <File Name="Eternals 5" ID="247303" SERIESID="25311"/>
+            <File Name="Giant-Size Amazing Spider-Man:Chameleon Conspiracy 1" ID="247090" SERIESID="25317"/>
+            <File Name="Marvel Action Captain Marvel 4" ID="249307" SERIESID="24830"/>
+            <File Name="Marvel Action Spider-Man 3" ID="248979" SERIESID="25581"/>
+            <File Name="Marvels 3" ID="248020" SERIESID="25441"/>
+            <File Name="Shang-Chi 2" ID="248100" SERIESID="25454"/>
+            <File Name="Star Wars:Doctor Aphra 11" ID="247628" SERIESID="24624"/>
+            <File Name="Star Wars:The High Republic 6" ID="248682" SERIESID="25017"/>
+            <File Name="United States of Captain America 1" ID="248108" SERIESID="25455"/>
+            <File Name="X-Factor 10" ID="248996" SERIESID="24694"/>
         </Directory>
         <Directory Name="CMC 2021 07">
-            <File Name="Amazing Spider-Man 70" ID="248785"/>
-            <File Name="Amazing Spider-Man Annual 2" ID="248798"/>
-            <File Name="America Chavez:Made in the U.S.A. 4" ID="247105"/>
-            <File Name="Avengers 46" ID="248188"/>
-            <File Name="Captain America 30" ID="248049"/>
-            <File Name="Children of the Atom 5" ID="248067"/>
-            <File Name="Extreme Carnage:Alpha 1" ID="248628"/>
-            <File Name="Hellions 13" ID="247640"/>
-            <File Name="Immortal Hulk 48" ID="248180"/>
-            <File Name="Runaways 37" ID="248614"/>
-            <File Name="Star Wars:Bounty Hunters 14" ID="247126"/>
-            <File Name="Thor &amp; Loki:Double Trouble 4" ID="247598"/>
-            <File Name="Ultraman:The Trials of Ultraman 4" ID="247904"/>
-            <File Name="Werewolf by Night (Facsimile Edition) 32" ID="249322"/>
-            <File Name="X-Force 21" ID="247349"/>
-            <File Name="X-Men 1" ID="250840"/>
-            <File Name="Aliens Aftermath 1" ID="248199"/>
-            <File Name="Carnage:Black, White &amp; Blood 4" ID="247721"/>
-            <File Name="Champions 8" ID="250051"/>
-            <File Name="Conan the Barbarian 23" ID="248966"/>
-            <File Name="Excalibur 22" ID="250047"/>
-            <File Name="Extreme Carnage:Scream 1" ID="248659"/>
-            <File Name="Iron Man 10" ID="248154"/>
-            <File Name="Sinister War 1" ID="249011"/>
-            <File Name="Spider-Man:Spider&apos;s Shadow 4" ID="247887"/>
-            <File Name="Spider-Woman 13" ID="248691"/>
-            <File Name="Star Wars:Doctor Aphra 12" ID="247631"/>
-            <File Name="Star Wars:War of the Bounty Hunters 2" ID="249119"/>
-            <File Name="Thor 15" ID="247644"/>
-            <File Name="Way of X 4" ID="248983"/>
-            <File Name="X-Corp 3" ID="247528"/>
-            <File Name="Alien 5" ID="248140"/>
-            <File Name="Captain Marvel 30" ID="248359"/>
-            <File Name="Extreme Carnage:Phage 1" ID="248654"/>
-            <File Name="Gamma Flight 2" ID="247992"/>
-            <File Name="Guardians of the Galaxy 16" ID="248004"/>
-            <File Name="Marauders 22" ID="248619"/>
-            <File Name="Marvel Action Spider-Man 4" ID="248981"/>
-            <File Name="Miles Morales:Spider-Man 28" ID="248671"/>
-            <File Name="Moon Knight 1" ID="248706"/>
-            <File Name="New Mutants 20" ID="250086"/>
-            <File Name="Reptil 3" ID="248028"/>
-            <File Name="Savage Avengers 22" ID="248801"/>
-            <File Name="Star Wars:Darth Vader 14" ID="248036"/>
-            <File Name="Star Wars:War of the Bounty Hunters:Jabba the Hutt 1" ID="252828"/>
-            <File Name="Thor Annual 1" ID="247984"/>
-            <File Name="X-Men:Legends 5" ID="248603"/>
-            <File Name="Amazing Fantasy 1" ID="249299"/>
-            <File Name="Amazing Spider-Man 71" ID="248789"/>
-            <File Name="Avengers:Mech Strike 5" ID="248072"/>
-            <File Name="Beta Ray Bill 5" ID="248070"/>
-            <File Name="Black Cat 8" ID="248144"/>
-            <File Name="Black Knight:Curse of the Ebony Blade 5" ID="248065"/>
-            <File Name="Black Widow 9" ID="248970"/>
-            <File Name="Cable 12" ID="249323"/>
-            <File Name="Daredevil 32" ID="248078"/>
-            <File Name="Eternals 6" ID="250936"/>
-            <File Name="Fantastic Four 34" ID="248074"/>
-            <File Name="Marvel Action Captain Marvel 5" ID="249309"/>
-            <File Name="Mighty Valkyries 4" ID="251382"/>
-            <File Name="S.W.O.R.D. 7" ID="248265"/>
-            <File Name="Shang-Chi 3" ID="248104"/>
-            <File Name="Star Wars 15" ID="248090"/>
-            <File Name="Star Wars:The High Republic 7" ID="248685"/>
-            <File Name="Symbiote Spider-Man:Crossroads 1" ID="248803"/>
-            <File Name="United States of Captain America 2" ID="248113"/>
-            <File Name="Wolverine 14" ID="248128"/>
+            <File Name="Amazing Spider-Man 70" ID="248785" SERIESID="22403"/>
+            <File Name="Amazing Spider-Man Annual 2" ID="248798" SERIESID="22403"/>
+            <File Name="America Chavez:Made in the U.S.A. 4" ID="247105" SERIESID="25323"/>
+            <File Name="Avengers 46" ID="248188" SERIESID="22001"/>
+            <File Name="Captain America 30" ID="248049" SERIESID="22149"/>
+            <File Name="Children of the Atom 5" ID="248067" SERIESID="25005"/>
+            <File Name="Extreme Carnage:Alpha 1" ID="248628" SERIESID="25529"/>
+            <File Name="Hellions 13" ID="247640" SERIESID="24391"/>
+            <File Name="Immortal Hulk 48" ID="248180" SERIESID="22135"/>
+            <File Name="Runaways 37" ID="248614" SERIESID="21246"/>
+            <File Name="Star Wars:Bounty Hunters 14" ID="247126" SERIESID="24393"/>
+            <File Name="Thor &amp; Loki:Double Trouble 4" ID="247598" SERIESID="25248"/>
+            <File Name="Ultraman:The Trials of Ultraman 4" ID="247904" SERIESID="25395"/>
+            <File Name="Werewolf by Night (Facsimile Edition) 32" ID="249322" SERIESID="22831"/>
+            <File Name="X-Force 21" ID="247349" SERIESID="23876"/>
+            <File Name="X-Men 1" ID="250840" SERIESID="25726"/>
+            <File Name="Aliens Aftermath 1" ID="248199" SERIESID="25473"/>
+            <File Name="Carnage:Black, White &amp; Blood 4" ID="247721" SERIESID="25393"/>
+            <File Name="Champions 8" ID="250051" SERIESID="24690"/>
+            <File Name="Conan the Barbarian 23" ID="248966" SERIESID="22823"/>
+            <File Name="Excalibur 22" ID="250047" SERIESID="23696"/>
+            <File Name="Extreme Carnage:Scream 1" ID="248659" SERIESID="25529"/>
+            <File Name="Iron Man 10" ID="248154" SERIESID="24810"/>
+            <File Name="Sinister War 1" ID="249011" SERIESID="25579"/>
+            <File Name="Spider-Man:Spider&apos;s Shadow 4" ID="247887" SERIESID="25394"/>
+            <File Name="Spider-Woman 13" ID="248691" SERIESID="24693"/>
+            <File Name="Star Wars:Doctor Aphra 12" ID="247631" SERIESID="24624"/>
+            <File Name="Star Wars:War of the Bounty Hunters 2" ID="249119" SERIESID="25580"/>
+            <File Name="Thor 15" ID="247644" SERIESID="24213"/>
+            <File Name="Way of X 4" ID="248983" SERIESID="25313"/>
+            <File Name="X-Corp 3" ID="247528" SERIESID="25392"/>
+            <File Name="Alien 5" ID="248140" SERIESID="25252"/>
+            <File Name="Captain Marvel 30" ID="248359" SERIESID="22959"/>
+            <File Name="Extreme Carnage:Phage 1" ID="248654" SERIESID="25529"/>
+            <File Name="Gamma Flight 2" ID="247992" SERIESID="25440"/>
+            <File Name="Guardians of the Galaxy 16" ID="248004" SERIESID="24276"/>
+            <File Name="Marauders 22" ID="248619" SERIESID="23869"/>
+            <File Name="Marvel Action Spider-Man 4" ID="248981" SERIESID="25581"/>
+            <File Name="Miles Morales:Spider-Man 28" ID="248671" SERIESID="22817"/>
+            <File Name="Moon Knight 1" ID="248706" SERIESID="25525"/>
+            <File Name="New Mutants 20" ID="250086" SERIESID="23868"/>
+            <File Name="Reptil 3" ID="248028" SERIESID="25442"/>
+            <File Name="Savage Avengers 22" ID="248801" SERIESID="23091"/>
+            <File Name="Star Wars:Darth Vader 14" ID="248036" SERIESID="24695"/>
+            <File Name="Star Wars:War of the Bounty Hunters:Jabba the Hutt 1" ID="252828" SERIESID="25943"/>
+            <File Name="Thor Annual 1" ID="247984" SERIESID="24213"/>
+            <File Name="X-Men:Legends 5" ID="248603" SERIESID="25321"/>
+            <File Name="Amazing Fantasy 1" ID="249299" SERIESID="25596"/>
+            <File Name="Amazing Spider-Man 71" ID="248789" SERIESID="22403"/>
+            <File Name="Avengers:Mech Strike 5" ID="248072" SERIESID="25006"/>
+            <File Name="Beta Ray Bill 5" ID="248070" SERIESID="25250"/>
+            <File Name="Black Cat 8" ID="248144" SERIESID="24958"/>
+            <File Name="Black Knight:Curse of the Ebony Blade 5" ID="248065" SERIESID="25253"/>
+            <File Name="Black Widow 9" ID="248970" SERIESID="24692"/>
+            <File Name="Cable 12" ID="249323" SERIESID="24392"/>
+            <File Name="Daredevil 32" ID="248078" SERIESID="22829"/>
+            <File Name="Eternals 6" ID="250936" SERIESID="25311"/>
+            <File Name="Fantastic Four 34" ID="248074" SERIESID="22545"/>
+            <File Name="Marvel Action Captain Marvel 5" ID="249309" SERIESID="24830"/>
+            <File Name="Mighty Valkyries 4" ID="251382" SERIESID="25322"/>
+            <File Name="S.W.O.R.D. 7" ID="248265" SERIESID="25015"/>
+            <File Name="Shang-Chi 3" ID="248104" SERIESID="25454"/>
+            <File Name="Star Wars 15" ID="248090" SERIESID="24280"/>
+            <File Name="Star Wars:The High Republic 7" ID="248685" SERIESID="25017"/>
+            <File Name="Symbiote Spider-Man:Crossroads 1" ID="248803" SERIESID="25544"/>
+            <File Name="United States of Captain America 2" ID="248113" SERIESID="25455"/>
+            <File Name="Wolverine 14" ID="248128" SERIESID="24628"/>
         </Directory>
         <Directory Name="CMC 2021 08">
-            <File Name="Avengers 47" ID="248190"/>
-            <File Name="Deadpool:Black, White &amp; Blood 1" ID="250077"/>
-            <File Name="Extreme Carnage:Lasher 1" ID="248664"/>
-            <File Name="Guardians of the Galaxy Annual 1" ID="250927"/>
-            <File Name="Hellions 14" ID="250054"/>
-            <File Name="Immortal Hulk 49" ID="248183"/>
-            <File Name="Marvel Tales:Miles Morales 1" ID="253319"/>
-            <File Name="Savage Avengers 23" ID="248802"/>
-            <File Name="Silk 5" ID="248763"/>
-            <File Name="Sinister War 2" ID="249030"/>
-            <File Name="Spirits of Vengeance:Spirit Rider 1" ID="252890"/>
-            <File Name="Star Wars:Bounty Hunters 15" ID="251658"/>
-            <File Name="Star Wars:War of the Bounty Hunters:4-LOM and Zuckuss 1" ID="252820"/>
-            <File Name="Ultraman:The Trials of Ultraman 5" ID="249313"/>
-            <File Name="Web of Spider-Man 3" ID="250090"/>
-            <File Name="X-Men 2" ID="250887"/>
-            <File Name="America Chavez:Made in the U.S.A. 5" ID="249007"/>
-            <File Name="Avengers Tech-On 1" ID="250070"/>
-            <File Name="Captain Marvel 31" ID="248363"/>
-            <File Name="Children of the Atom 6" ID="251568"/>
-            <File Name="Daredevil 33" ID="248370"/>
-            <File Name="Defenders 1" ID="250059"/>
-            <File Name="Fantastic Four:Life Story 3" ID="250917"/>
-            <File Name="Miles Morales:Spider-Man 29" ID="248673"/>
-            <File Name="Runaways 38" ID="248615"/>
-            <File Name="Spider-Man:Spider&apos;s Shadow 5" ID="248766"/>
-            <File Name="Star Wars:The High Republic 8" ID="248688"/>
-            <File Name="X-Force 22" ID="250043"/>
-            <File Name="X-Men:Legends 6" ID="248606"/>
-            <File Name="Free Comic Book Day 2021 (Avengers/Hulk) 1" ID="248989"/>
-            <File Name="Free Comic Book Day 2021 (Spider-Man/Venom) 1" ID="248990"/>
-            <File Name="Black Cat 9" ID="251541"/>
-            <File Name="Gamma Flight 3" ID="251582"/>
-            <File Name="Guardians of the Galaxy 17" ID="250921"/>
-            <File Name="Iron Man 11" ID="251588"/>
-            <File Name="Kang the Conqueror 1" ID="251799"/>
-            <File Name="Marauders 23" ID="248621"/>
-            <File Name="Marvels 4" ID="251598"/>
-            <File Name="Miles Morales Spider-Man Annual 1" ID="248677"/>
-            <File Name="Moon Knight 2" ID="248751"/>
-            <File Name="Sinister War 3" ID="249036"/>
-            <File Name="Spider-Woman 14" ID="248693"/>
-            <File Name="Star Wars 16" ID="251602"/>
-            <File Name="Star Wars:War of the Bounty Hunters 3" ID="249128"/>
-            <File Name="Warhammer 40,000:Sisters of Battle 1" ID="251814"/>
-            <File Name="Way of X 5" ID="248985"/>
-            <File Name="X-Corp 4" ID="251550"/>
-            <File Name="X-Men:The Trial of Magneto 1" ID="251672"/>
-            <File Name="Alien 6" ID="250910"/>
-            <File Name="Amazing Fantasy 2" ID="249303"/>
-            <File Name="Amazing Spider-Man 72" ID="248793"/>
-            <File Name="Avengers Annual 1" ID="251534"/>
-            <File Name="Black Widow 10" ID="248972"/>
-            <File Name="Cable Reloaded 1" ID="249311"/>
-            <File Name="Conan the Barbarian 24" ID="248968"/>
-            <File Name="Darkhawk 1" ID="251617"/>
-            <File Name="Extreme Carnage:Riot 1" ID="251648"/>
-            <File Name="Marvel&apos;s Voices:Identity 1" ID="253293"/>
-            <File Name="Non-Stop Spider-Man 4" ID="251576"/>
-            <File Name="Spider-Man:Life Story Annual 1" ID="254592"/>
-            <File Name="Star Wars:Darth Vader 15" ID="250930"/>
-            <File Name="Star Wars:Doctor Aphra 13" ID="251570"/>
-            <File Name="Strange Academy 12" ID="251797"/>
-            <File Name="Symbiote Spider-Man:Crossroads 2" ID="248807"/>
-            <File Name="Thor 16" ID="251664"/>
-            <File Name="United States of Captain America 3" ID="251592"/>
-            <File Name="Winter Guard 1" ID="251611"/>
-            <File Name="Wolverine 15" ID="251626"/>
+            <File Name="Avengers 47" ID="248190" SERIESID="22001"/>
+            <File Name="Deadpool:Black, White &amp; Blood 1" ID="250077" SERIESID="25667"/>
+            <File Name="Extreme Carnage:Lasher 1" ID="248664" SERIESID="25529"/>
+            <File Name="Guardians of the Galaxy Annual 1" ID="250927" SERIESID="24276"/>
+            <File Name="Hellions 14" ID="250054" SERIESID="24391"/>
+            <File Name="Immortal Hulk 49" ID="248183" SERIESID="22135"/>
+            <File Name="Marvel Tales:Miles Morales 1" ID="253319" SERIESID="23423"/>
+            <File Name="Savage Avengers 23" ID="248802" SERIESID="23091"/>
+            <File Name="Silk 5" ID="248763" SERIESID="25254"/>
+            <File Name="Sinister War 2" ID="249030" SERIESID="25579"/>
+            <File Name="Spirits of Vengeance:Spirit Rider 1" ID="252890" SERIESID="25948"/>
+            <File Name="Star Wars:Bounty Hunters 15" ID="251658" SERIESID="24393"/>
+            <File Name="Star Wars:War of the Bounty Hunters:4-LOM and Zuckuss 1" ID="252820" SERIESID="25941"/>
+            <File Name="Ultraman:The Trials of Ultraman 5" ID="249313" SERIESID="25395"/>
+            <File Name="Web of Spider-Man 3" ID="250090" SERIESID="25456"/>
+            <File Name="X-Men 2" ID="250887" SERIESID="25726"/>
+            <File Name="America Chavez:Made in the U.S.A. 5" ID="249007" SERIESID="25323"/>
+            <File Name="Avengers Tech-On 1" ID="250070" SERIESID="25666"/>
+            <File Name="Captain Marvel 31" ID="248363" SERIESID="22959"/>
+            <File Name="Children of the Atom 6" ID="251568" SERIESID="25005"/>
+            <File Name="Daredevil 33" ID="248370" SERIESID="22829"/>
+            <File Name="Defenders 1" ID="250059" SERIESID="25665"/>
+            <File Name="Fantastic Four:Life Story 3" ID="250917" SERIESID="25439"/>
+            <File Name="Miles Morales:Spider-Man 29" ID="248673" SERIESID="22817"/>
+            <File Name="Runaways 38" ID="248615" SERIESID="21246"/>
+            <File Name="Spider-Man:Spider&apos;s Shadow 5" ID="248766" SERIESID="25394"/>
+            <File Name="Star Wars:The High Republic 8" ID="248688" SERIESID="25017"/>
+            <File Name="X-Force 22" ID="250043" SERIESID="23876"/>
+            <File Name="X-Men:Legends 6" ID="248606" SERIESID="25321"/>
+            <File Name="Free Comic Book Day 2021 (Avengers/Hulk) 1" ID="248989" SERIESID="16184"/>
+            <File Name="Free Comic Book Day 2021 (Spider-Man/Venom) 1" ID="248990" SERIESID="16184"/>
+            <File Name="Black Cat 9" ID="251541" SERIESID="24958"/>
+            <File Name="Gamma Flight 3" ID="251582" SERIESID="25440"/>
+            <File Name="Guardians of the Galaxy 17" ID="250921" SERIESID="24276"/>
+            <File Name="Iron Man 11" ID="251588" SERIESID="24810"/>
+            <File Name="Kang the Conqueror 1" ID="251799" SERIESID="25800"/>
+            <File Name="Marauders 23" ID="248621" SERIESID="23869"/>
+            <File Name="Marvels 4" ID="251598" SERIESID="25441"/>
+            <File Name="Miles Morales Spider-Man Annual 1" ID="248677" SERIESID="22817"/>
+            <File Name="Moon Knight 2" ID="248751" SERIESID="25525"/>
+            <File Name="Sinister War 3" ID="249036" SERIESID="25579"/>
+            <File Name="Spider-Woman 14" ID="248693" SERIESID="24693"/>
+            <File Name="Star Wars 16" ID="251602" SERIESID="24280"/>
+            <File Name="Star Wars:War of the Bounty Hunters 3" ID="249128" SERIESID="25580"/>
+            <File Name="Warhammer 40,000:Sisters of Battle 1" ID="251814" SERIESID="25801"/>
+            <File Name="Way of X 5" ID="248985" SERIESID="25313"/>
+            <File Name="X-Corp 4" ID="251550" SERIESID="25392"/>
+            <File Name="X-Men:The Trial of Magneto 1" ID="251672" SERIESID="25798"/>
+            <File Name="Alien 6" ID="250910" SERIESID="25252"/>
+            <File Name="Amazing Fantasy 2" ID="249303" SERIESID="25596"/>
+            <File Name="Amazing Spider-Man 72" ID="248793" SERIESID="22403"/>
+            <File Name="Avengers Annual 1" ID="251534" SERIESID="22001"/>
+            <File Name="Black Widow 10" ID="248972" SERIESID="24692"/>
+            <File Name="Cable Reloaded 1" ID="249311" SERIESID="25597"/>
+            <File Name="Conan the Barbarian 24" ID="248968" SERIESID="22823"/>
+            <File Name="Darkhawk 1" ID="251617" SERIESID="25797"/>
+            <File Name="Extreme Carnage:Riot 1" ID="251648" SERIESID="25529"/>
+            <File Name="Marvel&apos;s Voices:Identity 1" ID="253293" SERIESID="24813"/>
+            <File Name="Non-Stop Spider-Man 4" ID="251576" SERIESID="25251"/>
+            <File Name="Spider-Man:Life Story Annual 1" ID="254592" SERIESID="23088"/>
+            <File Name="Star Wars:Darth Vader 15" ID="250930" SERIESID="24695"/>
+            <File Name="Star Wars:Doctor Aphra 13" ID="251570" SERIESID="24624"/>
+            <File Name="Strange Academy 12" ID="251797" SERIESID="24697"/>
+            <File Name="Symbiote Spider-Man:Crossroads 2" ID="248807" SERIESID="25544"/>
+            <File Name="Thor 16" ID="251664" SERIESID="24213"/>
+            <File Name="United States of Captain America 3" ID="251592" SERIESID="25455"/>
+            <File Name="Winter Guard 1" ID="251611" SERIESID="25796"/>
+            <File Name="Wolverine 15" ID="251626" SERIESID="24628"/>
         </Directory>
         <Directory Name="CMC 2021 09">
-            <File Name="Avengers 48" ID="251532"/>
-            <File Name="Captain Marvel 32" ID="251687"/>
-            <File Name="Dark Ages 1" ID="251756"/>
-            <File Name="Demon Days:Cursed Web 1" ID="252867"/>
-            <File Name="Hellions 15" ID="250057"/>
-            <File Name="Last Annihilation:Wiccan and Hulkling 1" ID="253355"/>
-            <File Name="Marvel Action:Origins 3" ID="253281"/>
-            <File Name="New Mutants 21" ID="250088"/>
-            <File Name="Sinister War 4" ID="250098"/>
-            <File Name="Star Wars:The High Republic 9" ID="252858"/>
-            <File Name="Ultimate Comics Fallout (Facsimile Edition) 4" ID="254580"/>
-            <File Name="Web of Spider-Man 4" ID="250092"/>
-            <File Name="Amazing Spider-Man 73" ID="251767"/>
-            <File Name="Avengers Tech-On 2" ID="250075"/>
-            <File Name="Champions 9" ID="250053"/>
-            <File Name="Conan the Barbarian 25" ID="253334"/>
-            <File Name="Daredevil 34" ID="253200"/>
-            <File Name="Deadpool:Black, White &amp; Blood 2" ID="250083"/>
-            <File Name="Defenders 2" ID="250067"/>
-            <File Name="Excalibur 23" ID="250049"/>
-            <File Name="Extreme Carnage:Toxin 1" ID="251653"/>
-            <File Name="Ka-Zar:Lord of the Savage Land 1" ID="252833"/>
-            <File Name="Marvel Tales:Ka-Zar 1" ID="253321"/>
-            <File Name="Savage Avengers 24" ID="251820"/>
-            <File Name="Shang-Chi 4" ID="252898"/>
-            <File Name="Star Wars:Doctor Aphra 14" ID="251573"/>
-            <File Name="Star Wars:War of the Bounty Hunters 4" ID="252807"/>
-            <File Name="X-Force 23" ID="250045"/>
-            <File Name="Black Widow 11" ID="253222"/>
-            <File Name="Eternals:Thanos Rises 1" ID="252878"/>
-            <File Name="Extreme Carnage:Agony 1" ID="251636"/>
-            <File Name="Fantastic Four 35" ID="251554"/>
-            <File Name="Fantastic Four:Life Story 4" ID="250919"/>
-            <File Name="Iron Man 12" ID="251590"/>
-            <File Name="Kang the Conqueror 2" ID="251812"/>
-            <File Name="Last Annihilation:Wakanda 1" ID="253353"/>
-            <File Name="Marauders 24" ID="253287"/>
-            <File Name="Mighty Valkyries 5" ID="251385"/>
-            <File Name="Spider-Woman 15" ID="253260"/>
-            <File Name="Star Wars:Darth Vader 16" ID="250933"/>
-            <File Name="Star Wars:War of the Bounty Hunters:Boushh 1" ID="252824"/>
-            <File Name="Warhammer 40,000:Sisters of Battle 2" ID="251817"/>
-            <File Name="Web of Spider-Man 5" ID="251796"/>
-            <File Name="X-Men:The Trial of Magneto 2" ID="251682"/>
-            <File Name="Alien 7" ID="250914"/>
-            <File Name="Death of Doctor Strange 1" ID="252844"/>
-            <File Name="Fantastic Four 36" ID="251564"/>
-            <File Name="Gamma Flight 4" ID="251585"/>
-            <File Name="Guardians of the Galaxy 18" ID="250924"/>
-            <File Name="Marvel Action Spider-Man 5" ID="253351"/>
-            <File Name="Moon Knight 3" ID="253215"/>
-            <File Name="Reptil 4" ID="251580"/>
-            <File Name="Star Wars:Bounty Hunters 16" ID="251661"/>
-            <File Name="Symbiote Spider-Man:Crossroads 3" ID="253252"/>
-            <File Name="United States of Captain America 4" ID="251595"/>
-            <File Name="X-Corp 5" ID="251552"/>
-            <File Name="X-Men 3" ID="250899"/>
-            <File Name="X-Men:Legends 7" ID="253206"/>
-            <File Name="X-Men:The Onslaught Revelation 1" ID="253869"/>
-            <File Name="Amazing Fantasy 3" ID="253193"/>
-            <File Name="Amazing Spider-Man 74" ID="251770"/>
-            <File Name="Black Cat 10" ID="251537"/>
-            <File Name="Darkhawk 2" ID="251623"/>
-            <File Name="Darkhold:Alpha 1" ID="253427"/>
-            <File Name="Extreme Carnage:Omega 1" ID="251641"/>
-            <File Name="Inferno 1" ID="253231"/>
-            <File Name="Marvels 5" ID="251600"/>
-            <File Name="Miles Morales:Spider-Man 30" ID="252884"/>
-            <File Name="Non-Stop Spider-Man 5" ID="251578"/>
-            <File Name="S.W.O.R.D. 8" ID="253226"/>
-            <File Name="Star Wars 17" ID="251606"/>
-            <File Name="Thor 17" ID="251669"/>
-            <File Name="Winter Guard 2" ID="251615"/>
-            <File Name="Wolverine 16" ID="251630"/>
+            <File Name="Avengers 48" ID="251532" SERIESID="22001"/>
+            <File Name="Captain Marvel 32" ID="251687" SERIESID="22959"/>
+            <File Name="Dark Ages 1" ID="251756" SERIESID="25799"/>
+            <File Name="Demon Days:Cursed Web 1" ID="252867" SERIESID="25946"/>
+            <File Name="Hellions 15" ID="250057" SERIESID="24391"/>
+            <File Name="Last Annihilation:Wiccan and Hulkling 1" ID="253355" SERIESID="25995"/>
+            <File Name="Marvel Action:Origins 3" ID="253281" SERIESID="25443"/>
+            <File Name="New Mutants 21" ID="250088" SERIESID="23868"/>
+            <File Name="Sinister War 4" ID="250098" SERIESID="25579"/>
+            <File Name="Star Wars:The High Republic 9" ID="252858" SERIESID="25017"/>
+            <File Name="Ultimate Comics Fallout (Facsimile Edition) 4" ID="254580" SERIESID="22831"/>
+            <File Name="Web of Spider-Man 4" ID="250092" SERIESID="25456"/>
+            <File Name="Amazing Spider-Man 73" ID="251767" SERIESID="22403"/>
+            <File Name="Avengers Tech-On 2" ID="250075" SERIESID="25666"/>
+            <File Name="Champions 9" ID="250053" SERIESID="24690"/>
+            <File Name="Conan the Barbarian 25" ID="253334" SERIESID="22823"/>
+            <File Name="Daredevil 34" ID="253200" SERIESID="22829"/>
+            <File Name="Deadpool:Black, White &amp; Blood 2" ID="250083" SERIESID="25667"/>
+            <File Name="Defenders 2" ID="250067" SERIESID="25665"/>
+            <File Name="Excalibur 23" ID="250049" SERIESID="23696"/>
+            <File Name="Extreme Carnage:Toxin 1" ID="251653" SERIESID="25529"/>
+            <File Name="Ka-Zar:Lord of the Savage Land 1" ID="252833" SERIESID="25944"/>
+            <File Name="Marvel Tales:Ka-Zar 1" ID="253321" SERIESID="23423"/>
+            <File Name="Savage Avengers 24" ID="251820" SERIESID="23091"/>
+            <File Name="Shang-Chi 4" ID="252898" SERIESID="25454"/>
+            <File Name="Star Wars:Doctor Aphra 14" ID="251573" SERIESID="24624"/>
+            <File Name="Star Wars:War of the Bounty Hunters 4" ID="252807" SERIESID="25580"/>
+            <File Name="X-Force 23" ID="250045" SERIESID="23876"/>
+            <File Name="Black Widow 11" ID="253222" SERIESID="24692"/>
+            <File Name="Eternals:Thanos Rises 1" ID="252878" SERIESID="25947"/>
+            <File Name="Extreme Carnage:Agony 1" ID="251636" SERIESID="25529"/>
+            <File Name="Fantastic Four 35" ID="251554" SERIESID="22545"/>
+            <File Name="Fantastic Four:Life Story 4" ID="250919" SERIESID="25439"/>
+            <File Name="Iron Man 12" ID="251590" SERIESID="24810"/>
+            <File Name="Kang the Conqueror 2" ID="251812" SERIESID="25800"/>
+            <File Name="Last Annihilation:Wakanda 1" ID="253353" SERIESID="25995"/>
+            <File Name="Marauders 24" ID="253287" SERIESID="23869"/>
+            <File Name="Mighty Valkyries 5" ID="251385" SERIESID="25322"/>
+            <File Name="Spider-Woman 15" ID="253260" SERIESID="24693"/>
+            <File Name="Star Wars:Darth Vader 16" ID="250933" SERIESID="24695"/>
+            <File Name="Star Wars:War of the Bounty Hunters:Boushh 1" ID="252824" SERIESID="25942"/>
+            <File Name="Warhammer 40,000:Sisters of Battle 2" ID="251817" SERIESID="25801"/>
+            <File Name="Web of Spider-Man 5" ID="251796" SERIESID="25456"/>
+            <File Name="X-Men:The Trial of Magneto 2" ID="251682" SERIESID="25798"/>
+            <File Name="Alien 7" ID="250914" SERIESID="25252"/>
+            <File Name="Death of Doctor Strange 1" ID="252844" SERIESID="25945"/>
+            <File Name="Fantastic Four 36" ID="251564" SERIESID="22545"/>
+            <File Name="Gamma Flight 4" ID="251585" SERIESID="25440"/>
+            <File Name="Guardians of the Galaxy 18" ID="250924" SERIESID="24276"/>
+            <File Name="Marvel Action Spider-Man 5" ID="253351" SERIESID="25581"/>
+            <File Name="Moon Knight 3" ID="253215" SERIESID="25525"/>
+            <File Name="Reptil 4" ID="251580" SERIESID="25442"/>
+            <File Name="Star Wars:Bounty Hunters 16" ID="251661" SERIESID="24393"/>
+            <File Name="Symbiote Spider-Man:Crossroads 3" ID="253252" SERIESID="25544"/>
+            <File Name="United States of Captain America 4" ID="251595" SERIESID="25455"/>
+            <File Name="X-Corp 5" ID="251552" SERIESID="25392"/>
+            <File Name="X-Men 3" ID="250899" SERIESID="25726"/>
+            <File Name="X-Men:Legends 7" ID="253206" SERIESID="25321"/>
+            <File Name="X-Men:The Onslaught Revelation 1" ID="253869" SERIESID="26098"/>
+            <File Name="Amazing Fantasy 3" ID="253193" SERIESID="25596"/>
+            <File Name="Amazing Spider-Man 74" ID="251770" SERIESID="22403"/>
+            <File Name="Black Cat 10" ID="251537" SERIESID="24958"/>
+            <File Name="Darkhawk 2" ID="251623" SERIESID="25797"/>
+            <File Name="Darkhold:Alpha 1" ID="253427" SERIESID="26024"/>
+            <File Name="Extreme Carnage:Omega 1" ID="251641" SERIESID="25529"/>
+            <File Name="Inferno 1" ID="253231" SERIESID="25991"/>
+            <File Name="Marvels 5" ID="251600" SERIESID="25441"/>
+            <File Name="Miles Morales:Spider-Man 30" ID="252884" SERIESID="22817"/>
+            <File Name="Non-Stop Spider-Man 5" ID="251578" SERIESID="25251"/>
+            <File Name="S.W.O.R.D. 8" ID="253226" SERIESID="25015"/>
+            <File Name="Star Wars 17" ID="251606" SERIESID="24280"/>
+            <File Name="Thor 17" ID="251669" SERIESID="24213"/>
+            <File Name="Winter Guard 2" ID="251615" SERIESID="25796"/>
+            <File Name="Wolverine 16" ID="251630" SERIESID="24628"/>
         </Directory>
         <Directory Name="CMC 2021 10">
-            <File Name="Amazing Spider-Man 75" ID="251783"/>
-            <File Name="Avengers Tech-On 3" ID="253256"/>
-            <File Name="Captain Marvel 33" ID="251690"/>
-            <File Name="Champions 10" ID="253814"/>
-            <File Name="Dark Ages 2" ID="251763"/>
-            <File Name="Deadpool:Black, White &amp; Blood 3" ID="253275"/>
-            <File Name="Defenders 3" ID="254526"/>
-            <File Name="Eternals:Celestia 1" ID="253342"/>
-            <File Name="Excalibur 24" ID="253270"/>
-            <File Name="Hellions 16" ID="253454"/>
-            <File Name="Marvel Action:Origins 4" ID="253284"/>
-            <File Name="New Mutants 22" ID="253723"/>
-            <File Name="Savage Avengers 25" ID="251821"/>
-            <File Name="Amazing Spider-Man 76" ID="253325"/>
-            <File Name="Avengers 49" ID="253740"/>
-            <File Name="Black Panther Legends 1" ID="253392"/>
-            <File Name="Darkhold:Iron Man 1" ID="253437"/>
-            <File Name="Eternals Forever 1" ID="253345"/>
-            <File Name="Gamma Flight 5" ID="252864"/>
-            <File Name="Immortal Hulk 50" ID="253304"/>
-            <File Name="Iron Man 13" ID="253713"/>
-            <File Name="Ka-Zar:Lord of the Savage Land 2" ID="252841"/>
-            <File Name="Kang the Conqueror 3" ID="253248"/>
-            <File Name="Marvel Tales:Ms. Marvel 1" ID="253323"/>
-            <File Name="Miles Morales:Spider-Man 31" ID="252888"/>
-            <File Name="Shang-Chi 5" ID="252901"/>
-            <File Name="Star Wars:Doctor Aphra 15" ID="253414"/>
-            <File Name="Star Wars:The High Republic  Trail of Shadows 1" ID="253717"/>
-            <File Name="Star Wars:War of the Bounty Hunters 5" ID="252812"/>
-            <File Name="Symbiote Spider-Man:Crossroads 4" ID="253254"/>
-            <File Name="Warhammer 40,000:Sisters of Battle 3" ID="253802"/>
-            <File Name="X-Force 24" ID="253459"/>
-            <File Name="X-Men 4" ID="253755"/>
-            <File Name="Death of Doctor Strange 2" ID="252851"/>
-            <File Name="Fantastic Four 37" ID="253700"/>
-            <File Name="Phoenix Song:Echo 1" ID="253769"/>
-            <File Name="Star Wars:The High Republic 10" ID="252861"/>
-            <File Name="Thor 18" ID="253762"/>
-            <File Name="United States of Captain America 5" ID="252903"/>
-            <File Name="X-Men:The Trial of Magneto 3" ID="253819"/>
-            <File Name="Amazing Spider-Man 77" ID="253328"/>
-            <File Name="Black Widow 12" ID="253224"/>
-            <File Name="Daredevil 35" ID="253203"/>
-            <File Name="Daredevil (Halloween Comic Book Extravanganza 2021 Edition) 28" ID="253348"/>
-            <File Name="Darkhold:Blade 1" ID="253432"/>
-            <File Name="Hawkeye (Halloween Comic Book Extravanganza 2021 Edition) 1" ID="253347"/>
-            <File Name="Inferno 2" ID="253241"/>
-            <File Name="Marauders 25" ID="253289"/>
-            <File Name="Miles Morales Spider-Man (Halloween Comic Book Extravanganza 2021 Edition) 1" ID="253349"/>
-            <File Name="Moon Knight 4" ID="253219"/>
-            <File Name="S.W.O.R.D. 9" ID="253228"/>
-            <File Name="Spider-Woman 16" ID="253262"/>
-            <File Name="Star Wars:Darth Vader 17" ID="253733"/>
-            <File Name="Star Wars:The High Republic (Halloween Comic Book Extravanganza 2021 Edition) 1" ID="253350"/>
-            <File Name="Star Wars:War of the Bounty Hunters:IG-88 1" ID="253265"/>
-            <File Name="Wolverine 17" ID="253776"/>
+            <File Name="Amazing Spider-Man 75" ID="251783" SERIESID="22403"/>
+            <File Name="Avengers Tech-On 3" ID="253256" SERIESID="25666"/>
+            <File Name="Captain Marvel 33" ID="251690" SERIESID="22959"/>
+            <File Name="Champions 10" ID="253814" SERIESID="24690"/>
+            <File Name="Dark Ages 2" ID="251763" SERIESID="25799"/>
+            <File Name="Deadpool:Black, White &amp; Blood 3" ID="253275" SERIESID="25667"/>
+            <File Name="Defenders 3" ID="254526" SERIESID="25665"/>
+            <File Name="Eternals:Celestia 1" ID="253342" SERIESID="25993"/>
+            <File Name="Excalibur 24" ID="253270" SERIESID="23696"/>
+            <File Name="Hellions 16" ID="253454" SERIESID="24391"/>
+            <File Name="Marvel Action:Origins 4" ID="253284" SERIESID="25443"/>
+            <File Name="New Mutants 22" ID="253723" SERIESID="23868"/>
+            <File Name="Savage Avengers 25" ID="251821" SERIESID="23091"/>
+            <File Name="Amazing Spider-Man 76" ID="253325" SERIESID="22403"/>
+            <File Name="Avengers 49" ID="253740" SERIESID="22001"/>
+            <File Name="Black Panther Legends 1" ID="253392" SERIESID="26014"/>
+            <File Name="Darkhold:Iron Man 1" ID="253437" SERIESID="26024"/>
+            <File Name="Eternals Forever 1" ID="253345" SERIESID="25994"/>
+            <File Name="Gamma Flight 5" ID="252864" SERIESID="25440"/>
+            <File Name="Immortal Hulk 50" ID="253304" SERIESID="22135"/>
+            <File Name="Iron Man 13" ID="253713" SERIESID="24810"/>
+            <File Name="Ka-Zar:Lord of the Savage Land 2" ID="252841" SERIESID="25944"/>
+            <File Name="Kang the Conqueror 3" ID="253248" SERIESID="25800"/>
+            <File Name="Marvel Tales:Ms. Marvel 1" ID="253323" SERIESID="23423"/>
+            <File Name="Miles Morales:Spider-Man 31" ID="252888" SERIESID="22817"/>
+            <File Name="Shang-Chi 5" ID="252901" SERIESID="25454"/>
+            <File Name="Star Wars:Doctor Aphra 15" ID="253414" SERIESID="24624"/>
+            <File Name="Star Wars:The High Republic  Trail of Shadows 1" ID="253717" SERIESID="26074"/>
+            <File Name="Star Wars:War of the Bounty Hunters 5" ID="252812" SERIESID="25580"/>
+            <File Name="Symbiote Spider-Man:Crossroads 4" ID="253254" SERIESID="25544"/>
+            <File Name="Warhammer 40,000:Sisters of Battle 3" ID="253802" SERIESID="25801"/>
+            <File Name="X-Force 24" ID="253459" SERIESID="23876"/>
+            <File Name="X-Men 4" ID="253755" SERIESID="25726"/>
+            <File Name="Death of Doctor Strange 2" ID="252851" SERIESID="25945"/>
+            <File Name="Fantastic Four 37" ID="253700" SERIESID="22545"/>
+            <File Name="Phoenix Song:Echo 1" ID="253769" SERIESID="26075"/>
+            <File Name="Star Wars:The High Republic 10" ID="252861" SERIESID="25017"/>
+            <File Name="Thor 18" ID="253762" SERIESID="24213"/>
+            <File Name="United States of Captain America 5" ID="252903" SERIESID="25455"/>
+            <File Name="X-Men:The Trial of Magneto 3" ID="253819" SERIESID="25798"/>
+            <File Name="Amazing Spider-Man 77" ID="253328" SERIESID="22403"/>
+            <File Name="Black Widow 12" ID="253224" SERIESID="24692"/>
+            <File Name="Daredevil 35" ID="253203" SERIESID="22829"/>
+            <File Name="Daredevil (Halloween Comic Book Extravanganza 2021 Edition) 28" ID="253348" SERIESID="17115"/>
+            <File Name="Darkhold:Blade 1" ID="253432" SERIESID="26024"/>
+            <File Name="Hawkeye (Halloween Comic Book Extravanganza 2021 Edition) 1" ID="253347" SERIESID="17115"/>
+            <File Name="Inferno 2" ID="253241" SERIESID="25991"/>
+            <File Name="Marauders 25" ID="253289" SERIESID="23869"/>
+            <File Name="Miles Morales Spider-Man (Halloween Comic Book Extravanganza 2021 Edition) 1" ID="253349" SERIESID="17115"/>
+            <File Name="Moon Knight 4" ID="253219" SERIESID="25525"/>
+            <File Name="S.W.O.R.D. 9" ID="253228" SERIESID="25015"/>
+            <File Name="Spider-Woman 16" ID="253262" SERIESID="24693"/>
+            <File Name="Star Wars:Darth Vader 17" ID="253733" SERIESID="24695"/>
+            <File Name="Star Wars:The High Republic (Halloween Comic Book Extravanganza 2021 Edition) 1" ID="253350" SERIESID="17115"/>
+            <File Name="Star Wars:War of the Bounty Hunters:IG-88 1" ID="253265" SERIESID="25992"/>
+            <File Name="Wolverine 17" ID="253776" SERIESID="24628"/>
         </Directory>
         <Directory Name="CMC 2021 11">
-            <File Name="Amazing Fantasy 4" ID="253196"/>
-            <File Name="Darkhawk 3" ID="253694"/>
-            <File Name="Death of Doctor Strange:Avengers 1" ID="254767"/>
-            <File Name="Star Wars 18" ID="254503"/>
-            <File Name="Star Wars:Bounty Hunters 17" ID="253706"/>
-            <File Name="Strange Academy Presents:The Death of Doctor Strange 1" ID="254776"/>
-            <File Name="Winter Guard 3" ID="253783"/>
-            <File Name="X-Men:Legends 8" ID="253208"/>
-            <File Name="Alien 8" ID="253827"/>
-            <File Name="Amazing Spider-Man 78" ID="253331"/>
-            <File Name="Avengers Tech-On 4" ID="253258"/>
-            <File Name="Deadpool:Black, White &amp; Blood 4" ID="253278"/>
-            <File Name="Eternals 7" ID="254531"/>
-            <File Name="Excalibur 25" ID="253273"/>
-            <File Name="Hellions 17" ID="253457"/>
-            <File Name="Miles Morales:Spider-Man 32" ID="254560"/>
-            <File Name="Savage Avengers 26" ID="254565"/>
-            <File Name="Star Wars:The High Republic 11" ID="254567"/>
-            <File Name="Strange Academy 13" ID="254555"/>
-            <File Name="Thing 1" ID="254542"/>
-            <File Name="Venom 1" ID="253787"/>
-            <File Name="Amazing Spider-Man 78BEY" ID="253726"/>
-            <File Name="Black Panther Legends 2" ID="253395"/>
-            <File Name="Dark Ages 3" ID="255537"/>
-            <File Name="Darkhold:Wasp 1" ID="253441"/>
-            <File Name="Fantastic Four Anniversary Tribute 1" ID="253815"/>
-            <File Name="Ka-Zar:Lord of the Savage Land 3" ID="254549"/>
-            <File Name="Kang the Conqueror 4" ID="253250"/>
-            <File Name="Marvel Tales:Genis-Vell 1" ID="255611"/>
-            <File Name="Moon Knight 5" ID="255517"/>
-            <File Name="S.W.O.R.D. 10" ID="255545"/>
-            <File Name="Shang-Chi 6" ID="255452"/>
-            <File Name="Spider-Woman 17" ID="255528"/>
-            <File Name="Star Wars:Doctor Aphra 16" ID="253418"/>
-            <File Name="X-Force 25" ID="253462"/>
-            <File Name="Amazing Spider-Man 79" ID="253728"/>
-            <File Name="Black Panther 1" ID="254783"/>
-            <File Name="Death of Doctor Strange 3" ID="254780"/>
-            <File Name="Hawkeye:Kate Bishop 1" ID="255508"/>
-            <File Name="Hulk 1" ID="254753"/>
-            <File Name="Iron Man 14" ID="253715"/>
-            <File Name="Star Wars:Life Day 1" ID="254595"/>
-            <File Name="Star Wars:The High Republic  Trail of Shadows 2" ID="253720"/>
-            <File Name="Symbiote Spider-Man:Crossroads 5" ID="253808"/>
-            <File Name="Thor 19" ID="253765"/>
-            <File Name="Wolverine 18" ID="253780"/>
-            <File Name="X-Force:Killshot Anniversary Special 1" ID="254513"/>
-            <File Name="X-Men 5" ID="253759"/>
+            <File Name="Amazing Fantasy 4" ID="253196" SERIESID="25596"/>
+            <File Name="Darkhawk 3" ID="253694" SERIESID="25797"/>
+            <File Name="Death of Doctor Strange:Avengers 1" ID="254767" SERIESID="26149"/>
+            <File Name="Star Wars 18" ID="254503" SERIESID="24280"/>
+            <File Name="Star Wars:Bounty Hunters 17" ID="253706" SERIESID="24393"/>
+            <File Name="Strange Academy Presents:The Death of Doctor Strange 1" ID="254776" SERIESID="26149"/>
+            <File Name="Winter Guard 3" ID="253783" SERIESID="25796"/>
+            <File Name="X-Men:Legends 8" ID="253208" SERIESID="25321"/>
+            <File Name="Alien 8" ID="253827" SERIESID="25252"/>
+            <File Name="Amazing Spider-Man 78" ID="253331" SERIESID="22403"/>
+            <File Name="Avengers Tech-On 4" ID="253258" SERIESID="25666"/>
+            <File Name="Deadpool:Black, White &amp; Blood 4" ID="253278" SERIESID="25667"/>
+            <File Name="Eternals 7" ID="254531" SERIESID="25311"/>
+            <File Name="Excalibur 25" ID="253273" SERIESID="23696"/>
+            <File Name="Hellions 17" ID="253457" SERIESID="24391"/>
+            <File Name="Miles Morales:Spider-Man 32" ID="254560" SERIESID="22817"/>
+            <File Name="Savage Avengers 26" ID="254565" SERIESID="23091"/>
+            <File Name="Star Wars:The High Republic 11" ID="254567" SERIESID="25017"/>
+            <File Name="Strange Academy 13" ID="254555" SERIESID="24697"/>
+            <File Name="Thing 1" ID="254542" SERIESID="26147"/>
+            <File Name="Venom 1" ID="253787" SERIESID="26076"/>
+            <File Name="Amazing Spider-Man 78BEY" ID="253726" SERIESID="22403"/>
+            <File Name="Black Panther Legends 2" ID="253395" SERIESID="26014"/>
+            <File Name="Dark Ages 3" ID="255537" SERIESID="25799"/>
+            <File Name="Darkhold:Wasp 1" ID="253441" SERIESID="26024"/>
+            <File Name="Fantastic Four Anniversary Tribute 1" ID="253815" SERIESID="26077"/>
+            <File Name="Ka-Zar:Lord of the Savage Land 3" ID="254549" SERIESID="25944"/>
+            <File Name="Kang the Conqueror 4" ID="253250" SERIESID="25800"/>
+            <File Name="Marvel Tales:Genis-Vell 1" ID="255611" SERIESID="23423"/>
+            <File Name="Moon Knight 5" ID="255517" SERIESID="25525"/>
+            <File Name="S.W.O.R.D. 10" ID="255545" SERIESID="25015"/>
+            <File Name="Shang-Chi 6" ID="255452" SERIESID="25454"/>
+            <File Name="Spider-Woman 17" ID="255528" SERIESID="24693"/>
+            <File Name="Star Wars:Doctor Aphra 16" ID="253418" SERIESID="24624"/>
+            <File Name="X-Force 25" ID="253462" SERIESID="23876"/>
+            <File Name="Amazing Spider-Man 79" ID="253728" SERIESID="22403"/>
+            <File Name="Black Panther 1" ID="254783" SERIESID="26179"/>
+            <File Name="Death of Doctor Strange 3" ID="254780" SERIESID="25945"/>
+            <File Name="Hawkeye:Kate Bishop 1" ID="255508" SERIESID="26235"/>
+            <File Name="Hulk 1" ID="254753" SERIESID="26148"/>
+            <File Name="Iron Man 14" ID="253715" SERIESID="24810"/>
+            <File Name="Star Wars:Life Day 1" ID="254595" SERIESID="26150"/>
+            <File Name="Star Wars:The High Republic  Trail of Shadows 2" ID="253720" SERIESID="26074"/>
+            <File Name="Symbiote Spider-Man:Crossroads 5" ID="253808" SERIESID="25544"/>
+            <File Name="Thor 19" ID="253765" SERIESID="24213"/>
+            <File Name="Wolverine 18" ID="253780" SERIESID="24628"/>
+            <File Name="X-Force:Killshot Anniversary Special 1" ID="254513" SERIESID="26146"/>
+            <File Name="X-Men 5" ID="253759" SERIESID="25726"/>
         </Directory>
         <Directory Name="CMC 2021 12">
-            <File Name="Amazing Spider-Man 80" ID="253731"/>
-            <File Name="Avengers 50" ID="253744"/>
-            <File Name="Captain Marvel 34" ID="255470"/>
-            <File Name="Daredevil 36" ID="256330"/>
-            <File Name="Darkhawk 4" ID="253697"/>
-            <File Name="Darkhold:Black Bolt 1" ID="253810"/>
-            <File Name="Death of Doctor Strange:Spider-Man 1" ID="254769"/>
-            <File Name="Death of Doctor Strange:White Fox 1" ID="254771"/>
-            <File Name="Fantastic Four 38" ID="253703"/>
-            <File Name="Marauders 26" ID="255524"/>
-            <File Name="Marvels 6" ID="255593"/>
-            <File Name="New Mutants 23" ID="253725"/>
-            <File Name="Phoenix Song:Echo 2" ID="253774"/>
-            <File Name="Star Wars:Bounty Hunters 18" ID="253710"/>
-            <File Name="Star Wars:Darth Vader 18" ID="253737"/>
-            <File Name="Venom 2" ID="253798"/>
-            <File Name="Warhammer 40,000:Sisters of Battle 4" ID="253805"/>
-            <File Name="Winter Guard 4" ID="253785"/>
-            <File Name="X-Men:The Trial of Magneto 4" ID="253824"/>
-            <File Name="Amazing Fantasy 5" ID="253876"/>
-            <File Name="Amazing Spider-Man 80BEY" ID="255479"/>
-            <File Name="Captain America/Iron Man 1" ID="255458"/>
-            <File Name="Death of Doctor Strange:Blade 1" ID="254774"/>
-            <File Name="Demon Days:X-Men Creator&apos;s Cut 1" ID="254591"/>
-            <File Name="Devil&apos;s Reign 1" ID="255496"/>
-            <File Name="Fantastic Four:Life Story 5" ID="256347"/>
-            <File Name="Giant-Size Black Cat:Infinity Score 1" ID="255597"/>
-            <File Name="Hellions 18" ID="256292"/>
-            <File Name="Inferno 3" ID="255549"/>
-            <File Name="Marvel&apos;s Voices:Community 1" ID="254573"/>
-            <File Name="Star Wars 19" ID="254509"/>
-            <File Name="Star Wars:Crimson Reign 1" ID="257374"/>
-            <File Name="X-Men:Legends 9" ID="255568"/>
-            <File Name="Amazing Spider-Man 81" ID="255481"/>
-            <File Name="Conan the Barbarian (Facsimile Edition) 1" ID="254581"/>
-            <File Name="Defenders 4" ID="254529"/>
-            <File Name="Demon Days:Rising Storm 1" ID="254582"/>
-            <File Name="Eternals 8" ID="254538"/>
-            <File Name="Excalibur 26" ID="256309"/>
-            <File Name="Hulk 2" ID="254764"/>
-            <File Name="Ka-Zar:Lord of the Savage Land 4" ID="254552"/>
-            <File Name="Miles Morales:Spider-Man 33" ID="254562"/>
-            <File Name="Savage Avengers 27" ID="254566"/>
-            <File Name="Star Wars:The High Republic 12" ID="254570"/>
-            <File Name="Strange Academy 14" ID="254558"/>
-            <File Name="Thing 2" ID="254546"/>
-            <File Name="Wastelanders:Wolverine 1" ID="256257"/>
-            <File Name="X-Force 26" ID="256345"/>
-            <File Name="Amazing Spider-Man 82" ID="255484"/>
-            <File Name="Avengers 51" ID="256324"/>
-            <File Name="Avengers Forever 1" ID="256317"/>
-            <File Name="Avengers Tech-On 5" ID="257389"/>
-            <File Name="Black Panther 2" ID="254791"/>
-            <File Name="Darkhold:Spider-Man 1" ID="255588"/>
-            <File Name="Hawkeye:Kate Bishop 2" ID="255513"/>
-            <File Name="Iron Man 15" ID="256282"/>
-            <File Name="Kang the Conqueror 5" ID="255591"/>
-            <File Name="King Conan 1" ID="255570"/>
-            <File Name="Marvel Tales:The Last Avengers Story 1" ID="255609"/>
-            <File Name="Moon Knight 6" ID="255521"/>
-            <File Name="Ms. Marvel:Beyond the Limit 1" ID="255602"/>
-            <File Name="Phoenix Song:Echo 3" ID="256259"/>
-            <File Name="S.W.O.R.D. 11" ID="255547"/>
-            <File Name="Star Wars:Darth Vader 19" ID="257430"/>
-            <File Name="Star Wars:The High Republic  Trail of Shadows 3" ID="256286"/>
-            <File Name="Venom 3" ID="256240"/>
-            <File Name="Wastelanders:Hawkeye 1" ID="256252"/>
-            <File Name="Wolverine 19" ID="257872"/>
-            <File Name="X-Men:The Trial of Magneto 5" ID="255581"/>
-            <File Name="Amazing Spider-Man 83" ID="255487"/>
-            <File Name="Death of Doctor Strange 4" ID="256263"/>
-            <File Name="Devil&apos;s Reign 2" ID="255504"/>
-            <File Name="Marvel Action Classics:Spider-Man Two-in-One 4" ID="257418"/>
-            <File Name="Star Wars:Bounty Hunters 19" ID="255613"/>
-            <File Name="Timeless 1" ID="257419"/>
-            <File Name="Wastelanders:Star-Lord 1" ID="256255"/>
+            <File Name="Amazing Spider-Man 80" ID="253731" SERIESID="22403"/>
+            <File Name="Avengers 50" ID="253744" SERIESID="22001"/>
+            <File Name="Captain Marvel 34" ID="255470" SERIESID="22959"/>
+            <File Name="Daredevil 36" ID="256330" SERIESID="22829"/>
+            <File Name="Darkhawk 4" ID="253697" SERIESID="25797"/>
+            <File Name="Darkhold:Black Bolt 1" ID="253810" SERIESID="26024"/>
+            <File Name="Death of Doctor Strange:Spider-Man 1" ID="254769" SERIESID="26149"/>
+            <File Name="Death of Doctor Strange:White Fox 1" ID="254771" SERIESID="26149"/>
+            <File Name="Fantastic Four 38" ID="253703" SERIESID="22545"/>
+            <File Name="Marauders 26" ID="255524" SERIESID="23869"/>
+            <File Name="Marvels 6" ID="255593" SERIESID="25441"/>
+            <File Name="New Mutants 23" ID="253725" SERIESID="23868"/>
+            <File Name="Phoenix Song:Echo 2" ID="253774" SERIESID="26075"/>
+            <File Name="Star Wars:Bounty Hunters 18" ID="253710" SERIESID="24393"/>
+            <File Name="Star Wars:Darth Vader 18" ID="253737" SERIESID="24695"/>
+            <File Name="Venom 2" ID="253798" SERIESID="26076"/>
+            <File Name="Warhammer 40,000:Sisters of Battle 4" ID="253805" SERIESID="25801"/>
+            <File Name="Winter Guard 4" ID="253785" SERIESID="25796"/>
+            <File Name="X-Men:The Trial of Magneto 4" ID="253824" SERIESID="25798"/>
+            <File Name="Amazing Fantasy 5" ID="253876" SERIESID="25596"/>
+            <File Name="Amazing Spider-Man 80BEY" ID="255479" SERIESID="22403"/>
+            <File Name="Captain America/Iron Man 1" ID="255458" SERIESID="26233"/>
+            <File Name="Death of Doctor Strange:Blade 1" ID="254774" SERIESID="26149"/>
+            <File Name="Demon Days:X-Men Creator&apos;s Cut 1" ID="254591" SERIESID="25946"/>
+            <File Name="Devil&apos;s Reign 1" ID="255496" SERIESID="26234"/>
+            <File Name="Fantastic Four:Life Story 5" ID="256347" SERIESID="25439"/>
+            <File Name="Giant-Size Black Cat:Infinity Score 1" ID="255597" SERIESID="24958"/>
+            <File Name="Hellions 18" ID="256292" SERIESID="24391"/>
+            <File Name="Inferno 3" ID="255549" SERIESID="25991"/>
+            <File Name="Marvel&apos;s Voices:Community 1" ID="254573" SERIESID="24813"/>
+            <File Name="Star Wars 19" ID="254509" SERIESID="24280"/>
+            <File Name="Star Wars:Crimson Reign 1" ID="257374" SERIESID="26363"/>
+            <File Name="X-Men:Legends 9" ID="255568" SERIESID="25321"/>
+            <File Name="Amazing Spider-Man 81" ID="255481" SERIESID="22403"/>
+            <File Name="Conan the Barbarian (Facsimile Edition) 1" ID="254581" SERIESID="22831"/>
+            <File Name="Defenders 4" ID="254529" SERIESID="25665"/>
+            <File Name="Demon Days:Rising Storm 1" ID="254582" SERIESID="25946"/>
+            <File Name="Eternals 8" ID="254538" SERIESID="25311"/>
+            <File Name="Excalibur 26" ID="256309" SERIESID="23696"/>
+            <File Name="Hulk 2" ID="254764" SERIESID="26148"/>
+            <File Name="Ka-Zar:Lord of the Savage Land 4" ID="254552" SERIESID="25944"/>
+            <File Name="Miles Morales:Spider-Man 33" ID="254562" SERIESID="22817"/>
+            <File Name="Savage Avengers 27" ID="254566" SERIESID="23091"/>
+            <File Name="Star Wars:The High Republic 12" ID="254570" SERIESID="25017"/>
+            <File Name="Strange Academy 14" ID="254558" SERIESID="24697"/>
+            <File Name="Thing 2" ID="254546" SERIESID="26147"/>
+            <File Name="Wastelanders:Wolverine 1" ID="256257" SERIESID="26291"/>
+            <File Name="X-Force 26" ID="256345" SERIESID="23876"/>
+            <File Name="Amazing Spider-Man 82" ID="255484" SERIESID="22403"/>
+            <File Name="Avengers 51" ID="256324" SERIESID="22001"/>
+            <File Name="Avengers Forever 1" ID="256317" SERIESID="26292"/>
+            <File Name="Avengers Tech-On 5" ID="257389" SERIESID="25666"/>
+            <File Name="Black Panther 2" ID="254791" SERIESID="26179"/>
+            <File Name="Darkhold:Spider-Man 1" ID="255588" SERIESID="26024"/>
+            <File Name="Hawkeye:Kate Bishop 2" ID="255513" SERIESID="26235"/>
+            <File Name="Iron Man 15" ID="256282" SERIESID="24810"/>
+            <File Name="Kang the Conqueror 5" ID="255591" SERIESID="25800"/>
+            <File Name="King Conan 1" ID="255570" SERIESID="26236"/>
+            <File Name="Marvel Tales:The Last Avengers Story 1" ID="255609" SERIESID="23423"/>
+            <File Name="Moon Knight 6" ID="255521" SERIESID="25525"/>
+            <File Name="Ms. Marvel:Beyond the Limit 1" ID="255602" SERIESID="26237"/>
+            <File Name="Phoenix Song:Echo 3" ID="256259" SERIESID="26075"/>
+            <File Name="S.W.O.R.D. 11" ID="255547" SERIESID="25015"/>
+            <File Name="Star Wars:Darth Vader 19" ID="257430" SERIESID="24695"/>
+            <File Name="Star Wars:The High Republic  Trail of Shadows 3" ID="256286" SERIESID="26074"/>
+            <File Name="Venom 3" ID="256240" SERIESID="26076"/>
+            <File Name="Wastelanders:Hawkeye 1" ID="256252" SERIESID="26291"/>
+            <File Name="Wolverine 19" ID="257872" SERIESID="24628"/>
+            <File Name="X-Men:The Trial of Magneto 5" ID="255581" SERIESID="25798"/>
+            <File Name="Amazing Spider-Man 83" ID="255487" SERIESID="22403"/>
+            <File Name="Death of Doctor Strange 4" ID="256263" SERIESID="25945"/>
+            <File Name="Devil&apos;s Reign 2" ID="255504" SERIESID="26234"/>
+            <File Name="Marvel Action Classics:Spider-Man Two-in-One 4" ID="257418" SERIESID="23414"/>
+            <File Name="Star Wars:Bounty Hunters 19" ID="255613" SERIESID="24393"/>
+            <File Name="Timeless 1" ID="257419" SERIESID="26365"/>
+            <File Name="Wastelanders:Star-Lord 1" ID="256255" SERIESID="26291"/>
         </Directory>
     </Year>

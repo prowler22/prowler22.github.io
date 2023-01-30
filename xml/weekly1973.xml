@@ -2,556 +2,556 @@
 <!DOCTYPE xml>
     <Year Name="CMC 1973">
         <Directory Name="CMC 1973 01">
-            <File Name="Cat 3" ID="48378"/>
-            <File Name="Chili 22" ID="56271"/>
-            <File Name="Daredevil 98" ID="44819"/>
-            <File Name="Incredible Hulk 162" ID="44970"/>
-            <File Name="Iron Man 57" ID="44996"/>
-            <File Name="Kid Colt Outlaw 169" ID="56847"/>
-            <File Name="Millie the Model 201" ID="57155"/>
-            <File Name="Monsters on the Prowl 22" ID="56240"/>
-            <File Name="Outlaw Kid 15" ID="57411"/>
-            <File Name="Shield 2" ID="48353"/>
-            <File Name="Wyatt Earp 33" ID="58274"/>
-            <File Name="Amazing Spider-Man 119" ID="45146"/>
-            <File Name="Avengers 110" ID="44736"/>
-            <File Name="Captain America 160" ID="44788"/>
-            <File Name="Doc Savage 4" ID="56652"/>
-            <File Name="Gun-Slinger 2" ID="56721"/>
-            <File Name="Marvel Triple Action 10" ID="45123"/>
-            <File Name="Monster Madness 2" ID="69767"/>
-            <File Name="Shanna, the She-Devil 3" ID="57783"/>
-            <File Name="Sub-Mariner 60" ID="45281"/>
-            <File Name="Thor 210" ID="45236"/>
-            <File Name="Vault of Evil 2" ID="58099"/>
-            <File Name="X-Men 81" ID="45205"/>
-            <File Name="Astonishing Tales 17" ID="44718"/>
-            <File Name="Combat Kelly 6" ID="56281"/>
-            <File Name="Conan the Barbarian 25" ID="56309"/>
-            <File Name="Fear 13" ID="56677"/>
-            <File Name="Gunhawks 4" ID="56717"/>
-            <File Name="Hero for Hire 8" ID="45041"/>
-            <File Name="Marvel Tales 42" ID="45013"/>
-            <File Name="Rawhide Kid 110" ID="57574"/>
-            <File Name="Supernatural Thrillers 3" ID="57991"/>
-            <File Name="Crazy 2" ID="56588"/>
-            <File Name="Defenders 5" ID="44826"/>
-            <File Name="Fantastic Four 133" ID="44854"/>
-            <File Name="Journey into Mystery 4" ID="56741"/>
-            <File Name="Jungle Action 4" ID="56760"/>
-            <File Name="Li&apos;l Kids 11" ID="56983"/>
-            <File Name="Marvel Spotlight 9" ID="45247"/>
-            <File Name="Marvel Team-Up 8" ID="45255"/>
-            <File Name="Our Love Story 22" ID="57380"/>
-            <File Name="Sgt. Fury 109" ID="45076"/>
-            <File Name="Warlock 5" ID="45211"/>
+            <File Name="Cat 3" ID="48378" SERIESID="4063"/>
+            <File Name="Chili 22" ID="56271" SERIESID="4432"/>
+            <File Name="Daredevil 98" ID="44819" SERIESID="3988"/>
+            <File Name="Incredible Hulk 162" ID="44970" SERIESID="3984"/>
+            <File Name="Iron Man 57" ID="44996" SERIESID="3989"/>
+            <File Name="Kid Colt Outlaw 169" ID="56847" SERIESID="4277"/>
+            <File Name="Millie the Model 201" ID="57155" SERIESID="4311"/>
+            <File Name="Monsters on the Prowl 22" ID="56240" SERIESID="4431"/>
+            <File Name="Outlaw Kid 15" ID="57411" SERIESID="4467"/>
+            <File Name="Shield 2" ID="48353" SERIESID="4060"/>
+            <File Name="Wyatt Earp 33" ID="58274" SERIESID="4408"/>
+            <File Name="Amazing Spider-Man 119" ID="45146" SERIESID="3985"/>
+            <File Name="Avengers 110" ID="44736" SERIESID="3986"/>
+            <File Name="Captain America 160" ID="44788" SERIESID="3983"/>
+            <File Name="Doc Savage 4" ID="56652" SERIESID="4441"/>
+            <File Name="Gun-Slinger 2" ID="56721" SERIESID="4446"/>
+            <File Name="Marvel Triple Action 10" ID="45123" SERIESID="4008"/>
+            <File Name="Monster Madness 2" ID="69767" SERIESID="5660"/>
+            <File Name="Shanna, the She-Devil 3" ID="57783" SERIESID="4474"/>
+            <File Name="Sub-Mariner 60" ID="45281" SERIESID="3992"/>
+            <File Name="Thor 210" ID="45236" SERIESID="3980"/>
+            <File Name="Vault of Evil 2" ID="58099" SERIESID="4486"/>
+            <File Name="X-Men 81" ID="45205" SERIESID="3987"/>
+            <File Name="Astonishing Tales 17" ID="44718" SERIESID="3999"/>
+            <File Name="Combat Kelly 6" ID="56281" SERIESID="4433"/>
+            <File Name="Conan the Barbarian 25" ID="56309" SERIESID="4434"/>
+            <File Name="Fear 13" ID="56677" SERIESID="4443"/>
+            <File Name="Gunhawks 4" ID="56717" SERIESID="4445"/>
+            <File Name="Hero for Hire 8" ID="45041" SERIESID="4007"/>
+            <File Name="Marvel Tales 42" ID="45013" SERIESID="3994"/>
+            <File Name="Rawhide Kid 110" ID="57574" SERIESID="4342"/>
+            <File Name="Supernatural Thrillers 3" ID="57991" SERIESID="4482"/>
+            <File Name="Crazy 2" ID="56588" SERIESID="4438"/>
+            <File Name="Defenders 5" ID="44826" SERIESID="4006"/>
+            <File Name="Fantastic Four 133" ID="44854" SERIESID="3649"/>
+            <File Name="Journey into Mystery 4" ID="56741" SERIESID="4450"/>
+            <File Name="Jungle Action 4" ID="56760" SERIESID="4451"/>
+            <File Name="Li&apos;l Kids 11" ID="56983" SERIESID="4458"/>
+            <File Name="Marvel Spotlight 9" ID="45247" SERIESID="2132"/>
+            <File Name="Marvel Team-Up 8" ID="45255" SERIESID="4009"/>
+            <File Name="Our Love Story 22" ID="57380" SERIESID="4466"/>
+            <File Name="Sgt. Fury 109" ID="45076" SERIESID="3996"/>
+            <File Name="Warlock 5" ID="45211" SERIESID="4011"/>
         </Directory>
         <Directory Name="CMC 1973 02">
-            <File Name="Foom 1" ID="217604"/>
-            <File Name="Daredevil 99" ID="44820"/>
-            <File Name="Incredible Hulk 163" ID="44971"/>
-            <File Name="Iron Man 58" ID="44997"/>
-            <File Name="Kid Colt Outlaw 170" ID="56848"/>
-            <File Name="Marvel Super-Heroes 36" ID="45087"/>
-            <File Name="Mighty Marvel Western 24" ID="57039"/>
-            <File Name="War Is Hell 3" ID="58123"/>
-            <File Name="Western Gunfighters 15" ID="58193"/>
-            <File Name="Where Monsters Dwell 21" ID="58245"/>
-            <File Name="Worlds Unknown 1" ID="58263"/>
-            <File Name="Amazing Spider-Man 120" ID="45147"/>
-            <File Name="Beware 2" ID="56167"/>
-            <File Name="Captain America 161" ID="44789"/>
-            <File Name="Chamber of Chills 4" ID="56196"/>
-            <File Name="Crypt of Shadows 3" ID="56630"/>
-            <File Name="Marvel&apos;s Greatest Comics 42" ID="45033"/>
-            <File Name="Special Marvel Edition 10" ID="45109"/>
-            <File Name="Sub-Mariner 61" ID="45282"/>
-            <File Name="Thor 211" ID="45237"/>
-            <File Name="Two-Gun Kid 110" ID="57896"/>
-            <File Name="Amazing Adventures 18" ID="44706"/>
-            <File Name="Avengers 111" ID="44737"/>
-            <File Name="Conan the Barbarian 26" ID="56310"/>
-            <File Name="Dracula Lives 1" ID="58718"/>
-            <File Name="Hero for Hire 9" ID="45042"/>
-            <File Name="Marvel Feature 9" ID="45096"/>
-            <File Name="Night Nurse 4" ID="57345"/>
-            <File Name="Rawhide Kid 111" ID="57575"/>
-            <File Name="Red Wolf 7" ID="57627"/>
-            <File Name="Ringo Kid 20" ID="57759"/>
-            <File Name="Spoof 5" ID="57845"/>
-            <File Name="Tomb of Dracula 8" ID="58029"/>
-            <File Name="Captain Marvel 26" ID="45504"/>
-            <File Name="Creatures on the Loose 23" ID="56613"/>
-            <File Name="Fantastic Four 134" ID="44855"/>
-            <File Name="Frankenstein 3" ID="56698"/>
-            <File Name="Kull, the Conqueror 8" ID="56918"/>
-            <File Name="Li&apos;l Pals 5" ID="56989"/>
-            <File Name="Marvel Premiere 8" ID="45189"/>
-            <File Name="Marvel Team-Up 9" ID="45256"/>
-            <File Name="My Love 23" ID="57196"/>
-            <File Name="Sgt. Fury 110" ID="45077"/>
-            <File Name="Werewolf by Night 5" ID="58140"/>
+            <File Name="Foom 1" ID="217604" SERIESID="21726"/>
+            <File Name="Daredevil 99" ID="44820" SERIESID="3988"/>
+            <File Name="Incredible Hulk 163" ID="44971" SERIESID="3984"/>
+            <File Name="Iron Man 58" ID="44997" SERIESID="3989"/>
+            <File Name="Kid Colt Outlaw 170" ID="56848" SERIESID="4277"/>
+            <File Name="Marvel Super-Heroes 36" ID="45087" SERIESID="3993"/>
+            <File Name="Mighty Marvel Western 24" ID="57039" SERIESID="4461"/>
+            <File Name="War Is Hell 3" ID="58123" SERIESID="4487"/>
+            <File Name="Western Gunfighters 15" ID="58193" SERIESID="4489"/>
+            <File Name="Where Monsters Dwell 21" ID="58245" SERIESID="4492"/>
+            <File Name="Worlds Unknown 1" ID="58263" SERIESID="4493"/>
+            <File Name="Amazing Spider-Man 120" ID="45147" SERIESID="3985"/>
+            <File Name="Beware 2" ID="56167" SERIESID="4428"/>
+            <File Name="Captain America 161" ID="44789" SERIESID="3983"/>
+            <File Name="Chamber of Chills 4" ID="56196" SERIESID="4430"/>
+            <File Name="Crypt of Shadows 3" ID="56630" SERIESID="4440"/>
+            <File Name="Marvel&apos;s Greatest Comics 42" ID="45033" SERIESID="3997"/>
+            <File Name="Special Marvel Edition 10" ID="45109" SERIESID="4014"/>
+            <File Name="Sub-Mariner 61" ID="45282" SERIESID="3992"/>
+            <File Name="Thor 211" ID="45237" SERIESID="3980"/>
+            <File Name="Two-Gun Kid 110" ID="57896" SERIESID="4384"/>
+            <File Name="Amazing Adventures 18" ID="44706" SERIESID="3998"/>
+            <File Name="Avengers 111" ID="44737" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 26" ID="56310" SERIESID="4434"/>
+            <File Name="Dracula Lives 1" ID="58718" SERIESID="4507"/>
+            <File Name="Hero for Hire 9" ID="45042" SERIESID="4007"/>
+            <File Name="Marvel Feature 9" ID="45096" SERIESID="4013"/>
+            <File Name="Night Nurse 4" ID="57345" SERIESID="4464"/>
+            <File Name="Rawhide Kid 111" ID="57575" SERIESID="4342"/>
+            <File Name="Red Wolf 7" ID="57627" SERIESID="4471"/>
+            <File Name="Ringo Kid 20" ID="57759" SERIESID="4472"/>
+            <File Name="Spoof 5" ID="57845" SERIESID="4476"/>
+            <File Name="Tomb of Dracula 8" ID="58029" SERIESID="4484"/>
+            <File Name="Captain Marvel 26" ID="45504" SERIESID="3991"/>
+            <File Name="Creatures on the Loose 23" ID="56613" SERIESID="4439"/>
+            <File Name="Fantastic Four 134" ID="44855" SERIESID="3649"/>
+            <File Name="Frankenstein 3" ID="56698" SERIESID="4444"/>
+            <File Name="Kull, the Conqueror 8" ID="56918" SERIESID="4453"/>
+            <File Name="Li&apos;l Pals 5" ID="56989" SERIESID="4459"/>
+            <File Name="Marvel Premiere 8" ID="45189" SERIESID="4010"/>
+            <File Name="Marvel Team-Up 9" ID="45256" SERIESID="4009"/>
+            <File Name="My Love 23" ID="57196" SERIESID="4462"/>
+            <File Name="Sgt. Fury 110" ID="45077" SERIESID="3996"/>
+            <File Name="Werewolf by Night 5" ID="58140" SERIESID="4488"/>
         </Directory>
         <Directory Name="CMC 1973 03">
-            <File Name="Cat 4" ID="48379"/>
-            <File Name="Chili 23" ID="56272"/>
-            <File Name="Daredevil 100" ID="46754"/>
-            <File Name="Incredible Hulk 164" ID="46408"/>
-            <File Name="Iron Man 59" ID="46040"/>
-            <File Name="Kid Colt Outlaw 171" ID="56849"/>
-            <File Name="Millie the Model 202" ID="57156"/>
-            <File Name="Monsters on the Prowl 23" ID="56241"/>
-            <File Name="Outlaw Kid 16" ID="57412"/>
-            <File Name="Shield 3" ID="48354"/>
-            <File Name="Wyatt Earp 34" ID="58275"/>
-            <File Name="Amazing Spider-Man 121" ID="45148"/>
-            <File Name="Captain America 162" ID="47034"/>
-            <File Name="Doc Savage 5" ID="56653"/>
-            <File Name="Gun-Slinger 3" ID="56722"/>
-            <File Name="Marvel Triple Action 11" ID="50873"/>
-            <File Name="Shanna, the She-Devil 4" ID="57784"/>
-            <File Name="Sub-Mariner 62" ID="46029"/>
-            <File Name="Thor 212" ID="46582"/>
-            <File Name="Vault of Evil 3" ID="58100"/>
-            <File Name="X-Men 82" ID="46200"/>
-            <File Name="Astonishing Tales 18" ID="45485"/>
-            <File Name="Avengers 112" ID="46235"/>
-            <File Name="Combat Kelly 7" ID="56282"/>
-            <File Name="Conan the Barbarian 27" ID="56311"/>
-            <File Name="Fear 14" ID="56678"/>
-            <File Name="Gunhawks 5" ID="56718"/>
-            <File Name="Haunt of Horror 1" ID="70563"/>
-            <File Name="Hero for Hire 10" ID="45689"/>
-            <File Name="Marvel Tales 43" ID="47319"/>
-            <File Name="Monsters Unleashed 1" ID="58751"/>
-            <File Name="Rawhide Kid 112" ID="57576"/>
-            <File Name="Supernatural Thrillers 4" ID="57992"/>
-            <File Name="Tomb of Dracula 9" ID="58030"/>
-            <File Name="Crazy 3" ID="56589"/>
-            <File Name="Defenders 6" ID="45541"/>
-            <File Name="Fantastic Four 135" ID="44856"/>
-            <File Name="Journey into Mystery 5" ID="56742"/>
-            <File Name="Li&apos;l Kids 12" ID="56984"/>
-            <File Name="Marvel Spotlight 10" ID="47627"/>
-            <File Name="Marvel Team-Up 10" ID="45730"/>
-            <File Name="Our Love Story 23" ID="57381"/>
-            <File Name="Sgt. Fury 111" ID="48206"/>
-            <File Name="Warlock 6" ID="45878"/>
-            <File Name="Werewolf by Night 6" ID="58141"/>
+            <File Name="Cat 4" ID="48379" SERIESID="4063"/>
+            <File Name="Chili 23" ID="56272" SERIESID="4432"/>
+            <File Name="Daredevil 100" ID="46754" SERIESID="3988"/>
+            <File Name="Incredible Hulk 164" ID="46408" SERIESID="3984"/>
+            <File Name="Iron Man 59" ID="46040" SERIESID="3989"/>
+            <File Name="Kid Colt Outlaw 171" ID="56849" SERIESID="4277"/>
+            <File Name="Millie the Model 202" ID="57156" SERIESID="4311"/>
+            <File Name="Monsters on the Prowl 23" ID="56241" SERIESID="4431"/>
+            <File Name="Outlaw Kid 16" ID="57412" SERIESID="4467"/>
+            <File Name="Shield 3" ID="48354" SERIESID="4060"/>
+            <File Name="Wyatt Earp 34" ID="58275" SERIESID="4408"/>
+            <File Name="Amazing Spider-Man 121" ID="45148" SERIESID="3985"/>
+            <File Name="Captain America 162" ID="47034" SERIESID="3983"/>
+            <File Name="Doc Savage 5" ID="56653" SERIESID="4441"/>
+            <File Name="Gun-Slinger 3" ID="56722" SERIESID="4446"/>
+            <File Name="Marvel Triple Action 11" ID="50873" SERIESID="4008"/>
+            <File Name="Shanna, the She-Devil 4" ID="57784" SERIESID="4474"/>
+            <File Name="Sub-Mariner 62" ID="46029" SERIESID="3992"/>
+            <File Name="Thor 212" ID="46582" SERIESID="3980"/>
+            <File Name="Vault of Evil 3" ID="58100" SERIESID="4486"/>
+            <File Name="X-Men 82" ID="46200" SERIESID="3987"/>
+            <File Name="Astonishing Tales 18" ID="45485" SERIESID="3999"/>
+            <File Name="Avengers 112" ID="46235" SERIESID="3986"/>
+            <File Name="Combat Kelly 7" ID="56282" SERIESID="4433"/>
+            <File Name="Conan the Barbarian 27" ID="56311" SERIESID="4434"/>
+            <File Name="Fear 14" ID="56678" SERIESID="4443"/>
+            <File Name="Gunhawks 5" ID="56718" SERIESID="4445"/>
+            <File Name="Haunt of Horror 1" ID="70563" SERIESID="5810"/>
+            <File Name="Hero for Hire 10" ID="45689" SERIESID="4007"/>
+            <File Name="Marvel Tales 43" ID="47319" SERIESID="3994"/>
+            <File Name="Monsters Unleashed 1" ID="58751" SERIESID="4509"/>
+            <File Name="Rawhide Kid 112" ID="57576" SERIESID="4342"/>
+            <File Name="Supernatural Thrillers 4" ID="57992" SERIESID="4482"/>
+            <File Name="Tomb of Dracula 9" ID="58030" SERIESID="4484"/>
+            <File Name="Crazy 3" ID="56589" SERIESID="4438"/>
+            <File Name="Defenders 6" ID="45541" SERIESID="4006"/>
+            <File Name="Fantastic Four 135" ID="44856" SERIESID="3649"/>
+            <File Name="Journey into Mystery 5" ID="56742" SERIESID="4450"/>
+            <File Name="Li&apos;l Kids 12" ID="56984" SERIESID="4458"/>
+            <File Name="Marvel Spotlight 10" ID="47627" SERIESID="2132"/>
+            <File Name="Marvel Team-Up 10" ID="45730" SERIESID="4009"/>
+            <File Name="Our Love Story 23" ID="57381" SERIESID="4466"/>
+            <File Name="Sgt. Fury 111" ID="48206" SERIESID="3996"/>
+            <File Name="Warlock 6" ID="45878" SERIESID="4011"/>
+            <File Name="Werewolf by Night 6" ID="58141" SERIESID="4488"/>
         </Directory>
         <Directory Name="CMC 1973 04">
-            <File Name="Daredevil 101" ID="46755"/>
-            <File Name="Incredible Hulk 165" ID="46409"/>
-            <File Name="Iron Man 60" ID="46041"/>
-            <File Name="Jungle Action 5" ID="56761"/>
-            <File Name="Kid Colt Outlaw 172" ID="56850"/>
-            <File Name="Marvel Super-Heroes 37" ID="45995"/>
-            <File Name="Mighty Marvel Western 25" ID="57040"/>
-            <File Name="Tales of the Zombie 1" ID="58763"/>
-            <File Name="War Is Hell 4" ID="58124"/>
-            <File Name="Western Gunfighters 16" ID="58194"/>
-            <File Name="Where Monsters Dwell 22" ID="58246"/>
-            <File Name="Worlds Unknown 2" ID="58264"/>
-            <File Name="Monster Madness 3" ID="69768"/>
-            <File Name="Amazing Spider-Man 122" ID="45149"/>
-            <File Name="Beware 3" ID="56168"/>
-            <File Name="Captain America 163" ID="47035"/>
-            <File Name="Chamber of Chills 5" ID="56197"/>
-            <File Name="Crypt of Shadows 4" ID="56631"/>
-            <File Name="Marvel&apos;s Greatest Comics 43" ID="51236"/>
-            <File Name="Special Marvel Edition 11" ID="45110"/>
-            <File Name="Sub-Mariner 63" ID="46030"/>
-            <File Name="Thor 213" ID="46583"/>
-            <File Name="Two-Gun Kid 111" ID="57897"/>
-            <File Name="Amazing Adventures 19" ID="45464"/>
-            <File Name="Avengers 113" ID="46236"/>
-            <File Name="Conan the Barbarian 28" ID="56312"/>
-            <File Name="Dracula Lives 2" ID="58719"/>
-            <File Name="Hero for Hire 11" ID="45690"/>
-            <File Name="Marvel Feature 10" ID="45097"/>
-            <File Name="Rawhide Kid 113" ID="57577"/>
-            <File Name="Red Wolf 8" ID="57628"/>
-            <File Name="Ringo Kid 21" ID="57760"/>
-            <File Name="Tomb of Dracula 10" ID="58031"/>
-            <File Name="Captain Marvel 27" ID="45505"/>
-            <File Name="Creatures on the Loose 24" ID="56614"/>
-            <File Name="Fantastic Four 136" ID="44857"/>
-            <File Name="Frankenstein 4" ID="56699"/>
-            <File Name="Kull, the Conqueror 9" ID="56919"/>
-            <File Name="Marvel Premiere 9" ID="47285"/>
-            <File Name="Marvel Team-Up 11" ID="45731"/>
-            <File Name="My Love 24" ID="57197"/>
-            <File Name="Sgt. Fury 112" ID="48207"/>
-            <File Name="Werewolf by Night 7" ID="58142"/>
+            <File Name="Daredevil 101" ID="46755" SERIESID="3988"/>
+            <File Name="Incredible Hulk 165" ID="46409" SERIESID="3984"/>
+            <File Name="Iron Man 60" ID="46041" SERIESID="3989"/>
+            <File Name="Jungle Action 5" ID="56761" SERIESID="4451"/>
+            <File Name="Kid Colt Outlaw 172" ID="56850" SERIESID="4277"/>
+            <File Name="Marvel Super-Heroes 37" ID="45995" SERIESID="3993"/>
+            <File Name="Mighty Marvel Western 25" ID="57040" SERIESID="4461"/>
+            <File Name="Tales of the Zombie 1" ID="58763" SERIESID="4510"/>
+            <File Name="War Is Hell 4" ID="58124" SERIESID="4487"/>
+            <File Name="Western Gunfighters 16" ID="58194" SERIESID="4489"/>
+            <File Name="Where Monsters Dwell 22" ID="58246" SERIESID="4492"/>
+            <File Name="Worlds Unknown 2" ID="58264" SERIESID="4493"/>
+            <File Name="Monster Madness 3" ID="69768" SERIESID="5660"/>
+            <File Name="Amazing Spider-Man 122" ID="45149" SERIESID="3985"/>
+            <File Name="Beware 3" ID="56168" SERIESID="4428"/>
+            <File Name="Captain America 163" ID="47035" SERIESID="3983"/>
+            <File Name="Chamber of Chills 5" ID="56197" SERIESID="4430"/>
+            <File Name="Crypt of Shadows 4" ID="56631" SERIESID="4440"/>
+            <File Name="Marvel&apos;s Greatest Comics 43" ID="51236" SERIESID="3997"/>
+            <File Name="Special Marvel Edition 11" ID="45110" SERIESID="4014"/>
+            <File Name="Sub-Mariner 63" ID="46030" SERIESID="3992"/>
+            <File Name="Thor 213" ID="46583" SERIESID="3980"/>
+            <File Name="Two-Gun Kid 111" ID="57897" SERIESID="4384"/>
+            <File Name="Amazing Adventures 19" ID="45464" SERIESID="3998"/>
+            <File Name="Avengers 113" ID="46236" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 28" ID="56312" SERIESID="4434"/>
+            <File Name="Dracula Lives 2" ID="58719" SERIESID="4507"/>
+            <File Name="Hero for Hire 11" ID="45690" SERIESID="4007"/>
+            <File Name="Marvel Feature 10" ID="45097" SERIESID="4013"/>
+            <File Name="Rawhide Kid 113" ID="57577" SERIESID="4342"/>
+            <File Name="Red Wolf 8" ID="57628" SERIESID="4471"/>
+            <File Name="Ringo Kid 21" ID="57760" SERIESID="4472"/>
+            <File Name="Tomb of Dracula 10" ID="58031" SERIESID="4484"/>
+            <File Name="Captain Marvel 27" ID="45505" SERIESID="3991"/>
+            <File Name="Creatures on the Loose 24" ID="56614" SERIESID="4439"/>
+            <File Name="Fantastic Four 136" ID="44857" SERIESID="3649"/>
+            <File Name="Frankenstein 4" ID="56699" SERIESID="4444"/>
+            <File Name="Kull, the Conqueror 9" ID="56919" SERIESID="4453"/>
+            <File Name="Marvel Premiere 9" ID="47285" SERIESID="4010"/>
+            <File Name="Marvel Team-Up 11" ID="45731" SERIESID="4009"/>
+            <File Name="My Love 24" ID="57197" SERIESID="4462"/>
+            <File Name="Sgt. Fury 112" ID="48207" SERIESID="3996"/>
+            <File Name="Werewolf by Night 7" ID="58142" SERIESID="4488"/>
         </Directory>
         <Directory Name="CMC 1973 05">
-            <File Name="Vampire Tales 1" ID="58774"/>
-            <File Name="Chili 24" ID="56273"/>
-            <File Name="Daredevil 102" ID="46756"/>
-            <File Name="Incredible Hulk 166" ID="46410"/>
-            <File Name="Iron Man 61" ID="46042"/>
-            <File Name="Kid Colt Outlaw 173" ID="56851"/>
-            <File Name="Marvel Spectacular 1" ID="58732"/>
-            <File Name="Millie the Model 203" ID="57157"/>
-            <File Name="Monsters on the Prowl 24" ID="56242"/>
-            <File Name="Outlaw Kid 17" ID="57413"/>
-            <File Name="Shield 4" ID="48355"/>
-            <File Name="Amazing Spider-Man 123" ID="45150"/>
-            <File Name="Captain America 164" ID="47036"/>
-            <File Name="Doc Savage 6" ID="56654"/>
-            <File Name="Haunt of Horror 2" ID="70564"/>
-            <File Name="Marvel Triple Action 12" ID="50874"/>
-            <File Name="Shanna, the She-Devil 5" ID="57785"/>
-            <File Name="Sub-Mariner 64" ID="46031"/>
-            <File Name="Thor 214" ID="46584"/>
-            <File Name="Vault of Evil 4" ID="58101"/>
-            <File Name="X-Men 83" ID="46201"/>
-            <File Name="Astonishing Tales 19" ID="45486"/>
-            <File Name="Avengers 114" ID="46237"/>
-            <File Name="Combat Kelly 8" ID="56283"/>
-            <File Name="Conan the Barbarian 29" ID="56313"/>
-            <File Name="Fear 15" ID="56679"/>
-            <File Name="Gunhawks 6" ID="56719"/>
-            <File Name="Hero for Hire 12" ID="45691"/>
-            <File Name="Marvel Tales 44" ID="47320"/>
-            <File Name="Rawhide Kid 114" ID="57578"/>
-            <File Name="Supernatural Thrillers 5" ID="57993"/>
-            <File Name="Tomb of Dracula 11" ID="58032"/>
-            <File Name="Defenders 7" ID="45542"/>
-            <File Name="Fantastic Four 137" ID="44858"/>
-            <File Name="Journey into Mystery 6" ID="56743"/>
-            <File Name="Marvel Spotlight 11" ID="47628"/>
-            <File Name="Marvel Team-Up 12" ID="45732"/>
-            <File Name="Monsters Unleashed 2" ID="58752"/>
-            <File Name="Our Love Story 24" ID="57382"/>
-            <File Name="Sgt. Fury 113" ID="48208"/>
-            <File Name="Warlock 7" ID="45879"/>
-            <File Name="Werewolf by Night 8" ID="58143"/>
+            <File Name="Vampire Tales 1" ID="58774" SERIESID="4511"/>
+            <File Name="Chili 24" ID="56273" SERIESID="4432"/>
+            <File Name="Daredevil 102" ID="46756" SERIESID="3988"/>
+            <File Name="Incredible Hulk 166" ID="46410" SERIESID="3984"/>
+            <File Name="Iron Man 61" ID="46042" SERIESID="3989"/>
+            <File Name="Kid Colt Outlaw 173" ID="56851" SERIESID="4277"/>
+            <File Name="Marvel Spectacular 1" ID="58732" SERIESID="4508"/>
+            <File Name="Millie the Model 203" ID="57157" SERIESID="4311"/>
+            <File Name="Monsters on the Prowl 24" ID="56242" SERIESID="4431"/>
+            <File Name="Outlaw Kid 17" ID="57413" SERIESID="4467"/>
+            <File Name="Shield 4" ID="48355" SERIESID="4060"/>
+            <File Name="Amazing Spider-Man 123" ID="45150" SERIESID="3985"/>
+            <File Name="Captain America 164" ID="47036" SERIESID="3983"/>
+            <File Name="Doc Savage 6" ID="56654" SERIESID="4441"/>
+            <File Name="Haunt of Horror 2" ID="70564" SERIESID="5810"/>
+            <File Name="Marvel Triple Action 12" ID="50874" SERIESID="4008"/>
+            <File Name="Shanna, the She-Devil 5" ID="57785" SERIESID="4474"/>
+            <File Name="Sub-Mariner 64" ID="46031" SERIESID="3992"/>
+            <File Name="Thor 214" ID="46584" SERIESID="3980"/>
+            <File Name="Vault of Evil 4" ID="58101" SERIESID="4486"/>
+            <File Name="X-Men 83" ID="46201" SERIESID="3987"/>
+            <File Name="Astonishing Tales 19" ID="45486" SERIESID="3999"/>
+            <File Name="Avengers 114" ID="46237" SERIESID="3986"/>
+            <File Name="Combat Kelly 8" ID="56283" SERIESID="4433"/>
+            <File Name="Conan the Barbarian 29" ID="56313" SERIESID="4434"/>
+            <File Name="Fear 15" ID="56679" SERIESID="4443"/>
+            <File Name="Gunhawks 6" ID="56719" SERIESID="4445"/>
+            <File Name="Hero for Hire 12" ID="45691" SERIESID="4007"/>
+            <File Name="Marvel Tales 44" ID="47320" SERIESID="3994"/>
+            <File Name="Rawhide Kid 114" ID="57578" SERIESID="4342"/>
+            <File Name="Supernatural Thrillers 5" ID="57993" SERIESID="4482"/>
+            <File Name="Tomb of Dracula 11" ID="58032" SERIESID="4484"/>
+            <File Name="Defenders 7" ID="45542" SERIESID="4006"/>
+            <File Name="Fantastic Four 137" ID="44858" SERIESID="3649"/>
+            <File Name="Journey into Mystery 6" ID="56743" SERIESID="4450"/>
+            <File Name="Marvel Spotlight 11" ID="47628" SERIESID="2132"/>
+            <File Name="Marvel Team-Up 12" ID="45732" SERIESID="4009"/>
+            <File Name="Monsters Unleashed 2" ID="58752" SERIESID="4509"/>
+            <File Name="Our Love Story 24" ID="57382" SERIESID="4466"/>
+            <File Name="Sgt. Fury 113" ID="48208" SERIESID="3996"/>
+            <File Name="Warlock 7" ID="45879" SERIESID="4011"/>
+            <File Name="Werewolf by Night 8" ID="58143" SERIESID="4488"/>
         </Directory>
         <Directory Name="CMC 1973 06">
-            <File Name="Conan the Barbarian King-Size 1" ID="56560"/>
-            <File Name="Daredevil 103" ID="46757"/>
-            <File Name="Incredible Hulk 167" ID="46411"/>
-            <File Name="Iron Man 62" ID="46043"/>
-            <File Name="Kid Colt Outlaw 174" ID="56852"/>
-            <File Name="Marvel Spectacular 2" ID="58733"/>
-            <File Name="Marvel Super-Heroes 38" ID="45996"/>
-            <File Name="Mighty Marvel Western 26" ID="57041"/>
-            <File Name="Millie the Model 204" ID="57158"/>
-            <File Name="Monsters on the Prowl 25" ID="56243"/>
-            <File Name="Tales of the Zombie 2" ID="58764"/>
-            <File Name="Western Gunfighters 17" ID="58195"/>
-            <File Name="Where Monsters Dwell 23" ID="58247"/>
-            <File Name="Worlds Unknown 3" ID="58265"/>
-            <File Name="Amazing Spider-Man 124" ID="45151"/>
-            <File Name="Beware 4" ID="56169"/>
-            <File Name="Captain America 165" ID="47037"/>
-            <File Name="Chamber of Chills 6" ID="56198"/>
-            <File Name="Crypt of Shadows 5" ID="56632"/>
-            <File Name="Fantastic Four Annual 10" ID="44939"/>
-            <File Name="Frankenstein 5" ID="56700"/>
-            <File Name="Marvel Triple Action 13" ID="50875"/>
-            <File Name="Marvel&apos;s Greatest Comics 44" ID="51237"/>
-            <File Name="Special Marvel Edition 12" ID="45111"/>
-            <File Name="Sub-Mariner 65" ID="46032"/>
-            <File Name="Thor 215" ID="46585"/>
-            <File Name="Two-Gun Kid 112" ID="57898"/>
-            <File Name="Vault of Evil 5" ID="58102"/>
-            <File Name="Amazing Adventures 20" ID="45465"/>
-            <File Name="Amazing Spider-Man Annual 9" ID="45127"/>
-            <File Name="Avengers 115" ID="46238"/>
-            <File Name="Conan the Barbarian 30" ID="56314"/>
-            <File Name="Dracula Lives 3" ID="58720"/>
-            <File Name="Fear 16" ID="56680"/>
-            <File Name="Ghost Rider 1" ID="47525"/>
-            <File Name="Hero for Hire 13" ID="45692"/>
-            <File Name="Marvel Feature 11" ID="45098"/>
-            <File Name="Marvel Tales 45" ID="47321"/>
-            <File Name="Rawhide Kid 115" ID="57579"/>
-            <File Name="Red Wolf 9" ID="57629"/>
-            <File Name="Ringo Kid 22" ID="57761"/>
-            <File Name="Tomb of Dracula 12" ID="58033"/>
-            <File Name="War Is Hell 5" ID="58125"/>
-            <File Name="Captain Marvel 28" ID="45506"/>
-            <File Name="Creatures on the Loose 25" ID="56615"/>
-            <File Name="Defenders 8" ID="45543"/>
-            <File Name="Fantastic Four 138" ID="44859"/>
-            <File Name="Jungle Action 6" ID="56762"/>
-            <File Name="Kull, the Conqueror 10" ID="56920"/>
-            <File Name="Marvel Premiere 10" ID="47286"/>
-            <File Name="Marvel Team-Up 13" ID="45733"/>
-            <File Name="My Love 25" ID="57198"/>
-            <File Name="Savage Tales 2" ID="57771"/>
-            <File Name="Sgt. Fury 114" ID="48209"/>
-            <File Name="Strange Tales 169" ID="67570"/>
-            <File Name="Werewolf by Night 9" ID="58144"/>
+            <File Name="Conan the Barbarian King-Size 1" ID="56560" SERIESID="4434"/>
+            <File Name="Daredevil 103" ID="46757" SERIESID="3988"/>
+            <File Name="Incredible Hulk 167" ID="46411" SERIESID="3984"/>
+            <File Name="Iron Man 62" ID="46043" SERIESID="3989"/>
+            <File Name="Kid Colt Outlaw 174" ID="56852" SERIESID="4277"/>
+            <File Name="Marvel Spectacular 2" ID="58733" SERIESID="4508"/>
+            <File Name="Marvel Super-Heroes 38" ID="45996" SERIESID="3993"/>
+            <File Name="Mighty Marvel Western 26" ID="57041" SERIESID="4461"/>
+            <File Name="Millie the Model 204" ID="57158" SERIESID="4311"/>
+            <File Name="Monsters on the Prowl 25" ID="56243" SERIESID="4431"/>
+            <File Name="Tales of the Zombie 2" ID="58764" SERIESID="4510"/>
+            <File Name="Western Gunfighters 17" ID="58195" SERIESID="4489"/>
+            <File Name="Where Monsters Dwell 23" ID="58247" SERIESID="4492"/>
+            <File Name="Worlds Unknown 3" ID="58265" SERIESID="4493"/>
+            <File Name="Amazing Spider-Man 124" ID="45151" SERIESID="3985"/>
+            <File Name="Beware 4" ID="56169" SERIESID="4428"/>
+            <File Name="Captain America 165" ID="47037" SERIESID="3983"/>
+            <File Name="Chamber of Chills 6" ID="56198" SERIESID="4430"/>
+            <File Name="Crypt of Shadows 5" ID="56632" SERIESID="4440"/>
+            <File Name="Fantastic Four Annual 10" ID="44939" SERIESID="3649"/>
+            <File Name="Frankenstein 5" ID="56700" SERIESID="4444"/>
+            <File Name="Marvel Triple Action 13" ID="50875" SERIESID="4008"/>
+            <File Name="Marvel&apos;s Greatest Comics 44" ID="51237" SERIESID="3997"/>
+            <File Name="Special Marvel Edition 12" ID="45111" SERIESID="4014"/>
+            <File Name="Sub-Mariner 65" ID="46032" SERIESID="3992"/>
+            <File Name="Thor 215" ID="46585" SERIESID="3980"/>
+            <File Name="Two-Gun Kid 112" ID="57898" SERIESID="4384"/>
+            <File Name="Vault of Evil 5" ID="58102" SERIESID="4486"/>
+            <File Name="Amazing Adventures 20" ID="45465" SERIESID="3998"/>
+            <File Name="Amazing Spider-Man Annual 9" ID="45127" SERIESID="3985"/>
+            <File Name="Avengers 115" ID="46238" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 30" ID="56314" SERIESID="4434"/>
+            <File Name="Dracula Lives 3" ID="58720" SERIESID="4507"/>
+            <File Name="Fear 16" ID="56680" SERIESID="4443"/>
+            <File Name="Ghost Rider 1" ID="47525" SERIESID="4040"/>
+            <File Name="Hero for Hire 13" ID="45692" SERIESID="4007"/>
+            <File Name="Marvel Feature 11" ID="45098" SERIESID="4013"/>
+            <File Name="Marvel Tales 45" ID="47321" SERIESID="3994"/>
+            <File Name="Rawhide Kid 115" ID="57579" SERIESID="4342"/>
+            <File Name="Red Wolf 9" ID="57629" SERIESID="4471"/>
+            <File Name="Ringo Kid 22" ID="57761" SERIESID="4472"/>
+            <File Name="Tomb of Dracula 12" ID="58033" SERIESID="4484"/>
+            <File Name="War Is Hell 5" ID="58125" SERIESID="4487"/>
+            <File Name="Captain Marvel 28" ID="45506" SERIESID="3991"/>
+            <File Name="Creatures on the Loose 25" ID="56615" SERIESID="4439"/>
+            <File Name="Defenders 8" ID="45543" SERIESID="4006"/>
+            <File Name="Fantastic Four 138" ID="44859" SERIESID="3649"/>
+            <File Name="Jungle Action 6" ID="56762" SERIESID="4451"/>
+            <File Name="Kull, the Conqueror 10" ID="56920" SERIESID="4453"/>
+            <File Name="Marvel Premiere 10" ID="47286" SERIESID="4010"/>
+            <File Name="Marvel Team-Up 13" ID="45733" SERIESID="4009"/>
+            <File Name="My Love 25" ID="57198" SERIESID="4462"/>
+            <File Name="Savage Tales 2" ID="57771" SERIESID="4473"/>
+            <File Name="Sgt. Fury 114" ID="48209" SERIESID="3996"/>
+            <File Name="Strange Tales 169" ID="67570" SERIESID="5365"/>
+            <File Name="Werewolf by Night 9" ID="58144" SERIESID="4488"/>
         </Directory>
         <Directory Name="CMC 1973 07">
-            <File Name="Foom 2" ID="217605"/>
-            <File Name="Chili 25" ID="56274"/>
-            <File Name="Daredevil 104" ID="46758"/>
-            <File Name="Ghost Rider 2" ID="47526"/>
-            <File Name="Incredible Hulk 168" ID="46412"/>
-            <File Name="Iron Man 63" ID="46044"/>
-            <File Name="Kid Colt Outlaw 175" ID="56853"/>
-            <File Name="Marvel Spectacular 3" ID="58734"/>
-            <File Name="Marvel Super-Heroes 39" ID="45997"/>
-            <File Name="Mighty Marvel Western 27" ID="57042"/>
-            <File Name="Millie the Model 205" ID="57159"/>
-            <File Name="Monsters on the Prowl 26" ID="56244"/>
-            <File Name="Outlaw Kid 18" ID="57414"/>
-            <File Name="Shield 5" ID="48356"/>
-            <File Name="Vampire Tales 2" ID="58775"/>
-            <File Name="Western Gunfighters 18" ID="58196"/>
-            <File Name="Where Monsters Dwell 24" ID="58248"/>
-            <File Name="Amazing Spider-Man 125" ID="45152"/>
-            <File Name="Captain America 166" ID="47038"/>
-            <File Name="Crazy Magazine 1" ID="60657"/>
-            <File Name="Crypt of Shadows 6" ID="56633"/>
-            <File Name="Doc Savage 7" ID="56655"/>
-            <File Name="Frankenstein 6" ID="56701"/>
-            <File Name="Marvel Triple Action 14" ID="50876"/>
-            <File Name="Marvel&apos;s Greatest Comics 45" ID="51238"/>
-            <File Name="Special Marvel Edition 13" ID="45112"/>
-            <File Name="Strange Tales 170" ID="67571"/>
-            <File Name="Sub-Mariner 66" ID="46033"/>
-            <File Name="Thor 216" ID="46586"/>
-            <File Name="Two-Gun Kid 113" ID="57899"/>
-            <File Name="Vault of Evil 6" ID="58103"/>
-            <File Name="X-Men 84" ID="46202"/>
-            <File Name="Astonishing Tales 20" ID="45487"/>
-            <File Name="Avengers 116" ID="46239"/>
-            <File Name="Combat Kelly 9" ID="56284"/>
-            <File Name="Conan the Barbarian 31" ID="56315"/>
-            <File Name="Fear 17" ID="56681"/>
-            <File Name="Gunhawks 7" ID="56720"/>
-            <File Name="Hero for Hire 14" ID="45693"/>
-            <File Name="Marvel Tales 46" ID="47322"/>
-            <File Name="Monsters Unleashed 3" ID="58753"/>
-            <File Name="Rawhide Kid 116" ID="57580"/>
-            <File Name="Tomb of Dracula 13" ID="58034"/>
-            <File Name="Defenders 9" ID="45544"/>
-            <File Name="Fantastic Four 139" ID="44860"/>
-            <File Name="Journey into Mystery 7" ID="56744"/>
-            <File Name="Marvel Premiere 11" ID="47287"/>
-            <File Name="Marvel Spotlight 12" ID="47629"/>
-            <File Name="Marvel Team-Up 14" ID="45734"/>
-            <File Name="Our Love Story 25" ID="57383"/>
-            <File Name="Sgt. Fury 115" ID="48210"/>
-            <File Name="Warlock 8" ID="45880"/>
-            <File Name="Werewolf by Night 10" ID="58145"/>
-            <File Name="Daredevil 105" ID="46759"/>
-            <File Name="Incredible Hulk 169" ID="46413"/>
-            <File Name="Iron Man 64" ID="46045"/>
-            <File Name="Kid Colt Outlaw 176" ID="56854"/>
-            <File Name="Marvel Spectacular 4" ID="58735"/>
-            <File Name="Marvel Super-Heroes 40" ID="45998"/>
-            <File Name="Mighty Marvel Western 28" ID="57043"/>
-            <File Name="Millie the Model 206" ID="57160"/>
-            <File Name="Monsters on the Prowl 27" ID="56245"/>
-            <File Name="Western Gunfighters 19" ID="58197"/>
-            <File Name="Where Monsters Dwell 25" ID="58249"/>
-            <File Name="Worlds Unknown 4" ID="58266"/>
+            <File Name="Foom 2" ID="217605" SERIESID="21726"/>
+            <File Name="Chili 25" ID="56274" SERIESID="4432"/>
+            <File Name="Daredevil 104" ID="46758" SERIESID="3988"/>
+            <File Name="Ghost Rider 2" ID="47526" SERIESID="4040"/>
+            <File Name="Incredible Hulk 168" ID="46412" SERIESID="3984"/>
+            <File Name="Iron Man 63" ID="46044" SERIESID="3989"/>
+            <File Name="Kid Colt Outlaw 175" ID="56853" SERIESID="4277"/>
+            <File Name="Marvel Spectacular 3" ID="58734" SERIESID="4508"/>
+            <File Name="Marvel Super-Heroes 39" ID="45997" SERIESID="3993"/>
+            <File Name="Mighty Marvel Western 27" ID="57042" SERIESID="4461"/>
+            <File Name="Millie the Model 205" ID="57159" SERIESID="4311"/>
+            <File Name="Monsters on the Prowl 26" ID="56244" SERIESID="4431"/>
+            <File Name="Outlaw Kid 18" ID="57414" SERIESID="4467"/>
+            <File Name="Shield 5" ID="48356" SERIESID="4060"/>
+            <File Name="Vampire Tales 2" ID="58775" SERIESID="4511"/>
+            <File Name="Western Gunfighters 18" ID="58196" SERIESID="4489"/>
+            <File Name="Where Monsters Dwell 24" ID="58248" SERIESID="4492"/>
+            <File Name="Amazing Spider-Man 125" ID="45152" SERIESID="3985"/>
+            <File Name="Captain America 166" ID="47038" SERIESID="3983"/>
+            <File Name="Crazy Magazine 1" ID="60657" SERIESID="4595"/>
+            <File Name="Crypt of Shadows 6" ID="56633" SERIESID="4440"/>
+            <File Name="Doc Savage 7" ID="56655" SERIESID="4441"/>
+            <File Name="Frankenstein 6" ID="56701" SERIESID="4444"/>
+            <File Name="Marvel Triple Action 14" ID="50876" SERIESID="4008"/>
+            <File Name="Marvel&apos;s Greatest Comics 45" ID="51238" SERIESID="3997"/>
+            <File Name="Special Marvel Edition 13" ID="45112" SERIESID="4014"/>
+            <File Name="Strange Tales 170" ID="67571" SERIESID="5365"/>
+            <File Name="Sub-Mariner 66" ID="46033" SERIESID="3992"/>
+            <File Name="Thor 216" ID="46586" SERIESID="3980"/>
+            <File Name="Two-Gun Kid 113" ID="57899" SERIESID="4384"/>
+            <File Name="Vault of Evil 6" ID="58103" SERIESID="4486"/>
+            <File Name="X-Men 84" ID="46202" SERIESID="3987"/>
+            <File Name="Astonishing Tales 20" ID="45487" SERIESID="3999"/>
+            <File Name="Avengers 116" ID="46239" SERIESID="3986"/>
+            <File Name="Combat Kelly 9" ID="56284" SERIESID="4433"/>
+            <File Name="Conan the Barbarian 31" ID="56315" SERIESID="4434"/>
+            <File Name="Fear 17" ID="56681" SERIESID="4443"/>
+            <File Name="Gunhawks 7" ID="56720" SERIESID="4445"/>
+            <File Name="Hero for Hire 14" ID="45693" SERIESID="4007"/>
+            <File Name="Marvel Tales 46" ID="47322" SERIESID="3994"/>
+            <File Name="Monsters Unleashed 3" ID="58753" SERIESID="4509"/>
+            <File Name="Rawhide Kid 116" ID="57580" SERIESID="4342"/>
+            <File Name="Tomb of Dracula 13" ID="58034" SERIESID="4484"/>
+            <File Name="Defenders 9" ID="45544" SERIESID="4006"/>
+            <File Name="Fantastic Four 139" ID="44860" SERIESID="3649"/>
+            <File Name="Journey into Mystery 7" ID="56744" SERIESID="4450"/>
+            <File Name="Marvel Premiere 11" ID="47287" SERIESID="4010"/>
+            <File Name="Marvel Spotlight 12" ID="47629" SERIESID="2132"/>
+            <File Name="Marvel Team-Up 14" ID="45734" SERIESID="4009"/>
+            <File Name="Our Love Story 25" ID="57383" SERIESID="4466"/>
+            <File Name="Sgt. Fury 115" ID="48210" SERIESID="3996"/>
+            <File Name="Warlock 8" ID="45880" SERIESID="4011"/>
+            <File Name="Werewolf by Night 10" ID="58145" SERIESID="4488"/>
+            <File Name="Daredevil 105" ID="46759" SERIESID="3988"/>
+            <File Name="Incredible Hulk 169" ID="46413" SERIESID="3984"/>
+            <File Name="Iron Man 64" ID="46045" SERIESID="3989"/>
+            <File Name="Kid Colt Outlaw 176" ID="56854" SERIESID="4277"/>
+            <File Name="Marvel Spectacular 4" ID="58735" SERIESID="4508"/>
+            <File Name="Marvel Super-Heroes 40" ID="45998" SERIESID="3993"/>
+            <File Name="Mighty Marvel Western 28" ID="57043" SERIESID="4461"/>
+            <File Name="Millie the Model 206" ID="57160" SERIESID="4311"/>
+            <File Name="Monsters on the Prowl 27" ID="56245" SERIESID="4431"/>
+            <File Name="Western Gunfighters 19" ID="58197" SERIESID="4489"/>
+            <File Name="Where Monsters Dwell 25" ID="58249" SERIESID="4492"/>
+            <File Name="Worlds Unknown 4" ID="58266" SERIESID="4493"/>
         </Directory>
         <Directory Name="CMC 1973 08">
-            <File Name="Amazing Spider-Man 126" ID="45153"/>
-            <File Name="Beware 5" ID="56170"/>
-            <File Name="Captain America 167" ID="47039"/>
-            <File Name="Chamber of Chills 7" ID="56199"/>
-            <File Name="Crypt of Shadows 7" ID="56634"/>
-            <File Name="Frankenstein 7" ID="56702"/>
-            <File Name="Marvel Triple Action 15" ID="50877"/>
-            <File Name="Marvel&apos;s Greatest Comics 46" ID="51239"/>
-            <File Name="Special Marvel Edition 14" ID="45113"/>
-            <File Name="Sub-Mariner 67" ID="46034"/>
-            <File Name="Thor 217" ID="46587"/>
-            <File Name="Two-Gun Kid 114" ID="57900"/>
-            <File Name="Vault of Evil 7" ID="58104"/>
-            <File Name="Amazing Adventures 21" ID="45466"/>
-            <File Name="Avengers 117" ID="46240"/>
-            <File Name="Conan the Barbarian 32" ID="56316"/>
-            <File Name="Fear 18" ID="56682"/>
-            <File Name="Hero for Hire 15" ID="45694"/>
-            <File Name="Marvel Feature 12" ID="45099"/>
-            <File Name="Marvel Tales 47" ID="47323"/>
-            <File Name="Rawhide Kid 117" ID="57581"/>
-            <File Name="Ringo Kid 23" ID="57762"/>
-            <File Name="Supernatural Thrillers 6" ID="57994"/>
-            <File Name="Tomb of Dracula 14" ID="58035"/>
-            <File Name="War Is Hell 6" ID="58126"/>
-            <File Name="Western Team-Up 1" ID="58808"/>
-            <File Name="Captain Marvel 29" ID="45507"/>
-            <File Name="Creatures on the Loose 26" ID="56616"/>
-            <File Name="Defenders 10" ID="45545"/>
-            <File Name="Fantastic Four 140" ID="44861"/>
-            <File Name="Jungle Action 7" ID="56763"/>
-            <File Name="Kull, the Destroyer 11" ID="56921"/>
-            <File Name="Marvel Premiere 12" ID="47288"/>
-            <File Name="Marvel Team-Up 15" ID="45735"/>
-            <File Name="My Love 26" ID="57199"/>
-            <File Name="Sgt. Fury 116" ID="48211"/>
-            <File Name="Werewolf by Night 11" ID="58146"/>
-            <File Name="Chili 26" ID="56275"/>
-            <File Name="Daredevil 106" ID="46760"/>
-            <File Name="Incredible Hulk 170" ID="46414"/>
-            <File Name="Iron Man 65" ID="46046"/>
-            <File Name="Kid Colt Outlaw 177" ID="56855"/>
-            <File Name="Millie the Model 207" ID="57161"/>
-            <File Name="Outlaw Kid 19" ID="57415"/>
-            <File Name="Weird Wonder Tales 1" ID="58786"/>
+            <File Name="Amazing Spider-Man 126" ID="45153" SERIESID="3985"/>
+            <File Name="Beware 5" ID="56170" SERIESID="4428"/>
+            <File Name="Captain America 167" ID="47039" SERIESID="3983"/>
+            <File Name="Chamber of Chills 7" ID="56199" SERIESID="4430"/>
+            <File Name="Crypt of Shadows 7" ID="56634" SERIESID="4440"/>
+            <File Name="Frankenstein 7" ID="56702" SERIESID="4444"/>
+            <File Name="Marvel Triple Action 15" ID="50877" SERIESID="4008"/>
+            <File Name="Marvel&apos;s Greatest Comics 46" ID="51239" SERIESID="3997"/>
+            <File Name="Special Marvel Edition 14" ID="45113" SERIESID="4014"/>
+            <File Name="Sub-Mariner 67" ID="46034" SERIESID="3992"/>
+            <File Name="Thor 217" ID="46587" SERIESID="3980"/>
+            <File Name="Two-Gun Kid 114" ID="57900" SERIESID="4384"/>
+            <File Name="Vault of Evil 7" ID="58104" SERIESID="4486"/>
+            <File Name="Amazing Adventures 21" ID="45466" SERIESID="3998"/>
+            <File Name="Avengers 117" ID="46240" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 32" ID="56316" SERIESID="4434"/>
+            <File Name="Fear 18" ID="56682" SERIESID="4443"/>
+            <File Name="Hero for Hire 15" ID="45694" SERIESID="4007"/>
+            <File Name="Marvel Feature 12" ID="45099" SERIESID="4013"/>
+            <File Name="Marvel Tales 47" ID="47323" SERIESID="3994"/>
+            <File Name="Rawhide Kid 117" ID="57581" SERIESID="4342"/>
+            <File Name="Ringo Kid 23" ID="57762" SERIESID="4472"/>
+            <File Name="Supernatural Thrillers 6" ID="57994" SERIESID="4482"/>
+            <File Name="Tomb of Dracula 14" ID="58035" SERIESID="4484"/>
+            <File Name="War Is Hell 6" ID="58126" SERIESID="4487"/>
+            <File Name="Western Team-Up 1" ID="58808" SERIESID="4513"/>
+            <File Name="Captain Marvel 29" ID="45507" SERIESID="3991"/>
+            <File Name="Creatures on the Loose 26" ID="56616" SERIESID="4439"/>
+            <File Name="Defenders 10" ID="45545" SERIESID="4006"/>
+            <File Name="Fantastic Four 140" ID="44861" SERIESID="3649"/>
+            <File Name="Jungle Action 7" ID="56763" SERIESID="4451"/>
+            <File Name="Kull, the Destroyer 11" ID="56921" SERIESID="4453"/>
+            <File Name="Marvel Premiere 12" ID="47288" SERIESID="4010"/>
+            <File Name="Marvel Team-Up 15" ID="45735" SERIESID="4009"/>
+            <File Name="My Love 26" ID="57199" SERIESID="4462"/>
+            <File Name="Sgt. Fury 116" ID="48211" SERIESID="3996"/>
+            <File Name="Werewolf by Night 11" ID="58146" SERIESID="4488"/>
+            <File Name="Chili 26" ID="56275" SERIESID="4432"/>
+            <File Name="Daredevil 106" ID="46760" SERIESID="3988"/>
+            <File Name="Incredible Hulk 170" ID="46414" SERIESID="3984"/>
+            <File Name="Iron Man 65" ID="46046" SERIESID="3989"/>
+            <File Name="Kid Colt Outlaw 177" ID="56855" SERIESID="4277"/>
+            <File Name="Millie the Model 207" ID="57161" SERIESID="4311"/>
+            <File Name="Outlaw Kid 19" ID="57415" SERIESID="4467"/>
+            <File Name="Weird Wonder Tales 1" ID="58786" SERIESID="4512"/>
         </Directory>
         <Directory Name="CMC 1973 09">
-            <File Name="Amazing Spider-Man 127" ID="45154"/>
-            <File Name="Captain America 168" ID="47040"/>
-            <File Name="Dead of Night 1" ID="58707"/>
-            <File Name="Doc Savage 8" ID="56656"/>
-            <File Name="Special Marvel Edition 15" ID="49562"/>
-            <File Name="Tales of the Zombie 3" ID="58765"/>
-            <File Name="Thor 218" ID="46588"/>
-            <File Name="Two-Gun Kid 115" ID="57901"/>
-            <File Name="Vault of Evil 8" ID="58105"/>
-            <File Name="X-Men 85" ID="46203"/>
-            <File Name="Astonishing Tales 21" ID="45488"/>
-            <File Name="Avengers 118" ID="46241"/>
-            <File Name="Conan the Barbarian 33" ID="56317"/>
-            <File Name="Fear 19" ID="56683"/>
-            <File Name="Ghost Rider 3" ID="47527"/>
-            <File Name="Hero for Hire 16" ID="45695"/>
-            <File Name="Marvel Double Feature 1" ID="47606"/>
-            <File Name="Marvel Tales 48" ID="47324"/>
-            <File Name="Tomb of Dracula 15" ID="58036"/>
-            <File Name="Defenders 11" ID="45546"/>
-            <File Name="Dracula Lives 4" ID="58721"/>
-            <File Name="Fantastic Four 141" ID="44862"/>
-            <File Name="Journey into Mystery 8" ID="56745"/>
-            <File Name="Marvel Spotlight 13" ID="47630"/>
-            <File Name="Marvel Team-Up 16" ID="45736"/>
-            <File Name="Our Love Story 26" ID="57384"/>
-            <File Name="Strange Tales 171" ID="67572"/>
-            <File Name="Uncanny Tales 1" ID="62072"/>
-            <File Name="Werewolf by Night 12" ID="58147"/>
-            <File Name="Daredevil 107" ID="46761"/>
-            <File Name="Incredible Hulk 171" ID="46415"/>
-            <File Name="Ka-Zar 1" ID="49760"/>
-            <File Name="Kid Colt Outlaw 178" ID="56856"/>
-            <File Name="Marvel Spectacular 5" ID="58736"/>
-            <File Name="Marvel Super-Heroes 41" ID="45999"/>
-            <File Name="Mighty Marvel Western 29" ID="57044"/>
-            <File Name="Western Gunfighters 20" ID="58198"/>
-            <File Name="Where Monsters Dwell 26" ID="58250"/>
+            <File Name="Amazing Spider-Man 127" ID="45154" SERIESID="3985"/>
+            <File Name="Captain America 168" ID="47040" SERIESID="3983"/>
+            <File Name="Dead of Night 1" ID="58707" SERIESID="4506"/>
+            <File Name="Doc Savage 8" ID="56656" SERIESID="4441"/>
+            <File Name="Special Marvel Edition 15" ID="49562" SERIESID="4014"/>
+            <File Name="Tales of the Zombie 3" ID="58765" SERIESID="4510"/>
+            <File Name="Thor 218" ID="46588" SERIESID="3980"/>
+            <File Name="Two-Gun Kid 115" ID="57901" SERIESID="4384"/>
+            <File Name="Vault of Evil 8" ID="58105" SERIESID="4486"/>
+            <File Name="X-Men 85" ID="46203" SERIESID="3987"/>
+            <File Name="Astonishing Tales 21" ID="45488" SERIESID="3999"/>
+            <File Name="Avengers 118" ID="46241" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 33" ID="56317" SERIESID="4434"/>
+            <File Name="Fear 19" ID="56683" SERIESID="4443"/>
+            <File Name="Ghost Rider 3" ID="47527" SERIESID="4040"/>
+            <File Name="Hero for Hire 16" ID="45695" SERIESID="4007"/>
+            <File Name="Marvel Double Feature 1" ID="47606" SERIESID="4015"/>
+            <File Name="Marvel Tales 48" ID="47324" SERIESID="3994"/>
+            <File Name="Tomb of Dracula 15" ID="58036" SERIESID="4484"/>
+            <File Name="Defenders 11" ID="45546" SERIESID="4006"/>
+            <File Name="Dracula Lives 4" ID="58721" SERIESID="4507"/>
+            <File Name="Fantastic Four 141" ID="44862" SERIESID="3649"/>
+            <File Name="Journey into Mystery 8" ID="56745" SERIESID="4450"/>
+            <File Name="Marvel Spotlight 13" ID="47630" SERIESID="2132"/>
+            <File Name="Marvel Team-Up 16" ID="45736" SERIESID="4009"/>
+            <File Name="Our Love Story 26" ID="57384" SERIESID="4466"/>
+            <File Name="Strange Tales 171" ID="67572" SERIESID="5365"/>
+            <File Name="Uncanny Tales 1" ID="62072" SERIESID="4665"/>
+            <File Name="Werewolf by Night 12" ID="58147" SERIESID="4488"/>
+            <File Name="Daredevil 107" ID="46761" SERIESID="3988"/>
+            <File Name="Incredible Hulk 171" ID="46415" SERIESID="3984"/>
+            <File Name="Ka-Zar 1" ID="49760" SERIESID="4135"/>
+            <File Name="Kid Colt Outlaw 178" ID="56856" SERIESID="4277"/>
+            <File Name="Marvel Spectacular 5" ID="58736" SERIESID="4508"/>
+            <File Name="Marvel Super-Heroes 41" ID="45999" SERIESID="3993"/>
+            <File Name="Mighty Marvel Western 29" ID="57044" SERIESID="4461"/>
+            <File Name="Western Gunfighters 20" ID="58198" SERIESID="4489"/>
+            <File Name="Where Monsters Dwell 26" ID="58250" SERIESID="4492"/>
         </Directory>
         <Directory Name="CMC 1973 10">
-            <File Name="Foom 3" ID="217606"/>
-            <File Name="Amazing Spider-Man 128" ID="45155"/>
-            <File Name="Beware 6" ID="56171"/>
-            <File Name="Captain America 169" ID="47041"/>
-            <File Name="Chamber of Chills 8" ID="56200"/>
-            <File Name="Crypt of Shadows 8" ID="56635"/>
-            <File Name="Marvel Triple Action 16" ID="50878"/>
-            <File Name="Marvel&apos;s Greatest Comics 47" ID="51240"/>
-            <File Name="Sub-Mariner 68" ID="46035"/>
-            <File Name="Thor 219" ID="46589"/>
-            <File Name="Tomb of Dracula 16" ID="58037"/>
-            <File Name="Amazing Adventures 22" ID="45467"/>
-            <File Name="Avengers 119" ID="46242"/>
-            <File Name="Conan the Barbarian 34" ID="56318"/>
-            <File Name="Crazy Magazine 2" ID="60658"/>
-            <File Name="Man-Thing 1" ID="59089"/>
-            <File Name="Marvel Two-in-One 1" ID="45888"/>
-            <File Name="My Love 27" ID="57200"/>
-            <File Name="Captain Marvel 30" ID="45508"/>
-            <File Name="Creatures on the Loose 27" ID="56617"/>
-            <File Name="Fantastic Four 142" ID="44863"/>
-            <File Name="Frankenstein 8" ID="56703"/>
-            <File Name="Jungle Action 8" ID="56764"/>
-            <File Name="Marvel Premiere 13" ID="47289"/>
-            <File Name="Marvel Team-Up 17" ID="45737"/>
-            <File Name="Rawhide Kid 118" ID="57582"/>
-            <File Name="Sgt. Fury 117" ID="48212"/>
-            <File Name="Werewolf by Night 13" ID="58148"/>
-            <File Name="Incredible Hulk 172" ID="46416"/>
-            <File Name="Iron Man 66" ID="46047"/>
-            <File Name="Kid Colt Outlaw 179" ID="56857"/>
-            <File Name="Marvel Tales 49" ID="47325"/>
-            <File Name="Our Love Story 27" ID="57385"/>
-            <File Name="Outlaw Kid 20" ID="57416"/>
-            <File Name="Savage Tales 3" ID="57772"/>
-            <File Name="Tomb of Dracula 17" ID="58038"/>
-            <File Name="Weird Wonder Tales 2" ID="58787"/>
-            <File Name="Worlds Unknown 5" ID="58267"/>
-            <File Name="Amazing Spider-Man 129" ID="45156"/>
-            <File Name="Captain America 170" ID="47042"/>
-            <File Name="Dead of Night 2" ID="58708"/>
-            <File Name="Kull, the Destroyer 12" ID="56922"/>
-            <File Name="Thor 220" ID="46590"/>
-            <File Name="Two-Gun Kid 116" ID="57902"/>
-            <File Name="Vault of Evil 9" ID="58106"/>
-            <File Name="X-Men 86" ID="46204"/>
+            <File Name="Foom 3" ID="217606" SERIESID="21726"/>
+            <File Name="Amazing Spider-Man 128" ID="45155" SERIESID="3985"/>
+            <File Name="Beware 6" ID="56171" SERIESID="4428"/>
+            <File Name="Captain America 169" ID="47041" SERIESID="3983"/>
+            <File Name="Chamber of Chills 8" ID="56200" SERIESID="4430"/>
+            <File Name="Crypt of Shadows 8" ID="56635" SERIESID="4440"/>
+            <File Name="Marvel Triple Action 16" ID="50878" SERIESID="4008"/>
+            <File Name="Marvel&apos;s Greatest Comics 47" ID="51240" SERIESID="3997"/>
+            <File Name="Sub-Mariner 68" ID="46035" SERIESID="3992"/>
+            <File Name="Thor 219" ID="46589" SERIESID="3980"/>
+            <File Name="Tomb of Dracula 16" ID="58037" SERIESID="4484"/>
+            <File Name="Amazing Adventures 22" ID="45467" SERIESID="3998"/>
+            <File Name="Avengers 119" ID="46242" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 34" ID="56318" SERIESID="4434"/>
+            <File Name="Crazy Magazine 2" ID="60658" SERIESID="4595"/>
+            <File Name="Man-Thing 1" ID="59089" SERIESID="4528"/>
+            <File Name="Marvel Two-in-One 1" ID="45888" SERIESID="4030"/>
+            <File Name="My Love 27" ID="57200" SERIESID="4462"/>
+            <File Name="Captain Marvel 30" ID="45508" SERIESID="3991"/>
+            <File Name="Creatures on the Loose 27" ID="56617" SERIESID="4439"/>
+            <File Name="Fantastic Four 142" ID="44863" SERIESID="3649"/>
+            <File Name="Frankenstein 8" ID="56703" SERIESID="4444"/>
+            <File Name="Jungle Action 8" ID="56764" SERIESID="4451"/>
+            <File Name="Marvel Premiere 13" ID="47289" SERIESID="4010"/>
+            <File Name="Marvel Team-Up 17" ID="45737" SERIESID="4009"/>
+            <File Name="Rawhide Kid 118" ID="57582" SERIESID="4342"/>
+            <File Name="Sgt. Fury 117" ID="48212" SERIESID="3996"/>
+            <File Name="Werewolf by Night 13" ID="58148" SERIESID="4488"/>
+            <File Name="Incredible Hulk 172" ID="46416" SERIESID="3984"/>
+            <File Name="Iron Man 66" ID="46047" SERIESID="3989"/>
+            <File Name="Kid Colt Outlaw 179" ID="56857" SERIESID="4277"/>
+            <File Name="Marvel Tales 49" ID="47325" SERIESID="3994"/>
+            <File Name="Our Love Story 27" ID="57385" SERIESID="4466"/>
+            <File Name="Outlaw Kid 20" ID="57416" SERIESID="4467"/>
+            <File Name="Savage Tales 3" ID="57772" SERIESID="4473"/>
+            <File Name="Tomb of Dracula 17" ID="58038" SERIESID="4484"/>
+            <File Name="Weird Wonder Tales 2" ID="58787" SERIESID="4512"/>
+            <File Name="Worlds Unknown 5" ID="58267" SERIESID="4493"/>
+            <File Name="Amazing Spider-Man 129" ID="45156" SERIESID="3985"/>
+            <File Name="Captain America 170" ID="47042" SERIESID="3983"/>
+            <File Name="Dead of Night 2" ID="58708" SERIESID="4506"/>
+            <File Name="Kull, the Destroyer 12" ID="56922" SERIESID="4453"/>
+            <File Name="Thor 220" ID="46590" SERIESID="3980"/>
+            <File Name="Two-Gun Kid 116" ID="57902" SERIESID="4384"/>
+            <File Name="Vault of Evil 9" ID="58106" SERIESID="4486"/>
+            <File Name="X-Men 86" ID="46204" SERIESID="3987"/>
         </Directory>
         <Directory Name="CMC 1973 11">
-            <File Name="Astonishing Tales 22" ID="45489"/>
-            <File Name="Avengers 120" ID="46243"/>
-            <File Name="Conan the Barbarian 35" ID="56319"/>
-            <File Name="Fear 20" ID="56684"/>
-            <File Name="Ghost Rider 4" ID="47528"/>
-            <File Name="Man-Thing 2" ID="59090"/>
-            <File Name="Marvel Double Feature 2" ID="47607"/>
-            <File Name="Power Man 17" ID="45696"/>
-            <File Name="Vampire Tales 3" ID="58776"/>
-            <File Name="Defenders 12" ID="45547"/>
-            <File Name="Fantastic Four 143" ID="44864"/>
-            <File Name="Journey into Mystery 9" ID="56746"/>
-            <File Name="Marvel Team-Up 18" ID="45738"/>
-            <File Name="Special Marvel Edition 16" ID="49563"/>
-            <File Name="Strange Tales 172" ID="67573"/>
-            <File Name="Uncanny Tales 2" ID="62073"/>
-            <File Name="Werewolf by Night 14" ID="58149"/>
-            <File Name="Daredevil 108" ID="46762"/>
-            <File Name="Incredible Hulk 173" ID="46417"/>
-            <File Name="Kid Colt Outlaw 180" ID="56858"/>
-            <File Name="Marvel Spectacular 6" ID="58737"/>
-            <File Name="Marvel Super-Heroes 42" ID="46000"/>
-            <File Name="Mighty Marvel Western 30" ID="57045"/>
-            <File Name="Monsters Unleashed 4" ID="58754"/>
-            <File Name="Tomb of Dracula 18" ID="58039"/>
-            <File Name="Western Gunfighters 21" ID="58199"/>
-            <File Name="Where Monsters Dwell 27" ID="58251"/>
-            <File Name="Amazing Spider-Man 130" ID="45157"/>
-            <File Name="Beware 7" ID="56172"/>
-            <File Name="Captain America 171" ID="47043"/>
-            <File Name="Chamber of Chills 9" ID="56201"/>
-            <File Name="Crypt of Shadows 9" ID="56636"/>
-            <File Name="Marvel Triple Action 17" ID="50879"/>
-            <File Name="Marvel&apos;s Greatest Comics 48" ID="51241"/>
-            <File Name="Sub-Mariner 69" ID="46036"/>
-            <File Name="Thor 221" ID="46591"/>
+            <File Name="Astonishing Tales 22" ID="45489" SERIESID="3999"/>
+            <File Name="Avengers 120" ID="46243" SERIESID="3986"/>
+            <File Name="Conan the Barbarian 35" ID="56319" SERIESID="4434"/>
+            <File Name="Fear 20" ID="56684" SERIESID="4443"/>
+            <File Name="Ghost Rider 4" ID="47528" SERIESID="4040"/>
+            <File Name="Man-Thing 2" ID="59090" SERIESID="4528"/>
+            <File Name="Marvel Double Feature 2" ID="47607" SERIESID="4015"/>
+            <File Name="Power Man 17" ID="45696" SERIESID="4007"/>
+            <File Name="Vampire Tales 3" ID="58776" SERIESID="4511"/>
+            <File Name="Defenders 12" ID="45547" SERIESID="4006"/>
+            <File Name="Fantastic Four 143" ID="44864" SERIESID="3649"/>
+            <File Name="Journey into Mystery 9" ID="56746" SERIESID="4450"/>
+            <File Name="Marvel Team-Up 18" ID="45738" SERIESID="4009"/>
+            <File Name="Special Marvel Edition 16" ID="49563" SERIESID="4014"/>
+            <File Name="Strange Tales 172" ID="67573" SERIESID="5365"/>
+            <File Name="Uncanny Tales 2" ID="62073" SERIESID="4665"/>
+            <File Name="Werewolf by Night 14" ID="58149" SERIESID="4488"/>
+            <File Name="Daredevil 108" ID="46762" SERIESID="3988"/>
+            <File Name="Incredible Hulk 173" ID="46417" SERIESID="3984"/>
+            <File Name="Kid Colt Outlaw 180" ID="56858" SERIESID="4277"/>
+            <File Name="Marvel Spectacular 6" ID="58737" SERIESID="4508"/>
+            <File Name="Marvel Super-Heroes 42" ID="46000" SERIESID="3993"/>
+            <File Name="Mighty Marvel Western 30" ID="57045" SERIESID="4461"/>
+            <File Name="Monsters Unleashed 4" ID="58754" SERIESID="4509"/>
+            <File Name="Tomb of Dracula 18" ID="58039" SERIESID="4484"/>
+            <File Name="Western Gunfighters 21" ID="58199" SERIESID="4489"/>
+            <File Name="Where Monsters Dwell 27" ID="58251" SERIESID="4492"/>
+            <File Name="Amazing Spider-Man 130" ID="45157" SERIESID="3985"/>
+            <File Name="Beware 7" ID="56172" SERIESID="4428"/>
+            <File Name="Captain America 171" ID="47043" SERIESID="3983"/>
+            <File Name="Chamber of Chills 9" ID="56201" SERIESID="4430"/>
+            <File Name="Crypt of Shadows 9" ID="56636" SERIESID="4440"/>
+            <File Name="Marvel Triple Action 17" ID="50879" SERIESID="4008"/>
+            <File Name="Marvel&apos;s Greatest Comics 48" ID="51241" SERIESID="3997"/>
+            <File Name="Sub-Mariner 69" ID="46036" SERIESID="3992"/>
+            <File Name="Thor 221" ID="46591" SERIESID="3980"/>
         </Directory>
         <Directory Name="CMC 1973 12">
-            <File Name="Amazing Adventures 23" ID="45468"/>
-            <File Name="Avengers 121" ID="46244"/>
-            <File Name="Captain Marvel 31" ID="45509"/>
-            <File Name="Conan the Barbarian 36" ID="56320"/>
-            <File Name="Frankenstein 9" ID="56704"/>
-            <File Name="Man-Thing 3" ID="59091"/>
-            <File Name="Marvel Spotlight 14" ID="47631"/>
-            <File Name="Marvel Two-in-One 2" ID="45889"/>
-            <File Name="Tales of the Zombie 4" ID="58766"/>
-            <File Name="Creatures on the Loose 28" ID="56618"/>
-            <File Name="Fantastic Four 144" ID="44865"/>
-            <File Name="Ka-Zar 2" ID="49761"/>
-            <File Name="Marvel Premiere 14" ID="47290"/>
-            <File Name="Marvel Team-Up 19" ID="45739"/>
-            <File Name="Rawhide Kid 119" ID="57583"/>
-            <File Name="Sgt. Fury 118" ID="48213"/>
-            <File Name="Werewolf by Night 15" ID="58150"/>
-            <File Name="Dracula Lives 5" ID="58722"/>
-            <File Name="Incredible Hulk 174" ID="46418"/>
-            <File Name="Iron Man 67" ID="46048"/>
-            <File Name="Kid Colt Outlaw 181" ID="56859"/>
-            <File Name="Marvel Tales 50" ID="47326"/>
-            <File Name="Outlaw Kid 21" ID="57417"/>
-            <File Name="Tomb of Dracula 19" ID="58040"/>
-            <File Name="Weird Wonder Tales 3" ID="58788"/>
-            <File Name="Worlds Unknown 6" ID="58268"/>
+            <File Name="Amazing Adventures 23" ID="45468" SERIESID="3998"/>
+            <File Name="Avengers 121" ID="46244" SERIESID="3986"/>
+            <File Name="Captain Marvel 31" ID="45509" SERIESID="3991"/>
+            <File Name="Conan the Barbarian 36" ID="56320" SERIESID="4434"/>
+            <File Name="Frankenstein 9" ID="56704" SERIESID="4444"/>
+            <File Name="Man-Thing 3" ID="59091" SERIESID="4528"/>
+            <File Name="Marvel Spotlight 14" ID="47631" SERIESID="2132"/>
+            <File Name="Marvel Two-in-One 2" ID="45889" SERIESID="4030"/>
+            <File Name="Tales of the Zombie 4" ID="58766" SERIESID="4510"/>
+            <File Name="Creatures on the Loose 28" ID="56618" SERIESID="4439"/>
+            <File Name="Fantastic Four 144" ID="44865" SERIESID="3649"/>
+            <File Name="Ka-Zar 2" ID="49761" SERIESID="4135"/>
+            <File Name="Marvel Premiere 14" ID="47290" SERIESID="4010"/>
+            <File Name="Marvel Team-Up 19" ID="45739" SERIESID="4009"/>
+            <File Name="Rawhide Kid 119" ID="57583" SERIESID="4342"/>
+            <File Name="Sgt. Fury 118" ID="48213" SERIESID="3996"/>
+            <File Name="Werewolf by Night 15" ID="58150" SERIESID="4488"/>
+            <File Name="Dracula Lives 5" ID="58722" SERIESID="4507"/>
+            <File Name="Incredible Hulk 174" ID="46418" SERIESID="3984"/>
+            <File Name="Iron Man 67" ID="46048" SERIESID="3989"/>
+            <File Name="Kid Colt Outlaw 181" ID="56859" SERIESID="4277"/>
+            <File Name="Marvel Tales 50" ID="47326" SERIESID="3994"/>
+            <File Name="Outlaw Kid 21" ID="57417" SERIESID="4467"/>
+            <File Name="Tomb of Dracula 19" ID="58040" SERIESID="4484"/>
+            <File Name="Weird Wonder Tales 3" ID="58788" SERIESID="4512"/>
+            <File Name="Worlds Unknown 6" ID="58268" SERIESID="4493"/>
         </Directory>
     </Year>

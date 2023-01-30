@@ -2,1132 +2,1132 @@
 <!DOCTYPE xml>
     <Year Name="CMC 2016">
         <Directory Name="CMC 2016 01">
-            <File Name="A-Force 1" ID="198594"/>
-            <File Name="Amazing Spider-Man 1.2" ID="195660"/>
-            <File Name="Contest of Champions 4" ID="194254"/>
-            <File Name="Darth Vader 15" ID="190948"/>
-            <File Name="Deadpool 5" ID="197220"/>
-            <File Name="Doctor Strange 4" ID="195961"/>
-            <File Name="Guardians of Infinity 2" ID="199548"/>
-            <File Name="Invincible Iron Man 5" ID="194387"/>
-            <File Name="Marvel&apos;s Captain America:Civil War Prelude 3" ID="195562"/>
-            <File Name="Marvel:The Hip-Hop Covers 1" ID="198862"/>
-            <File Name="Miracleman by Gaiman and Buckingham 6" ID="194314"/>
-            <File Name="Spider-Gwen 4" ID="196816"/>
-            <File Name="Spider-Man/Deadpool 1" ID="202730"/>
-            <File Name="Star Wars 14" ID="192615"/>
-            <File Name="Totally Awesome Hulk 2" ID="199094"/>
-            <File Name="True Believers:Deadpool 1" ID="199648"/>
-            <File Name="True Believers:Deadpool Origins 1" ID="199650"/>
-            <File Name="Ultimates 3" ID="199616"/>
-            <File Name="Uncanny X-Men 1" ID="199018"/>
-            <File Name="Vision 3" ID="198782"/>
-            <File Name="Weirdworld 2" ID="202200"/>
-            <File Name="Agents of S.H.I.E.L.D. 1" ID="199712"/>
-            <File Name="All-New Hawkeye 3" ID="195527"/>
-            <File Name="All-New Wolverine 4" ID="194487"/>
-            <File Name="All-New X-Men 3" ID="195573"/>
-            <File Name="All-New, All-Different Avengers 3" ID="194193"/>
-            <File Name="Black Knight 3" ID="196899"/>
-            <File Name="Captain America:Sam Wilson 5" ID="193333"/>
-            <File Name="Extraordinary X-Men 5" ID="195820"/>
-            <File Name="Figment 2 5" ID="195513"/>
-            <File Name="Guardians of the Galaxy 4" ID="196741"/>
-            <File Name="Illuminati 3" ID="199011"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 4" ID="199187"/>
-            <File Name="Mighty Thor 3" ID="197338"/>
-            <File Name="Red Wolf 2" ID="199175"/>
-            <File Name="Scarlet Witch 2" ID="199734"/>
-            <File Name="Secret Wars 9" ID="192267"/>
-            <File Name="Silk 3" ID="198741"/>
-            <File Name="Squadron Supreme 3" ID="199144"/>
-            <File Name="True Believers:Detective Deadpool 1" ID="199656"/>
-            <File Name="True Believers:Uncanny Deadpool 1" ID="199666"/>
-            <File Name="Uncanny Avengers 4" ID="197130"/>
-            <File Name="Web Warriors 3" ID="197430"/>
-            <File Name="Astonishing Ant-Man 4" ID="195781"/>
-            <File Name="Captain Marvel 1" ID="202045"/>
-            <File Name="Dark Tower:The Drawing of the Three  The Lady of Shadows 5" ID="173933"/>
-            <File Name="Deadpool 6" ID="197223"/>
-            <File Name="Drax 3" ID="197105"/>
-            <File Name="Hercules 3" ID="198666"/>
-            <File Name="Marvel Universe:Avengers Assemble Season 2 15" ID="189583"/>
-            <File Name="Max Ride:Ultimate Flight 3" ID="195556"/>
-            <File Name="Ms. Marvel 3" ID="198952"/>
-            <File Name="New Avengers 5" ID="195912"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 2" ID="199581"/>
-            <File Name="Silver Surfer 1" ID="202144"/>
-            <File Name="Star Wars 15" ID="192620"/>
-            <File Name="Star-Lord 3" ID="199563"/>
-            <File Name="Starbrand and Nightmask 2" ID="202179"/>
-            <File Name="True Believers:The Groovy Deadpool 1" ID="199660"/>
-            <File Name="True Believers:The Meaty Deadpool 1" ID="199662"/>
-            <File Name="True Believers:The Wedding of Deadpool 1" ID="199664"/>
-            <File Name="Uncanny Inhumans 4" ID="192844"/>
-            <File Name="Uncanny X-Men 2" ID="199022"/>
-            <File Name="All-New Inhumans 3" ID="196638"/>
-            <File Name="All-New, All-Different Avengers 4" ID="194197"/>
-            <File Name="Angela:Queen of Hel 4" ID="194175"/>
-            <File Name="Carnage 4" ID="197082"/>
-            <File Name="Daredevil 3" ID="196671"/>
-            <File Name="Deadpool and Cable:Split Second 2" ID="197449"/>
-            <File Name="Extraordinary X-Men 6" ID="195821"/>
-            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Captain America:The First Avenger 4" ID="202694"/>
-            <File Name="Howling Commandos of S.H.I.E.L.D. 4" ID="195897"/>
-            <File Name="Kanan 10" ID="192393"/>
-            <File Name="Marvel Universe Ultimate Spider-Man:Spider-Verse 3" ID="202142"/>
-            <File Name="Marvel&apos;s Captain America:Civil War Prelude 4" ID="195563"/>
-            <File Name="Moon Girl and Devil Dinosaur 3" ID="198679"/>
-            <File Name="Old Man Logan 1" ID="202207"/>
-            <File Name="Spider-Woman 3" ID="199491"/>
-            <File Name="True Believers:Deadpool The Musical 1" ID="199652"/>
-            <File Name="True Believers:Deadpool Variants 1" ID="199654"/>
-            <File Name="True Believers:Evil Deadpool 1" ID="199658"/>
-            <File Name="Unbeatable Squirrel Girl 4" ID="198806"/>
-            <File Name="Venom:Space Knight 3" ID="199064"/>
+            <File Name="A-Force 1" ID="198594" SERIESID="19730"/>
+            <File Name="Amazing Spider-Man 1.2" ID="195660" SERIESID="19507"/>
+            <File Name="Contest of Champions 4" ID="194254" SERIESID="19222"/>
+            <File Name="Darth Vader 15" ID="190948" SERIESID="18856"/>
+            <File Name="Deadpool 5" ID="197220" SERIESID="19600"/>
+            <File Name="Doctor Strange 4" ID="195961" SERIESID="19520"/>
+            <File Name="Guardians of Infinity 2" ID="199548" SERIESID="19768"/>
+            <File Name="Invincible Iron Man 5" ID="194387" SERIESID="19236"/>
+            <File Name="Marvel&apos;s Captain America:Civil War Prelude 3" ID="195562" SERIESID="19494"/>
+            <File Name="Marvel:The Hip-Hop Covers 1" ID="198862" SERIESID="19740"/>
+            <File Name="Miracleman by Gaiman and Buckingham 6" ID="194314" SERIESID="19224"/>
+            <File Name="Spider-Gwen 4" ID="196816" SERIESID="19586"/>
+            <File Name="Spider-Man/Deadpool 1" ID="202730" SERIESID="20017"/>
+            <File Name="Star Wars 14" ID="192615" SERIESID="19020"/>
+            <File Name="Totally Awesome Hulk 2" ID="199094" SERIESID="19747"/>
+            <File Name="True Believers:Deadpool 1" ID="199648" SERIESID="19104"/>
+            <File Name="True Believers:Deadpool Origins 1" ID="199650" SERIESID="19104"/>
+            <File Name="Ultimates 3" ID="199616" SERIESID="19771"/>
+            <File Name="Uncanny X-Men 1" ID="199018" SERIESID="19744"/>
+            <File Name="Vision 3" ID="198782" SERIESID="19737"/>
+            <File Name="Weirdworld 2" ID="202200" SERIESID="19979"/>
+            <File Name="Agents of S.H.I.E.L.D. 1" ID="199712" SERIESID="19774"/>
+            <File Name="All-New Hawkeye 3" ID="195527" SERIESID="19482"/>
+            <File Name="All-New Wolverine 4" ID="194487" SERIESID="19261"/>
+            <File Name="All-New X-Men 3" ID="195573" SERIESID="19496"/>
+            <File Name="All-New, All-Different Avengers 3" ID="194193" SERIESID="19218"/>
+            <File Name="Black Knight 3" ID="196899" SERIESID="19587"/>
+            <File Name="Captain America:Sam Wilson 5" ID="193333" SERIESID="19122"/>
+            <File Name="Extraordinary X-Men 5" ID="195820" SERIESID="19510"/>
+            <File Name="Figment 2 5" ID="195513" SERIESID="19480"/>
+            <File Name="Guardians of the Galaxy 4" ID="196741" SERIESID="19585"/>
+            <File Name="Illuminati 3" ID="199011" SERIESID="19743"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 4" ID="199187" SERIESID="19750"/>
+            <File Name="Mighty Thor 3" ID="197338" SERIESID="19601"/>
+            <File Name="Red Wolf 2" ID="199175" SERIESID="19749"/>
+            <File Name="Scarlet Witch 2" ID="199734" SERIESID="19776"/>
+            <File Name="Secret Wars 9" ID="192267" SERIESID="18990"/>
+            <File Name="Silk 3" ID="198741" SERIESID="19735"/>
+            <File Name="Squadron Supreme 3" ID="199144" SERIESID="19748"/>
+            <File Name="True Believers:Detective Deadpool 1" ID="199656" SERIESID="19104"/>
+            <File Name="True Believers:Uncanny Deadpool 1" ID="199666" SERIESID="19104"/>
+            <File Name="Uncanny Avengers 4" ID="197130" SERIESID="19594"/>
+            <File Name="Web Warriors 3" ID="197430" SERIESID="19603"/>
+            <File Name="Astonishing Ant-Man 4" ID="195781" SERIESID="19509"/>
+            <File Name="Captain Marvel 1" ID="202045" SERIESID="19968"/>
+            <File Name="Dark Tower:The Drawing of the Three  The Lady of Shadows 5" ID="173933" SERIESID="16547"/>
+            <File Name="Deadpool 6" ID="197223" SERIESID="19600"/>
+            <File Name="Drax 3" ID="197105" SERIESID="19593"/>
+            <File Name="Hercules 3" ID="198666" SERIESID="19733"/>
+            <File Name="Marvel Universe:Avengers Assemble Season 2 15" ID="189583" SERIESID="18703"/>
+            <File Name="Max Ride:Ultimate Flight 3" ID="195556" SERIESID="19493"/>
+            <File Name="Ms. Marvel 3" ID="198952" SERIESID="19742"/>
+            <File Name="New Avengers 5" ID="195912" SERIESID="19517"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 2" ID="199581" SERIESID="19770"/>
+            <File Name="Silver Surfer 1" ID="202144" SERIESID="19973"/>
+            <File Name="Star Wars 15" ID="192620" SERIESID="19020"/>
+            <File Name="Star-Lord 3" ID="199563" SERIESID="19769"/>
+            <File Name="Starbrand and Nightmask 2" ID="202179" SERIESID="19975"/>
+            <File Name="True Believers:The Groovy Deadpool 1" ID="199660" SERIESID="19104"/>
+            <File Name="True Believers:The Meaty Deadpool 1" ID="199662" SERIESID="19104"/>
+            <File Name="True Believers:The Wedding of Deadpool 1" ID="199664" SERIESID="19104"/>
+            <File Name="Uncanny Inhumans 4" ID="192844" SERIESID="19034"/>
+            <File Name="Uncanny X-Men 2" ID="199022" SERIESID="19744"/>
+            <File Name="All-New Inhumans 3" ID="196638" SERIESID="19581"/>
+            <File Name="All-New, All-Different Avengers 4" ID="194197" SERIESID="19218"/>
+            <File Name="Angela:Queen of Hel 4" ID="194175" SERIESID="19217"/>
+            <File Name="Carnage 4" ID="197082" SERIESID="19592"/>
+            <File Name="Daredevil 3" ID="196671" SERIESID="19583"/>
+            <File Name="Deadpool and Cable:Split Second 2" ID="197449" SERIESID="19606"/>
+            <File Name="Extraordinary X-Men 6" ID="195821" SERIESID="19510"/>
+            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Captain America:The First Avenger 4" ID="202694" SERIESID="20011"/>
+            <File Name="Howling Commandos of S.H.I.E.L.D. 4" ID="195897" SERIESID="19516"/>
+            <File Name="Kanan 10" ID="192393" SERIESID="19013"/>
+            <File Name="Marvel Universe Ultimate Spider-Man:Spider-Verse 3" ID="202142" SERIESID="19971"/>
+            <File Name="Marvel&apos;s Captain America:Civil War Prelude 4" ID="195563" SERIESID="19494"/>
+            <File Name="Moon Girl and Devil Dinosaur 3" ID="198679" SERIESID="19734"/>
+            <File Name="Old Man Logan 1" ID="202207" SERIESID="19972"/>
+            <File Name="Spider-Woman 3" ID="199491" SERIESID="19757"/>
+            <File Name="True Believers:Deadpool The Musical 1" ID="199652" SERIESID="19104"/>
+            <File Name="True Believers:Deadpool Variants 1" ID="199654" SERIESID="19104"/>
+            <File Name="True Believers:Evil Deadpool 1" ID="199658" SERIESID="19104"/>
+            <File Name="Unbeatable Squirrel Girl 4" ID="198806" SERIESID="19738"/>
+            <File Name="Venom:Space Knight 3" ID="199064" SERIESID="19745"/>
         </Directory>
         <Directory Name="CMC 2016 02">
-            <File Name="A-Force 2" ID="198599"/>
-            <File Name="Amazing Spider-Man 7" ID="195672"/>
-            <File Name="Captain America:Sam Wilson 6" ID="193335"/>
-            <File Name="Captain Marvel 2" ID="202053"/>
-            <File Name="Contest of Champions 5" ID="194261"/>
-            <File Name="Deadpool and the Mercs for Money 1" ID="199685"/>
-            <File Name="Doctor Strange 5" ID="195964"/>
-            <File Name="Guardians of Infinity 3" ID="199550"/>
-            <File Name="Howard the Duck 4" ID="198638"/>
-            <File Name="Invincible Iron Man 6" ID="194389"/>
-            <File Name="Nova 4" ID="197464"/>
-            <File Name="Obi-Wan and Anakin 2" ID="199642"/>
-            <File Name="Rocket Raccoon and Groot 2" ID="194283"/>
-            <File Name="Scarlet Witch 3" ID="199736"/>
-            <File Name="Spider-Man 1" ID="202072"/>
-            <File Name="Spidey 3" ID="202719"/>
-            <File Name="Uncanny Avengers 5" ID="197133"/>
-            <File Name="Uncanny X-Men 3" ID="199025"/>
-            <File Name="Vision 4" ID="198784"/>
-            <File Name="Agents of S.H.I.E.L.D. 2" ID="199717"/>
-            <File Name="All-New Hawkeye 4" ID="195528"/>
-            <File Name="All-New Wolverine 5" ID="194491"/>
-            <File Name="All-New X-Men 4" ID="195577"/>
-            <File Name="All-New, All-Different Avengers 5" ID="194201"/>
-            <File Name="Black Knight 4" ID="196901"/>
-            <File Name="Darth Vader 16" ID="190954"/>
-            <File Name="Deadpool 7" ID="197226"/>
-            <File Name="Guardians of the Galaxy 5" ID="196743"/>
-            <File Name="Illuminati 4" ID="199013"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 5" ID="199188"/>
-            <File Name="Ms. Marvel 4" ID="198955"/>
-            <File Name="New Avengers 6" ID="195914"/>
-            <File Name="Old Man Logan 2" ID="202214"/>
-            <File Name="Red Wolf 3" ID="199177"/>
-            <File Name="Silk 4" ID="198743"/>
-            <File Name="Spider-Gwen 5" ID="196819"/>
-            <File Name="Spider-Man 2099 6" ID="192951"/>
-            <File Name="Spider-Man/Deadpool 2" ID="202748"/>
-            <File Name="Totally Awesome Hulk 3" ID="199097"/>
-            <File Name="Ultimates 4" ID="199620"/>
-            <File Name="Weirdworld 3" ID="202202"/>
-            <File Name="Amazing Spider-Man 8" ID="195674"/>
-            <File Name="Avengers Standoff:Welcome to Pleasant Hill 1" ID="199514"/>
-            <File Name="Carnage 5" ID="197084"/>
-            <File Name="Deadpool and Cable:Split Second 3" ID="197450"/>
-            <File Name="Extraordinary X-Men 7" ID="195824"/>
-            <File Name="Marvel Universe:Avengers Assemble Season 2 16" ID="189584"/>
-            <File Name="Max Ride:Ultimate Flight 4" ID="195557"/>
-            <File Name="Mighty Thor 4" ID="197341"/>
-            <File Name="Power Man and Iron Fist 1" ID="202539"/>
-            <File Name="Silver Surfer 2" ID="202150"/>
-            <File Name="Spider-Woman 4" ID="199493"/>
-            <File Name="Squadron Supreme 4" ID="199147"/>
-            <File Name="Star Wars 16" ID="192625"/>
-            <File Name="Star-Lord 4" ID="199565"/>
-            <File Name="Starbrand and Nightmask 3" ID="202181"/>
-            <File Name="Uncanny Inhumans 5" ID="192847"/>
-            <File Name="Web Warriors 4" ID="197432"/>
-            <File Name="All-New Inhumans 4" ID="196641"/>
-            <File Name="All-New X-Men 5" ID="195581"/>
-            <File Name="All-New, All-Different Avengers 6" ID="194204"/>
-            <File Name="Amazing Spider-Man 1.3" ID="195663"/>
-            <File Name="Angela:Queen of Hel 5" ID="194177"/>
-            <File Name="Astonishing Ant-Man 5" ID="195784"/>
-            <File Name="Daredevil 4" ID="196675"/>
-            <File Name="Drax 4" ID="197107"/>
-            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s the Avengers 5" ID="202695"/>
-            <File Name="Hercules 4" ID="198668"/>
-            <File Name="Howling Commandos of S.H.I.E.L.D. 5" ID="195898"/>
-            <File Name="Kanan 11" ID="192394"/>
-            <File Name="Karnak 2" ID="196045"/>
-            <File Name="Marvel Universe Ultimate Spider-Man:Spider-Verse 4" ID="202143"/>
-            <File Name="Moon Girl and Devil Dinosaur 4" ID="198681"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 3" ID="199583"/>
-            <File Name="Silk 5" ID="198744"/>
-            <File Name="Spider-Man 2099 7" ID="192952"/>
-            <File Name="Unbeatable Squirrel Girl 5" ID="198808"/>
-            <File Name="Venom:Space Knight 4" ID="199066"/>
-            <File Name="X-Men:Worst X-Man Ever 1" ID="199766"/>
+            <File Name="A-Force 2" ID="198599" SERIESID="19730"/>
+            <File Name="Amazing Spider-Man 7" ID="195672" SERIESID="19507"/>
+            <File Name="Captain America:Sam Wilson 6" ID="193335" SERIESID="19122"/>
+            <File Name="Captain Marvel 2" ID="202053" SERIESID="19968"/>
+            <File Name="Contest of Champions 5" ID="194261" SERIESID="19222"/>
+            <File Name="Deadpool and the Mercs for Money 1" ID="199685" SERIESID="19773"/>
+            <File Name="Doctor Strange 5" ID="195964" SERIESID="19520"/>
+            <File Name="Guardians of Infinity 3" ID="199550" SERIESID="19768"/>
+            <File Name="Howard the Duck 4" ID="198638" SERIESID="19732"/>
+            <File Name="Invincible Iron Man 6" ID="194389" SERIESID="19236"/>
+            <File Name="Nova 4" ID="197464" SERIESID="19607"/>
+            <File Name="Obi-Wan and Anakin 2" ID="199642" SERIESID="19772"/>
+            <File Name="Rocket Raccoon and Groot 2" ID="194283" SERIESID="19223"/>
+            <File Name="Scarlet Witch 3" ID="199736" SERIESID="19776"/>
+            <File Name="Spider-Man 1" ID="202072" SERIESID="19969"/>
+            <File Name="Spidey 3" ID="202719" SERIESID="20016"/>
+            <File Name="Uncanny Avengers 5" ID="197133" SERIESID="19594"/>
+            <File Name="Uncanny X-Men 3" ID="199025" SERIESID="19744"/>
+            <File Name="Vision 4" ID="198784" SERIESID="19737"/>
+            <File Name="Agents of S.H.I.E.L.D. 2" ID="199717" SERIESID="19774"/>
+            <File Name="All-New Hawkeye 4" ID="195528" SERIESID="19482"/>
+            <File Name="All-New Wolverine 5" ID="194491" SERIESID="19261"/>
+            <File Name="All-New X-Men 4" ID="195577" SERIESID="19496"/>
+            <File Name="All-New, All-Different Avengers 5" ID="194201" SERIESID="19218"/>
+            <File Name="Black Knight 4" ID="196901" SERIESID="19587"/>
+            <File Name="Darth Vader 16" ID="190954" SERIESID="18856"/>
+            <File Name="Deadpool 7" ID="197226" SERIESID="19600"/>
+            <File Name="Guardians of the Galaxy 5" ID="196743" SERIESID="19585"/>
+            <File Name="Illuminati 4" ID="199013" SERIESID="19743"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 5" ID="199188" SERIESID="19750"/>
+            <File Name="Ms. Marvel 4" ID="198955" SERIESID="19742"/>
+            <File Name="New Avengers 6" ID="195914" SERIESID="19517"/>
+            <File Name="Old Man Logan 2" ID="202214" SERIESID="19972"/>
+            <File Name="Red Wolf 3" ID="199177" SERIESID="19749"/>
+            <File Name="Silk 4" ID="198743" SERIESID="19735"/>
+            <File Name="Spider-Gwen 5" ID="196819" SERIESID="19586"/>
+            <File Name="Spider-Man 2099 6" ID="192951" SERIESID="19055"/>
+            <File Name="Spider-Man/Deadpool 2" ID="202748" SERIESID="20017"/>
+            <File Name="Totally Awesome Hulk 3" ID="199097" SERIESID="19747"/>
+            <File Name="Ultimates 4" ID="199620" SERIESID="19771"/>
+            <File Name="Weirdworld 3" ID="202202" SERIESID="19979"/>
+            <File Name="Amazing Spider-Man 8" ID="195674" SERIESID="19507"/>
+            <File Name="Avengers Standoff:Welcome to Pleasant Hill 1" ID="199514" SERIESID="19758"/>
+            <File Name="Carnage 5" ID="197084" SERIESID="19592"/>
+            <File Name="Deadpool and Cable:Split Second 3" ID="197450" SERIESID="19606"/>
+            <File Name="Extraordinary X-Men 7" ID="195824" SERIESID="19510"/>
+            <File Name="Marvel Universe:Avengers Assemble Season 2 16" ID="189584" SERIESID="18703"/>
+            <File Name="Max Ride:Ultimate Flight 4" ID="195557" SERIESID="19493"/>
+            <File Name="Mighty Thor 4" ID="197341" SERIESID="19601"/>
+            <File Name="Power Man and Iron Fist 1" ID="202539" SERIESID="19995"/>
+            <File Name="Silver Surfer 2" ID="202150" SERIESID="19973"/>
+            <File Name="Spider-Woman 4" ID="199493" SERIESID="19757"/>
+            <File Name="Squadron Supreme 4" ID="199147" SERIESID="19748"/>
+            <File Name="Star Wars 16" ID="192625" SERIESID="19020"/>
+            <File Name="Star-Lord 4" ID="199565" SERIESID="19769"/>
+            <File Name="Starbrand and Nightmask 3" ID="202181" SERIESID="19975"/>
+            <File Name="Uncanny Inhumans 5" ID="192847" SERIESID="19034"/>
+            <File Name="Web Warriors 4" ID="197432" SERIESID="19603"/>
+            <File Name="All-New Inhumans 4" ID="196641" SERIESID="19581"/>
+            <File Name="All-New X-Men 5" ID="195581" SERIESID="19496"/>
+            <File Name="All-New, All-Different Avengers 6" ID="194204" SERIESID="19218"/>
+            <File Name="Amazing Spider-Man 1.3" ID="195663" SERIESID="19507"/>
+            <File Name="Angela:Queen of Hel 5" ID="194177" SERIESID="19217"/>
+            <File Name="Astonishing Ant-Man 5" ID="195784" SERIESID="19509"/>
+            <File Name="Daredevil 4" ID="196675" SERIESID="19583"/>
+            <File Name="Drax 4" ID="197107" SERIESID="19593"/>
+            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s the Avengers 5" ID="202695" SERIESID="20011"/>
+            <File Name="Hercules 4" ID="198668" SERIESID="19733"/>
+            <File Name="Howling Commandos of S.H.I.E.L.D. 5" ID="195898" SERIESID="19516"/>
+            <File Name="Kanan 11" ID="192394" SERIESID="19013"/>
+            <File Name="Karnak 2" ID="196045" SERIESID="19526"/>
+            <File Name="Marvel Universe Ultimate Spider-Man:Spider-Verse 4" ID="202143" SERIESID="19971"/>
+            <File Name="Moon Girl and Devil Dinosaur 4" ID="198681" SERIESID="19734"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 3" ID="199583" SERIESID="19770"/>
+            <File Name="Silk 5" ID="198744" SERIESID="19735"/>
+            <File Name="Spider-Man 2099 7" ID="192952" SERIESID="19055"/>
+            <File Name="Unbeatable Squirrel Girl 5" ID="198808" SERIESID="19738"/>
+            <File Name="Venom:Space Knight 4" ID="199066" SERIESID="19745"/>
+            <File Name="X-Men:Worst X-Man Ever 1" ID="199766" SERIESID="19782"/>
         </Directory>
         <Directory Name="CMC 2016 03">
-            <File Name="A-Force 3" ID="198601"/>
-            <File Name="Amazing Spider-Man &amp; Silk:The Spider(Fly) Effect 1" ID="202169"/>
-            <File Name="Avengers Standoff:Assault on Pleasant Hill Alpha 1" ID="199518"/>
-            <File Name="Black Widow 1" ID="199453"/>
-            <File Name="Darth Vader 17" ID="190956"/>
-            <File Name="Deadpool 8" ID="197232"/>
-            <File Name="Guardians of Infinity 4" ID="199552"/>
-            <File Name="Invincible Iron Man 7" ID="194394"/>
-            <File Name="Marvel Universe:Avengers Assemble Civil War 1" ID="206663"/>
-            <File Name="New Avengers 7" ID="195915"/>
-            <File Name="Nova 5" ID="197465"/>
-            <File Name="Old Man Logan 3" ID="202218"/>
-            <File Name="Spider-Man 2" ID="202080"/>
-            <File Name="Uncanny Avengers 6" ID="197134"/>
-            <File Name="Uncanny X-Men 4" ID="199031"/>
-            <File Name="Agents of S.H.I.E.L.D. 3" ID="199719"/>
-            <File Name="All-New Wolverine 6" ID="194493"/>
-            <File Name="Amazing Spider-Man 9" ID="195676"/>
-            <File Name="Black Knight 5" ID="196902"/>
-            <File Name="Doctor Strange 6" ID="195967"/>
-            <File Name="Guardians of the Galaxy 6" ID="196744"/>
-            <File Name="Haunted Mansion 1" ID="202580"/>
-            <File Name="Howard the Duck 5" ID="198641"/>
-            <File Name="Infinity Entity 1" ID="202130"/>
-            <File Name="Mighty Thor 5" ID="197344"/>
-            <File Name="Mockingbird 1" ID="202624"/>
-            <File Name="Ms. Marvel 5" ID="198957"/>
-            <File Name="Red Wolf 4" ID="199179"/>
-            <File Name="Rocket Raccoon and Groot 3" ID="194285"/>
-            <File Name="Spider-Gwen 6" ID="196821"/>
-            <File Name="Spider-Man 2099 8" ID="192953"/>
-            <File Name="Spider-Man/Deadpool 3" ID="202756"/>
-            <File Name="Uncanny Avengers 7" ID="197135"/>
-            <File Name="Vision 5" ID="198787"/>
-            <File Name="Weirdworld 4" ID="202204"/>
-            <File Name="All-New Inhumans 5" ID="196642"/>
-            <File Name="All-New X-Men 6" ID="195582"/>
-            <File Name="Astonishing Ant-Man 6" ID="195786"/>
-            <File Name="Captain Marvel 3" ID="202056"/>
-            <File Name="Deadpool and the Mercs for Money 2" ID="199696"/>
-            <File Name="Extraordinary X-Men 8" ID="195825"/>
-            <File Name="Infinity Entity 2" ID="202133"/>
-            <File Name="International Iron Man 1" ID="202607"/>
-            <File Name="Kanan 12" ID="192395"/>
-            <File Name="Power Man and Iron Fist 2" ID="202552"/>
-            <File Name="Scarlet Witch 4" ID="199739"/>
-            <File Name="Silk 6" ID="198745"/>
-            <File Name="Spider-Woman 5" ID="199494"/>
-            <File Name="Squadron Supreme 5" ID="199150"/>
-            <File Name="Star-Lord 5" ID="199566"/>
-            <File Name="Starbrand and Nightmask 4" ID="202183"/>
-            <File Name="Uncanny Inhumans 6" ID="192851"/>
-            <File Name="Web Warriors 5" ID="197433"/>
-            <File Name="All-New Hawkeye 5" ID="195529"/>
-            <File Name="All-New, All-Different Avengers 7" ID="194206"/>
-            <File Name="Angela:Queen of Hel 6" ID="194178"/>
-            <File Name="Carnage 6" ID="197085"/>
-            <File Name="Contest of Champions 6" ID="194264"/>
-            <File Name="Howling Commandos of S.H.I.E.L.D. 6" ID="195899"/>
-            <File Name="Hyperion 1" ID="202665"/>
-            <File Name="Illuminati 5" ID="199014"/>
-            <File Name="Infinity Entity 3" ID="202135"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 6" ID="199189"/>
-            <File Name="New Avengers 8" ID="195916"/>
-            <File Name="Obi-Wan and Anakin 3" ID="199644"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 4" ID="199585"/>
-            <File Name="Star Wars 17" ID="192631"/>
-            <File Name="Totally Awesome Hulk 4" ID="199100"/>
-            <File Name="Ultimates 5" ID="199621"/>
-            <File Name="Uncanny X-Men 5" ID="199033"/>
-            <File Name="Venom:Space Knight 5" ID="199068"/>
-            <File Name="X-Men:Worst X-Man Ever 2" ID="199767"/>
-            <File Name="All-New X-Men 7" ID="195583"/>
-            <File Name="All-New, All-Different Marvel Universe 1" ID="202187"/>
-            <File Name="Amazing Spider-Man 1.4" ID="195666"/>
-            <File Name="Captain America:Sam Wilson 7" ID="193336"/>
-            <File Name="Daredevil 5" ID="196677"/>
-            <File Name="Darth Vader 18" ID="190957"/>
-            <File Name="Drax 5" ID="197108"/>
-            <File Name="Hercules 5" ID="198669"/>
-            <File Name="Marvel Universe:Ultimate Spider-Man Contest of Champions 1" ID="206379"/>
-            <File Name="Max Ride:Ultimate Flight 5" ID="195558"/>
-            <File Name="Moon Girl and Devil Dinosaur 5" ID="198682"/>
-            <File Name="Unbeatable Squirrel Girl 6" ID="198810"/>
-            <File Name="X-Men &apos;92 1" ID="202026"/>
+            <File Name="A-Force 3" ID="198601" SERIESID="19730"/>
+            <File Name="Amazing Spider-Man &amp; Silk:The Spider(Fly) Effect 1" ID="202169" SERIESID="19974"/>
+            <File Name="Avengers Standoff:Assault on Pleasant Hill Alpha 1" ID="199518" SERIESID="19758"/>
+            <File Name="Black Widow 1" ID="199453" SERIESID="19755"/>
+            <File Name="Darth Vader 17" ID="190956" SERIESID="18856"/>
+            <File Name="Deadpool 8" ID="197232" SERIESID="19600"/>
+            <File Name="Guardians of Infinity 4" ID="199552" SERIESID="19768"/>
+            <File Name="Invincible Iron Man 7" ID="194394" SERIESID="19236"/>
+            <File Name="Marvel Universe:Avengers Assemble Civil War 1" ID="206663" SERIESID="20566"/>
+            <File Name="New Avengers 7" ID="195915" SERIESID="19517"/>
+            <File Name="Nova 5" ID="197465" SERIESID="19607"/>
+            <File Name="Old Man Logan 3" ID="202218" SERIESID="19972"/>
+            <File Name="Spider-Man 2" ID="202080" SERIESID="19969"/>
+            <File Name="Uncanny Avengers 6" ID="197134" SERIESID="19594"/>
+            <File Name="Uncanny X-Men 4" ID="199031" SERIESID="19744"/>
+            <File Name="Agents of S.H.I.E.L.D. 3" ID="199719" SERIESID="19774"/>
+            <File Name="All-New Wolverine 6" ID="194493" SERIESID="19261"/>
+            <File Name="Amazing Spider-Man 9" ID="195676" SERIESID="19507"/>
+            <File Name="Black Knight 5" ID="196902" SERIESID="19587"/>
+            <File Name="Doctor Strange 6" ID="195967" SERIESID="19520"/>
+            <File Name="Guardians of the Galaxy 6" ID="196744" SERIESID="19585"/>
+            <File Name="Haunted Mansion 1" ID="202580" SERIESID="19996"/>
+            <File Name="Howard the Duck 5" ID="198641" SERIESID="19732"/>
+            <File Name="Infinity Entity 1" ID="202130" SERIESID="19970"/>
+            <File Name="Mighty Thor 5" ID="197344" SERIESID="19601"/>
+            <File Name="Mockingbird 1" ID="202624" SERIESID="19998"/>
+            <File Name="Ms. Marvel 5" ID="198957" SERIESID="19742"/>
+            <File Name="Red Wolf 4" ID="199179" SERIESID="19749"/>
+            <File Name="Rocket Raccoon and Groot 3" ID="194285" SERIESID="19223"/>
+            <File Name="Spider-Gwen 6" ID="196821" SERIESID="19586"/>
+            <File Name="Spider-Man 2099 8" ID="192953" SERIESID="19055"/>
+            <File Name="Spider-Man/Deadpool 3" ID="202756" SERIESID="20017"/>
+            <File Name="Uncanny Avengers 7" ID="197135" SERIESID="19594"/>
+            <File Name="Vision 5" ID="198787" SERIESID="19737"/>
+            <File Name="Weirdworld 4" ID="202204" SERIESID="19979"/>
+            <File Name="All-New Inhumans 5" ID="196642" SERIESID="19581"/>
+            <File Name="All-New X-Men 6" ID="195582" SERIESID="19496"/>
+            <File Name="Astonishing Ant-Man 6" ID="195786" SERIESID="19509"/>
+            <File Name="Captain Marvel 3" ID="202056" SERIESID="19968"/>
+            <File Name="Deadpool and the Mercs for Money 2" ID="199696" SERIESID="19773"/>
+            <File Name="Extraordinary X-Men 8" ID="195825" SERIESID="19510"/>
+            <File Name="Infinity Entity 2" ID="202133" SERIESID="19970"/>
+            <File Name="International Iron Man 1" ID="202607" SERIESID="19997"/>
+            <File Name="Kanan 12" ID="192395" SERIESID="19013"/>
+            <File Name="Power Man and Iron Fist 2" ID="202552" SERIESID="19995"/>
+            <File Name="Scarlet Witch 4" ID="199739" SERIESID="19776"/>
+            <File Name="Silk 6" ID="198745" SERIESID="19735"/>
+            <File Name="Spider-Woman 5" ID="199494" SERIESID="19757"/>
+            <File Name="Squadron Supreme 5" ID="199150" SERIESID="19748"/>
+            <File Name="Star-Lord 5" ID="199566" SERIESID="19769"/>
+            <File Name="Starbrand and Nightmask 4" ID="202183" SERIESID="19975"/>
+            <File Name="Uncanny Inhumans 6" ID="192851" SERIESID="19034"/>
+            <File Name="Web Warriors 5" ID="197433" SERIESID="19603"/>
+            <File Name="All-New Hawkeye 5" ID="195529" SERIESID="19482"/>
+            <File Name="All-New, All-Different Avengers 7" ID="194206" SERIESID="19218"/>
+            <File Name="Angela:Queen of Hel 6" ID="194178" SERIESID="19217"/>
+            <File Name="Carnage 6" ID="197085" SERIESID="19592"/>
+            <File Name="Contest of Champions 6" ID="194264" SERIESID="19222"/>
+            <File Name="Howling Commandos of S.H.I.E.L.D. 6" ID="195899" SERIESID="19516"/>
+            <File Name="Hyperion 1" ID="202665" SERIESID="20002"/>
+            <File Name="Illuminati 5" ID="199014" SERIESID="19743"/>
+            <File Name="Infinity Entity 3" ID="202135" SERIESID="19970"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 6" ID="199189" SERIESID="19750"/>
+            <File Name="New Avengers 8" ID="195916" SERIESID="19517"/>
+            <File Name="Obi-Wan and Anakin 3" ID="199644" SERIESID="19772"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 4" ID="199585" SERIESID="19770"/>
+            <File Name="Star Wars 17" ID="192631" SERIESID="19020"/>
+            <File Name="Totally Awesome Hulk 4" ID="199100" SERIESID="19747"/>
+            <File Name="Ultimates 5" ID="199621" SERIESID="19771"/>
+            <File Name="Uncanny X-Men 5" ID="199033" SERIESID="19744"/>
+            <File Name="Venom:Space Knight 5" ID="199068" SERIESID="19745"/>
+            <File Name="X-Men:Worst X-Man Ever 2" ID="199767" SERIESID="19782"/>
+            <File Name="All-New X-Men 7" ID="195583" SERIESID="19496"/>
+            <File Name="All-New, All-Different Marvel Universe 1" ID="202187" SERIESID="19976"/>
+            <File Name="Amazing Spider-Man 1.4" ID="195666" SERIESID="19507"/>
+            <File Name="Captain America:Sam Wilson 7" ID="193336" SERIESID="19122"/>
+            <File Name="Daredevil 5" ID="196677" SERIESID="19583"/>
+            <File Name="Darth Vader 18" ID="190957" SERIESID="18856"/>
+            <File Name="Drax 5" ID="197108" SERIESID="19593"/>
+            <File Name="Hercules 5" ID="198669" SERIESID="19733"/>
+            <File Name="Marvel Universe:Ultimate Spider-Man Contest of Champions 1" ID="206379" SERIESID="20526"/>
+            <File Name="Max Ride:Ultimate Flight 5" ID="195558" SERIESID="19493"/>
+            <File Name="Moon Girl and Devil Dinosaur 5" ID="198682" SERIESID="19734"/>
+            <File Name="Unbeatable Squirrel Girl 6" ID="198810" SERIESID="19738"/>
+            <File Name="X-Men &apos;92 1" ID="202026" SERIESID="19967"/>
         </Directory>
         <Directory Name="CMC 2016 04">
-            <File Name="Amadeus Cho:Genius at Work 1" ID="197442"/>
-            <File Name="Black Panther 1" ID="203267"/>
-            <File Name="Black Widow 2" ID="199462"/>
-            <File Name="Contest of Champions 7" ID="194267"/>
-            <File Name="Deadpool 9" ID="197237"/>
-            <File Name="Empress 1" ID="203401"/>
-            <File Name="Infinity Entity 4" ID="202137"/>
-            <File Name="Invincible Iron Man 8" ID="194398"/>
-            <File Name="Marvel Universe:Avengers Assemble Civil War 2" ID="206664"/>
-            <File Name="New Avengers 9" ID="195917"/>
-            <File Name="Old Man Logan 4" ID="202222"/>
-            <File Name="Scarlet Witch 5" ID="199741"/>
-            <File Name="Spider-Man 3" ID="202084"/>
-            <File Name="Spider-Man 2099 9" ID="192956"/>
-            <File Name="Spider-Women Alpha 1" ID="207801"/>
-            <File Name="Star Wars:Poe Dameron 1" ID="204926"/>
-            <File Name="Uncanny Avengers 8" ID="197137"/>
-            <File Name="Uncanny X-Men 6" ID="199034"/>
-            <File Name="Vision 6" ID="198788"/>
-            <File Name="A-Force 4" ID="198605"/>
-            <File Name="Agents of S.H.I.E.L.D. 4" ID="199721"/>
-            <File Name="All-New Inhumans 6" ID="196646"/>
-            <File Name="All-New X-Men 8" ID="195584"/>
-            <File Name="All-New, All-Different Avengers 8" ID="194208"/>
-            <File Name="Amazing Spider-Man 10" ID="195682"/>
-            <File Name="Amazing Spider-Man &amp; Silk:The Spider(Fly) Effect 2" ID="202171"/>
-            <File Name="Captain America 75th Anniversary Magazine 1" ID="205078"/>
-            <File Name="Darth Vader 19" ID="190958"/>
-            <File Name="Guardians of the Galaxy 7" ID="196749"/>
-            <File Name="Hercules 6" ID="198670"/>
-            <File Name="Illuminati 6" ID="199015"/>
-            <File Name="Mockingbird 2" ID="202630"/>
-            <File Name="Moon Knight 1" ID="204738"/>
-            <File Name="Red Wolf 5" ID="199180"/>
-            <File Name="Rocket Raccoon and Groot 4" ID="194287"/>
-            <File Name="Silver Surfer 3" ID="202152"/>
-            <File Name="Spider-Gwen 7" ID="196823"/>
-            <File Name="Spidey 4" ID="202721"/>
-            <File Name="Star Wars Special:C-3PO 1" ID="198766"/>
-            <File Name="Unbelievable Gwenpool 1" ID="198874"/>
-            <File Name="Web Warriors 6" ID="197434"/>
-            <File Name="Weirdworld 5" ID="202205"/>
-            <File Name="X-Men &apos;92 2" ID="202032"/>
-            <File Name="All-New Hawkeye 6" ID="195533"/>
-            <File Name="Astonishing Ant-Man 7" ID="195787"/>
-            <File Name="Captain America:Road to War 1" ID="202192"/>
-            <File Name="Captain America:Sam Wilson 8" ID="193344"/>
-            <File Name="Captain Marvel 4" ID="202059"/>
-            <File Name="Dark Tower:The Drawing of the Three  Bitter Medicine 1" ID="173942"/>
-            <File Name="Deadpool 10" ID="197240"/>
-            <File Name="Deadpool and the Mercs for Money 3" ID="199700"/>
-            <File Name="Extraordinary X-Men 9" ID="195831"/>
-            <File Name="Guardians of Infinity 5" ID="199553"/>
-            <File Name="Haunted Mansion 2" ID="202589"/>
-            <File Name="Howard the Duck 6" ID="198642"/>
-            <File Name="Hyperion 2" ID="202670"/>
-            <File Name="Karnak 3" ID="196046"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 7" ID="199190"/>
-            <File Name="Mighty Thor 6" ID="197346"/>
-            <File Name="New Avengers 10" ID="195918"/>
-            <File Name="Nova 6" ID="197466"/>
-            <File Name="Obi-Wan and Anakin 4" ID="199645"/>
-            <File Name="Power Man and Iron Fist 3" ID="202554"/>
-            <File Name="Silk 7" ID="198746"/>
-            <File Name="Spider-Man/Deadpool 4" ID="202763"/>
-            <File Name="Starbrand and Nightmask 5" ID="202184"/>
-            <File Name="Totally Awesome Hulk 5" ID="199102"/>
-            <File Name="Uncanny Inhumans 7" ID="192853"/>
-            <File Name="All-New Wolverine 7" ID="194495"/>
-            <File Name="Amazing Spider-Man 11" ID="195684"/>
-            <File Name="Angela:Queen of Hel 7" ID="194179"/>
-            <File Name="Avengers Standoff:Assault on Pleasant Hill Omega 1" ID="199523"/>
-            <File Name="Carnage 7" ID="197088"/>
-            <File Name="Daredevil 6" ID="196679"/>
-            <File Name="Doctor Strange 7" ID="195972"/>
-            <File Name="Doctor Strange:Last Days of Magic 1" ID="202647"/>
-            <File Name="Drax 6" ID="197109"/>
-            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Iron Man 3/Marvel&apos;s Thor:The Dark World 6" ID="202696"/>
-            <File Name="International Iron Man 2" ID="202613"/>
-            <File Name="Marvel Universe:Ultimate Spider-Man Contest of Champions 2" ID="206380"/>
-            <File Name="Moon Girl and Devil Dinosaur 6" ID="198684"/>
-            <File Name="Ms. Marvel 6" ID="198959"/>
-            <File Name="Old Man Logan 5" ID="202224"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 5" ID="199587"/>
-            <File Name="Spider-Woman 6" ID="199496"/>
-            <File Name="Spidey 5" ID="202722"/>
-            <File Name="Squadron Supreme 6" ID="199152"/>
-            <File Name="Star Wars 18" ID="192636"/>
-            <File Name="Star-Lord 6" ID="199567"/>
-            <File Name="Ultimates 6" ID="199623"/>
-            <File Name="Unbeatable Squirrel Girl 7" ID="198814"/>
-            <File Name="Venom:Space Knight 6" ID="199069"/>
-            <File Name="X-Men:Worst X-Man Ever 3" ID="199768"/>
-            <File Name="Year of Marvels:The Amazing 1" ID="205073"/>
+            <File Name="Amadeus Cho:Genius at Work 1" ID="197442" SERIESID="19604"/>
+            <File Name="Black Panther 1" ID="203267" SERIESID="20080"/>
+            <File Name="Black Widow 2" ID="199462" SERIESID="19755"/>
+            <File Name="Contest of Champions 7" ID="194267" SERIESID="19222"/>
+            <File Name="Deadpool 9" ID="197237" SERIESID="19600"/>
+            <File Name="Empress 1" ID="203401" SERIESID="20083"/>
+            <File Name="Infinity Entity 4" ID="202137" SERIESID="19970"/>
+            <File Name="Invincible Iron Man 8" ID="194398" SERIESID="19236"/>
+            <File Name="Marvel Universe:Avengers Assemble Civil War 2" ID="206664" SERIESID="20566"/>
+            <File Name="New Avengers 9" ID="195917" SERIESID="19517"/>
+            <File Name="Old Man Logan 4" ID="202222" SERIESID="19972"/>
+            <File Name="Scarlet Witch 5" ID="199741" SERIESID="19776"/>
+            <File Name="Spider-Man 3" ID="202084" SERIESID="19969"/>
+            <File Name="Spider-Man 2099 9" ID="192956" SERIESID="19055"/>
+            <File Name="Spider-Women Alpha 1" ID="207801" SERIESID="20654"/>
+            <File Name="Star Wars:Poe Dameron 1" ID="204926" SERIESID="20342"/>
+            <File Name="Uncanny Avengers 8" ID="197137" SERIESID="19594"/>
+            <File Name="Uncanny X-Men 6" ID="199034" SERIESID="19744"/>
+            <File Name="Vision 6" ID="198788" SERIESID="19737"/>
+            <File Name="A-Force 4" ID="198605" SERIESID="19730"/>
+            <File Name="Agents of S.H.I.E.L.D. 4" ID="199721" SERIESID="19774"/>
+            <File Name="All-New Inhumans 6" ID="196646" SERIESID="19581"/>
+            <File Name="All-New X-Men 8" ID="195584" SERIESID="19496"/>
+            <File Name="All-New, All-Different Avengers 8" ID="194208" SERIESID="19218"/>
+            <File Name="Amazing Spider-Man 10" ID="195682" SERIESID="19507"/>
+            <File Name="Amazing Spider-Man &amp; Silk:The Spider(Fly) Effect 2" ID="202171" SERIESID="19974"/>
+            <File Name="Captain America 75th Anniversary Magazine 1" ID="205078" SERIESID="20361"/>
+            <File Name="Darth Vader 19" ID="190958" SERIESID="18856"/>
+            <File Name="Guardians of the Galaxy 7" ID="196749" SERIESID="19585"/>
+            <File Name="Hercules 6" ID="198670" SERIESID="19733"/>
+            <File Name="Illuminati 6" ID="199015" SERIESID="19743"/>
+            <File Name="Mockingbird 2" ID="202630" SERIESID="19998"/>
+            <File Name="Moon Knight 1" ID="204738" SERIESID="20327"/>
+            <File Name="Red Wolf 5" ID="199180" SERIESID="19749"/>
+            <File Name="Rocket Raccoon and Groot 4" ID="194287" SERIESID="19223"/>
+            <File Name="Silver Surfer 3" ID="202152" SERIESID="19973"/>
+            <File Name="Spider-Gwen 7" ID="196823" SERIESID="19586"/>
+            <File Name="Spidey 4" ID="202721" SERIESID="20016"/>
+            <File Name="Star Wars Special:C-3PO 1" ID="198766" SERIESID="19736"/>
+            <File Name="Unbelievable Gwenpool 1" ID="198874" SERIESID="19741"/>
+            <File Name="Web Warriors 6" ID="197434" SERIESID="19603"/>
+            <File Name="Weirdworld 5" ID="202205" SERIESID="19979"/>
+            <File Name="X-Men &apos;92 2" ID="202032" SERIESID="19967"/>
+            <File Name="All-New Hawkeye 6" ID="195533" SERIESID="19482"/>
+            <File Name="Astonishing Ant-Man 7" ID="195787" SERIESID="19509"/>
+            <File Name="Captain America:Road to War 1" ID="202192" SERIESID="19978"/>
+            <File Name="Captain America:Sam Wilson 8" ID="193344" SERIESID="19122"/>
+            <File Name="Captain Marvel 4" ID="202059" SERIESID="19968"/>
+            <File Name="Dark Tower:The Drawing of the Three  Bitter Medicine 1" ID="173942" SERIESID="16549"/>
+            <File Name="Deadpool 10" ID="197240" SERIESID="19600"/>
+            <File Name="Deadpool and the Mercs for Money 3" ID="199700" SERIESID="19773"/>
+            <File Name="Extraordinary X-Men 9" ID="195831" SERIESID="19510"/>
+            <File Name="Guardians of Infinity 5" ID="199553" SERIESID="19768"/>
+            <File Name="Haunted Mansion 2" ID="202589" SERIESID="19996"/>
+            <File Name="Howard the Duck 6" ID="198642" SERIESID="19732"/>
+            <File Name="Hyperion 2" ID="202670" SERIESID="20002"/>
+            <File Name="Karnak 3" ID="196046" SERIESID="19526"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 7" ID="199190" SERIESID="19750"/>
+            <File Name="Mighty Thor 6" ID="197346" SERIESID="19601"/>
+            <File Name="New Avengers 10" ID="195918" SERIESID="19517"/>
+            <File Name="Nova 6" ID="197466" SERIESID="19607"/>
+            <File Name="Obi-Wan and Anakin 4" ID="199645" SERIESID="19772"/>
+            <File Name="Power Man and Iron Fist 3" ID="202554" SERIESID="19995"/>
+            <File Name="Silk 7" ID="198746" SERIESID="19735"/>
+            <File Name="Spider-Man/Deadpool 4" ID="202763" SERIESID="20017"/>
+            <File Name="Starbrand and Nightmask 5" ID="202184" SERIESID="19975"/>
+            <File Name="Totally Awesome Hulk 5" ID="199102" SERIESID="19747"/>
+            <File Name="Uncanny Inhumans 7" ID="192853" SERIESID="19034"/>
+            <File Name="All-New Wolverine 7" ID="194495" SERIESID="19261"/>
+            <File Name="Amazing Spider-Man 11" ID="195684" SERIESID="19507"/>
+            <File Name="Angela:Queen of Hel 7" ID="194179" SERIESID="19217"/>
+            <File Name="Avengers Standoff:Assault on Pleasant Hill Omega 1" ID="199523" SERIESID="19758"/>
+            <File Name="Carnage 7" ID="197088" SERIESID="19592"/>
+            <File Name="Daredevil 6" ID="196679" SERIESID="19583"/>
+            <File Name="Doctor Strange 7" ID="195972" SERIESID="19520"/>
+            <File Name="Doctor Strange:Last Days of Magic 1" ID="202647" SERIESID="20000"/>
+            <File Name="Drax 6" ID="197109" SERIESID="19593"/>
+            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Iron Man 3/Marvel&apos;s Thor:The Dark World 6" ID="202696" SERIESID="20011"/>
+            <File Name="International Iron Man 2" ID="202613" SERIESID="19997"/>
+            <File Name="Marvel Universe:Ultimate Spider-Man Contest of Champions 2" ID="206380" SERIESID="20526"/>
+            <File Name="Moon Girl and Devil Dinosaur 6" ID="198684" SERIESID="19734"/>
+            <File Name="Ms. Marvel 6" ID="198959" SERIESID="19742"/>
+            <File Name="Old Man Logan 5" ID="202224" SERIESID="19972"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 5" ID="199587" SERIESID="19770"/>
+            <File Name="Spider-Woman 6" ID="199496" SERIESID="19757"/>
+            <File Name="Spidey 5" ID="202722" SERIESID="20016"/>
+            <File Name="Squadron Supreme 6" ID="199152" SERIESID="19748"/>
+            <File Name="Star Wars 18" ID="192636" SERIESID="19020"/>
+            <File Name="Star-Lord 6" ID="199567" SERIESID="19769"/>
+            <File Name="Ultimates 6" ID="199623" SERIESID="19771"/>
+            <File Name="Unbeatable Squirrel Girl 7" ID="198814" SERIESID="19738"/>
+            <File Name="Venom:Space Knight 6" ID="199069" SERIESID="19745"/>
+            <File Name="X-Men:Worst X-Man Ever 3" ID="199768" SERIESID="19782"/>
+            <File Name="Year of Marvels:The Amazing 1" ID="205073" SERIESID="20360"/>
         </Directory>
         <Directory Name="CMC 2016 05">
-            <File Name="A-Force 5" ID="198606"/>
-            <File Name="All-New Inhumans 7" ID="196647"/>
-            <File Name="Amazing Spider-Man 12" ID="195685"/>
-            <File Name="Amazing Spider-Man &amp; Silk:The Spider(Fly) Effect 3" ID="202172"/>
-            <File Name="Black Widow 3" ID="199466"/>
-            <File Name="Captain America:Sam Wilson 9" ID="193346"/>
-            <File Name="Contest of Champions 8" ID="194269"/>
-            <File Name="Daredevil/Punisher 1" ID="202642"/>
-            <File Name="Deadpool:Masacre 1" ID="203490"/>
-            <File Name="Empress 2" ID="203409"/>
-            <File Name="Howard the Duck 7" ID="198645"/>
-            <File Name="Invincible Iron Man 9" ID="194400"/>
-            <File Name="Marvel Universe:Avengers Assemble Civil War 3" ID="206665"/>
-            <File Name="Moon Knight 2" ID="204745"/>
-            <File Name="New Avengers 11" ID="195919"/>
-            <File Name="Nova 7" ID="197467"/>
-            <File Name="Punisher 1" ID="203204"/>
-            <File Name="Rocket Raccoon and Groot 5" ID="194290"/>
-            <File Name="Scarlet 8" ID="185097"/>
-            <File Name="Scarlet Witch 6" ID="199742"/>
-            <File Name="Spider-Gwen 8" ID="196828"/>
-            <File Name="Spider-Man 2099 10" ID="192957"/>
-            <File Name="Star Wars:Poe Dameron 2" ID="204946"/>
-            <File Name="Thunderbolts 1" ID="205030"/>
-            <File Name="True Believers:Chewbacca 1" ID="199671"/>
-            <File Name="True Believers:Darth Vader 1" ID="199673"/>
-            <File Name="True Believers:Droids 1" ID="199674"/>
-            <File Name="True Believers:Kanan 1" ID="199675"/>
-            <File Name="True Believers:Lando 1" ID="199676"/>
-            <File Name="True Believers:Star Wars 1" ID="199679"/>
-            <File Name="True Believers:Star Wars Classic 1" ID="199680"/>
-            <File Name="True Believers:Star Wars Covers 1" ID="199681"/>
-            <File Name="True Believers:Star Wars  Shattered Empire 1" ID="199678"/>
-            <File Name="True Believers:Vader Down 1" ID="199682"/>
-            <File Name="Unbelievable Gwenpool 0" ID="198871"/>
-            <File Name="Uncanny X-Men 7" ID="199038"/>
-            <File Name="X-Men &apos;92 3" ID="202034"/>
-            <File Name="Free Comic Book Day 2016 (Captain America) 1" ID="202168"/>
-            <File Name="Free Comic Book Day 2016 (Civil War II) 1" ID="202167"/>
-            <File Name="Agents of S.H.I.E.L.D. 5" ID="199722"/>
-            <File Name="All-New X-Men 9" ID="195585"/>
-            <File Name="All-New, All-Different Avengers 9" ID="194210"/>
-            <File Name="Black Panther 2" ID="203293"/>
-            <File Name="Dark Tower:The Drawing of the Three  Bitter Medicine 2" ID="173943"/>
-            <File Name="Darth Vader 20" ID="190959"/>
-            <File Name="Deadpool 11" ID="197243"/>
-            <File Name="Guardians of Infinity 6" ID="199554"/>
-            <File Name="Guardians of the Galaxy 8" ID="196751"/>
-            <File Name="Illuminati 7" ID="199016"/>
-            <File Name="Powers 6" ID="190681"/>
-            <File Name="Silk 8" ID="198750"/>
-            <File Name="Ultimates 7" ID="199625"/>
-            <File Name="Unbelievable Gwenpool 2" ID="198887"/>
-            <File Name="Uncanny Inhumans 8" ID="192854"/>
-            <File Name="Venom:Space Knight 7" ID="199070"/>
-            <File Name="Vision 7" ID="198789"/>
-            <File Name="Web Warriors 7" ID="197435"/>
-            <File Name="All-New Wolverine 8" ID="194496"/>
-            <File Name="Astonishing Ant-Man 8" ID="195791"/>
-            <File Name="Civil War II 0" ID="204814"/>
-            <File Name="Deadpool and the Mercs for Money 4" ID="199704"/>
-            <File Name="Deadpool:Last Days of Magic 1" ID="203509"/>
-            <File Name="Haunted Mansion 3" ID="202594"/>
-            <File Name="International Iron Man 3" ID="202616"/>
-            <File Name="Karnak 4" ID="196047"/>
-            <File Name="Old Man Logan 6" ID="202227"/>
-            <File Name="Power Man and Iron Fist 4" ID="202556"/>
-            <File Name="Scarlet 9" ID="185098"/>
-            <File Name="Silver Surfer 4" ID="202154"/>
-            <File Name="Spider-Man 4" ID="202087"/>
-            <File Name="Spider-Woman 7" ID="199500"/>
-            <File Name="Spidey 6" ID="202723"/>
-            <File Name="Squadron Supreme 7" ID="199156"/>
-            <File Name="Star-Lord 7" ID="199570"/>
-            <File Name="Uncanny Avengers 9" ID="197139"/>
-            <File Name="Amazing Spider-Man 1.5" ID="195668"/>
-            <File Name="Captain America:Steve Rogers 1" ID="203432"/>
-            <File Name="Captain Marvel 5" ID="202061"/>
-            <File Name="Carnage 8" ID="197089"/>
-            <File Name="Civil War II Daily Bugle Newspaper 1" ID="221549"/>
-            <File Name="Daredevil 7" ID="196683"/>
-            <File Name="Deadpool 12" ID="197246"/>
-            <File Name="Doctor Strange 8" ID="195973"/>
-            <File Name="Drax 7" ID="197112"/>
-            <File Name="Extraordinary X-Men 10" ID="195832"/>
-            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Captain America:The Winter Soldier/Marvel&apos;s Ant-Man 7" ID="202697"/>
-            <File Name="Hyperion 3" ID="202672"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 8" ID="199191"/>
-            <File Name="Marvel Universe:Ultimate Spider-Man Contest of Champions 3" ID="206381"/>
-            <File Name="Mighty Thor 7" ID="197348"/>
-            <File Name="Mockingbird 3" ID="202634"/>
-            <File Name="Moon Girl and Devil Dinosaur 7" ID="198685"/>
-            <File Name="Ms. Marvel 7" ID="198961"/>
-            <File Name="Nighthawk 1" ID="204773"/>
-            <File Name="Obi-Wan and Anakin 5" ID="199646"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 6" ID="199588"/>
-            <File Name="Red Wolf 6" ID="199181"/>
-            <File Name="Spider-Man/Deadpool 5" ID="202767"/>
-            <File Name="Star Wars 19" ID="192640"/>
-            <File Name="Starbrand and Nightmask 6" ID="202185"/>
-            <File Name="Totally Awesome Hulk 6" ID="199104"/>
-            <File Name="Unbeatable Squirrel Girl 8" ID="198818"/>
-            <File Name="Uncanny Inhumans 9" ID="192856"/>
-            <File Name="Weirdworld 6" ID="202206"/>
-            <File Name="X-Men:Worst X-Man Ever 4" ID="199769"/>
+            <File Name="A-Force 5" ID="198606" SERIESID="19730"/>
+            <File Name="All-New Inhumans 7" ID="196647" SERIESID="19581"/>
+            <File Name="Amazing Spider-Man 12" ID="195685" SERIESID="19507"/>
+            <File Name="Amazing Spider-Man &amp; Silk:The Spider(Fly) Effect 3" ID="202172" SERIESID="19974"/>
+            <File Name="Black Widow 3" ID="199466" SERIESID="19755"/>
+            <File Name="Captain America:Sam Wilson 9" ID="193346" SERIESID="19122"/>
+            <File Name="Contest of Champions 8" ID="194269" SERIESID="19222"/>
+            <File Name="Daredevil/Punisher 1" ID="202642" SERIESID="19999"/>
+            <File Name="Deadpool:Masacre 1" ID="203490" SERIESID="20086"/>
+            <File Name="Empress 2" ID="203409" SERIESID="20083"/>
+            <File Name="Howard the Duck 7" ID="198645" SERIESID="19732"/>
+            <File Name="Invincible Iron Man 9" ID="194400" SERIESID="19236"/>
+            <File Name="Marvel Universe:Avengers Assemble Civil War 3" ID="206665" SERIESID="20566"/>
+            <File Name="Moon Knight 2" ID="204745" SERIESID="20327"/>
+            <File Name="New Avengers 11" ID="195919" SERIESID="19517"/>
+            <File Name="Nova 7" ID="197467" SERIESID="19607"/>
+            <File Name="Punisher 1" ID="203204" SERIESID="20079"/>
+            <File Name="Rocket Raccoon and Groot 5" ID="194290" SERIESID="19223"/>
+            <File Name="Scarlet 8" ID="185097" SERIESID="14462"/>
+            <File Name="Scarlet Witch 6" ID="199742" SERIESID="19776"/>
+            <File Name="Spider-Gwen 8" ID="196828" SERIESID="19586"/>
+            <File Name="Spider-Man 2099 10" ID="192957" SERIESID="19055"/>
+            <File Name="Star Wars:Poe Dameron 2" ID="204946" SERIESID="20342"/>
+            <File Name="Thunderbolts 1" ID="205030" SERIESID="20354"/>
+            <File Name="True Believers:Chewbacca 1" ID="199671" SERIESID="19104"/>
+            <File Name="True Believers:Darth Vader 1" ID="199673" SERIESID="19104"/>
+            <File Name="True Believers:Droids 1" ID="199674" SERIESID="19104"/>
+            <File Name="True Believers:Kanan 1" ID="199675" SERIESID="19104"/>
+            <File Name="True Believers:Lando 1" ID="199676" SERIESID="19104"/>
+            <File Name="True Believers:Star Wars 1" ID="199679" SERIESID="19104"/>
+            <File Name="True Believers:Star Wars Classic 1" ID="199680" SERIESID="19104"/>
+            <File Name="True Believers:Star Wars Covers 1" ID="199681" SERIESID="19104"/>
+            <File Name="True Believers:Star Wars  Shattered Empire 1" ID="199678" SERIESID="19104"/>
+            <File Name="True Believers:Vader Down 1" ID="199682" SERIESID="19104"/>
+            <File Name="Unbelievable Gwenpool 0" ID="198871" SERIESID="19741"/>
+            <File Name="Uncanny X-Men 7" ID="199038" SERIESID="19744"/>
+            <File Name="X-Men &apos;92 3" ID="202034" SERIESID="19967"/>
+            <File Name="Free Comic Book Day 2016 (Captain America) 1" ID="202168" SERIESID="16184"/>
+            <File Name="Free Comic Book Day 2016 (Civil War II) 1" ID="202167" SERIESID="16184"/>
+            <File Name="Agents of S.H.I.E.L.D. 5" ID="199722" SERIESID="19774"/>
+            <File Name="All-New X-Men 9" ID="195585" SERIESID="19496"/>
+            <File Name="All-New, All-Different Avengers 9" ID="194210" SERIESID="19218"/>
+            <File Name="Black Panther 2" ID="203293" SERIESID="20080"/>
+            <File Name="Dark Tower:The Drawing of the Three  Bitter Medicine 2" ID="173943" SERIESID="16549"/>
+            <File Name="Darth Vader 20" ID="190959" SERIESID="18856"/>
+            <File Name="Deadpool 11" ID="197243" SERIESID="19600"/>
+            <File Name="Guardians of Infinity 6" ID="199554" SERIESID="19768"/>
+            <File Name="Guardians of the Galaxy 8" ID="196751" SERIESID="19585"/>
+            <File Name="Illuminati 7" ID="199016" SERIESID="19743"/>
+            <File Name="Powers 6" ID="190681" SERIESID="18846"/>
+            <File Name="Silk 8" ID="198750" SERIESID="19735"/>
+            <File Name="Ultimates 7" ID="199625" SERIESID="19771"/>
+            <File Name="Unbelievable Gwenpool 2" ID="198887" SERIESID="19741"/>
+            <File Name="Uncanny Inhumans 8" ID="192854" SERIESID="19034"/>
+            <File Name="Venom:Space Knight 7" ID="199070" SERIESID="19745"/>
+            <File Name="Vision 7" ID="198789" SERIESID="19737"/>
+            <File Name="Web Warriors 7" ID="197435" SERIESID="19603"/>
+            <File Name="All-New Wolverine 8" ID="194496" SERIESID="19261"/>
+            <File Name="Astonishing Ant-Man 8" ID="195791" SERIESID="19509"/>
+            <File Name="Civil War II 0" ID="204814" SERIESID="20332"/>
+            <File Name="Deadpool and the Mercs for Money 4" ID="199704" SERIESID="19773"/>
+            <File Name="Deadpool:Last Days of Magic 1" ID="203509" SERIESID="20091"/>
+            <File Name="Haunted Mansion 3" ID="202594" SERIESID="19996"/>
+            <File Name="International Iron Man 3" ID="202616" SERIESID="19997"/>
+            <File Name="Karnak 4" ID="196047" SERIESID="19526"/>
+            <File Name="Old Man Logan 6" ID="202227" SERIESID="19972"/>
+            <File Name="Power Man and Iron Fist 4" ID="202556" SERIESID="19995"/>
+            <File Name="Scarlet 9" ID="185098" SERIESID="14462"/>
+            <File Name="Silver Surfer 4" ID="202154" SERIESID="19973"/>
+            <File Name="Spider-Man 4" ID="202087" SERIESID="19969"/>
+            <File Name="Spider-Woman 7" ID="199500" SERIESID="19757"/>
+            <File Name="Spidey 6" ID="202723" SERIESID="20016"/>
+            <File Name="Squadron Supreme 7" ID="199156" SERIESID="19748"/>
+            <File Name="Star-Lord 7" ID="199570" SERIESID="19769"/>
+            <File Name="Uncanny Avengers 9" ID="197139" SERIESID="19594"/>
+            <File Name="Amazing Spider-Man 1.5" ID="195668" SERIESID="19507"/>
+            <File Name="Captain America:Steve Rogers 1" ID="203432" SERIESID="20084"/>
+            <File Name="Captain Marvel 5" ID="202061" SERIESID="19968"/>
+            <File Name="Carnage 8" ID="197089" SERIESID="19592"/>
+            <File Name="Civil War II Daily Bugle Newspaper 1" ID="221549" SERIESID="22398"/>
+            <File Name="Daredevil 7" ID="196683" SERIESID="19583"/>
+            <File Name="Deadpool 12" ID="197246" SERIESID="19600"/>
+            <File Name="Doctor Strange 8" ID="195973" SERIESID="19520"/>
+            <File Name="Drax 7" ID="197112" SERIESID="19593"/>
+            <File Name="Extraordinary X-Men 10" ID="195832" SERIESID="19510"/>
+            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Captain America:The Winter Soldier/Marvel&apos;s Ant-Man 7" ID="202697" SERIESID="20011"/>
+            <File Name="Hyperion 3" ID="202672" SERIESID="20002"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 8" ID="199191" SERIESID="19750"/>
+            <File Name="Marvel Universe:Ultimate Spider-Man Contest of Champions 3" ID="206381" SERIESID="20526"/>
+            <File Name="Mighty Thor 7" ID="197348" SERIESID="19601"/>
+            <File Name="Mockingbird 3" ID="202634" SERIESID="19998"/>
+            <File Name="Moon Girl and Devil Dinosaur 7" ID="198685" SERIESID="19734"/>
+            <File Name="Ms. Marvel 7" ID="198961" SERIESID="19742"/>
+            <File Name="Nighthawk 1" ID="204773" SERIESID="20329"/>
+            <File Name="Obi-Wan and Anakin 5" ID="199646" SERIESID="19772"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 6" ID="199588" SERIESID="19770"/>
+            <File Name="Red Wolf 6" ID="199181" SERIESID="19749"/>
+            <File Name="Spider-Man/Deadpool 5" ID="202767" SERIESID="20017"/>
+            <File Name="Star Wars 19" ID="192640" SERIESID="19020"/>
+            <File Name="Starbrand and Nightmask 6" ID="202185" SERIESID="19975"/>
+            <File Name="Totally Awesome Hulk 6" ID="199104" SERIESID="19747"/>
+            <File Name="Unbeatable Squirrel Girl 8" ID="198818" SERIESID="19738"/>
+            <File Name="Uncanny Inhumans 9" ID="192856" SERIESID="19034"/>
+            <File Name="Weirdworld 6" ID="202206" SERIESID="19979"/>
+            <File Name="X-Men:Worst X-Man Ever 4" ID="199769" SERIESID="19782"/>
         </Directory>
         <Directory Name="CMC 2016 06">
-            <File Name="A-Force 6" ID="198610"/>
-            <File Name="All-New Wolverine 9" ID="194497"/>
-            <File Name="All-New, All-Different Avengers 10" ID="194213"/>
-            <File Name="Amazing Spider-Man 13" ID="195688"/>
-            <File Name="Civil War II 1" ID="204828"/>
-            <File Name="Contest of Champions 9" ID="194271"/>
-            <File Name="Deadpool 13" ID="197248"/>
-            <File Name="Invincible Iron Man 10" ID="194403"/>
-            <File Name="Marvel Universe:Avengers Assemble Civil War 4" ID="206666"/>
-            <File Name="Moon Knight 3" ID="204749"/>
-            <File Name="Old Man Logan 7" ID="202228"/>
-            <File Name="Punisher 2" ID="203217"/>
-            <File Name="Spider-Man 2099 11" ID="192958"/>
-            <File Name="Spider-Woman 8" ID="199503"/>
-            <File Name="Spider-Women Omega 1" ID="207805"/>
-            <File Name="Timely Comics:All-New All-Different Avengers 1" ID="205053"/>
-            <File Name="Timely Comics:All-New Inhumans 1" ID="205054"/>
-            <File Name="Timely Comics:Carnage 1" ID="205055"/>
-            <File Name="X-Men &apos;92 4" ID="202036"/>
-            <File Name="Agents of S.H.I.E.L.D. 6" ID="199723"/>
-            <File Name="All-New X-Men 10" ID="195589"/>
-            <File Name="Civil War II Amazing Spider-Man 1" ID="202887"/>
-            <File Name="Civil War II:Gods of War 1" ID="202838"/>
-            <File Name="Daredevil 8" ID="196685"/>
-            <File Name="Dark Tower:The Drawing of the Three  Bitter Medicine 3" ID="173944"/>
-            <File Name="Darth Vader 21" ID="190963"/>
-            <File Name="Deadpool and the Mercs for Money 5" ID="199708"/>
-            <File Name="Empress 3" ID="203415"/>
-            <File Name="Guardians of the Galaxy 9" ID="196753"/>
-            <File Name="Howard the Duck 8" ID="198647"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 9" ID="199192"/>
-            <File Name="New Avengers 12" ID="195920"/>
-            <File Name="Star Wars:Poe Dameron 3" ID="204948"/>
-            <File Name="Thunderbolts 2" ID="205035"/>
-            <File Name="Timely Comics:Daredevil 1" ID="205056"/>
-            <File Name="Timely Comics:Doctor Strange 1" ID="205057"/>
-            <File Name="Timely Comics:Drax 1" ID="205058"/>
-            <File Name="Venom:Space Knight 8" ID="199071"/>
-            <File Name="Vision 8" ID="198790"/>
-            <File Name="All-New Inhumans 8" ID="196648"/>
-            <File Name="Amazing Spider-Man 14" ID="195689"/>
-            <File Name="Astonishing Ant-Man 9" ID="195793"/>
-            <File Name="Black Widow 4" ID="199470"/>
-            <File Name="Civil War II 2" ID="204859"/>
-            <File Name="Civil War II:X-Men 1" ID="203385"/>
-            <File Name="Deadpool 14" ID="197256"/>
-            <File Name="Guardians of Infinity 7" ID="199555"/>
-            <File Name="International Iron Man 4" ID="202618"/>
-            <File Name="Nova 8" ID="197468"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 7" ID="199589"/>
-            <File Name="Scarlet 10" ID="185099"/>
-            <File Name="Spider-Gwen 9" ID="196832"/>
-            <File Name="Spidey 7" ID="202724"/>
-            <File Name="Squadron Supreme 8" ID="199157"/>
-            <File Name="Star Wars 20" ID="192644"/>
-            <File Name="Star Wars:Han Solo 1" ID="204701"/>
-            <File Name="Timely Comics:Invincible Iron Man 1" ID="205059"/>
-            <File Name="Timely Comics:Moon Girl And Devil Dinosaur 1" ID="205060"/>
-            <File Name="Timely Comics:New Avengers 1" ID="205061"/>
-            <File Name="Uncanny Inhumans 10" ID="192857"/>
-            <File Name="Uncanny X-Men 8" ID="199040"/>
-            <File Name="Vote Loki 1" ID="199078"/>
-            <File Name="Year of Marvels:The Incredible 2" ID="205074"/>
-            <File Name="Captain America:Sam Wilson 10" ID="193347"/>
-            <File Name="Carnage 9" ID="197090"/>
-            <File Name="Civil War II:Choosing Sides 1" ID="202865"/>
-            <File Name="Deadpool V Gambit 1" ID="202650"/>
-            <File Name="Doctor Strange 9" ID="195976"/>
-            <File Name="Drax 8" ID="197113"/>
-            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Agents of S.H.I.E.L.D. Season One 8" ID="202698"/>
-            <File Name="Marvel Universe:Ultimate Spider-Man Contest of Champions 4" ID="206382"/>
-            <File Name="Mighty Thor 8" ID="197349"/>
-            <File Name="Moon Girl and Devil Dinosaur 8" ID="198688"/>
-            <File Name="Ms. Marvel 8" ID="198963"/>
-            <File Name="Nighthawk 2" ID="204778"/>
-            <File Name="Power Man and Iron Fist 5" ID="202558"/>
-            <File Name="Rocket Raccoon and Groot 6" ID="194291"/>
-            <File Name="Scarlet Witch 7" ID="199743"/>
-            <File Name="Star Wars:The Force Awakens Adaptation 1" ID="207573"/>
-            <File Name="Timely Comics:Scarlet Witch 1" ID="205062"/>
-            <File Name="Timely Comics:Squadron Supreme 1" ID="205063"/>
-            <File Name="Timely Comics:The Totally Awesome Hulk 1" ID="205064"/>
-            <File Name="Totally Awesome Hulk 7" ID="199105"/>
-            <File Name="Ultimates 8" ID="199626"/>
-            <File Name="Unbelievable Gwenpool 3" ID="198890"/>
-            <File Name="Uncanny Avengers 10" ID="197140"/>
-            <File Name="Web Warriors 8" ID="197436"/>
-            <File Name="All-New, All-Different Avengers 11" ID="194214"/>
-            <File Name="Amazing Spider-Man &amp; Silk:The Spider(Fly) Effect 4" ID="202173"/>
-            <File Name="Black Panther 3" ID="203300"/>
-            <File Name="Captain America:Steve Rogers 2" ID="203444"/>
-            <File Name="Captain Marvel 6" ID="202063"/>
-            <File Name="Daredevil/Punisher 2" ID="202643"/>
-            <File Name="Darth Vader 22" ID="190966"/>
-            <File Name="Extraordinary X-Men 11" ID="195835"/>
-            <File Name="Haunted Mansion 4" ID="202598"/>
-            <File Name="Hyperion 4" ID="202674"/>
-            <File Name="Mockingbird 4" ID="202636"/>
-            <File Name="Silk 9" ID="198753"/>
-            <File Name="Spider-Gwen Annual 1" ID="196845"/>
-            <File Name="Spider-Man 5" ID="202088"/>
-            <File Name="Spider-Man/Deadpool 6" ID="202771"/>
-            <File Name="Star-Lord 8" ID="199571"/>
-            <File Name="Timely Comics:Ultimates 1" ID="205065"/>
-            <File Name="Timely Comics:Uncanny Inhumans 1" ID="205066"/>
-            <File Name="Timely Comics:Venom Space Knight 1" ID="205067"/>
-            <File Name="Timely Comics:Web-Warriors 1" ID="205068"/>
-            <File Name="Unbeatable Squirrel Girl 9" ID="198819"/>
-            <File Name="Uncanny Inhumans 11" ID="192858"/>
-            <File Name="Uncanny X-Men 9" ID="199041"/>
-            <File Name="Venom:Space Knight 9" ID="199072"/>
-            <File Name="X-Men:Worst X-Man Ever 5" ID="199770"/>
+            <File Name="A-Force 6" ID="198610" SERIESID="19730"/>
+            <File Name="All-New Wolverine 9" ID="194497" SERIESID="19261"/>
+            <File Name="All-New, All-Different Avengers 10" ID="194213" SERIESID="19218"/>
+            <File Name="Amazing Spider-Man 13" ID="195688" SERIESID="19507"/>
+            <File Name="Civil War II 1" ID="204828" SERIESID="20332"/>
+            <File Name="Contest of Champions 9" ID="194271" SERIESID="19222"/>
+            <File Name="Deadpool 13" ID="197248" SERIESID="19600"/>
+            <File Name="Invincible Iron Man 10" ID="194403" SERIESID="19236"/>
+            <File Name="Marvel Universe:Avengers Assemble Civil War 4" ID="206666" SERIESID="20566"/>
+            <File Name="Moon Knight 3" ID="204749" SERIESID="20327"/>
+            <File Name="Old Man Logan 7" ID="202228" SERIESID="19972"/>
+            <File Name="Punisher 2" ID="203217" SERIESID="20079"/>
+            <File Name="Spider-Man 2099 11" ID="192958" SERIESID="19055"/>
+            <File Name="Spider-Woman 8" ID="199503" SERIESID="19757"/>
+            <File Name="Spider-Women Omega 1" ID="207805" SERIESID="20654"/>
+            <File Name="Timely Comics:All-New All-Different Avengers 1" ID="205053" SERIESID="20355"/>
+            <File Name="Timely Comics:All-New Inhumans 1" ID="205054" SERIESID="20355"/>
+            <File Name="Timely Comics:Carnage 1" ID="205055" SERIESID="20355"/>
+            <File Name="X-Men &apos;92 4" ID="202036" SERIESID="19967"/>
+            <File Name="Agents of S.H.I.E.L.D. 6" ID="199723" SERIESID="19774"/>
+            <File Name="All-New X-Men 10" ID="195589" SERIESID="19496"/>
+            <File Name="Civil War II Amazing Spider-Man 1" ID="202887" SERIESID="20032"/>
+            <File Name="Civil War II:Gods of War 1" ID="202838" SERIESID="20023"/>
+            <File Name="Daredevil 8" ID="196685" SERIESID="19583"/>
+            <File Name="Dark Tower:The Drawing of the Three  Bitter Medicine 3" ID="173944" SERIESID="16549"/>
+            <File Name="Darth Vader 21" ID="190963" SERIESID="18856"/>
+            <File Name="Deadpool and the Mercs for Money 5" ID="199708" SERIESID="19773"/>
+            <File Name="Empress 3" ID="203415" SERIESID="20083"/>
+            <File Name="Guardians of the Galaxy 9" ID="196753" SERIESID="19585"/>
+            <File Name="Howard the Duck 8" ID="198647" SERIESID="19732"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 9" ID="199192" SERIESID="19750"/>
+            <File Name="New Avengers 12" ID="195920" SERIESID="19517"/>
+            <File Name="Star Wars:Poe Dameron 3" ID="204948" SERIESID="20342"/>
+            <File Name="Thunderbolts 2" ID="205035" SERIESID="20354"/>
+            <File Name="Timely Comics:Daredevil 1" ID="205056" SERIESID="20355"/>
+            <File Name="Timely Comics:Doctor Strange 1" ID="205057" SERIESID="20355"/>
+            <File Name="Timely Comics:Drax 1" ID="205058" SERIESID="20355"/>
+            <File Name="Venom:Space Knight 8" ID="199071" SERIESID="19745"/>
+            <File Name="Vision 8" ID="198790" SERIESID="19737"/>
+            <File Name="All-New Inhumans 8" ID="196648" SERIESID="19581"/>
+            <File Name="Amazing Spider-Man 14" ID="195689" SERIESID="19507"/>
+            <File Name="Astonishing Ant-Man 9" ID="195793" SERIESID="19509"/>
+            <File Name="Black Widow 4" ID="199470" SERIESID="19755"/>
+            <File Name="Civil War II 2" ID="204859" SERIESID="20332"/>
+            <File Name="Civil War II:X-Men 1" ID="203385" SERIESID="20081"/>
+            <File Name="Deadpool 14" ID="197256" SERIESID="19600"/>
+            <File Name="Guardians of Infinity 7" ID="199555" SERIESID="19768"/>
+            <File Name="International Iron Man 4" ID="202618" SERIESID="19997"/>
+            <File Name="Nova 8" ID="197468" SERIESID="19607"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 7" ID="199589" SERIESID="19770"/>
+            <File Name="Scarlet 10" ID="185099" SERIESID="14462"/>
+            <File Name="Spider-Gwen 9" ID="196832" SERIESID="19586"/>
+            <File Name="Spidey 7" ID="202724" SERIESID="20016"/>
+            <File Name="Squadron Supreme 8" ID="199157" SERIESID="19748"/>
+            <File Name="Star Wars 20" ID="192644" SERIESID="19020"/>
+            <File Name="Star Wars:Han Solo 1" ID="204701" SERIESID="20326"/>
+            <File Name="Timely Comics:Invincible Iron Man 1" ID="205059" SERIESID="20355"/>
+            <File Name="Timely Comics:Moon Girl And Devil Dinosaur 1" ID="205060" SERIESID="20355"/>
+            <File Name="Timely Comics:New Avengers 1" ID="205061" SERIESID="20355"/>
+            <File Name="Uncanny Inhumans 10" ID="192857" SERIESID="19034"/>
+            <File Name="Uncanny X-Men 8" ID="199040" SERIESID="19744"/>
+            <File Name="Vote Loki 1" ID="199078" SERIESID="19746"/>
+            <File Name="Year of Marvels:The Incredible 2" ID="205074" SERIESID="20360"/>
+            <File Name="Captain America:Sam Wilson 10" ID="193347" SERIESID="19122"/>
+            <File Name="Carnage 9" ID="197090" SERIESID="19592"/>
+            <File Name="Civil War II:Choosing Sides 1" ID="202865" SERIESID="20031"/>
+            <File Name="Deadpool V Gambit 1" ID="202650" SERIESID="20001"/>
+            <File Name="Doctor Strange 9" ID="195976" SERIESID="19520"/>
+            <File Name="Drax 8" ID="197113" SERIESID="19593"/>
+            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Agents of S.H.I.E.L.D. Season One 8" ID="202698" SERIESID="20011"/>
+            <File Name="Marvel Universe:Ultimate Spider-Man Contest of Champions 4" ID="206382" SERIESID="20526"/>
+            <File Name="Mighty Thor 8" ID="197349" SERIESID="19601"/>
+            <File Name="Moon Girl and Devil Dinosaur 8" ID="198688" SERIESID="19734"/>
+            <File Name="Ms. Marvel 8" ID="198963" SERIESID="19742"/>
+            <File Name="Nighthawk 2" ID="204778" SERIESID="20329"/>
+            <File Name="Power Man and Iron Fist 5" ID="202558" SERIESID="19995"/>
+            <File Name="Rocket Raccoon and Groot 6" ID="194291" SERIESID="19223"/>
+            <File Name="Scarlet Witch 7" ID="199743" SERIESID="19776"/>
+            <File Name="Star Wars:The Force Awakens Adaptation 1" ID="207573" SERIESID="20639"/>
+            <File Name="Timely Comics:Scarlet Witch 1" ID="205062" SERIESID="20355"/>
+            <File Name="Timely Comics:Squadron Supreme 1" ID="205063" SERIESID="20355"/>
+            <File Name="Timely Comics:The Totally Awesome Hulk 1" ID="205064" SERIESID="20355"/>
+            <File Name="Totally Awesome Hulk 7" ID="199105" SERIESID="19747"/>
+            <File Name="Ultimates 8" ID="199626" SERIESID="19771"/>
+            <File Name="Unbelievable Gwenpool 3" ID="198890" SERIESID="19741"/>
+            <File Name="Uncanny Avengers 10" ID="197140" SERIESID="19594"/>
+            <File Name="Web Warriors 8" ID="197436" SERIESID="19603"/>
+            <File Name="All-New, All-Different Avengers 11" ID="194214" SERIESID="19218"/>
+            <File Name="Amazing Spider-Man &amp; Silk:The Spider(Fly) Effect 4" ID="202173" SERIESID="19974"/>
+            <File Name="Black Panther 3" ID="203300" SERIESID="20080"/>
+            <File Name="Captain America:Steve Rogers 2" ID="203444" SERIESID="20084"/>
+            <File Name="Captain Marvel 6" ID="202063" SERIESID="19968"/>
+            <File Name="Daredevil/Punisher 2" ID="202643" SERIESID="19999"/>
+            <File Name="Darth Vader 22" ID="190966" SERIESID="18856"/>
+            <File Name="Extraordinary X-Men 11" ID="195835" SERIESID="19510"/>
+            <File Name="Haunted Mansion 4" ID="202598" SERIESID="19996"/>
+            <File Name="Hyperion 4" ID="202674" SERIESID="20002"/>
+            <File Name="Mockingbird 4" ID="202636" SERIESID="19998"/>
+            <File Name="Silk 9" ID="198753" SERIESID="19735"/>
+            <File Name="Spider-Gwen Annual 1" ID="196845" SERIESID="19586"/>
+            <File Name="Spider-Man 5" ID="202088" SERIESID="19969"/>
+            <File Name="Spider-Man/Deadpool 6" ID="202771" SERIESID="20017"/>
+            <File Name="Star-Lord 8" ID="199571" SERIESID="19769"/>
+            <File Name="Timely Comics:Ultimates 1" ID="205065" SERIESID="20355"/>
+            <File Name="Timely Comics:Uncanny Inhumans 1" ID="205066" SERIESID="20355"/>
+            <File Name="Timely Comics:Venom Space Knight 1" ID="205067" SERIESID="20355"/>
+            <File Name="Timely Comics:Web-Warriors 1" ID="205068" SERIESID="20355"/>
+            <File Name="Unbeatable Squirrel Girl 9" ID="198819" SERIESID="19738"/>
+            <File Name="Uncanny Inhumans 11" ID="192858" SERIESID="19034"/>
+            <File Name="Uncanny X-Men 9" ID="199041" SERIESID="19744"/>
+            <File Name="Venom:Space Knight 9" ID="199072" SERIESID="19745"/>
+            <File Name="X-Men:Worst X-Man Ever 5" ID="199770" SERIESID="19782"/>
         </Directory>
         <Directory Name="CMC 2016 07">
-            <File Name="Amazing Spider-Man 15" ID="195690"/>
-            <File Name="Captain America:Sam Wilson 11" ID="193349"/>
-            <File Name="Civil War II:Kingpin 1" ID="203493"/>
-            <File Name="Civil War II:X-Men 2" ID="203390"/>
-            <File Name="Daredevil/Punisher 3" ID="202644"/>
-            <File Name="Deadpool V Gambit 2" ID="202656"/>
-            <File Name="Empress 4" ID="203419"/>
-            <File Name="Invincible Iron Man 11" ID="194406"/>
-            <File Name="Marvel Universe Avengers:Ultron Revolution 1" ID="204900"/>
-            <File Name="Marvel&apos;s Doctor Strange Prelude 1" ID="204922"/>
-            <File Name="Moon Knight 4" ID="204752"/>
-            <File Name="Punisher 3" ID="203220"/>
-            <File Name="Scarlet Witch 8" ID="199746"/>
-            <File Name="Silver Surfer 5" ID="202155"/>
-            <File Name="Spider-Man 2099 12" ID="192959"/>
-            <File Name="Spider-Woman 9" ID="199504"/>
-            <File Name="Spidey 8" ID="202725"/>
-            <File Name="Star Wars:Han Solo 2" ID="204718"/>
-            <File Name="Star Wars:Poe Dameron 4" ID="204951"/>
-            <File Name="Totally Awesome Hulk 8" ID="199107"/>
-            <File Name="True Believers:Extraordinary X-Men  The Burning Man 1" ID="199669"/>
-            <File Name="True Believers:Invincible Iron Man  The War Machines 1" ID="199684"/>
-            <File Name="Vote Loki 2" ID="199080"/>
-            <File Name="Agents of S.H.I.E.L.D. 7" ID="199724"/>
-            <File Name="All-New X-Men 11" ID="195590"/>
-            <File Name="Civil War II 3" ID="204868"/>
-            <File Name="Civil War II Amazing Spider-Man 2" ID="202891"/>
-            <File Name="Civil War II:Choosing Sides 2" ID="202870"/>
-            <File Name="Civil War II:Gods of War 2" ID="202842"/>
-            <File Name="Daredevil 9" ID="196686"/>
-            <File Name="Dark Tower:The Drawing of the Three  Bitter Medicine 4" ID="173945"/>
-            <File Name="Deadpool 15" ID="197259"/>
-            <File Name="Guardians of the Galaxy 10" ID="196754"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 10" ID="199193"/>
-            <File Name="New Avengers 13" ID="195923"/>
-            <File Name="Old Man Logan 8" ID="202229"/>
-            <File Name="Power Man and Iron Fist 6" ID="202560"/>
-            <File Name="Rocket Raccoon and Groot 7" ID="194293"/>
-            <File Name="Silk 10" ID="198754"/>
-            <File Name="True Believers:All-New All-Different Avengers:Cyclone 1" ID="221563"/>
-            <File Name="True Believers:Daredevil:Practice to Deceive 1" ID="215821"/>
-            <File Name="True Believers:Uncanny Avengers  The Bagalia Job 1" ID="199670"/>
-            <File Name="Unbelievable Gwenpool 4" ID="198893"/>
-            <File Name="Vision 9" ID="198793"/>
-            <File Name="Web Warriors 9" ID="197437"/>
-            <File Name="A-Force 7" ID="198611"/>
-            <File Name="All-New Inhumans 9" ID="196649"/>
-            <File Name="All-New Wolverine 10" ID="194499"/>
-            <File Name="Astonishing Ant-Man 10" ID="195794"/>
-            <File Name="Black Widow 5" ID="199471"/>
-            <File Name="Contest of Champions 10" ID="194273"/>
-            <File Name="Darth Vader 23" ID="190969"/>
-            <File Name="Deadpool and the Mercs for Money 1" ID="204653"/>
-            <File Name="Guardians of Infinity 8" ID="199556"/>
-            <File Name="Nighthawk 3" ID="204780"/>
-            <File Name="Nova 9" ID="197470"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 8" ID="199592"/>
-            <File Name="Spider-Man 6" ID="202089"/>
-            <File Name="Spider-Man/Deadpool 7" ID="202774"/>
-            <File Name="Squadron Supreme 9" ID="199158"/>
-            <File Name="Star Wars 21" ID="192648"/>
-            <File Name="Thunderbolts 3" ID="205037"/>
-            <File Name="True Believers:Deadpool Vs. Sabretooth 1" ID="199668"/>
-            <File Name="True Believers:Guardians of the Galaxy:Galaxy&apos;s Most Wanted 1" ID="221564"/>
-            <File Name="Ultimates 9" ID="199628"/>
-            <File Name="Uncanny X-Men 10" ID="199042"/>
-            <File Name="All-New, All-Different Avengers 12" ID="194215"/>
-            <File Name="Amazing Spider-Man 1.6" ID="195669"/>
-            <File Name="Black Panther 4" ID="203303"/>
-            <File Name="Captain America:Steve Rogers 3" ID="203448"/>
-            <File Name="Captain Marvel 7" ID="202066"/>
-            <File Name="Carnage 10" ID="197091"/>
-            <File Name="Civil War II 4" ID="204876"/>
-            <File Name="Civil War II:Choosing Sides 3" ID="202872"/>
-            <File Name="Drax 9" ID="197114"/>
-            <File Name="Extraordinary X-Men 12" ID="195836"/>
-            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Guardians of the Galaxy 9" ID="202699"/>
-            <File Name="Haunted Mansion 5" ID="202602"/>
-            <File Name="Howard the Duck 9" ID="198650"/>
-            <File Name="Hyperion 5" ID="202675"/>
-            <File Name="International Iron Man 5" ID="202619"/>
-            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 1" ID="205019"/>
-            <File Name="Mighty Thor 9" ID="197352"/>
-            <File Name="Mockingbird 5" ID="202637"/>
-            <File Name="Moon Girl and Devil Dinosaur 9" ID="198690"/>
-            <File Name="Ms. Marvel 9" ID="198965"/>
-            <File Name="New Avengers 14" ID="195925"/>
-            <File Name="Old Man Logan 9" ID="202230"/>
-            <File Name="Spider-Gwen 10" ID="196835"/>
-            <File Name="Star Wars:The Force Awakens Adaptation 2" ID="207583"/>
-            <File Name="Totally Awesome Hulk 9" ID="199108"/>
-            <File Name="True Believers:Amazing Spider-Man:The Dark Kingdom 1" ID="220842"/>
-            <File Name="True Believers:Doctor Strange  The Last Days of Magic 1" ID="199677"/>
-            <File Name="True Believers:Mighty Thor:The Strongest Viking There Is 1" ID="228917"/>
-            <File Name="Unbeatable Squirrel Girl 10" ID="198820"/>
-            <File Name="Uncanny Avengers 11" ID="197141"/>
-            <File Name="Venom:Space Knight 10" ID="199073"/>
-            <File Name="X-Men &apos;92 5" ID="202037"/>
+            <File Name="Amazing Spider-Man 15" ID="195690" SERIESID="19507"/>
+            <File Name="Captain America:Sam Wilson 11" ID="193349" SERIESID="19122"/>
+            <File Name="Civil War II:Kingpin 1" ID="203493" SERIESID="20089"/>
+            <File Name="Civil War II:X-Men 2" ID="203390" SERIESID="20081"/>
+            <File Name="Daredevil/Punisher 3" ID="202644" SERIESID="19999"/>
+            <File Name="Deadpool V Gambit 2" ID="202656" SERIESID="20001"/>
+            <File Name="Empress 4" ID="203419" SERIESID="20083"/>
+            <File Name="Invincible Iron Man 11" ID="194406" SERIESID="19236"/>
+            <File Name="Marvel Universe Avengers:Ultron Revolution 1" ID="204900" SERIESID="20333"/>
+            <File Name="Marvel&apos;s Doctor Strange Prelude 1" ID="204922" SERIESID="20341"/>
+            <File Name="Moon Knight 4" ID="204752" SERIESID="20327"/>
+            <File Name="Punisher 3" ID="203220" SERIESID="20079"/>
+            <File Name="Scarlet Witch 8" ID="199746" SERIESID="19776"/>
+            <File Name="Silver Surfer 5" ID="202155" SERIESID="19973"/>
+            <File Name="Spider-Man 2099 12" ID="192959" SERIESID="19055"/>
+            <File Name="Spider-Woman 9" ID="199504" SERIESID="19757"/>
+            <File Name="Spidey 8" ID="202725" SERIESID="20016"/>
+            <File Name="Star Wars:Han Solo 2" ID="204718" SERIESID="20326"/>
+            <File Name="Star Wars:Poe Dameron 4" ID="204951" SERIESID="20342"/>
+            <File Name="Totally Awesome Hulk 8" ID="199107" SERIESID="19747"/>
+            <File Name="True Believers:Extraordinary X-Men  The Burning Man 1" ID="199669" SERIESID="19104"/>
+            <File Name="True Believers:Invincible Iron Man  The War Machines 1" ID="199684" SERIESID="19104"/>
+            <File Name="Vote Loki 2" ID="199080" SERIESID="19746"/>
+            <File Name="Agents of S.H.I.E.L.D. 7" ID="199724" SERIESID="19774"/>
+            <File Name="All-New X-Men 11" ID="195590" SERIESID="19496"/>
+            <File Name="Civil War II 3" ID="204868" SERIESID="20332"/>
+            <File Name="Civil War II Amazing Spider-Man 2" ID="202891" SERIESID="20032"/>
+            <File Name="Civil War II:Choosing Sides 2" ID="202870" SERIESID="20031"/>
+            <File Name="Civil War II:Gods of War 2" ID="202842" SERIESID="20023"/>
+            <File Name="Daredevil 9" ID="196686" SERIESID="19583"/>
+            <File Name="Dark Tower:The Drawing of the Three  Bitter Medicine 4" ID="173945" SERIESID="16549"/>
+            <File Name="Deadpool 15" ID="197259" SERIESID="19600"/>
+            <File Name="Guardians of the Galaxy 10" ID="196754" SERIESID="19585"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 10" ID="199193" SERIESID="19750"/>
+            <File Name="New Avengers 13" ID="195923" SERIESID="19517"/>
+            <File Name="Old Man Logan 8" ID="202229" SERIESID="19972"/>
+            <File Name="Power Man and Iron Fist 6" ID="202560" SERIESID="19995"/>
+            <File Name="Rocket Raccoon and Groot 7" ID="194293" SERIESID="19223"/>
+            <File Name="Silk 10" ID="198754" SERIESID="19735"/>
+            <File Name="True Believers:All-New All-Different Avengers:Cyclone 1" ID="221563" SERIESID="19104"/>
+            <File Name="True Believers:Daredevil:Practice to Deceive 1" ID="215821" SERIESID="19104"/>
+            <File Name="True Believers:Uncanny Avengers  The Bagalia Job 1" ID="199670" SERIESID="19104"/>
+            <File Name="Unbelievable Gwenpool 4" ID="198893" SERIESID="19741"/>
+            <File Name="Vision 9" ID="198793" SERIESID="19737"/>
+            <File Name="Web Warriors 9" ID="197437" SERIESID="19603"/>
+            <File Name="A-Force 7" ID="198611" SERIESID="19730"/>
+            <File Name="All-New Inhumans 9" ID="196649" SERIESID="19581"/>
+            <File Name="All-New Wolverine 10" ID="194499" SERIESID="19261"/>
+            <File Name="Astonishing Ant-Man 10" ID="195794" SERIESID="19509"/>
+            <File Name="Black Widow 5" ID="199471" SERIESID="19755"/>
+            <File Name="Contest of Champions 10" ID="194273" SERIESID="19222"/>
+            <File Name="Darth Vader 23" ID="190969" SERIESID="18856"/>
+            <File Name="Deadpool and the Mercs for Money 1" ID="204653" SERIESID="20324"/>
+            <File Name="Guardians of Infinity 8" ID="199556" SERIESID="19768"/>
+            <File Name="Nighthawk 3" ID="204780" SERIESID="20329"/>
+            <File Name="Nova 9" ID="197470" SERIESID="19607"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 8" ID="199592" SERIESID="19770"/>
+            <File Name="Spider-Man 6" ID="202089" SERIESID="19969"/>
+            <File Name="Spider-Man/Deadpool 7" ID="202774" SERIESID="20017"/>
+            <File Name="Squadron Supreme 9" ID="199158" SERIESID="19748"/>
+            <File Name="Star Wars 21" ID="192648" SERIESID="19020"/>
+            <File Name="Thunderbolts 3" ID="205037" SERIESID="20354"/>
+            <File Name="True Believers:Deadpool Vs. Sabretooth 1" ID="199668" SERIESID="19104"/>
+            <File Name="True Believers:Guardians of the Galaxy:Galaxy&apos;s Most Wanted 1" ID="221564" SERIESID="19104"/>
+            <File Name="Ultimates 9" ID="199628" SERIESID="19771"/>
+            <File Name="Uncanny X-Men 10" ID="199042" SERIESID="19744"/>
+            <File Name="All-New, All-Different Avengers 12" ID="194215" SERIESID="19218"/>
+            <File Name="Amazing Spider-Man 1.6" ID="195669" SERIESID="19507"/>
+            <File Name="Black Panther 4" ID="203303" SERIESID="20080"/>
+            <File Name="Captain America:Steve Rogers 3" ID="203448" SERIESID="20084"/>
+            <File Name="Captain Marvel 7" ID="202066" SERIESID="19968"/>
+            <File Name="Carnage 10" ID="197091" SERIESID="19592"/>
+            <File Name="Civil War II 4" ID="204876" SERIESID="20332"/>
+            <File Name="Civil War II:Choosing Sides 3" ID="202872" SERIESID="20031"/>
+            <File Name="Drax 9" ID="197114" SERIESID="19593"/>
+            <File Name="Extraordinary X-Men 12" ID="195836" SERIESID="19510"/>
+            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Guardians of the Galaxy 9" ID="202699" SERIESID="20011"/>
+            <File Name="Haunted Mansion 5" ID="202602" SERIESID="19996"/>
+            <File Name="Howard the Duck 9" ID="198650" SERIESID="19732"/>
+            <File Name="Hyperion 5" ID="202675" SERIESID="20002"/>
+            <File Name="International Iron Man 5" ID="202619" SERIESID="19997"/>
+            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 1" ID="205019" SERIESID="20353"/>
+            <File Name="Mighty Thor 9" ID="197352" SERIESID="19601"/>
+            <File Name="Mockingbird 5" ID="202637" SERIESID="19998"/>
+            <File Name="Moon Girl and Devil Dinosaur 9" ID="198690" SERIESID="19734"/>
+            <File Name="Ms. Marvel 9" ID="198965" SERIESID="19742"/>
+            <File Name="New Avengers 14" ID="195925" SERIESID="19517"/>
+            <File Name="Old Man Logan 9" ID="202230" SERIESID="19972"/>
+            <File Name="Spider-Gwen 10" ID="196835" SERIESID="19586"/>
+            <File Name="Star Wars:The Force Awakens Adaptation 2" ID="207583" SERIESID="20639"/>
+            <File Name="Totally Awesome Hulk 9" ID="199108" SERIESID="19747"/>
+            <File Name="True Believers:Amazing Spider-Man:The Dark Kingdom 1" ID="220842" SERIESID="19104"/>
+            <File Name="True Believers:Doctor Strange  The Last Days of Magic 1" ID="199677" SERIESID="19104"/>
+            <File Name="True Believers:Mighty Thor:The Strongest Viking There Is 1" ID="228917" SERIESID="19104"/>
+            <File Name="Unbeatable Squirrel Girl 10" ID="198820" SERIESID="19738"/>
+            <File Name="Uncanny Avengers 11" ID="197141" SERIESID="19594"/>
+            <File Name="Venom:Space Knight 10" ID="199073" SERIESID="19745"/>
+            <File Name="X-Men &apos;92 5" ID="202037" SERIESID="19967"/>
         </Directory>
         <Directory Name="CMC 2016 08">
-            <File Name="Civil War II:Kingpin 2" ID="203498"/>
-            <File Name="Daredevil Annual 1" ID="196719"/>
-            <File Name="Deadpool 16" ID="197263"/>
-            <File Name="Deadpool V Gambit 3" ID="202658"/>
-            <File Name="Doctor Strange 10" ID="195977"/>
-            <File Name="Invincible Iron Man 12" ID="194409"/>
-            <File Name="Marvel Tsum Tsum 1" ID="206345"/>
-            <File Name="Marvel Universe Avengers:Ultron Revolution 2" ID="204901"/>
-            <File Name="Moon Knight 5" ID="204754"/>
-            <File Name="Punisher 4" ID="203222"/>
-            <File Name="Silk 11" ID="198755"/>
-            <File Name="Spidey 9" ID="202726"/>
-            <File Name="Squadron Supreme 10" ID="199161"/>
-            <File Name="Uncanny Inhumans 12" ID="192862"/>
-            <File Name="Uncanny X-Men 11" ID="199044"/>
-            <File Name="Vote Loki 3" ID="199082"/>
-            <File Name="Year of Marvels:The Unstoppable 3" ID="205076"/>
-            <File Name="A-Force 8" ID="198612"/>
-            <File Name="Accused 1" ID="202188"/>
-            <File Name="Agents of S.H.I.E.L.D. 8" ID="199725"/>
-            <File Name="All-New X-Men 12" ID="195591"/>
-            <File Name="All-New, All-Different Avengers 13" ID="194217"/>
-            <File Name="All-New, All-Different Avengers Annual 1" ID="194223"/>
-            <File Name="Amazing Spider-Man 16" ID="195697"/>
-            <File Name="Black Panther 5" ID="203306"/>
-            <File Name="Daredevil 10" ID="196688"/>
-            <File Name="Darth Vader 24" ID="190972"/>
-            <File Name="Deadpool and the Mercs for Money 2" ID="204660"/>
-            <File Name="Empress 5" ID="203422"/>
-            <File Name="Old Man Logan 10" ID="202232"/>
-            <File Name="Scarlet Witch 9" ID="199747"/>
-            <File Name="Spider-Man 2099 13" ID="192960"/>
-            <File Name="Spider-Man/Deadpool 8" ID="202775"/>
-            <File Name="Vision 10" ID="198794"/>
-            <File Name="All-New Inhumans 10" ID="196650"/>
-            <File Name="All-New Wolverine 11" ID="194500"/>
-            <File Name="Black Widow 6" ID="199472"/>
-            <File Name="Captain America:Sam Wilson 12" ID="193350"/>
-            <File Name="Civil War II Amazing Spider-Man 3" ID="202893"/>
-            <File Name="Civil War II:Choosing Sides 4" ID="202874"/>
-            <File Name="Civil War II:Gods of War 3" ID="202844"/>
-            <File Name="Civil War II:X-Men 3" ID="203392"/>
-            <File Name="Daredevil/Punisher 4" ID="202645"/>
-            <File Name="Fallen 1" ID="204786"/>
-            <File Name="Mighty Thor 10" ID="197354"/>
-            <File Name="Mockingbird 6" ID="202638"/>
-            <File Name="Power Man and Iron Fist 7" ID="202562"/>
-            <File Name="Spider-Woman 10" ID="199505"/>
-            <File Name="Star Wars:Poe Dameron 5" ID="204953"/>
-            <File Name="Ultimates 10" ID="199629"/>
-            <File Name="Unbelievable Gwenpool 5" ID="198896"/>
-            <File Name="Uncanny Avengers 12" ID="197144"/>
-            <File Name="Web Warriors 10" ID="197438"/>
-            <File Name="Captain America:Steve Rogers 4" ID="203452"/>
-            <File Name="Captain Marvel 8" ID="202067"/>
-            <File Name="Civil War II:Ulysses 1" ID="204647"/>
-            <File Name="Deadpool 17" ID="197265"/>
-            <File Name="Drax 10" ID="197115"/>
-            <File Name="Extraordinary X-Men 13" ID="195837"/>
-            <File Name="International Iron Man 6" ID="202620"/>
-            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 2" ID="205020"/>
-            <File Name="Marvel&apos;s Doctor Strange Prelude 2" ID="204923"/>
-            <File Name="Moon Girl and Devil Dinosaur 10" ID="198691"/>
-            <File Name="New Avengers 15" ID="195926"/>
-            <File Name="Nighthawk 4" ID="204782"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 9" ID="199593"/>
-            <File Name="Star Wars 22" ID="192652"/>
-            <File Name="Star Wars:The Force Awakens Adaptation 3" ID="207587"/>
-            <File Name="Unbeatable Squirrel Girl 11" ID="198821"/>
-            <File Name="Uncanny Inhumans Annual 1" ID="192879"/>
-            <File Name="Venom:Space Knight 11" ID="199074"/>
-            <File Name="All-New Wolverine Annual 1" ID="194562"/>
-            <File Name="Amazing Spider-Man 17" ID="195702"/>
-            <File Name="Astonishing Ant-Man 11" ID="195795"/>
-            <File Name="Carnage 11" ID="197092"/>
-            <File Name="Civil War II:Choosing Sides 5" ID="202876"/>
-            <File Name="Dark Tower:The Drawing of the Three  Bitter Medicine 5" ID="173946"/>
-            <File Name="Deadpool V Gambit 4" ID="202660"/>
-            <File Name="Guardians of the Galaxy 11" ID="196756"/>
-            <File Name="Howard the Duck 10" ID="198652"/>
-            <File Name="Hyperion 6" ID="202676"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 11" ID="199194"/>
-            <File Name="Ms. Marvel 10" ID="198966"/>
-            <File Name="Nova 10" ID="197471"/>
-            <File Name="Rocket Raccoon and Groot 8" ID="194294"/>
-            <File Name="Silver Surfer 6" ID="202156"/>
-            <File Name="Spider-Gwen 11" ID="196836"/>
-            <File Name="Spider-Man 7" ID="202091"/>
-            <File Name="Spider-Man 2099 14" ID="192961"/>
-            <File Name="Star Wars:Han Solo 3" ID="204722"/>
-            <File Name="Thunderbolts 4" ID="205039"/>
-            <File Name="Uncanny Avengers 13" ID="197146"/>
-            <File Name="X-Men &apos;92 6" ID="202038"/>
+            <File Name="Civil War II:Kingpin 2" ID="203498" SERIESID="20089"/>
+            <File Name="Daredevil Annual 1" ID="196719" SERIESID="19583"/>
+            <File Name="Deadpool 16" ID="197263" SERIESID="19600"/>
+            <File Name="Deadpool V Gambit 3" ID="202658" SERIESID="20001"/>
+            <File Name="Doctor Strange 10" ID="195977" SERIESID="19520"/>
+            <File Name="Invincible Iron Man 12" ID="194409" SERIESID="19236"/>
+            <File Name="Marvel Tsum Tsum 1" ID="206345" SERIESID="20524"/>
+            <File Name="Marvel Universe Avengers:Ultron Revolution 2" ID="204901" SERIESID="20333"/>
+            <File Name="Moon Knight 5" ID="204754" SERIESID="20327"/>
+            <File Name="Punisher 4" ID="203222" SERIESID="20079"/>
+            <File Name="Silk 11" ID="198755" SERIESID="19735"/>
+            <File Name="Spidey 9" ID="202726" SERIESID="20016"/>
+            <File Name="Squadron Supreme 10" ID="199161" SERIESID="19748"/>
+            <File Name="Uncanny Inhumans 12" ID="192862" SERIESID="19034"/>
+            <File Name="Uncanny X-Men 11" ID="199044" SERIESID="19744"/>
+            <File Name="Vote Loki 3" ID="199082" SERIESID="19746"/>
+            <File Name="Year of Marvels:The Unstoppable 3" ID="205076" SERIESID="20360"/>
+            <File Name="A-Force 8" ID="198612" SERIESID="19730"/>
+            <File Name="Accused 1" ID="202188" SERIESID="19977"/>
+            <File Name="Agents of S.H.I.E.L.D. 8" ID="199725" SERIESID="19774"/>
+            <File Name="All-New X-Men 12" ID="195591" SERIESID="19496"/>
+            <File Name="All-New, All-Different Avengers 13" ID="194217" SERIESID="19218"/>
+            <File Name="All-New, All-Different Avengers Annual 1" ID="194223" SERIESID="19218"/>
+            <File Name="Amazing Spider-Man 16" ID="195697" SERIESID="19507"/>
+            <File Name="Black Panther 5" ID="203306" SERIESID="20080"/>
+            <File Name="Daredevil 10" ID="196688" SERIESID="19583"/>
+            <File Name="Darth Vader 24" ID="190972" SERIESID="18856"/>
+            <File Name="Deadpool and the Mercs for Money 2" ID="204660" SERIESID="20324"/>
+            <File Name="Empress 5" ID="203422" SERIESID="20083"/>
+            <File Name="Old Man Logan 10" ID="202232" SERIESID="19972"/>
+            <File Name="Scarlet Witch 9" ID="199747" SERIESID="19776"/>
+            <File Name="Spider-Man 2099 13" ID="192960" SERIESID="19055"/>
+            <File Name="Spider-Man/Deadpool 8" ID="202775" SERIESID="20017"/>
+            <File Name="Vision 10" ID="198794" SERIESID="19737"/>
+            <File Name="All-New Inhumans 10" ID="196650" SERIESID="19581"/>
+            <File Name="All-New Wolverine 11" ID="194500" SERIESID="19261"/>
+            <File Name="Black Widow 6" ID="199472" SERIESID="19755"/>
+            <File Name="Captain America:Sam Wilson 12" ID="193350" SERIESID="19122"/>
+            <File Name="Civil War II Amazing Spider-Man 3" ID="202893" SERIESID="20032"/>
+            <File Name="Civil War II:Choosing Sides 4" ID="202874" SERIESID="20031"/>
+            <File Name="Civil War II:Gods of War 3" ID="202844" SERIESID="20023"/>
+            <File Name="Civil War II:X-Men 3" ID="203392" SERIESID="20081"/>
+            <File Name="Daredevil/Punisher 4" ID="202645" SERIESID="19999"/>
+            <File Name="Fallen 1" ID="204786" SERIESID="20330"/>
+            <File Name="Mighty Thor 10" ID="197354" SERIESID="19601"/>
+            <File Name="Mockingbird 6" ID="202638" SERIESID="19998"/>
+            <File Name="Power Man and Iron Fist 7" ID="202562" SERIESID="19995"/>
+            <File Name="Spider-Woman 10" ID="199505" SERIESID="19757"/>
+            <File Name="Star Wars:Poe Dameron 5" ID="204953" SERIESID="20342"/>
+            <File Name="Ultimates 10" ID="199629" SERIESID="19771"/>
+            <File Name="Unbelievable Gwenpool 5" ID="198896" SERIESID="19741"/>
+            <File Name="Uncanny Avengers 12" ID="197144" SERIESID="19594"/>
+            <File Name="Web Warriors 10" ID="197438" SERIESID="19603"/>
+            <File Name="Captain America:Steve Rogers 4" ID="203452" SERIESID="20084"/>
+            <File Name="Captain Marvel 8" ID="202067" SERIESID="19968"/>
+            <File Name="Civil War II:Ulysses 1" ID="204647" SERIESID="20323"/>
+            <File Name="Deadpool 17" ID="197265" SERIESID="19600"/>
+            <File Name="Drax 10" ID="197115" SERIESID="19593"/>
+            <File Name="Extraordinary X-Men 13" ID="195837" SERIESID="19510"/>
+            <File Name="International Iron Man 6" ID="202620" SERIESID="19997"/>
+            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 2" ID="205020" SERIESID="20353"/>
+            <File Name="Marvel&apos;s Doctor Strange Prelude 2" ID="204923" SERIESID="20341"/>
+            <File Name="Moon Girl and Devil Dinosaur 10" ID="198691" SERIESID="19734"/>
+            <File Name="New Avengers 15" ID="195926" SERIESID="19517"/>
+            <File Name="Nighthawk 4" ID="204782" SERIESID="20329"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 9" ID="199593" SERIESID="19770"/>
+            <File Name="Star Wars 22" ID="192652" SERIESID="19020"/>
+            <File Name="Star Wars:The Force Awakens Adaptation 3" ID="207587" SERIESID="20639"/>
+            <File Name="Unbeatable Squirrel Girl 11" ID="198821" SERIESID="19738"/>
+            <File Name="Uncanny Inhumans Annual 1" ID="192879" SERIESID="19034"/>
+            <File Name="Venom:Space Knight 11" ID="199074" SERIESID="19745"/>
+            <File Name="All-New Wolverine Annual 1" ID="194562" SERIESID="19261"/>
+            <File Name="Amazing Spider-Man 17" ID="195702" SERIESID="19507"/>
+            <File Name="Astonishing Ant-Man 11" ID="195795" SERIESID="19509"/>
+            <File Name="Carnage 11" ID="197092" SERIESID="19592"/>
+            <File Name="Civil War II:Choosing Sides 5" ID="202876" SERIESID="20031"/>
+            <File Name="Dark Tower:The Drawing of the Three  Bitter Medicine 5" ID="173946" SERIESID="16549"/>
+            <File Name="Deadpool V Gambit 4" ID="202660" SERIESID="20001"/>
+            <File Name="Guardians of the Galaxy 11" ID="196756" SERIESID="19585"/>
+            <File Name="Howard the Duck 10" ID="198652" SERIESID="19732"/>
+            <File Name="Hyperion 6" ID="202676" SERIESID="20002"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 11" ID="199194" SERIESID="19750"/>
+            <File Name="Ms. Marvel 10" ID="198966" SERIESID="19742"/>
+            <File Name="Nova 10" ID="197471" SERIESID="19607"/>
+            <File Name="Rocket Raccoon and Groot 8" ID="194294" SERIESID="19223"/>
+            <File Name="Silver Surfer 6" ID="202156" SERIESID="19973"/>
+            <File Name="Spider-Gwen 11" ID="196836" SERIESID="19586"/>
+            <File Name="Spider-Man 7" ID="202091" SERIESID="19969"/>
+            <File Name="Spider-Man 2099 14" ID="192961" SERIESID="19055"/>
+            <File Name="Star Wars:Han Solo 3" ID="204722" SERIESID="20326"/>
+            <File Name="Thunderbolts 4" ID="205039" SERIESID="20354"/>
+            <File Name="Uncanny Avengers 13" ID="197146" SERIESID="19594"/>
+            <File Name="X-Men &apos;92 6" ID="202038" SERIESID="19967"/>
         </Directory>
         <Directory Name="CMC 2016 09">
-            <File Name="All-New, All-Different Avengers 14" ID="194219"/>
-            <File Name="Daredevil 11" ID="196690"/>
-            <File Name="Deadpool and the Mercs for Money 3" ID="204662"/>
-            <File Name="Doctor Strange 11" ID="195979"/>
-            <File Name="Invincible Iron Man 13" ID="194411"/>
-            <File Name="Marvel Tsum Tsum 2" ID="206353"/>
-            <File Name="Marvel Universe Avengers:Ultron Revolution 3" ID="204902"/>
-            <File Name="Max Ride:Final Flight 1" ID="206388"/>
-            <File Name="Moon Knight 6" ID="204755"/>
-            <File Name="Silk 12" ID="198756"/>
-            <File Name="Spidey 10" ID="202727"/>
-            <File Name="Squadron Supreme 11" ID="199162"/>
-            <File Name="Star Wars:Poe Dameron 6" ID="204955"/>
-            <File Name="Uncanny X-Men 12" ID="199045"/>
-            <File Name="A-Force 9" ID="198614"/>
-            <File Name="All-New Inhumans 11" ID="196651"/>
-            <File Name="All-New X-Men 13" ID="195594"/>
-            <File Name="Black Panther 6" ID="203314"/>
-            <File Name="Civil War II Amazing Spider-Man 4" ID="202895"/>
-            <File Name="Civil War II:Gods of War 4" ID="202846"/>
-            <File Name="Civil War II:Ulysses 2" ID="204649"/>
-            <File Name="Deadpool 18" ID="197268"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 12" ID="199195"/>
-            <File Name="Mockingbird 7" ID="202639"/>
-            <File Name="Old Man Logan 11" ID="202233"/>
-            <File Name="Rocket Raccoon and Groot 9" ID="194296"/>
-            <File Name="Scarlet Witch 10" ID="199748"/>
-            <File Name="Spider-Man 8" ID="202093"/>
-            <File Name="Spider-Man 2099 15" ID="192962"/>
-            <File Name="Star Wars:The Force Awakens Adaptation 4" ID="207590"/>
-            <File Name="Unbelievable Gwenpool 6" ID="198898"/>
-            <File Name="Uncanny Avengers 14" ID="197148"/>
-            <File Name="Uncanny Inhumans 13" ID="192863"/>
-            <File Name="Agents of S.H.I.E.L.D. 9" ID="199726"/>
-            <File Name="All-New Wolverine 12" ID="194502"/>
-            <File Name="Amazing Spider-Man 18" ID="195706"/>
-            <File Name="Astonishing Ant-Man 12" ID="195796"/>
-            <File Name="Captain America:Serpents Unite 1" ID="206403"/>
-            <File Name="Carnage 12" ID="197093"/>
-            <File Name="Civil War II 5" ID="204880"/>
-            <File Name="Civil War II:Choosing Sides 6" ID="202880"/>
-            <File Name="Civil War II:X-Men 4" ID="203394"/>
-            <File Name="Deadpool V Gambit 5" ID="202662"/>
-            <File Name="Empress 6" ID="203425"/>
-            <File Name="Extraordinary X-Men Annual 1" ID="195850"/>
-            <File Name="Guardians of the Galaxy 12" ID="196758"/>
-            <File Name="International Iron Man 7" ID="202622"/>
-            <File Name="Karnak 5" ID="196052"/>
-            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 3" ID="205021"/>
-            <File Name="Mighty Thor 11" ID="197356"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 10" ID="199594"/>
-            <File Name="Power Man and Iron Fist 8" ID="202564"/>
-            <File Name="Punisher 5" ID="203224"/>
-            <File Name="Uncanny X-Men 13" ID="199047"/>
-            <File Name="Venom:Space Knight 12" ID="199076"/>
-            <File Name="Vision 11" ID="198795"/>
-            <File Name="Vote Loki 4" ID="199084"/>
-            <File Name="Captain America:Sam Wilson 13" ID="193352"/>
-            <File Name="Captain America:Steve Rogers 5" ID="203453"/>
-            <File Name="Captain Marvel 9" ID="202068"/>
-            <File Name="Civil War II:Kingpin 3" ID="203500"/>
-            <File Name="Deadpool 19" ID="197272"/>
-            <File Name="Deadpool Annual 1" ID="197320"/>
-            <File Name="Doctor Strange Annual 1" ID="196018"/>
-            <File Name="Drax 11" ID="197116"/>
-            <File Name="Extraordinary X-Men 14" ID="195840"/>
-            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Avengers:Age of Ultron 10" ID="202700"/>
-            <File Name="Moon Girl and Devil Dinosaur 11" ID="198693"/>
-            <File Name="Ms. Marvel 11" ID="198968"/>
-            <File Name="New Avengers 16" ID="195927"/>
-            <File Name="Nighthawk 5" ID="204783"/>
-            <File Name="Nova 11" ID="197472"/>
-            <File Name="Rocket Raccoon and Groot 10" ID="194297"/>
-            <File Name="Spider-Gwen 12" ID="196838"/>
-            <File Name="Spider-Man/Deadpool 9" ID="202777"/>
-            <File Name="Spider-Woman 11" ID="199506"/>
-            <File Name="Star Wars 23" ID="192656"/>
-            <File Name="Thunderbolts 5" ID="205040"/>
-            <File Name="Totally Awesome Hulk 10" ID="199109"/>
-            <File Name="Ultimates 11" ID="199630"/>
-            <File Name="Unbeatable Squirrel Girl 12" ID="198822"/>
-            <File Name="Web Warriors 11" ID="197439"/>
-            <File Name="X-Men &apos;92 7" ID="202040"/>
+            <File Name="All-New, All-Different Avengers 14" ID="194219" SERIESID="19218"/>
+            <File Name="Daredevil 11" ID="196690" SERIESID="19583"/>
+            <File Name="Deadpool and the Mercs for Money 3" ID="204662" SERIESID="20324"/>
+            <File Name="Doctor Strange 11" ID="195979" SERIESID="19520"/>
+            <File Name="Invincible Iron Man 13" ID="194411" SERIESID="19236"/>
+            <File Name="Marvel Tsum Tsum 2" ID="206353" SERIESID="20524"/>
+            <File Name="Marvel Universe Avengers:Ultron Revolution 3" ID="204902" SERIESID="20333"/>
+            <File Name="Max Ride:Final Flight 1" ID="206388" SERIESID="20529"/>
+            <File Name="Moon Knight 6" ID="204755" SERIESID="20327"/>
+            <File Name="Silk 12" ID="198756" SERIESID="19735"/>
+            <File Name="Spidey 10" ID="202727" SERIESID="20016"/>
+            <File Name="Squadron Supreme 11" ID="199162" SERIESID="19748"/>
+            <File Name="Star Wars:Poe Dameron 6" ID="204955" SERIESID="20342"/>
+            <File Name="Uncanny X-Men 12" ID="199045" SERIESID="19744"/>
+            <File Name="A-Force 9" ID="198614" SERIESID="19730"/>
+            <File Name="All-New Inhumans 11" ID="196651" SERIESID="19581"/>
+            <File Name="All-New X-Men 13" ID="195594" SERIESID="19496"/>
+            <File Name="Black Panther 6" ID="203314" SERIESID="20080"/>
+            <File Name="Civil War II Amazing Spider-Man 4" ID="202895" SERIESID="20032"/>
+            <File Name="Civil War II:Gods of War 4" ID="202846" SERIESID="20023"/>
+            <File Name="Civil War II:Ulysses 2" ID="204649" SERIESID="20323"/>
+            <File Name="Deadpool 18" ID="197268" SERIESID="19600"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 12" ID="199195" SERIESID="19750"/>
+            <File Name="Mockingbird 7" ID="202639" SERIESID="19998"/>
+            <File Name="Old Man Logan 11" ID="202233" SERIESID="19972"/>
+            <File Name="Rocket Raccoon and Groot 9" ID="194296" SERIESID="19223"/>
+            <File Name="Scarlet Witch 10" ID="199748" SERIESID="19776"/>
+            <File Name="Spider-Man 8" ID="202093" SERIESID="19969"/>
+            <File Name="Spider-Man 2099 15" ID="192962" SERIESID="19055"/>
+            <File Name="Star Wars:The Force Awakens Adaptation 4" ID="207590" SERIESID="20639"/>
+            <File Name="Unbelievable Gwenpool 6" ID="198898" SERIESID="19741"/>
+            <File Name="Uncanny Avengers 14" ID="197148" SERIESID="19594"/>
+            <File Name="Uncanny Inhumans 13" ID="192863" SERIESID="19034"/>
+            <File Name="Agents of S.H.I.E.L.D. 9" ID="199726" SERIESID="19774"/>
+            <File Name="All-New Wolverine 12" ID="194502" SERIESID="19261"/>
+            <File Name="Amazing Spider-Man 18" ID="195706" SERIESID="19507"/>
+            <File Name="Astonishing Ant-Man 12" ID="195796" SERIESID="19509"/>
+            <File Name="Captain America:Serpents Unite 1" ID="206403" SERIESID="20536"/>
+            <File Name="Carnage 12" ID="197093" SERIESID="19592"/>
+            <File Name="Civil War II 5" ID="204880" SERIESID="20332"/>
+            <File Name="Civil War II:Choosing Sides 6" ID="202880" SERIESID="20031"/>
+            <File Name="Civil War II:X-Men 4" ID="203394" SERIESID="20081"/>
+            <File Name="Deadpool V Gambit 5" ID="202662" SERIESID="20001"/>
+            <File Name="Empress 6" ID="203425" SERIESID="20083"/>
+            <File Name="Extraordinary X-Men Annual 1" ID="195850" SERIESID="19510"/>
+            <File Name="Guardians of the Galaxy 12" ID="196758" SERIESID="19585"/>
+            <File Name="International Iron Man 7" ID="202622" SERIESID="19997"/>
+            <File Name="Karnak 5" ID="196052" SERIESID="19526"/>
+            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 3" ID="205021" SERIESID="20353"/>
+            <File Name="Mighty Thor 11" ID="197356" SERIESID="19601"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 10" ID="199594" SERIESID="19770"/>
+            <File Name="Power Man and Iron Fist 8" ID="202564" SERIESID="19995"/>
+            <File Name="Punisher 5" ID="203224" SERIESID="20079"/>
+            <File Name="Uncanny X-Men 13" ID="199047" SERIESID="19744"/>
+            <File Name="Venom:Space Knight 12" ID="199076" SERIESID="19745"/>
+            <File Name="Vision 11" ID="198795" SERIESID="19737"/>
+            <File Name="Vote Loki 4" ID="199084" SERIESID="19746"/>
+            <File Name="Captain America:Sam Wilson 13" ID="193352" SERIESID="19122"/>
+            <File Name="Captain America:Steve Rogers 5" ID="203453" SERIESID="20084"/>
+            <File Name="Captain Marvel 9" ID="202068" SERIESID="19968"/>
+            <File Name="Civil War II:Kingpin 3" ID="203500" SERIESID="20089"/>
+            <File Name="Deadpool 19" ID="197272" SERIESID="19600"/>
+            <File Name="Deadpool Annual 1" ID="197320" SERIESID="19600"/>
+            <File Name="Doctor Strange Annual 1" ID="196018" SERIESID="19520"/>
+            <File Name="Drax 11" ID="197116" SERIESID="19593"/>
+            <File Name="Extraordinary X-Men 14" ID="195840" SERIESID="19510"/>
+            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Avengers:Age of Ultron 10" ID="202700" SERIESID="20011"/>
+            <File Name="Moon Girl and Devil Dinosaur 11" ID="198693" SERIESID="19734"/>
+            <File Name="Ms. Marvel 11" ID="198968" SERIESID="19742"/>
+            <File Name="New Avengers 16" ID="195927" SERIESID="19517"/>
+            <File Name="Nighthawk 5" ID="204783" SERIESID="20329"/>
+            <File Name="Nova 11" ID="197472" SERIESID="19607"/>
+            <File Name="Rocket Raccoon and Groot 10" ID="194297" SERIESID="19223"/>
+            <File Name="Spider-Gwen 12" ID="196838" SERIESID="19586"/>
+            <File Name="Spider-Man/Deadpool 9" ID="202777" SERIESID="20017"/>
+            <File Name="Spider-Woman 11" ID="199506" SERIESID="19757"/>
+            <File Name="Star Wars 23" ID="192656" SERIESID="19020"/>
+            <File Name="Thunderbolts 5" ID="205040" SERIESID="20354"/>
+            <File Name="Totally Awesome Hulk 10" ID="199109" SERIESID="19747"/>
+            <File Name="Ultimates 11" ID="199630" SERIESID="19771"/>
+            <File Name="Unbeatable Squirrel Girl 12" ID="198822" SERIESID="19738"/>
+            <File Name="Web Warriors 11" ID="197439" SERIESID="19603"/>
+            <File Name="X-Men &apos;92 7" ID="202040" SERIESID="19967"/>
         </Directory>
         <Directory Name="CMC 2016 10">
-            <File Name="Barnes &amp; Noble Make Mine Marvel Sampler 1" ID="207741"/>
-            <File Name="Barnes and Noble Women of Power Sampler 1" ID="207742"/>
-            <File Name="All-New Wolverine 13" ID="194503"/>
-            <File Name="Amazing Spider-Man 19" ID="195709"/>
-            <File Name="Cage 1" ID="205109"/>
-            <File Name="Champions 1" ID="205962"/>
-            <File Name="Deadpool and the Mercs for Money 4" ID="204664"/>
-            <File Name="Deadpool:Back in Black 1" ID="204792"/>
-            <File Name="Death of X 1" ID="204683"/>
-            <File Name="Doctor Strange 12" ID="195984"/>
-            <File Name="Enchanted Tiki Room 1" ID="206538"/>
-            <File Name="Invincible Iron Man 14" ID="194414"/>
-            <File Name="Jessica Jones 1" ID="206292"/>
-            <File Name="Marvel Universe Avengers:Ultron Revolution 4" ID="204903"/>
-            <File Name="Scarlet Witch 11" ID="199750"/>
-            <File Name="Spider-Man 2099 16" ID="192963"/>
-            <File Name="Spidey 11" ID="202728"/>
-            <File Name="Squadron Supreme 12" ID="199163"/>
-            <File Name="Uncanny X-Men 14" ID="199048"/>
-            <File Name="Civil War II:Ulysses 3" ID="204651"/>
-            <File Name="Clone Conspiracy 1" ID="205939"/>
-            <File Name="Daredevil 12" ID="196692"/>
-            <File Name="Dark Tower:The Drawing of the Three  The Sailor 1" ID="174374"/>
-            <File Name="Darth Vader 25" ID="190974"/>
-            <File Name="Deadpool 20" ID="197274"/>
-            <File Name="Great Lakes Avengers 1" ID="205090"/>
-            <File Name="Howard the Duck 11" ID="198653"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 13" ID="199196"/>
-            <File Name="Max Ride:Final Flight 2" ID="206390"/>
-            <File Name="Moon Knight 7" ID="204759"/>
-            <File Name="Mosaic 1" ID="207724"/>
-            <File Name="Old Man Logan 12" ID="202234"/>
-            <File Name="Power Man and Iron Fist 9" ID="202566"/>
-            <File Name="Punisher 6" ID="203226"/>
-            <File Name="Solo 1" ID="206877"/>
-            <File Name="Star Wars:Han Solo 4" ID="204726"/>
-            <File Name="Star Wars:The Force Awakens Adaptation 5" ID="207593"/>
-            <File Name="Thunderbolts 6" ID="205042"/>
-            <File Name="Unbelievable Gwenpool 7" ID="198900"/>
-            <File Name="Uncanny Avengers 15" ID="197149"/>
-            <File Name="A-Force 10" ID="198616"/>
-            <File Name="All-New X-Men 14" ID="195595"/>
-            <File Name="Amazing Spider-Man 20" ID="195715"/>
-            <File Name="Astonishing Ant-Man 13" ID="195797"/>
-            <File Name="Black Panther 7" ID="203318"/>
-            <File Name="Black Widow 7" ID="199473"/>
-            <File Name="Captain America:Sam Wilson 14" ID="193354"/>
-            <File Name="Carnage 13" ID="197094"/>
-            <File Name="Civil War II:Kingpin 4" ID="203502"/>
-            <File Name="Deadpool:Back in Black 2" ID="204803"/>
-            <File Name="Deadpool:Too Soon 1" ID="205122"/>
-            <File Name="Death of X 2" ID="204691"/>
-            <File Name="Doctor Strange 13" ID="195991"/>
-            <File Name="Infamous Iron Man 1" ID="206265"/>
-            <File Name="Mighty Thor 12" ID="197359"/>
-            <File Name="Mockingbird 8" ID="202640"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 11" ID="199596"/>
-            <File Name="Powers 7" ID="190684"/>
-            <File Name="Silk 13" ID="198758"/>
-            <File Name="Spider-Gwen 13" ID="196840"/>
-            <File Name="Spider-Woman 12" ID="199507"/>
-            <File Name="Unbeatable Squirrel Girl 13" ID="198824"/>
-            <File Name="Uncanny Inhumans 14" ID="192864"/>
-            <File Name="X-Men &apos;92 8" ID="202041"/>
-            <File Name="Year of Marvels:The Unbeatable 4" ID="205075"/>
-            <File Name="Agents of S.H.I.E.L.D. 10" ID="199727"/>
-            <File Name="All-New, All-Different Avengers 15" ID="194222"/>
-            <File Name="Captain America:Steve Rogers 6" ID="203455"/>
-            <File Name="Champions:No Time for Losers 1" ID="202683"/>
-            <File Name="Civil War II 6" ID="204884"/>
-            <File Name="Deadpool 21" ID="197276"/>
-            <File Name="Doctor Strange and the Sorcerers Supreme 1" ID="206235"/>
-            <File Name="Doctor Strange:Mystic Apprentice 1" ID="205083"/>
-            <File Name="Extraordinary X-Men 15" ID="195841"/>
-            <File Name="Guardians of the Galaxy 13" ID="196760"/>
-            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Agents of S.H.I.E.L.D. Season Two/Marvel&apos;s Agent Carter Season One 11" ID="202701"/>
-            <File Name="Marvel Tsum Tsum 3" ID="206356"/>
-            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 4" ID="205022"/>
-            <File Name="Moon Girl and Devil Dinosaur 12" ID="198694"/>
-            <File Name="Ms. Marvel 12" ID="198970"/>
-            <File Name="New Avengers 17" ID="195928"/>
-            <File Name="Nighthawk 6" ID="204784"/>
-            <File Name="Prowler 1" ID="206362"/>
-            <File Name="Punisher Annual 1" ID="203245"/>
-            <File Name="Silver Surfer 7" ID="202157"/>
-            <File Name="Spider-Man/Deadpool 10" ID="202780"/>
-            <File Name="Star Wars 24" ID="192661"/>
-            <File Name="Star Wars:Poe Dameron 7" ID="204957"/>
-            <File Name="Totally Awesome Hulk 11" ID="199111"/>
-            <File Name="Ultimates 12" ID="199632"/>
-            <File Name="Venom:Space Knight 13" ID="199077"/>
-            <File Name="Vision 12" ID="198796"/>
-            <File Name="Darth Vader:Doctor Aphra 1" ID="202829"/>
-            <File Name="Haunted Mansion (Halloween ComicFest 2016 Edition) 1" ID="202830"/>
-            <File Name="Spidey:Halloween ComicFest 2016 Edition 1" ID="205144"/>
-            <File Name="Unbeatable Squirrel Girl:You Choose the Story 1" ID="203508"/>
+            <File Name="Barnes &amp; Noble Make Mine Marvel Sampler 1" ID="207741" SERIESID="20646"/>
+            <File Name="Barnes and Noble Women of Power Sampler 1" ID="207742" SERIESID="20646"/>
+            <File Name="All-New Wolverine 13" ID="194503" SERIESID="19261"/>
+            <File Name="Amazing Spider-Man 19" ID="195709" SERIESID="19507"/>
+            <File Name="Cage 1" ID="205109" SERIESID="20371"/>
+            <File Name="Champions 1" ID="205962" SERIESID="20514"/>
+            <File Name="Deadpool and the Mercs for Money 4" ID="204664" SERIESID="20324"/>
+            <File Name="Deadpool:Back in Black 1" ID="204792" SERIESID="20331"/>
+            <File Name="Death of X 1" ID="204683" SERIESID="20325"/>
+            <File Name="Doctor Strange 12" ID="195984" SERIESID="19520"/>
+            <File Name="Enchanted Tiki Room 1" ID="206538" SERIESID="20561"/>
+            <File Name="Invincible Iron Man 14" ID="194414" SERIESID="19236"/>
+            <File Name="Jessica Jones 1" ID="206292" SERIESID="20523"/>
+            <File Name="Marvel Universe Avengers:Ultron Revolution 4" ID="204903" SERIESID="20333"/>
+            <File Name="Scarlet Witch 11" ID="199750" SERIESID="19776"/>
+            <File Name="Spider-Man 2099 16" ID="192963" SERIESID="19055"/>
+            <File Name="Spidey 11" ID="202728" SERIESID="20016"/>
+            <File Name="Squadron Supreme 12" ID="199163" SERIESID="19748"/>
+            <File Name="Uncanny X-Men 14" ID="199048" SERIESID="19744"/>
+            <File Name="Civil War II:Ulysses 3" ID="204651" SERIESID="20323"/>
+            <File Name="Clone Conspiracy 1" ID="205939" SERIESID="20513"/>
+            <File Name="Daredevil 12" ID="196692" SERIESID="19583"/>
+            <File Name="Dark Tower:The Drawing of the Three  The Sailor 1" ID="174374" SERIESID="16550"/>
+            <File Name="Darth Vader 25" ID="190974" SERIESID="18856"/>
+            <File Name="Deadpool 20" ID="197274" SERIESID="19600"/>
+            <File Name="Great Lakes Avengers 1" ID="205090" SERIESID="20366"/>
+            <File Name="Howard the Duck 11" ID="198653" SERIESID="19732"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 13" ID="199196" SERIESID="19750"/>
+            <File Name="Max Ride:Final Flight 2" ID="206390" SERIESID="20529"/>
+            <File Name="Moon Knight 7" ID="204759" SERIESID="20327"/>
+            <File Name="Mosaic 1" ID="207724" SERIESID="20645"/>
+            <File Name="Old Man Logan 12" ID="202234" SERIESID="19972"/>
+            <File Name="Power Man and Iron Fist 9" ID="202566" SERIESID="19995"/>
+            <File Name="Punisher 6" ID="203226" SERIESID="20079"/>
+            <File Name="Solo 1" ID="206877" SERIESID="20573"/>
+            <File Name="Star Wars:Han Solo 4" ID="204726" SERIESID="20326"/>
+            <File Name="Star Wars:The Force Awakens Adaptation 5" ID="207593" SERIESID="20639"/>
+            <File Name="Thunderbolts 6" ID="205042" SERIESID="20354"/>
+            <File Name="Unbelievable Gwenpool 7" ID="198900" SERIESID="19741"/>
+            <File Name="Uncanny Avengers 15" ID="197149" SERIESID="19594"/>
+            <File Name="A-Force 10" ID="198616" SERIESID="19730"/>
+            <File Name="All-New X-Men 14" ID="195595" SERIESID="19496"/>
+            <File Name="Amazing Spider-Man 20" ID="195715" SERIESID="19507"/>
+            <File Name="Astonishing Ant-Man 13" ID="195797" SERIESID="19509"/>
+            <File Name="Black Panther 7" ID="203318" SERIESID="20080"/>
+            <File Name="Black Widow 7" ID="199473" SERIESID="19755"/>
+            <File Name="Captain America:Sam Wilson 14" ID="193354" SERIESID="19122"/>
+            <File Name="Carnage 13" ID="197094" SERIESID="19592"/>
+            <File Name="Civil War II:Kingpin 4" ID="203502" SERIESID="20089"/>
+            <File Name="Deadpool:Back in Black 2" ID="204803" SERIESID="20331"/>
+            <File Name="Deadpool:Too Soon 1" ID="205122" SERIESID="20372"/>
+            <File Name="Death of X 2" ID="204691" SERIESID="20325"/>
+            <File Name="Doctor Strange 13" ID="195991" SERIESID="19520"/>
+            <File Name="Infamous Iron Man 1" ID="206265" SERIESID="20521"/>
+            <File Name="Mighty Thor 12" ID="197359" SERIESID="19601"/>
+            <File Name="Mockingbird 8" ID="202640" SERIESID="19998"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 11" ID="199596" SERIESID="19770"/>
+            <File Name="Powers 7" ID="190684" SERIESID="18846"/>
+            <File Name="Silk 13" ID="198758" SERIESID="19735"/>
+            <File Name="Spider-Gwen 13" ID="196840" SERIESID="19586"/>
+            <File Name="Spider-Woman 12" ID="199507" SERIESID="19757"/>
+            <File Name="Unbeatable Squirrel Girl 13" ID="198824" SERIESID="19738"/>
+            <File Name="Uncanny Inhumans 14" ID="192864" SERIESID="19034"/>
+            <File Name="X-Men &apos;92 8" ID="202041" SERIESID="19967"/>
+            <File Name="Year of Marvels:The Unbeatable 4" ID="205075" SERIESID="20360"/>
+            <File Name="Agents of S.H.I.E.L.D. 10" ID="199727" SERIESID="19774"/>
+            <File Name="All-New, All-Different Avengers 15" ID="194222" SERIESID="19218"/>
+            <File Name="Captain America:Steve Rogers 6" ID="203455" SERIESID="20084"/>
+            <File Name="Champions:No Time for Losers 1" ID="202683" SERIESID="20008"/>
+            <File Name="Civil War II 6" ID="204884" SERIESID="20332"/>
+            <File Name="Deadpool 21" ID="197276" SERIESID="19600"/>
+            <File Name="Doctor Strange and the Sorcerers Supreme 1" ID="206235" SERIESID="20519"/>
+            <File Name="Doctor Strange:Mystic Apprentice 1" ID="205083" SERIESID="20363"/>
+            <File Name="Extraordinary X-Men 15" ID="195841" SERIESID="19510"/>
+            <File Name="Guardians of the Galaxy 13" ID="196760" SERIESID="19585"/>
+            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Agents of S.H.I.E.L.D. Season Two/Marvel&apos;s Agent Carter Season One 11" ID="202701" SERIESID="20011"/>
+            <File Name="Marvel Tsum Tsum 3" ID="206356" SERIESID="20524"/>
+            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 4" ID="205022" SERIESID="20353"/>
+            <File Name="Moon Girl and Devil Dinosaur 12" ID="198694" SERIESID="19734"/>
+            <File Name="Ms. Marvel 12" ID="198970" SERIESID="19742"/>
+            <File Name="New Avengers 17" ID="195928" SERIESID="19517"/>
+            <File Name="Nighthawk 6" ID="204784" SERIESID="20329"/>
+            <File Name="Prowler 1" ID="206362" SERIESID="20525"/>
+            <File Name="Punisher Annual 1" ID="203245" SERIESID="20079"/>
+            <File Name="Silver Surfer 7" ID="202157" SERIESID="19973"/>
+            <File Name="Spider-Man/Deadpool 10" ID="202780" SERIESID="20017"/>
+            <File Name="Star Wars 24" ID="192661" SERIESID="19020"/>
+            <File Name="Star Wars:Poe Dameron 7" ID="204957" SERIESID="20342"/>
+            <File Name="Totally Awesome Hulk 11" ID="199111" SERIESID="19747"/>
+            <File Name="Ultimates 12" ID="199632" SERIESID="19771"/>
+            <File Name="Venom:Space Knight 13" ID="199077" SERIESID="19745"/>
+            <File Name="Vision 12" ID="198796" SERIESID="19737"/>
+            <File Name="Darth Vader:Doctor Aphra 1" ID="202829" SERIESID="17115"/>
+            <File Name="Haunted Mansion (Halloween ComicFest 2016 Edition) 1" ID="202830" SERIESID="17115"/>
+            <File Name="Spidey:Halloween ComicFest 2016 Edition 1" ID="205144" SERIESID="17115"/>
+            <File Name="Unbeatable Squirrel Girl:You Choose the Story 1" ID="203508" SERIESID="17115"/>
         </Directory>
         <Directory Name="CMC 2016 11">
-            <File Name="Avengers 1" ID="206085"/>
-            <File Name="Champions 2" ID="206013"/>
-            <File Name="Deadpool and the Mercs for Money 5" ID="204668"/>
-            <File Name="Death of X 3" ID="204695"/>
-            <File Name="Foolkiller 1" ID="206560"/>
-            <File Name="Marvel Universe Avengers:Ultron Revolution 5" ID="204904"/>
-            <File Name="Moon Knight 8" ID="204760"/>
-            <File Name="Occupy Avengers 1" ID="207662"/>
-            <File Name="Scarlet Witch 12" ID="199751"/>
-            <File Name="Spider-Man 2099 17" ID="192964"/>
-            <File Name="Spider-Woman 13" ID="199508"/>
-            <File Name="Spidey 12" ID="202729"/>
-            <File Name="Unworthy Thor 1" ID="206686"/>
-            <File Name="All-New X-Men 15" ID="195596"/>
-            <File Name="Amazing Spider-Man:Renew Your Vows 1" ID="205872"/>
-            <File Name="Avengers 1.1" ID="206096"/>
-            <File Name="Black Panther:World of Wakanda 1" ID="206214"/>
-            <File Name="Captain America:Steve Rogers 7" ID="203458"/>
-            <File Name="Clone Conspiracy 2" ID="205947"/>
-            <File Name="Daredevil 13" ID="196693"/>
-            <File Name="Dark Tower:The Drawing of the Three  The Sailor 2" ID="174375"/>
-            <File Name="Deadpool:Back in Black 3" ID="204805"/>
-            <File Name="Invincible Iron Man 1" ID="206812"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 14" ID="199197"/>
-            <File Name="Mosaic 2" ID="207731"/>
-            <File Name="Power Man and Iron Fist 10" ID="202567"/>
-            <File Name="Solo 2" ID="206885"/>
-            <File Name="Spider-Man/Deadpool 11" ID="202781"/>
-            <File Name="Star Wars:Poe Dameron 8" ID="204961"/>
-            <File Name="Star Wars:The Force Awakens Adaptation 6" ID="207597"/>
-            <File Name="Unbelievable Gwenpool 8" ID="198905"/>
-            <File Name="Uncanny Avengers 16" ID="197153"/>
-            <File Name="Uncanny X-Men 15" ID="199049"/>
-            <File Name="All-New Wolverine 14" ID="194507"/>
-            <File Name="Amazing Spider-Man 21" ID="195718"/>
-            <File Name="Black Panther 8" ID="203326"/>
-            <File Name="Captain America:Sam Wilson 15" ID="193358"/>
-            <File Name="Carnage 14" ID="197095"/>
-            <File Name="Deadpool 22" ID="197281"/>
-            <File Name="Doctor Strange 14" ID="195992"/>
-            <File Name="Infamous Iron Man 2" ID="206274"/>
-            <File Name="Jessica Jones 2" ID="206305"/>
-            <File Name="Max Ride:Final Flight 3" ID="206391"/>
-            <File Name="Old Man Logan 13" ID="202235"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 12" ID="199600"/>
-            <File Name="Silk 14" ID="198759"/>
-            <File Name="Spider-Man 9" ID="202095"/>
-            <File Name="Squadron Supreme 13" ID="199164"/>
-            <File Name="Thanos 1" ID="206710"/>
-            <File Name="Unbeatable Squirrel Girl 14" ID="198826"/>
-            <File Name="Uncanny Inhumans 15" ID="192868"/>
-            <File Name="Uncanny X-Men Annual 1" ID="199028"/>
-            <File Name="Champions (Local Comic Shop Day) 1" ID="202828"/>
-            <File Name="All-New X-Men Annual 1" ID="195605"/>
-            <File Name="Amazing Spider-Man Annual 1" ID="195761"/>
-            <File Name="Cage 2" ID="205116"/>
-            <File Name="Captain Marvel 10" ID="202071"/>
-            <File Name="Civil War II 7" ID="204889"/>
-            <File Name="Deadpool:Too Soon 2" ID="205124"/>
-            <File Name="Death of X 4" ID="204698"/>
-            <File Name="Doctor Strange and the Sorcerers Supreme 2" ID="206249"/>
-            <File Name="Empress 7" ID="203428"/>
-            <File Name="Enchanted Tiki Room 2" ID="206545"/>
-            <File Name="Marvel Tsum Tsum 4" ID="206359"/>
-            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 5" ID="205023"/>
-            <File Name="Mighty Thor 13" ID="197360"/>
-            <File Name="Moon Girl and Devil Dinosaur 13" ID="198695"/>
-            <File Name="Prowler 2" ID="206370"/>
-            <File Name="Spider-Gwen 14" ID="196841"/>
-            <File Name="Star Wars 25" ID="192665"/>
-            <File Name="Star Wars:Han Solo 5" ID="204732"/>
-            <File Name="Ultimates 2 1" ID="207743"/>
-            <File Name="Venom 1" ID="208125"/>
-            <File Name="X-Men &apos;92 9" ID="202042"/>
-            <File Name="Black Widow 8" ID="199477"/>
-            <File Name="Deadpool:Back in Black 4" ID="204807"/>
-            <File Name="Extraordinary X-Men 16" ID="195842"/>
-            <File Name="Ghost Rider 1" ID="206576"/>
-            <File Name="Great Lakes Avengers 2" ID="205096"/>
-            <File Name="Guardians of the Galaxy 14" ID="196761"/>
-            <File Name="Inhumans Vs. X-Men 0" ID="206599"/>
-            <File Name="Ms. Marvel 13" ID="198975"/>
-            <File Name="New Avengers 18" ID="195929"/>
-            <File Name="Old Man Logan 14" ID="202236"/>
-            <File Name="Star Wars Annual 2" ID="192772"/>
-            <File Name="Thunderbolts 7" ID="205043"/>
-            <File Name="Totally Awesome Hulk 12" ID="199113"/>
-            <File Name="Uncanny Inhumans 16" ID="192871"/>
+            <File Name="Avengers 1" ID="206085" SERIESID="20515"/>
+            <File Name="Champions 2" ID="206013" SERIESID="20514"/>
+            <File Name="Deadpool and the Mercs for Money 5" ID="204668" SERIESID="20324"/>
+            <File Name="Death of X 3" ID="204695" SERIESID="20325"/>
+            <File Name="Foolkiller 1" ID="206560" SERIESID="20562"/>
+            <File Name="Marvel Universe Avengers:Ultron Revolution 5" ID="204904" SERIESID="20333"/>
+            <File Name="Moon Knight 8" ID="204760" SERIESID="20327"/>
+            <File Name="Occupy Avengers 1" ID="207662" SERIESID="20643"/>
+            <File Name="Scarlet Witch 12" ID="199751" SERIESID="19776"/>
+            <File Name="Spider-Man 2099 17" ID="192964" SERIESID="19055"/>
+            <File Name="Spider-Woman 13" ID="199508" SERIESID="19757"/>
+            <File Name="Spidey 12" ID="202729" SERIESID="20016"/>
+            <File Name="Unworthy Thor 1" ID="206686" SERIESID="20568"/>
+            <File Name="All-New X-Men 15" ID="195596" SERIESID="19496"/>
+            <File Name="Amazing Spider-Man:Renew Your Vows 1" ID="205872" SERIESID="20511"/>
+            <File Name="Avengers 1.1" ID="206096" SERIESID="20515"/>
+            <File Name="Black Panther:World of Wakanda 1" ID="206214" SERIESID="20518"/>
+            <File Name="Captain America:Steve Rogers 7" ID="203458" SERIESID="20084"/>
+            <File Name="Clone Conspiracy 2" ID="205947" SERIESID="20513"/>
+            <File Name="Daredevil 13" ID="196693" SERIESID="19583"/>
+            <File Name="Dark Tower:The Drawing of the Three  The Sailor 2" ID="174375" SERIESID="16550"/>
+            <File Name="Deadpool:Back in Black 3" ID="204805" SERIESID="20331"/>
+            <File Name="Invincible Iron Man 1" ID="206812" SERIESID="20571"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 14" ID="199197" SERIESID="19750"/>
+            <File Name="Mosaic 2" ID="207731" SERIESID="20645"/>
+            <File Name="Power Man and Iron Fist 10" ID="202567" SERIESID="19995"/>
+            <File Name="Solo 2" ID="206885" SERIESID="20573"/>
+            <File Name="Spider-Man/Deadpool 11" ID="202781" SERIESID="20017"/>
+            <File Name="Star Wars:Poe Dameron 8" ID="204961" SERIESID="20342"/>
+            <File Name="Star Wars:The Force Awakens Adaptation 6" ID="207597" SERIESID="20639"/>
+            <File Name="Unbelievable Gwenpool 8" ID="198905" SERIESID="19741"/>
+            <File Name="Uncanny Avengers 16" ID="197153" SERIESID="19594"/>
+            <File Name="Uncanny X-Men 15" ID="199049" SERIESID="19744"/>
+            <File Name="All-New Wolverine 14" ID="194507" SERIESID="19261"/>
+            <File Name="Amazing Spider-Man 21" ID="195718" SERIESID="19507"/>
+            <File Name="Black Panther 8" ID="203326" SERIESID="20080"/>
+            <File Name="Captain America:Sam Wilson 15" ID="193358" SERIESID="19122"/>
+            <File Name="Carnage 14" ID="197095" SERIESID="19592"/>
+            <File Name="Deadpool 22" ID="197281" SERIESID="19600"/>
+            <File Name="Doctor Strange 14" ID="195992" SERIESID="19520"/>
+            <File Name="Infamous Iron Man 2" ID="206274" SERIESID="20521"/>
+            <File Name="Jessica Jones 2" ID="206305" SERIESID="20523"/>
+            <File Name="Max Ride:Final Flight 3" ID="206391" SERIESID="20529"/>
+            <File Name="Old Man Logan 13" ID="202235" SERIESID="19972"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 12" ID="199600" SERIESID="19770"/>
+            <File Name="Silk 14" ID="198759" SERIESID="19735"/>
+            <File Name="Spider-Man 9" ID="202095" SERIESID="19969"/>
+            <File Name="Squadron Supreme 13" ID="199164" SERIESID="19748"/>
+            <File Name="Thanos 1" ID="206710" SERIESID="20569"/>
+            <File Name="Unbeatable Squirrel Girl 14" ID="198826" SERIESID="19738"/>
+            <File Name="Uncanny Inhumans 15" ID="192868" SERIESID="19034"/>
+            <File Name="Uncanny X-Men Annual 1" ID="199028" SERIESID="19744"/>
+            <File Name="Champions (Local Comic Shop Day) 1" ID="202828" SERIESID="20514"/>
+            <File Name="All-New X-Men Annual 1" ID="195605" SERIESID="19496"/>
+            <File Name="Amazing Spider-Man Annual 1" ID="195761" SERIESID="19507"/>
+            <File Name="Cage 2" ID="205116" SERIESID="20371"/>
+            <File Name="Captain Marvel 10" ID="202071" SERIESID="19968"/>
+            <File Name="Civil War II 7" ID="204889" SERIESID="20332"/>
+            <File Name="Deadpool:Too Soon 2" ID="205124" SERIESID="20372"/>
+            <File Name="Death of X 4" ID="204698" SERIESID="20325"/>
+            <File Name="Doctor Strange and the Sorcerers Supreme 2" ID="206249" SERIESID="20519"/>
+            <File Name="Empress 7" ID="203428" SERIESID="20083"/>
+            <File Name="Enchanted Tiki Room 2" ID="206545" SERIESID="20561"/>
+            <File Name="Marvel Tsum Tsum 4" ID="206359" SERIESID="20524"/>
+            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 5" ID="205023" SERIESID="20353"/>
+            <File Name="Mighty Thor 13" ID="197360" SERIESID="19601"/>
+            <File Name="Moon Girl and Devil Dinosaur 13" ID="198695" SERIESID="19734"/>
+            <File Name="Prowler 2" ID="206370" SERIESID="20525"/>
+            <File Name="Spider-Gwen 14" ID="196841" SERIESID="19586"/>
+            <File Name="Star Wars 25" ID="192665" SERIESID="19020"/>
+            <File Name="Star Wars:Han Solo 5" ID="204732" SERIESID="20326"/>
+            <File Name="Ultimates 2 1" ID="207743" SERIESID="20647"/>
+            <File Name="Venom 1" ID="208125" SERIESID="20660"/>
+            <File Name="X-Men &apos;92 9" ID="202042" SERIESID="19967"/>
+            <File Name="Black Widow 8" ID="199477" SERIESID="19755"/>
+            <File Name="Deadpool:Back in Black 4" ID="204807" SERIESID="20331"/>
+            <File Name="Extraordinary X-Men 16" ID="195842" SERIESID="19510"/>
+            <File Name="Ghost Rider 1" ID="206576" SERIESID="20563"/>
+            <File Name="Great Lakes Avengers 2" ID="205096" SERIESID="20366"/>
+            <File Name="Guardians of the Galaxy 14" ID="196761" SERIESID="19585"/>
+            <File Name="Inhumans Vs. X-Men 0" ID="206599" SERIESID="20564"/>
+            <File Name="Ms. Marvel 13" ID="198975" SERIESID="19742"/>
+            <File Name="New Avengers 18" ID="195929" SERIESID="19517"/>
+            <File Name="Old Man Logan 14" ID="202236" SERIESID="19972"/>
+            <File Name="Star Wars Annual 2" ID="192772" SERIESID="19020"/>
+            <File Name="Thunderbolts 7" ID="205043" SERIESID="20354"/>
+            <File Name="Totally Awesome Hulk 12" ID="199113" SERIESID="19747"/>
+            <File Name="Uncanny Inhumans 16" ID="192871" SERIESID="19034"/>
         </Directory>
         <Directory Name="CMC 2016 12">
-            <File Name="All-New Wolverine 15" ID="194511"/>
-            <File Name="Avengers 2" ID="206101"/>
-            <File Name="Champions 3" ID="206020"/>
-            <File Name="Clone Conspiracy 3" ID="205951"/>
-            <File Name="Deadpool 23" ID="197282"/>
-            <File Name="Moon Knight 9" ID="204761"/>
-            <File Name="Nova 1" ID="207764"/>
-            <File Name="Scarlet Witch 13" ID="199752"/>
-            <File Name="Slapstick 1" ID="206648"/>
-            <File Name="Spider-Man 2099 18" ID="192965"/>
-            <File Name="Star Wars:Doctor Aphra 1" ID="208314"/>
-            <File Name="Unworthy Thor 2" ID="206694"/>
-            <File Name="Year of Marvels:The Uncanny 5" ID="205077"/>
-            <File Name="All-New X-Men 16" ID="195597"/>
-            <File Name="Amazing Spider-Man:Renew Your Vows 2" ID="205892"/>
-            <File Name="Daredevil 14" ID="196695"/>
-            <File Name="Dark Tower:The Drawing of the Three  The Sailor 3" ID="174376"/>
-            <File Name="Deadpool:Back in Black 5" ID="204809"/>
-            <File Name="Doctor Strange/Punisher:Magic Bullets 1" ID="206529"/>
-            <File Name="Foolkiller 2" ID="206568"/>
-            <File Name="Guardians of the Galaxy 15" ID="196762"/>
-            <File Name="Gwenpool Holiday Special:Merry-Mix Up 1" ID="198936"/>
-            <File Name="Hawkeye 1" ID="207633"/>
-            <File Name="Inhumans Vs. X-Men 1" ID="206602"/>
-            <File Name="Jessica Jones 3" ID="206309"/>
-            <File Name="Marvel Universe Avengers:Ultron Revolution 6" ID="204905"/>
-            <File Name="Mosaic 3" ID="207733"/>
-            <File Name="Old Man Logan 15" ID="202237"/>
-            <File Name="Power Man and Iron Fist 11" ID="202570"/>
-            <File Name="Silk 15" ID="198761"/>
-            <File Name="Spider-Man 10" ID="202096"/>
-            <File Name="Star Wars:Poe Dameron 9" ID="204963"/>
-            <File Name="Totally Awesome Hulk 13" ID="199114"/>
-            <File Name="Unbeatable Squirrel Girl 15" ID="198827"/>
-            <File Name="Uncanny Avengers 17" ID="197154"/>
-            <File Name="Amazing Spider-Man 22" ID="195721"/>
-            <File Name="Avengers 2.1" ID="206104"/>
-            <File Name="Black Panther:World of Wakanda 2" ID="206224"/>
-            <File Name="Cage 3" ID="205118"/>
-            <File Name="Captain America:Sam Wilson 16" ID="193359"/>
-            <File Name="Deadpool and the Mercs for Money 6" ID="204672"/>
-            <File Name="Doctor Strange 15" ID="195993"/>
-            <File Name="Gamora 1" ID="206668"/>
-            <File Name="Invincible Iron Man 2" ID="206825"/>
-            <File Name="Marvel Universe:Guardians of the Galaxy 15" ID="199198"/>
-            <File Name="Mighty Captain Marvel 0" ID="207828"/>
-            <File Name="Occupy Avengers 2" ID="207668"/>
-            <File Name="Patsy Walker A.K.A. Hellcat 13" ID="199601"/>
-            <File Name="Power Man and Iron Fist Sweet Christmas Annual 1" ID="202576"/>
-            <File Name="Punisher 7" ID="203228"/>
-            <File Name="Silver Surfer 8" ID="202158"/>
-            <File Name="Solo 3" ID="206888"/>
-            <File Name="Spider-Gwen 15" ID="196843"/>
-            <File Name="Squadron Supreme 14" ID="199166"/>
-            <File Name="Star Wars:Doctor Aphra 2" ID="208330"/>
-            <File Name="Star-Lord 1" ID="206962"/>
-            <File Name="Thanos 2" ID="206716"/>
-            <File Name="Ultimates 2 2" ID="207749"/>
-            <File Name="Unbelievable Gwenpool 9" ID="198908"/>
-            <File Name="Uncanny X-Men 16" ID="199050"/>
-            <File Name="Venom 2" ID="208147"/>
-            <File Name="Black Panther 9" ID="203329"/>
-            <File Name="Black Widow 9" ID="199478"/>
-            <File Name="Captain America:Steve Rogers 8" ID="203464"/>
-            <File Name="Carnage 15" ID="197096"/>
-            <File Name="Civil War II 8" ID="204895"/>
-            <File Name="Deadpool:Too Soon 3" ID="205126"/>
-            <File Name="Doctor Strange and the Sorcerers Supreme 3" ID="206251"/>
-            <File Name="Enchanted Tiki Room 3" ID="206549"/>
-            <File Name="Extraordinary X-Men 17" ID="195843"/>
-            <File Name="Ghost Rider 2" ID="206589"/>
-            <File Name="Great Lakes Avengers 3" ID="205098"/>
-            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Agents of S.H.I.E.L.D. Season Three/Marvel&apos;s Agent Carter Season Two 12" ID="202702"/>
-            <File Name="Hulk 1" ID="206776"/>
-            <File Name="Infamous Iron Man 3" ID="206278"/>
-            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 6" ID="205024"/>
-            <File Name="Max Ride:Final Flight 4" ID="206392"/>
-            <File Name="Mighty Thor 14" ID="197361"/>
-            <File Name="Moon Girl and Devil Dinosaur 14" ID="198701"/>
-            <File Name="Prowler 3" ID="206373"/>
-            <File Name="Rocket Raccoon 1" ID="206945"/>
-            <File Name="Spider-Man 11" ID="202098"/>
-            <File Name="Spider-Man/Deadpool 12" ID="202782"/>
-            <File Name="Spider-Woman 14" ID="199510"/>
-            <File Name="Star Wars 26" ID="192669"/>
-            <File Name="Thunderbolts 8" ID="205047"/>
-            <File Name="Uncanny Avengers 18" ID="197155"/>
-            <File Name="Uncanny Inhumans 17" ID="192872"/>
-            <File Name="X-Men &apos;92 10" ID="202043"/>
+            <File Name="All-New Wolverine 15" ID="194511" SERIESID="19261"/>
+            <File Name="Avengers 2" ID="206101" SERIESID="20515"/>
+            <File Name="Champions 3" ID="206020" SERIESID="20514"/>
+            <File Name="Clone Conspiracy 3" ID="205951" SERIESID="20513"/>
+            <File Name="Deadpool 23" ID="197282" SERIESID="19600"/>
+            <File Name="Moon Knight 9" ID="204761" SERIESID="20327"/>
+            <File Name="Nova 1" ID="207764" SERIESID="20649"/>
+            <File Name="Scarlet Witch 13" ID="199752" SERIESID="19776"/>
+            <File Name="Slapstick 1" ID="206648" SERIESID="20565"/>
+            <File Name="Spider-Man 2099 18" ID="192965" SERIESID="19055"/>
+            <File Name="Star Wars:Doctor Aphra 1" ID="208314" SERIESID="20686"/>
+            <File Name="Unworthy Thor 2" ID="206694" SERIESID="20568"/>
+            <File Name="Year of Marvels:The Uncanny 5" ID="205077" SERIESID="20360"/>
+            <File Name="All-New X-Men 16" ID="195597" SERIESID="19496"/>
+            <File Name="Amazing Spider-Man:Renew Your Vows 2" ID="205892" SERIESID="20511"/>
+            <File Name="Daredevil 14" ID="196695" SERIESID="19583"/>
+            <File Name="Dark Tower:The Drawing of the Three  The Sailor 3" ID="174376" SERIESID="16550"/>
+            <File Name="Deadpool:Back in Black 5" ID="204809" SERIESID="20331"/>
+            <File Name="Doctor Strange/Punisher:Magic Bullets 1" ID="206529" SERIESID="20560"/>
+            <File Name="Foolkiller 2" ID="206568" SERIESID="20562"/>
+            <File Name="Guardians of the Galaxy 15" ID="196762" SERIESID="19585"/>
+            <File Name="Gwenpool Holiday Special:Merry-Mix Up 1" ID="198936" SERIESID="19741"/>
+            <File Name="Hawkeye 1" ID="207633" SERIESID="20642"/>
+            <File Name="Inhumans Vs. X-Men 1" ID="206602" SERIESID="20564"/>
+            <File Name="Jessica Jones 3" ID="206309" SERIESID="20523"/>
+            <File Name="Marvel Universe Avengers:Ultron Revolution 6" ID="204905" SERIESID="20333"/>
+            <File Name="Mosaic 3" ID="207733" SERIESID="20645"/>
+            <File Name="Old Man Logan 15" ID="202237" SERIESID="19972"/>
+            <File Name="Power Man and Iron Fist 11" ID="202570" SERIESID="19995"/>
+            <File Name="Silk 15" ID="198761" SERIESID="19735"/>
+            <File Name="Spider-Man 10" ID="202096" SERIESID="19969"/>
+            <File Name="Star Wars:Poe Dameron 9" ID="204963" SERIESID="20342"/>
+            <File Name="Totally Awesome Hulk 13" ID="199114" SERIESID="19747"/>
+            <File Name="Unbeatable Squirrel Girl 15" ID="198827" SERIESID="19738"/>
+            <File Name="Uncanny Avengers 17" ID="197154" SERIESID="19594"/>
+            <File Name="Amazing Spider-Man 22" ID="195721" SERIESID="19507"/>
+            <File Name="Avengers 2.1" ID="206104" SERIESID="20515"/>
+            <File Name="Black Panther:World of Wakanda 2" ID="206224" SERIESID="20518"/>
+            <File Name="Cage 3" ID="205118" SERIESID="20371"/>
+            <File Name="Captain America:Sam Wilson 16" ID="193359" SERIESID="19122"/>
+            <File Name="Deadpool and the Mercs for Money 6" ID="204672" SERIESID="20324"/>
+            <File Name="Doctor Strange 15" ID="195993" SERIESID="19520"/>
+            <File Name="Gamora 1" ID="206668" SERIESID="20567"/>
+            <File Name="Invincible Iron Man 2" ID="206825" SERIESID="20571"/>
+            <File Name="Marvel Universe:Guardians of the Galaxy 15" ID="199198" SERIESID="19750"/>
+            <File Name="Mighty Captain Marvel 0" ID="207828" SERIESID="20659"/>
+            <File Name="Occupy Avengers 2" ID="207668" SERIESID="20643"/>
+            <File Name="Patsy Walker A.K.A. Hellcat 13" ID="199601" SERIESID="19770"/>
+            <File Name="Power Man and Iron Fist Sweet Christmas Annual 1" ID="202576" SERIESID="19995"/>
+            <File Name="Punisher 7" ID="203228" SERIESID="20079"/>
+            <File Name="Silver Surfer 8" ID="202158" SERIESID="19973"/>
+            <File Name="Solo 3" ID="206888" SERIESID="20573"/>
+            <File Name="Spider-Gwen 15" ID="196843" SERIESID="19586"/>
+            <File Name="Squadron Supreme 14" ID="199166" SERIESID="19748"/>
+            <File Name="Star Wars:Doctor Aphra 2" ID="208330" SERIESID="20686"/>
+            <File Name="Star-Lord 1" ID="206962" SERIESID="20584"/>
+            <File Name="Thanos 2" ID="206716" SERIESID="20569"/>
+            <File Name="Ultimates 2 2" ID="207749" SERIESID="20647"/>
+            <File Name="Unbelievable Gwenpool 9" ID="198908" SERIESID="19741"/>
+            <File Name="Uncanny X-Men 16" ID="199050" SERIESID="19744"/>
+            <File Name="Venom 2" ID="208147" SERIESID="20660"/>
+            <File Name="Black Panther 9" ID="203329" SERIESID="20080"/>
+            <File Name="Black Widow 9" ID="199478" SERIESID="19755"/>
+            <File Name="Captain America:Steve Rogers 8" ID="203464" SERIESID="20084"/>
+            <File Name="Carnage 15" ID="197096" SERIESID="19592"/>
+            <File Name="Civil War II 8" ID="204895" SERIESID="20332"/>
+            <File Name="Deadpool:Too Soon 3" ID="205126" SERIESID="20372"/>
+            <File Name="Doctor Strange and the Sorcerers Supreme 3" ID="206251" SERIESID="20519"/>
+            <File Name="Enchanted Tiki Room 3" ID="206549" SERIESID="20561"/>
+            <File Name="Extraordinary X-Men 17" ID="195843" SERIESID="19510"/>
+            <File Name="Ghost Rider 2" ID="206589" SERIESID="20563"/>
+            <File Name="Great Lakes Avengers 3" ID="205098" SERIESID="20366"/>
+            <File Name="Guidebook to the Marvel Cinematic Universe:Marvel&apos;s Agents of S.H.I.E.L.D. Season Three/Marvel&apos;s Agent Carter Season Two 12" ID="202702" SERIESID="20011"/>
+            <File Name="Hulk 1" ID="206776" SERIESID="20570"/>
+            <File Name="Infamous Iron Man 3" ID="206278" SERIESID="20521"/>
+            <File Name="Marvel Universe:Ultimate Spider-Man Vs. the Sinister Six 6" ID="205024" SERIESID="20353"/>
+            <File Name="Max Ride:Final Flight 4" ID="206392" SERIESID="20529"/>
+            <File Name="Mighty Thor 14" ID="197361" SERIESID="19601"/>
+            <File Name="Moon Girl and Devil Dinosaur 14" ID="198701" SERIESID="19734"/>
+            <File Name="Prowler 3" ID="206373" SERIESID="20525"/>
+            <File Name="Rocket Raccoon 1" ID="206945" SERIESID="20580"/>
+            <File Name="Spider-Man 11" ID="202098" SERIESID="19969"/>
+            <File Name="Spider-Man/Deadpool 12" ID="202782" SERIESID="20017"/>
+            <File Name="Spider-Woman 14" ID="199510" SERIESID="19757"/>
+            <File Name="Star Wars 26" ID="192669" SERIESID="19020"/>
+            <File Name="Thunderbolts 8" ID="205047" SERIESID="20354"/>
+            <File Name="Uncanny Avengers 18" ID="197155" SERIESID="19594"/>
+            <File Name="Uncanny Inhumans 17" ID="192872" SERIESID="19034"/>
+            <File Name="X-Men &apos;92 10" ID="202043" SERIESID="19967"/>
         </Directory>
     </Year>
