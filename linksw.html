@@ -87,10 +87,18 @@
                             var monthName = months[j].getAttribute('Month');
                             var divId = monthName;
                             var currentDiv = document.getElementById(divId);
-                            var currentLeft = document.getElementById(divId + "leftside");
-                            var currentRight = document.getElementById(divId + "rightside");
+                            var currentTable = document.getElementById(divId + "leftside");
+                            //var currentRight = document.getElementById(divId + "rightside");
                             currentDiv.style.display = 'block';
 
+                            var newTable = document.createElement('table');
+                            currentTable.appendChild(newTable);
+                            var newRow = document.createElement('tr');
+                            newTable.appendChild(newRow);
+                            var currentLeft = document.createElement('td');
+                            newRow.appendChild(currentLeft);
+                            var currentRight = document.createElement('td');
+                            newRow.appendChild(currentRight);
                             var files = months[j].getElementsByTagName("File");
 
                             for (k = 0; k < files.length; k++) {
