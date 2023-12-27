@@ -13,7 +13,7 @@ if (isset($argv[1]) && strtolower($argv[1]) == "dc") {
    $project = "CDCC";
 }
 //$years = array('1935');
-$years = range($startYear,date("Y"));
+$years = range($startYear, 2020);
 
 //$months = array('January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December');
 
@@ -36,7 +36,7 @@ foreach ($years as $year) {
 
       $sep = "\n";
       $monthContents = "";
-      foreach($elements as $elem){
+      foreach ($elements as $elem) {
          $class = $elem->getAttribute('class');
          if ($class == '') {
             $href = $elem->getAttribute('href');
@@ -48,7 +48,7 @@ foreach ($years as $year) {
             $websiteissue = @file_get_contents('http://www.mikesamazingworld.com' . $href);
             if ($websiteissue == '' || $websiteissue === false) {
                $seriesId = '0';
-            } else {      
+            } else {
                $doc2 = new DOMDocument();
                libxml_use_internal_errors(true);
                $doc2->loadHTML($websiteissue); // or you could load from a string using loadHTML();
@@ -56,13 +56,13 @@ foreach ($years as $year) {
                $xpath2 = new DOMXpath($doc2);
                $elements2 = $xpath2->query("//li[@id='series']//a");
 
-               foreach($elements2 as $elem2){
+               foreach ($elements2 as $elem2) {
                   $href2 = $elem2->getAttribute('href');
                   $hrefArr2 = explode('=', $href2);
                   if (sizeof($hrefArr2) >= 2) $seriesId = $hrefArr2[1];
                }
             }
-      
+
             if (strpos($elem->nodeValue, '#') !== false) {
                list($title, $number) = explode('#', $elem->nodeValue);
                $number = " " . $number;
@@ -81,8 +81,8 @@ foreach ($years as $year) {
       }
 
       if ($monthContents != "") {
-         $yearContents .= '        <Directory Name="' . $project . ' ' . $year . ' ' . str_pad($month, 2, '0', STR_PAD_LEFT) . '">' 
-                          . $monthContents . "\n        </Directory>\n";
+         $yearContents .= '        <Directory Name="' . $project . ' ' . $year . ' ' . str_pad($month, 2, '0', STR_PAD_LEFT) . '">'
+            . $monthContents . "\n        </Directory>\n";
       }
    }
 
@@ -91,4 +91,3 @@ foreach ($years as $year) {
       file_put_contents("xml\weekly" . $dc . $year . ".xml", TOP . '    <Year Name="' . $project . ' ' . $year . "\">\n" . $yearContents . '    </Year>');
    }
 }
-?>

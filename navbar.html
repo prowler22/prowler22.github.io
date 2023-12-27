@@ -1,219 +1,227 @@
 <html>
+
 <head>
-<style>
-body {
-   background-color: #d0d0d0;
-}
-.accordion {
-   background-color: #eee;
-   color: #444;
-   cursor: pointer;
-   padding: 18px;
-   width: 100%;
-   text-align: left;
-   border: none;
-   outline: none;
-   transition: 0.4s;
-}
-.active, .accordion:hover {
-   background-color: grey;
-}
-.panel {
-   padding: 0 18px;
-   background-color:white;
-   display:none;
-   overflow:hidden;
-}
-h1 {
-   padding: 0px;
-}
-</style>
-<script>
-const queryString = window.location.search;
-const urlParams = new URLSearchParams(queryString);
-var dc = (urlParams.get('PUB') == "DC");
-
-function toggleButton(btn) {
-   btn.classList.toggle("active");
-   var panel = btn.nextElementSibling;
-   if (panel.style.display === "block") {
-      panel.style.display = "none";
-   } else {
-      panel.style.display = "block";
-   }
-}
-
-function updateTitles() {
-   if (dc) {
-      document.getElementById('dctitle').style.display = "block";
-      document.getElementById('marveltitle').style.display = "none";
-
-      var buttons = document.getElementsByTagName('button');
-      for (var i = 0; i < buttons.length; i++) {
-         buttons[i].innerText = buttons[i].innerText.replace('Marvel', 'DC');
+   <style>
+      body {
+         background-color: #d0d0d0;
       }
 
-      var links = document.getElementsByTagName('a');
-      for (var i = 0; i < links.length; i++) {
-         links[i].href = links[i].href + "&PUB=DC";
+      .accordion {
+         background-color: #eee;
+         color: #444;
+         cursor: pointer;
+         padding: 18px;
+         width: 100%;
+         text-align: left;
+         border: none;
+         outline: none;
+         transition: 0.4s;
       }
-   } else {
-      document.getElementById('dctitle').style.display = "none";
-      document.getElementById('marveltitle').style.display = "block";
 
-      document.getElementById('1935').style.display = 'none';
-      document.getElementById('1936').style.display = 'none';
-      document.getElementById('1937').style.display = 'none';
-      document.getElementById('1938').style.display = 'none';
-   }
-}
-</script>
+      .active,
+      .accordion:hover {
+         background-color: grey;
+      }
+
+      .panel {
+         padding: 0 18px;
+         background-color: white;
+         display: none;
+         overflow: hidden;
+      }
+
+      h1 {
+         padding: 0px;
+      }
+   </style>
+   <script>
+      const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+      var dc = (urlParams.get('PUB') == "DC");
+
+      function toggleButton(btn) {
+         btn.classList.toggle("active");
+         var panel = btn.nextElementSibling;
+         if (panel.style.display === "block") {
+            panel.style.display = "none";
+         } else {
+            panel.style.display = "block";
+         }
+      }
+
+      function updateTitles() {
+         if (dc) {
+            document.getElementById('dctitle').style.display = "block";
+            document.getElementById('marveltitle').style.display = "none";
+
+            var buttons = document.getElementsByTagName('button');
+            for (var i = 0; i < buttons.length; i++) {
+               buttons[i].innerText = buttons[i].innerText.replace('Marvel', 'DC');
+            }
+
+            var links = document.getElementsByTagName('a');
+            for (var i = 0; i < links.length; i++) {
+               links[i].href = links[i].href + "&PUB=DC";
+            }
+         } else {
+            document.getElementById('dctitle').style.display = "none";
+            document.getElementById('marveltitle').style.display = "block";
+
+            document.getElementById('1935').style.display = 'none';
+            document.getElementById('1936').style.display = 'none';
+            document.getElementById('1937').style.display = 'none';
+            document.getElementById('1938').style.display = 'none';
+         }
+      }
+   </script>
 </head>
+
 <body onload="updateTitles()">
-<!--<h1 id="title">Marvel</h1>-->
-<div style="text-align: center;">
-<img id="marveltitle" style="width:150px; height:110px; display: none;" src="marvellogo.png"/>
-<img id="dctitle" style="width:125px; height:125px; display: none;" src="dclogo.png"/>
-</div>
-<hr>
-<button id="1930s" class="accordion" onclick="toggleButton(this);">Marvel 1930s</button>
-<div class="panel">
-   <p>
-   <div id="1935"><a href="links.html?YEAR=1935" target="fraAppArea">1935</a><br></div>
-   <div id="1936"><a href="links.html?YEAR=1936" target="fraAppArea">1936</a><br></div>
-   <div id="1937"><a href="links.html?YEAR=1937" target="fraAppArea">1937</a><br></div>
-   <div id="1938"><a href="links.html?YEAR=1938" target="fraAppArea">1938</a><br></div>
-   <a href="links.html?YEAR=1939" target="fraAppArea">1939</a><br>
-   </p>
-</div>
-<button id="1940s" class="accordion" onclick="toggleButton(this);">Marvel 1940s</button>
-<div class="panel">
-   <p>
-   <a href="links.html?YEAR=1940" target="fraAppArea">1940</a><br>
-   <a href="links.html?YEAR=1941" target="fraAppArea">1941</a><br>
-   <a href="links.html?YEAR=1942" target="fraAppArea">1942</a><br>
-   <a href="links.html?YEAR=1943" target="fraAppArea">1943</a><br>
-   <a href="links.html?YEAR=1944" target="fraAppArea">1944</a><br>
-   <a href="links.html?YEAR=1945" target="fraAppArea">1945</a><br>
-   <a href="links.html?YEAR=1946" target="fraAppArea">1946</a><br>
-   <a href="links.html?YEAR=1947" target="fraAppArea">1947</a><br>
-   <a href="links.html?YEAR=1948" target="fraAppArea">1948</a><br>
-   <a href="links.html?YEAR=1949" target="fraAppArea">1949</a><br>
-   </p>
-</div>
-<button id="1950s" class="accordion" onclick="toggleButton(this);">Marvel 1950s</button>
-<div class="panel">
-   <p>
-   <a href="links.html?YEAR=1950" target="fraAppArea">1950</a><br>
-   <a href="links.html?YEAR=1951" target="fraAppArea">1951</a><br>
-   <a href="links.html?YEAR=1952" target="fraAppArea">1952</a><br>
-   <a href="links.html?YEAR=1953" target="fraAppArea">1953</a><br>
-   <a href="links.html?YEAR=1954" target="fraAppArea">1954</a><br>
-   <a href="links.html?YEAR=1955" target="fraAppArea">1955</a><br>
-   <a href="links.html?YEAR=1956" target="fraAppArea">1956</a><br>
-   <a href="links.html?YEAR=1957" target="fraAppArea">1957</a><br>
-   <a href="links.html?YEAR=1958" target="fraAppArea">1958</a><br>
-   <a href="links.html?YEAR=1959" target="fraAppArea">1959</a><br>
-   </p>
-</div>
-<button id="1960s" class="accordion" onclick="toggleButton(this);">Marvel 1960s</button>
-<div class="panel">
-   <p>
-   <a href="links.html?YEAR=1960" target="fraAppArea">1960</a><br>
-   <a href="links.html?YEAR=1961" target="fraAppArea">1961</a><br>
-   <a href="links.html?YEAR=1962" target="fraAppArea">1962</a><br>
-   <a href="links.html?YEAR=1963" target="fraAppArea">1963</a><br>
-   <a href="links.html?YEAR=1964" target="fraAppArea">1964</a><br>
-   <a href="links.html?YEAR=1965" target="fraAppArea">1965</a><br>
-   <a href="links.html?YEAR=1966" target="fraAppArea">1966</a><br>
-   <a href="links.html?YEAR=1967" target="fraAppArea">1967</a><br>
-   <a href="links.html?YEAR=1968" target="fraAppArea">1968</a><br>
-   <a href="links.html?YEAR=1969" target="fraAppArea">1969</a><br>
-   </p>
-</div>
-<button id="1970s" class="accordion" onclick="toggleButton(this);">Marvel 1970s</button>
-<div class="panel">
-   <p>
-   <a href="links.html?YEAR=1970" target="fraAppArea">1970</a><br>
-   <a href="links.html?YEAR=1971" target="fraAppArea">1971</a><br>
-   <a href="links.html?YEAR=1972" target="fraAppArea">1972</a><br>
-   <a href="links.html?YEAR=1973" target="fraAppArea">1973</a><br>
-   <a href="links.html?YEAR=1974" target="fraAppArea">1974</a><br>
-   <a href="links.html?YEAR=1975" target="fraAppArea">1975</a><br>
-   <a href="links.html?YEAR=1976" target="fraAppArea">1976</a><br>
-   <a href="links.html?YEAR=1977" target="fraAppArea">1977</a><br>
-   <a href="links.html?YEAR=1978" target="fraAppArea">1978</a><br>
-   <a href="links.html?YEAR=1979" target="fraAppArea">1979</a><br>
-   </p>
-</div>
-<button id="1980s" class="accordion" onclick="toggleButton(this);">Marvel 1980s</button>
-<div class="panel">
-   <p>
-   <a href="links.html?YEAR=1980" target="fraAppArea">1980</a><br>
-   <a href="links.html?YEAR=1981" target="fraAppArea">1981</a><br>
-   <a href="links.html?YEAR=1982" target="fraAppArea">1982</a><br>
-   <a href="links.html?YEAR=1983" target="fraAppArea">1983</a><br>
-   <a href="links.html?YEAR=1984" target="fraAppArea">1984</a><br>
-   <a href="links.html?YEAR=1985" target="fraAppArea">1985</a><br>
-   <a href="links.html?YEAR=1986" target="fraAppArea">1986</a><br>
-   <a href="links.html?YEAR=1987" target="fraAppArea">1987</a><br>
-   <a href="links.html?YEAR=1988" target="fraAppArea">1988</a><br>
-   <a href="links.html?YEAR=1989" target="fraAppArea">1989</a><br>
-   </p>
-</div>
-<button id="1990s" class="accordion" onclick="toggleButton(this);">Marvel 1990s</button>
-<div class="panel">
-   <p>
-   <a href="links.html?YEAR=1990" target="fraAppArea">1990</a><br>
-   <a href="links.html?YEAR=1991" target="fraAppArea">1991</a><br>
-   <a href="links.html?YEAR=1992" target="fraAppArea">1992</a><br>
-   <a href="links.html?YEAR=1993" target="fraAppArea">1993</a><br>
-   <a href="links.html?YEAR=1994" target="fraAppArea">1994</a><br>
-   <a href="links.html?YEAR=1995" target="fraAppArea">1995</a><br>
-   <a href="links.html?YEAR=1996" target="fraAppArea">1996</a><br>
-   <a href="links.html?YEAR=1997" target="fraAppArea">1997</a><br>
-   <a href="links.html?YEAR=1998" target="fraAppArea">1998</a><br>
-   <a href="links.html?YEAR=1999" target="fraAppArea">1999</a><br>
-   </p>
-</div>
-<button id="2000s" class="accordion" onclick="toggleButton(this);">Marvel 2000s</button>
-<div class="panel">
-   <p>
-   <a href="links.html?YEAR=2000" target="fraAppArea">2000</a><br>
-   <a href="links.html?YEAR=2001" target="fraAppArea">2001</a><br>
-   <a href="links.html?YEAR=2002" target="fraAppArea">2002</a><br>
-   <a href="links.html?YEAR=2003" target="fraAppArea">2003</a><br>
-   <a href="links.html?YEAR=2004" target="fraAppArea">2004</a><br>
-   <a href="links.html?YEAR=2005" target="fraAppArea">2005</a><br>
-   <a href="links.html?YEAR=2006" target="fraAppArea">2006</a><br>
-   <a href="links.html?YEAR=2007" target="fraAppArea">2007</a><br>
-   <a href="links.html?YEAR=2008" target="fraAppArea">2008</a><br>
-   <a href="links.html?YEAR=2009" target="fraAppArea">2009</a><br>
-   </p>
-</div>
-<button id="2010s" class="accordion" onclick="toggleButton(this);">Marvel 2010s</button>
-<div class="panel">
-   <p>
-   <a href="links.html?YEAR=2010" target="fraAppArea">2010</a><br>
-   <a href="links.html?YEAR=2011" target="fraAppArea">2011</a><br>
-   <a href="links.html?YEAR=2012" target="fraAppArea">2012</a><br>
-   <a href="links.html?YEAR=2013" target="fraAppArea">2013</a><br>
-   <a href="links.html?YEAR=2014" target="fraAppArea">2014</a><br>
-   <a href="links.html?YEAR=2015" target="fraAppArea">2015</a><br>
-   <a href="links.html?YEAR=2016" target="fraAppArea">2016</a><br>
-   <a href="links.html?YEAR=2017" target="fraAppArea">2017</a><br>
-   <a href="links.html?YEAR=2018" target="fraAppArea">2018</a><br>
-   <a href="links.html?YEAR=2019" target="fraAppArea">2019</a><br>
-   </p>
-</div>
-<button id="2020s" class="accordion" onclick="toggleButton(this);">Marvel 2020s</button>
-<div class="panel">
-   <p>
-   <a href="links.html?YEAR=2020" target="fraAppArea">2020</a><br>
-   <a href="links.html?YEAR=2021" target="fraAppArea">2021</a><br>
-   <a href="links.html?YEAR=2022" target="fraAppArea">2022</a><br>
-   <a href="links.html?YEAR=2023" target="fraAppArea">2023</a><br>
-   </p>
-</div>
+   <!--<h1 id="title">Marvel</h1>-->
+   <div style="text-align: center;">
+      <img id="marveltitle" style="width:150px; height:110px; display: none;" src="marvellogo.png" />
+      <img id="dctitle" style="width:125px; height:125px; display: none;" src="dclogo.png" />
+   </div>
+   <hr>
+   <button id="1930s" class="accordion" onclick="toggleButton(this);">Marvel 1930s</button>
+   <div class="panel">
+      <p>
+      <div id="1935"><a href="links.html?YEAR=1935" target="fraAppArea">1935</a><br></div>
+      <div id="1936"><a href="links.html?YEAR=1936" target="fraAppArea">1936</a><br></div>
+      <div id="1937"><a href="links.html?YEAR=1937" target="fraAppArea">1937</a><br></div>
+      <div id="1938"><a href="links.html?YEAR=1938" target="fraAppArea">1938</a><br></div>
+      <a href="links.html?YEAR=1939" target="fraAppArea">1939</a><br>
+      </p>
+   </div>
+   <button id="1940s" class="accordion" onclick="toggleButton(this);">Marvel 1940s</button>
+   <div class="panel">
+      <p>
+         <a href="links.html?YEAR=1940" target="fraAppArea">1940</a><br>
+         <a href="links.html?YEAR=1941" target="fraAppArea">1941</a><br>
+         <a href="links.html?YEAR=1942" target="fraAppArea">1942</a><br>
+         <a href="links.html?YEAR=1943" target="fraAppArea">1943</a><br>
+         <a href="links.html?YEAR=1944" target="fraAppArea">1944</a><br>
+         <a href="links.html?YEAR=1945" target="fraAppArea">1945</a><br>
+         <a href="links.html?YEAR=1946" target="fraAppArea">1946</a><br>
+         <a href="links.html?YEAR=1947" target="fraAppArea">1947</a><br>
+         <a href="links.html?YEAR=1948" target="fraAppArea">1948</a><br>
+         <a href="links.html?YEAR=1949" target="fraAppArea">1949</a><br>
+      </p>
+   </div>
+   <button id="1950s" class="accordion" onclick="toggleButton(this);">Marvel 1950s</button>
+   <div class="panel">
+      <p>
+         <a href="links.html?YEAR=1950" target="fraAppArea">1950</a><br>
+         <a href="links.html?YEAR=1951" target="fraAppArea">1951</a><br>
+         <a href="links.html?YEAR=1952" target="fraAppArea">1952</a><br>
+         <a href="links.html?YEAR=1953" target="fraAppArea">1953</a><br>
+         <a href="links.html?YEAR=1954" target="fraAppArea">1954</a><br>
+         <a href="links.html?YEAR=1955" target="fraAppArea">1955</a><br>
+         <a href="links.html?YEAR=1956" target="fraAppArea">1956</a><br>
+         <a href="links.html?YEAR=1957" target="fraAppArea">1957</a><br>
+         <a href="links.html?YEAR=1958" target="fraAppArea">1958</a><br>
+         <a href="links.html?YEAR=1959" target="fraAppArea">1959</a><br>
+      </p>
+   </div>
+   <button id="1960s" class="accordion" onclick="toggleButton(this);">Marvel 1960s</button>
+   <div class="panel">
+      <p>
+         <a href="links.html?YEAR=1960" target="fraAppArea">1960</a><br>
+         <a href="links.html?YEAR=1961" target="fraAppArea">1961</a><br>
+         <a href="links.html?YEAR=1962" target="fraAppArea">1962</a><br>
+         <a href="links.html?YEAR=1963" target="fraAppArea">1963</a><br>
+         <a href="links.html?YEAR=1964" target="fraAppArea">1964</a><br>
+         <a href="links.html?YEAR=1965" target="fraAppArea">1965</a><br>
+         <a href="links.html?YEAR=1966" target="fraAppArea">1966</a><br>
+         <a href="links.html?YEAR=1967" target="fraAppArea">1967</a><br>
+         <a href="links.html?YEAR=1968" target="fraAppArea">1968</a><br>
+         <a href="links.html?YEAR=1969" target="fraAppArea">1969</a><br>
+      </p>
+   </div>
+   <button id="1970s" class="accordion" onclick="toggleButton(this);">Marvel 1970s</button>
+   <div class="panel">
+      <p>
+         <a href="links.html?YEAR=1970" target="fraAppArea">1970</a><br>
+         <a href="links.html?YEAR=1971" target="fraAppArea">1971</a><br>
+         <a href="links.html?YEAR=1972" target="fraAppArea">1972</a><br>
+         <a href="links.html?YEAR=1973" target="fraAppArea">1973</a><br>
+         <a href="links.html?YEAR=1974" target="fraAppArea">1974</a><br>
+         <a href="links.html?YEAR=1975" target="fraAppArea">1975</a><br>
+         <a href="links.html?YEAR=1976" target="fraAppArea">1976</a><br>
+         <a href="links.html?YEAR=1977" target="fraAppArea">1977</a><br>
+         <a href="links.html?YEAR=1978" target="fraAppArea">1978</a><br>
+         <a href="links.html?YEAR=1979" target="fraAppArea">1979</a><br>
+      </p>
+   </div>
+   <button id="1980s" class="accordion" onclick="toggleButton(this);">Marvel 1980s</button>
+   <div class="panel">
+      <p>
+         <a href="links.html?YEAR=1980" target="fraAppArea">1980</a><br>
+         <a href="links.html?YEAR=1981" target="fraAppArea">1981</a><br>
+         <a href="links.html?YEAR=1982" target="fraAppArea">1982</a><br>
+         <a href="links.html?YEAR=1983" target="fraAppArea">1983</a><br>
+         <a href="links.html?YEAR=1984" target="fraAppArea">1984</a><br>
+         <a href="links.html?YEAR=1985" target="fraAppArea">1985</a><br>
+         <a href="links.html?YEAR=1986" target="fraAppArea">1986</a><br>
+         <a href="links.html?YEAR=1987" target="fraAppArea">1987</a><br>
+         <a href="links.html?YEAR=1988" target="fraAppArea">1988</a><br>
+         <a href="links.html?YEAR=1989" target="fraAppArea">1989</a><br>
+      </p>
+   </div>
+   <button id="1990s" class="accordion" onclick="toggleButton(this);">Marvel 1990s</button>
+   <div class="panel">
+      <p>
+         <a href="links.html?YEAR=1990" target="fraAppArea">1990</a><br>
+         <a href="links.html?YEAR=1991" target="fraAppArea">1991</a><br>
+         <a href="links.html?YEAR=1992" target="fraAppArea">1992</a><br>
+         <a href="links.html?YEAR=1993" target="fraAppArea">1993</a><br>
+         <a href="links.html?YEAR=1994" target="fraAppArea">1994</a><br>
+         <a href="links.html?YEAR=1995" target="fraAppArea">1995</a><br>
+         <a href="links.html?YEAR=1996" target="fraAppArea">1996</a><br>
+         <a href="links.html?YEAR=1997" target="fraAppArea">1997</a><br>
+         <a href="links.html?YEAR=1998" target="fraAppArea">1998</a><br>
+         <a href="links.html?YEAR=1999" target="fraAppArea">1999</a><br>
+      </p>
+   </div>
+   <button id="2000s" class="accordion" onclick="toggleButton(this);">Marvel 2000s</button>
+   <div class="panel">
+      <p>
+         <a href="links.html?YEAR=2000" target="fraAppArea">2000</a><br>
+         <a href="links.html?YEAR=2001" target="fraAppArea">2001</a><br>
+         <a href="links.html?YEAR=2002" target="fraAppArea">2002</a><br>
+         <a href="links.html?YEAR=2003" target="fraAppArea">2003</a><br>
+         <a href="links.html?YEAR=2004" target="fraAppArea">2004</a><br>
+         <a href="links.html?YEAR=2005" target="fraAppArea">2005</a><br>
+         <a href="links.html?YEAR=2006" target="fraAppArea">2006</a><br>
+         <a href="links.html?YEAR=2007" target="fraAppArea">2007</a><br>
+         <a href="links.html?YEAR=2008" target="fraAppArea">2008</a><br>
+         <a href="links.html?YEAR=2009" target="fraAppArea">2009</a><br>
+      </p>
+   </div>
+   <button id="2010s" class="accordion" onclick="toggleButton(this);">Marvel 2010s</button>
+   <div class="panel">
+      <p>
+         <a href="links.html?YEAR=2010" target="fraAppArea">2010</a><br>
+         <a href="links.html?YEAR=2011" target="fraAppArea">2011</a><br>
+         <a href="links.html?YEAR=2012" target="fraAppArea">2012</a><br>
+         <a href="links.html?YEAR=2013" target="fraAppArea">2013</a><br>
+         <a href="links.html?YEAR=2014" target="fraAppArea">2014</a><br>
+         <a href="links.html?YEAR=2015" target="fraAppArea">2015</a><br>
+         <a href="links.html?YEAR=2016" target="fraAppArea">2016</a><br>
+         <a href="links.html?YEAR=2017" target="fraAppArea">2017</a><br>
+         <a href="links.html?YEAR=2018" target="fraAppArea">2018</a><br>
+         <a href="links.html?YEAR=2019" target="fraAppArea">2019</a><br>
+      </p>
+   </div>
+   <button id="2020s" class="accordion" onclick="toggleButton(this);">Marvel 2020s</button>
+   <div class="panel">
+      <p>
+         <a href="links.html?YEAR=2020" target="fraAppArea">2020</a><br>
+         <a href="linksw.html?YEAR=2021" target="fraAppArea">2021</a><br>
+         <a href="linksw.html?YEAR=2022" target="fraAppArea">2022</a><br>
+         <a href="linksw.html?YEAR=2023" target="fraAppArea">2023</a><br>
+      </p>
+   </div>
 </body>
+
 </html>
