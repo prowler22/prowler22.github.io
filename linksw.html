@@ -146,8 +146,9 @@
 
             if (window.parent.isAuthenticated()) {
                 readFile();
+            } else {
+                document.getElementById('saveProgress').style.display = 'none';
             }
-            document.getElementById('saveProgress').style.display = 'none';
             showData();
 
             resizeDiv();
