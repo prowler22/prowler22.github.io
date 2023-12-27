@@ -94,7 +94,7 @@
                             var files = months[j].getElementsByTagName("File");
 
                             for (k = 0; k < files.length; k++) {
-                                var div = document.createElement('div');
+                                var div = document.createElement('span');
                                 var name = files[k].getAttribute('Name').replace(/\s/g, '+').toLowerCase();
                                 name = name.replace(/\+vol\+[0-9]+/, '');
 
