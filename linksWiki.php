@@ -161,7 +161,7 @@ function get_comic_links($year, $month, $day, $pub, &$titles, &$hrefs)
       $readLink = $xpath->query(".//a", $elem);
       if ($readLink[1]) {
          $href = $readLink[1]->getAttribute('href');
-         $titles[] = trim($title);
+         $titles[] = trim(str_replace('&', '&amp;', str_replace("–", "-", $title)));
          $hrefs[] = str_replace('%URL%', $href, COMICURL);
       } else {
          $titles[] = $title;
