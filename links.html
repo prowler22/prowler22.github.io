@@ -1,258 +1,287 @@
 <html>
+
 <head>
-<style>
-.accordion {
-   background-color: #eee;
-   color: #444;
-   padding: 10px;
-   width: 75%;
-   text-align: left;
-   border: none;
-   outline: none;
-}
-body {
-   background-color: #d0d0d0;
-}
-</style>
-<script>
-const queryString = window.location.search;
-const urlParams = new URLSearchParams(queryString);
-const year = urlParams.get('YEAR');
-var dc = (urlParams.get('PUB') == "DC") ? "dc" : "";
-var progressBtnText = (urlParams.get('PUB') == "DC") ? "DC " : "Marvel ";
-
-function readFile() {
-   window.parent.readFile(dc + year + ".txt");
-}
-
-function loadFile(fileContents) {
-   var fileContentsArr = fileContents.split(',');
-   for (var i = 0; i < fileContentsArr.length; i++) {
-      var checkbox = document.getElementById(fileContentsArr[i]);
-      if (checkbox) {
-         checkbox.checked = true;
+   <style>
+      .accordion {
+         background-color: #eee;
+         color: #444;
+         padding: 10px;
+         width: 75%;
+         text-align: left;
+         border: none;
+         outline: none;
       }
-   }
 
-   showData();
-}
-
-function showData() {
-   document.getElementById("ShowMe").style.display = "block";
-   document.getElementById("HideMe").style.display = "none";
-}
-
-function writeFile() {
-   var filename = dc + year + ".txt";
-
-   var fileContents = "";
-   var sep = "";
-   var inputs = document.getElementsByTagName("input");
-   for (var i = 0; i < inputs.length; i++) {
-      if(inputs[i].type == "checkbox" && inputs[i].checked) {
-         fileContents += sep + inputs[i].id;
-         sep = ",";
+      body {
+         background-color: #d0d0d0;
       }
-   }
+   </style>
+   <script>
+      const queryString = window.location.search;
+      const urlParams = new URLSearchParams(queryString);
+      const year = urlParams.get('YEAR');
+      var dc = (urlParams.get('PUB') == "DC") ? "dc" : "";
+      var progressBtnText = (urlParams.get('PUB') == "DC") ? "DC " : "Marvel ";
 
-   if (fileContents.length > 0) {
-      window.parent.writeFile(filename, fileContents);
-   } else {
-      alert('No Progress to save!');
-   }
-}
-
-function readCMCFile() {
-   document.getElementById('year').innerText = year;
-   document.getElementById("saveProgress").innerText = "Save " + progressBtnText + year + "'s Progress";
-
-   var xmlDoc;
-
-   if (typeof window.DOMParser != "undefined") {
-      xmlhttp = new XMLHttpRequest();
-      xmlhttp.open("GET", "xml/weekly" + dc + year + ".xml", false);
-      if (xmlhttp.overrideMimeType) {
-         xmlhttp.overrideMimeType('text/xml');
+      function readFile() {
+         window.parent.readFile(dc + year + ".txt");
       }
-      xmlhttp.send();
-      xmlDoc = xmlhttp.responseXML;
 
-      var xmlYear = xmlDoc.getElementsByTagName("Year");
-      for (var i = 0; i < xmlYear.length; i++) {
-         if (xmlYear[i].getAttribute('Name') == "CMC " + year || xmlYear[i].getAttribute('Name') == "CDCC " + year) {
-            var months = xmlYear[i].getElementsByTagName("Directory");
-            for (var j = 0; j < months.length; j++) {
-               var monthName = months[j].getAttribute('Name');
-               var divId = monthName.split(" ")[2];
-               var currentDiv = document.getElementById(divId);
-               currentDiv.style.display = 'block';
+      function loadFile(fileContents) {
+         var fileContentsArr = fileContents.split(',');
+         for (var i = 0; i < fileContentsArr.length; i++) {
+            var checkbox = document.getElementById(fileContentsArr[i]);
+            if (checkbox) {
+               checkbox.checked = true;
+            }
+         }
 
-               var files = months[j].getElementsByTagName("File");
+         showData();
+      }
 
-               for (k = 0; k < files.length; k++) {
-                  var link = document.createElement('a');
-                  var linkText = document.createTextNode(files[k].getAttribute('Name'));
-                  link.appendChild(linkText);
-                  link.title = files[k].getAttribute('Name');
-                  var name = files[k].getAttribute('Name').replace(/\s/g, '+').toLowerCase();
-                  name = name.replace(/\+vol\+[0-9]+/, '');
-                  var id = files[k].getAttribute('ID');
-                  var seriesid = files[k].getAttribute('SERIESID');
-                  const myArray = name.split("+");
-                  var issueno = myArray[myArray.length - 1];
-                  //link.href = "http://libgen.lc/comics/index.php?s=" + name + "+" + year + "&res=25&sorted=0&mask=0&show=0";
-				      //link.href = "http://libgen.li/index.php?req=" + name + "+" + year + "&res=25&filesuns=on";
-                  link.href = "https://comic-reader.000webhostapp.com/readerCES.php?ID=" + id + "&YEAR=" + year + "&SERIESID=" + seriesid + "&ISSUENO=" + issueno;
-                  link.onclick = function(e){ 
-                     e.preventDefault(); 
-                     var url = this.getAttribute('href'); 
-                     window.open(url, '_blank');
-                  };
+      function showData() {
+         document.getElementById("ShowMe").style.display = "block";
+         document.getElementById("HideMe").style.display = "none";
+      }
 
-                  if (window.parent.isAuthenticated()) {
-                     var checkbox = document.createElement("INPUT");
-                     checkbox.setAttribute("type", "checkbox");
-                     checkbox.id = name;
-                     currentDiv.appendChild(checkbox);
+      function writeFile() {
+         var filename = dc + year + ".txt";
+
+         var fileContents = "";
+         var sep = "";
+         var inputs = document.getElementsByTagName("input");
+         for (var i = 0; i < inputs.length; i++) {
+            if (inputs[i].type == "checkbox" && inputs[i].checked) {
+               fileContents += sep + inputs[i].id;
+               sep = ",";
+            }
+         }
+
+         if (fileContents.length > 0) {
+            window.parent.writeFile(filename, fileContents);
+         } else {
+            alert('No Progress to save!');
+         }
+      }
+
+      function readCMCFile() {
+         document.getElementById('year').innerText = year;
+         document.getElementById("saveProgress").innerText = "Save " + progressBtnText + year + "'s Progress";
+
+         var xmlDoc;
+
+         if (typeof window.DOMParser != "undefined") {
+            xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("GET", "xml/weekly" + dc + year + ".xml", false);
+            if (xmlhttp.overrideMimeType) {
+               xmlhttp.overrideMimeType('text/xml');
+            }
+            xmlhttp.send();
+            xmlDoc = xmlhttp.responseXML;
+
+            var xmlYear = xmlDoc.getElementsByTagName("Year");
+            for (var i = 0; i < xmlYear.length; i++) {
+               if (xmlYear[i].getAttribute('Name') == "CMC " + year || xmlYear[i].getAttribute('Name') == "CDCC " + year) {
+                  var months = xmlYear[i].getElementsByTagName("Directory");
+                  for (var j = 0; j < months.length; j++) {
+                     var monthName = months[j].getAttribute('Name');
+                     var divId = monthName.split(" ")[2];
+                     var currentDiv = document.getElementById(divId);
+                     currentDiv.style.display = 'block';
+
+                     var files = months[j].getElementsByTagName("File");
+
+                     for (k = 0; k < files.length; k++) {
+                        var link = document.createElement('a');
+                        var linkText = document.createTextNode(files[k].getAttribute('Name'));
+                        link.appendChild(linkText);
+                        link.title = files[k].getAttribute('Name');
+                        var name = files[k].getAttribute('Name').replace(/\s/g, '+').toLowerCase();
+                        name = name.replace(/\+vol\+[0-9]+/, '');
+                        var id = files[k].getAttribute('ID');
+                        var seriesid = files[k].getAttribute('SERIESID');
+                        const myArray = name.split("+");
+                        var issueno = myArray[myArray.length - 1];
+                        //link.href = "http://libgen.lc/comics/index.php?s=" + name + "+" + year + "&res=25&sorted=0&mask=0&show=0";
+                        //link.href = "http://libgen.li/index.php?req=" + name + "+" + year + "&res=25&filesuns=on";
+                        link.href = "https://comic-reader.000webhostapp.com/readerCES.php?ID=" + id + "&YEAR=" + year + "&SERIESID=" + seriesid + "&ISSUENO=" + issueno;
+                        link.onclick = function (e) {
+                           e.preventDefault();
+                           var url = this.getAttribute('href');
+                           window.open(url, '_blank');
+                        };
+
+                        if (window.parent.isAuthenticated()) {
+                           var checkbox = document.createElement("INPUT");
+                           checkbox.setAttribute("type", "checkbox");
+                           checkbox.id = name;
+                           currentDiv.appendChild(checkbox);
+                        }
+
+                        currentDiv.appendChild(link);
+                        currentDiv.appendChild(document.createElement('br'));
+                     }
                   }
-
-                  currentDiv.appendChild(link);
-                  currentDiv.appendChild(document.createElement('br'));
                }
             }
          }
+
+         if (window.parent.isAuthenticated()) {
+            readFile();
+         } else {
+            document.getElementById('saveProgress').style.display = 'none';
+         }
+         showData();
+         resizeDiv();
       }
-   }
 
-   if (window.parent.isAuthenticated()) {
-      readFile();
-   } else {
-      document.getElementById('saveProgress').style.display = 'none';
-      showData();
-   }
-
-   resizeDiv();
-}
-
-/*function oldreadCMCFile() {
-   const queryString = window.location.search;
-   const urlParams = new URLSearchParams(queryString);
-   const year = urlParams.get('YEAR');
-   
-   document.getElementById('year').innerText = year;
-   var xmlDoc;
-
-   if (typeof window.DOMParser != "undefined") {
-      xmlhttp = new XMLHttpRequest();
-      xmlhttp.open("GET", "cmc" + year + ".xml", false);
-      if (xmlhttp.overrideMimeType) {
-         xmlhttp.overrideMimeType('text/xml');
-      }
-      xmlhttp.send();
-      xmlDoc = xmlhttp.responseXML;
-
-      var xmlYear = xmlDoc.getElementsByTagName("Year");
-      for (var i = 0; i < xmlYear.length; i++) {
-         if (xmlYear[i].getAttribute('Name') == "CMC " + year) {
-            var months = xmlYear[i].getElementsByTagName("Directory");
-            for (var j = 0; j < months.length; j++) {
-               var monthName = months[j].getAttribute('Name');
-               var divId = monthName.split(" ")[2];
-               var currentDiv = document.getElementById(divId);
-               currentDiv.style.display = 'block';
-
-               var files = months[j].getElementsByTagName("File");
-
-               for (k = 0; k < files.length; k++) {
-                  var link = document.createElement('a');
-                  var linkText = document.createTextNode(files[k].getAttribute('Name'));
-                  link.appendChild(linkText);
-                  link.title = files[k].getAttribute('Name');
-                  var name = files[k].getAttribute('Name').replace(/\s/g, '+')
-                  link.href = "http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH');
-                  //link.addEventListener('click', function () {
-                  //   openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'));
-                  //});
-                  link.onclick = function(e){ 
-                     e.preventDefault(); 
-                     var url = this.getAttribute('href'); 
-                     window.open(url, '_blank');
-                  };
-                  currentDiv.appendChild(link);
-                  currentDiv.appendChild(document.createElement('br'));
+      /*function oldreadCMCFile() {
+         const queryString = window.location.search;
+         const urlParams = new URLSearchParams(queryString);
+         const year = urlParams.get('YEAR');
+         
+         document.getElementById('year').innerText = year;
+         var xmlDoc;
+      
+         if (typeof window.DOMParser != "undefined") {
+            xmlhttp = new XMLHttpRequest();
+            xmlhttp.open("GET", "cmc" + year + ".xml", false);
+            if (xmlhttp.overrideMimeType) {
+               xmlhttp.overrideMimeType('text/xml');
+            }
+            xmlhttp.send();
+            xmlDoc = xmlhttp.responseXML;
+      
+            var xmlYear = xmlDoc.getElementsByTagName("Year");
+            for (var i = 0; i < xmlYear.length; i++) {
+               if (xmlYear[i].getAttribute('Name') == "CMC " + year) {
+                  var months = xmlYear[i].getElementsByTagName("Directory");
+                  for (var j = 0; j < months.length; j++) {
+                     var monthName = months[j].getAttribute('Name');
+                     var divId = monthName.split(" ")[2];
+                     var currentDiv = document.getElementById(divId);
+                     currentDiv.style.display = 'block';
+      
+                     var files = months[j].getElementsByTagName("File");
+      
+                     for (k = 0; k < files.length; k++) {
+                        var link = document.createElement('a');
+                        var linkText = document.createTextNode(files[k].getAttribute('Name'));
+                        link.appendChild(linkText);
+                        link.title = files[k].getAttribute('Name');
+                        var name = files[k].getAttribute('Name').replace(/\s/g, '+')
+                        link.href = "http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH');
+                        //link.addEventListener('click', function () {
+                        //   openInNewTab("http://libgen.lc/comics/seriestable.php?tth=" + files[k].getAttribute('TTH'));
+                        //});
+                        link.onclick = function(e){ 
+                           e.preventDefault(); 
+                           var url = this.getAttribute('href'); 
+                           window.open(url, '_blank');
+                        };
+                        currentDiv.appendChild(link);
+                        currentDiv.appendChild(document.createElement('br'));
+                     }
+                  }
                }
             }
          }
+      }*/
+
+      function openInNewTab(url) {
+         const win = window.open(url, '_blank');
+         win.focus();
       }
-   }
-}*/
 
-function openInNewTab(url) {
-  const win = window.open(url, '_blank');
-  win.focus();
-}
+      function resizeDiv() {
+         var body = document.body,
+            html = document.documentElement;
 
-function resizeDiv() {
-   var body = document.body,
-       html = document.documentElement;
+         document.getElementById("dataDiv").style.height = "0px";
 
-   document.getElementById("dataDiv").style.height = "0px";
+         var height = Math.max(body.offsetHeight,
+            html.clientHeight, html.offsetHeight);
 
-   var height = Math.max( body.offsetHeight, 
-                html.clientHeight, html.offsetHeight );
+         var newHeight = height - 61;
+         document.getElementById("dataDiv").style.height = newHeight + "px";
 
-   var newHeight = height - 61;
-   document.getElementById("dataDiv").style.height = newHeight + "px";
+         var width = Math.max(body.offsetWidth,
+            html.clientWidth, html.offsetWidth);
 
-   var width = Math.max( body.offsetWidth, 
-               html.clientWidth, html.offsetWidth );
+         var newWidth = html.clientWidth - 10;
+         document.getElementById("dataDiv").style.width = newWidth + "px";
+      }
 
-   var newWidth = html.clientWidth - 10;
-   document.getElementById("dataDiv").style.width = newWidth + "px";
-}
-
-</script>
+   </script>
 </head>
+
 <body onload="readCMCFile()" onresize="resizeDiv()">
-<div id="ShowMe" style="display:none">
-   <div style="position:relative;width:100%;height:45px">
-      <table style="width:100%">
-        <tr>
-         <td style="width:50%">
-           <h1 id="year"></h1>
-         </td>
-         <td style="width:50%;text-align:right;vertical-align:top;">
-           <button id="saveProgress" onclick="writeFile()">Save Progress</button>
-         </td>
-       </tr>
-      </table>
+   <div id="ShowMe" style="display:none">
+      <div style="position:relative;width:100%;height:45px">
+         <table style="width:100%">
+            <tr>
+               <td style="width:50%">
+                  <h1 id="year"></h1>
+               </td>
+               <td style="width:50%;text-align:right;vertical-align:top;">
+                  <button id="saveProgress" onclick="writeFile()">Save Progress</button>
+               </td>
+            </tr>
+         </table>
+      </div>
+      <div id="dataDiv" style="border:0px;width:100%;height:400px;overflow-y:scroll;position:relative;">
+         <div id="00" style="display:none">
+            <div class="accordion"></div>
+         </div>
+         <div id="01" style="display:none">
+            <div class="accordion">January</div>
+         </div>
+         <div id="02" style="display:none">
+            <div class="accordion">February</div>
+         </div>
+         <div id="03" style="display:none">
+            <div class="accordion">March</div>
+         </div>
+         <div id="04" style="display:none">
+            <div class="accordion">April</div>
+         </div>
+         <div id="05" style="display:none">
+            <div class="accordion">May</div>
+         </div>
+         <div id="06" style="display:none">
+            <div class="accordion">June</div>
+         </div>
+         <div id="07" style="display:none">
+            <div class="accordion">July</div>
+         </div>
+         <div id="08" style="display:none">
+            <div class="accordion">August</div>
+         </div>
+         <div id="09" style="display:none">
+            <div class="accordion">September</div>
+         </div>
+         <div id="10" style="display:none">
+            <div class="accordion">October</div>
+         </div>
+         <div id="11" style="display:none">
+            <div class="accordion">November</div>
+         </div>
+         <div id="12" style="display:none">
+            <div class="accordion">December</div>
+         </div>
+      </div>
    </div>
-   <div id="dataDiv" style="border:0px;width:100%;height:400px;overflow-y:scroll;position:relative;">
-      <div id="00" style="display:none"><div class="accordion"></div></div>
-      <div id="01" style="display:none"><div class="accordion">January</div></div>
-      <div id="02" style="display:none"><div class="accordion">February</div></div>
-      <div id="03" style="display:none"><div class="accordion">March</div></div>
-      <div id="04" style="display:none"><div class="accordion">April</div></div>
-      <div id="05" style="display:none"><div class="accordion">May</div></div>
-      <div id="06" style="display:none"><div class="accordion">June</div></div>
-      <div id="07" style="display:none"><div class="accordion">July</div></div>
-      <div id="08" style="display:none"><div class="accordion">August</div></div>
-      <div id="09" style="display:none"><div class="accordion">September</div></div>
-      <div id="10" style="display:none"><div class="accordion">October</div></div>
-      <div id="11" style="display:none"><div class="accordion">November</div></div>
-      <div id="12" style="display:none"><div class="accordion">December</div></div>
+   <div id="HideMe">
+      <div style="position:relative;width:100%;">
+         <table style="width:100%">
+            <tr>
+               <td>
+                  <h1>Loading...</h1>
+               </td>
+            </tr>
+         </table>
+      </div>
    </div>
-</div>
-<div id="HideMe">
-<div style="position:relative;width:100%;">
-   <table style="width:100%">
-      <tr>
-        <td>
-          <h1>Loading...</h1>
-       </td>
-     </tr>
-   </table>
-</div>
-</div>
 </body>
+
 </html>
