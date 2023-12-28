@@ -93,6 +93,7 @@
 
                             var newTable = document.createElement('table');
                             currentTable.appendChild(newTable);
+                            newTable.border = 1;
                             var files = months[j].getElementsByTagName("File");
                             var links = months[j].getElementsByTagName("Link");
                             var maxSize = links.length > files.length ? links.length : files.length;
