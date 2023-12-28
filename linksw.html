@@ -93,52 +93,52 @@
 
                             var newTable = document.createElement('table');
                             currentTable.appendChild(newTable);
-                            var newRow = document.createElement('tr');
-                            newTable.appendChild(newRow);
-                            var currentLeft = document.createElement('td');
-                            newRow.appendChild(currentLeft);
-                            var currentRight = document.createElement('td');
-                            newRow.appendChild(currentRight);
                             var files = months[j].getElementsByTagName("File");
+                            var links = months[j].getElementsByTagName("Link");
+                            var maxSize = links.length > files.length ? links.length : files.length;
 
-                            for (k = 0; k < files.length; k++) {
-                                var div = document.createElement('span');
-                                var name = files[k].getAttribute('Name').replace(/\s/g, '+').toLowerCase();
-                                name = name.replace(/\+vol\+[0-9]+/, '');
+                            for (k = 0; k < maxSize; k++) {
+                                var newRow = document.createElement('tr');
+                                newTable.appendChild(newRow);
+                                var currentLeft = document.createElement('td');
+                                newRow.appendChild(currentLeft);
+                                var currentRight = document.createElement('td');
+                                newRow.appendChild(currentRight);
+                                if (k < files.length) {
+                                    var div = document.createElement('span');
+                                    var name = files[k].getAttribute('Name').replace(/\s/g, '+').toLowerCase();
+                                    name = name.replace(/\+vol\+[0-9]+/, '');
 
-                                var divText = document.createTextNode(files[k].getAttribute('Name'));
-                                div.appendChild(divText);
+                                    var divText = document.createTextNode(files[k].getAttribute('Name'));
+                                    div.appendChild(divText);
 
-                                if (window.parent.isAuthenticated()) {
-                                    var checkbox = document.createElement("INPUT");
-                                    checkbox.setAttribute("type", "checkbox");
-                                    checkbox.id = name;
-                                    currentLeft.appendChild(checkbox);
+                                    if (window.parent.isAuthenticated()) {
+                                        var checkbox = document.createElement("INPUT");
+                                        checkbox.setAttribute("type", "checkbox");
+                                        checkbox.id = name;
+                                        currentLeft.appendChild(checkbox);
+                                    }
+
+                                    currentLeft.appendChild(div);
+                                    currentLeft.appendChild(document.createElement('br'));
                                 }
 
-                                currentLeft.appendChild(div);
-                                currentLeft.appendChild(document.createElement('br'));
+                                if (k < links.length) {
+                                    var link = document.createElement('a');
+                                    var linkText = document.createTextNode(links[k].getAttribute('Name'));
+                                    link.appendChild(linkText);
+                                    link.title = links[k].getAttribute('Name');
+                                    link.href = links[k].getAttribute('Href');
+                                    link.onclick = function (e) {
+                                        e.preventDefault();
+                                        var url = this.getAttribute('href');
+                                        window.open(url, '_blank');
+                                    };
+
+                                    currentRight.appendChild(link);
+                                    currentRight.appendChild(document.createElement('br'));
+                                }
                             }
-
-                            var links = months[j].getElementsByTagName("Link");
-                            for (k = 0; k < links.length; k++) {
-                                var link = document.createElement('a');
-                                var linkText = document.createTextNode(links[k].getAttribute('Name'));
-                                link.appendChild(linkText);
-                                link.title = links[k].getAttribute('Name');
-                                link.href = links[k].getAttribute('Href');
-                                link.onclick = function (e) {
-                                    e.preventDefault();
-                                    var url = this.getAttribute('href');
-                                    window.open(url, '_blank');
-                                };
-
-                                currentRight.appendChild(link);
-                                currentRight.appendChild(document.createElement('br'));
-                            }
-
-                            currentLeft.appendChild(document.createElement('h4'));
-                            currentRight.appendChild(document.createElement('h4'));
                         }
                     }
                 }
