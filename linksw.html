@@ -149,11 +149,42 @@
             } else {
                 document.getElementById('saveProgress').style.display = 'none';
             }
+            sortTable();
             showData();
-
             resizeDiv();
         }
-
+        function sortTable() {
+            var elms = document.querySelectorAll("[id='01leftside']");
+            for (var i = 0; i < elms.length; i++) {
+                var childTables = elms[i].getElementsByTagName('table');
+                for (var j = 0; j < childTables.length; j++) {
+                    var childRows = childTables[j].getElementsByTagName('tr');
+                    for (var k = 0; k < childRows.length; k++) {
+                        var leftValue = childRows[k].children[0].innerText;
+                        leftValue = leftValue.replace(":", "");
+                        leftValue = leftValue.replace("#", "");
+                        leftValue = leftValue.replace(" -", "");
+                        leftValue = leftValue.replace(",", "");
+                        leftValue = (leftValue.substring(0, 3) == "The") ? leftValue.substring(3) : leftValue;
+                        for (var l = 0; l < childRows.length; l++) {
+                            var rightValue = childRows[l].children[1].innerText;
+                            rightValue = rightValue.replace(":", "");
+                            rightValue = rightValue.replace("#", "");
+                            rightValue = rightValue.replace(" -", "");
+                            rightValue = rightValue.replace(",", "");
+                            rightValue = (rightValue.substring(0, 3) == "The") ? rightValue.substring(3) : rightValue;
+                            if (leftValue.toLowerCase().trim() == rightValue.toLowerCase().trim()) {
+                                if (k != l) {
+                                    var tempText = childRows[k].children[1].innerHTML;
+                                    childRows[k].children[1].innerHTML = childRows[l].children[1].innerHTML;
+                                    childRows[l].children[1].innerHTML = tempText;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
         function openInNewTab(url) {
             const win = window.open(url, '_blank');
             win.focus();
