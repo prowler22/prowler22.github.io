@@ -12,7 +12,7 @@ $project = "CMC";
 if (isset($argv[1]) && strtolower($argv[1]) == "dc") {
    $dc = "dc";
    $pub = 1;
-   $startYear = 2021;
+   $startYear = 2024;
    $project = "CDCC";
 }
 
@@ -151,6 +151,14 @@ function get_comic_links($year, $month, $day, $pub, &$titles, &$hrefs)
       $elements = $xpath->query("//span[contains(.,'DC COMICS')]/parent::h3/following-sibling::ul[1]/li");
    } else {
       $elements = $xpath->query("//span[contains(.,'MARVEL COMICS')]/parent::h3/following-sibling::ul[1]/li");
+   }
+
+   if ($elements->length == 0) {
+      if ($pub == 1) {
+         $elements = $xpath->query("//span[contains(.,'DC COMICS')]/parent::strong/parent::h3/following-sibling::ul[1]/li");
+      } else {
+         $elements = $xpath->query("//span[contains(.,'MARVEL COMICS')]/parent::strong/parent::h3/following-sibling::ul[1]/li");
+      }
    }
 
    $titles = array();
