@@ -12,7 +12,7 @@ $project = "CMC";
 if (isset($argv[1]) && strtolower($argv[1]) == "dc") {
    $dc = "dc";
    $pub = 1;
-   $startYear = 2024;
+   $startYear = 2021;
    $project = "CDCC";
 }
 
