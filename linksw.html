@@ -128,13 +128,14 @@
                                     var link = document.createElement('a');
                                     var linkText = document.createTextNode(links[k].getAttribute('Name'));
                                     link.appendChild(linkText);
-                                    //link.title = links[k].getAttribute('Name');
+                                    link.title = links[k].getAttribute('Name');
                                     link.href = links[k].getAttribute('Href');
-                                    link.onclick = function (e) {
+                                    link.target = '_blank';
+                                    /*link.onclick = function (e) {
                                         e.preventDefault();
                                         var url = this.getAttribute('href');
                                         window.open(url, '_blank');
-                                    };
+                                    };*/
 
                                     currentRight.appendChild(link);
                                     currentRight.appendChild(document.createElement('br'));
