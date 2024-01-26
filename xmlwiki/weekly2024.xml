@@ -111,4 +111,28 @@
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/white-widow-2023/3" Name="White Widow #3"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/xmen-2021/30" Name="X-Men #30"/>
         </Directory>
+        <Directory Month="01" Name="CMC 2024 04">
+            <File Name="Daredevil: Black Armor 3"/>
+            <File Name="G.O.D.S. 4"/>
+            <File Name="Miguel O&apos;Hara: Spider-Man 2099 4"/>
+            <File Name="Power Pack: Into the Storm 1"/>
+            <File Name="Punisher 3"/>
+            <File Name="Resurrection of Magneto 1"/>
+            <File Name="Spider-Woman 3"/>
+            <File Name="Star Wars: Thrawn - Alliances 1"/>
+            <File Name="Superior Spider-Man 3"/>
+            <File Name="The Immortal Thor 6"/>
+            <File Name="X-Force 48"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/daredevil-black-armor-2023/3" Name="Daredevil - Black Armor #3"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/gods-2023/4" Name="G.O.D.S. #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/miguel-ohara-spiderman-2099-2024/4" Name="Miguel O’Hara - Spider-Man 2099 #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/power-pack-into-the-storm-2024/1" Name="Power Pack - Into the Storm #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/punisher-2023/3" Name="Punisher #3"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/resurrection-of-magneto-2024/1" Name="Resurrection of Magneto #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/spiderwoman-2023/3" Name="Spider-Woman #3"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/star-wars-thrawn-alliances-2024/1" Name="Star Wars - Thrawn - Alliances #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/superior-spiderman-2023/3" Name="Superior Spider-Man #3"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/immortal-thor-2023/6" Name="The Immortal Thor #6"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/xforce-2019/48" Name="X-Force #48"/>
+        </Directory>
     </Year>

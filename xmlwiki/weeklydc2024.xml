@@ -26,6 +26,7 @@
         <Directory Month="01" Name="CDCC 2024 02">
             <File Name="Action Comics 1061"/>
             <File Name="Batman and Robin 5"/>
+            <File Name="Batman: Fighting The Frozen 1"/>
             <File Name="Fables 161"/>
             <File Name="Green Lantern 7"/>
             <File Name="Looney Tunes 276"/>
@@ -73,7 +74,32 @@
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/nightwing-2016/110" Name="Nightwing #110"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/superman-2023/10" Name="Superman #10"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/superman-lost-2023/10" Name="Superman - Lost #10"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-joker-harley-quinn-uncovered-2023/1" Name="The Joker - Harley Quinn - Uncovered #1"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/titans-2023/7" Name="Titans #7"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/wonder-woman-2023/5" Name="Wonder Woman #5"/>
+        </Directory>
+        <Directory Month="01" Name="CDCC 2024 04">
+            <File Name="Amazons Attack 4"/>
+            <File Name="Batman: The Brave and the Bold 9"/>
+            <File Name="Detective Comics 1081"/>
+            <File Name="Green Arrow 8"/>
+            <File Name="Harley Quinn 36"/>
+            <File Name="Power Girl 5"/>
+            <File Name="The Flash 5"/>
+            <File Name="The Penguin 6"/>
+            <File Name="Titans: Beast World 5"/>
+            <File Name="Titans: Beast World Tour - Star City 1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/amazons-attack-2023/4" Name="Amazons Attack #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/aquaman-through-fire-and-water-2024/1" Name="Aquaman - Through Fire and Water #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/batman-the-brave-and-the-bold-2023/9" Name="Batman - The Brave and the Bold #9"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/detective-comics-2016/1081" Name="Detective Comics #1081"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/green-arrow-2023/8" Name="Green Arrow #8"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/harley-quinn-2021/36" Name="Harley Quinn #36"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/power-girl-2023/5" Name="Power Girl #5"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/superman-vs-meshi-2023/15" Name="Superman vs. Meshi #15"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-flash-2023/5" Name="The Flash #5"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-penguin-2023/6" Name="The Penguin #6"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/titans-beast-world-2023/5" Name="Titans - Beast World #5"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/titans-beast-world-tour-star-city-2024/1" Name="Titans - Beast World Tour - Star City #1"/>
         </Directory>
     </Year>
