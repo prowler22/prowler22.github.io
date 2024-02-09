@@ -106,6 +106,7 @@
             <File Name="Batman / Superman: World&apos;s Finest 2024 Annual"/>
             <File Name="Batman and Robin 2024 Annual"/>
             <File Name="Batman: Off-World 3"/>
+            <File Name="DC Connect 45"/>
             <File Name="DC Power 2024 1"/>
             <File Name="Power Girl: Uncovered 1"/>
             <File Name="Titans: Beast World 6"/>
@@ -118,5 +119,31 @@
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/joker-one-operation-2023/16" Name="Joker - One Operation Joker #16"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/titans-beast-world-2023/6" Name="Titans - Beast World #6"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/trinity-special-2024/1" Name="Trinity Special #1"/>
+        </Directory>
+        <Directory Month="02" Name="CDCC 2024 06">
+            <File Name="Batman 142"/>
+            <File Name="Birds of Prey 6"/>
+            <File Name="DC&apos;s How to Lose a Guy Gardner in 10 Days 1"/>
+            <File Name="Fire &amp; Ice: Welcome to Smallville 6"/>
+            <File Name="Kneel Before Zod 2"/>
+            <File Name="Poison Ivy 19"/>
+            <File Name="Red Hood: The Hill 0"/>
+            <File Name="Scooby-Doo, Where Are You? 126"/>
+            <File Name="Shazam! 8"/>
+            <File Name="Suicide Squad: Kill Arkham Asylum 1"/>
+            <File Name="Superman &apos;78: The Metal Curtain 4"/>
+            <File Name="The Batman &amp; Scooby-Doo Mysteries 2"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/batman-2016/142" Name="Batman #142"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/birds-of-prey-2023/6" Name="Birds of Prey #6"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/dcs-how-to-lose-a-guy-gardner-in-10-days-2024/1" Name="DC’s How to Lose a Guy Gardner in 10 Days #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/fire-and-ice-welcome-to-smallville-2023/6" Name="Fire and Ice - Welcome to Smallville #6"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/kneel-before-zod-2024/2" Name="Kneel Before Zod #2"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/poison-ivy-2022/19" Name="Poison Ivy #19"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/scoobydoo-where-are-you-2010/126" Name="Scooby-Doo Where Are You #126"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/shazam-2023/8" Name="Shazam! #8"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/suicide-squad-kill-arkham-asylum-2023/1" Name="Suicide Squad - Kill Arkham Asylum #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/superman-vs-meshi-2023/16" Name="Superman vs. Meshi #16"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/superman-78-the-metal-curtain-2023/4" Name="Superman ’78 - The Metal Curtain #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-batman-and-scoobydoo-mysteries-2024/2" Name="The Batman and Scooby-Doo Mysteries #2"/>
         </Directory>
     </Year>

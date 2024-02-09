@@ -164,4 +164,34 @@
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-incredible-hulk-2023/8" Name="The Incredible Hulk #8"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/wolverine-2020/42" Name="Wolverine #42"/>
         </Directory>
+        <Directory Month="02" Name="CMC 2024 06">
+            <File Name="Alien 4"/>
+            <File Name="Captain America 6"/>
+            <File Name="Daredevil: Gang War 3"/>
+            <File Name="Doctor Strange 12"/>
+            <File Name="Fantastic Four 17"/>
+            <File Name="Star Wars: Mace Windu 1"/>
+            <File Name="Star Wars: Obi-Wan Kenobi 5"/>
+            <File Name="Thanos 3"/>
+            <File Name="The Avengers 10"/>
+            <File Name="The Sensational She-Hulk 5"/>
+            <File Name="Ultimate Black Panther 1"/>
+            <File Name="Venom 30"/>
+            <File Name="Wolverine: Madripoor Knights 1"/>
+            <File Name="X-Men 31"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/alien-2023-1/4" Name="Alien #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/captain-america-2023/6" Name="Captain America #6"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/daredevil-gang-war-2023/3" Name="Daredevil - Gang War #3"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/doctor-strange-2023/12" Name="Doctor Strange #12"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/fantastic-four-2022/17" Name="Fantastic Four #17"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/star-wars-mace-windu-2024/1" Name="Star Wars - Mace Windu #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/star-wars-obiwan-kenobi-2023/5" Name="Star Wars - Obi-Wan Kenobi #5"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/thanos-2023/3" Name="Thanos #3"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-avengers-2023/10" Name="The Avengers #10"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-sensational-shehulk-2023/5" Name="The Sensational She-Hulk #5"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/ultimate-black-panther-2024/1" Name="Ultimate Black Panther #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/venom-2021/30" Name="Venom #30"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/wolverine-madripoor-knights-2024/1" Name="Wolverine - Madripoor Knights #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/xmen-2021/31" Name="X-Men #31"/>
+        </Directory>
     </Year>
