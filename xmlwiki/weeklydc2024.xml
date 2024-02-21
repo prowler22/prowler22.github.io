@@ -173,4 +173,29 @@
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/speed-force-2023/4" Name="Speed Force #4"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/wesley-dodds-the-sandman-2023/5" Name="Wesley Dodds - The Sandman #5"/>
         </Directory>
+        <Directory Month="02" Name="CDCC 2024 08">
+            <File Name="Batman 144"/>
+            <File Name="Batman / Superman: World&apos;s Finest 24"/>
+            <File Name="Catwoman 62"/>
+            <File Name="Green Lantern: War Journal 6"/>
+            <File Name="John Constantine, Hellblazer: Dead in America 2"/>
+            <File Name="Justice League vs. Godzilla vs. Kong 5"/>
+            <File Name="Nightwing 111"/>
+            <File Name="Superman 11"/>
+            <File Name="Titans 8"/>
+            <File Name="Wonder Woman 6"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/batman-2016/144" Name="Batman #144"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/batman-superman-worlds-finest-2022/24" Name="Batman - Superman - World’s Finest #24"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/catwoman-2018/62" Name="Catwoman #62"/>
+            <Link Href="none" Name="DC Connect #45 "/>
+            <Link Href="none" Name="DC Connect #46 "/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/green-lantern-war-journal-2023/6" Name="Green Lantern - War Journal #6"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/john-constantine-hellblazer-dead-in-america-2024/2" Name="John Constantine, Hellblazer - Dead in America #2 (2024)"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/justice-league-vs-godzilla-vs-kong-2023/5" Name="Justice League vs. Godzilla vs. Kong #5"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/nightwing-2016/111" Name="Nightwing #111"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/superman-2023/11" Name="Superman #11"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/superman-vs-meshi-2023/17" Name="Superman vs. Meshi #17"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/titans-2023/8" Name="Titans #8"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/wonder-woman-2023/6" Name="Wonder Woman #6"/>
+        </Directory>
     </Year>
