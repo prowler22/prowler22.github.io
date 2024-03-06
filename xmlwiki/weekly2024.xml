@@ -18,6 +18,7 @@
             <File Name="The Amazing Spider-Man 41"/>
             <File Name="Vengeance of the Moon Knight 1"/>
             <File Name="Venom 29"/>
+            <File Name="Who Is... Kingpin Infinity Comic 1"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/beware-the-planet-of-the-apes-2024/1" Name="Beware the Planet of the Apes #1"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/captain-america-2023/5" Name="Captain America #5"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/doctor-strange-2023/11" Name="Doctor Strange #11"/>
@@ -263,5 +264,80 @@
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-sentry-2023/3" Name="The Sentry #3"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/ultimate-spiderman-2024/2" Name="Ultimate Spider-Man #2"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/xforce-2019/49" Name="X-Force #49"/>
+        </Directory>
+        <Directory Month="02" Name="CMC 2024 09">
+            <File Name="Avengers: Twilight 3"/>
+            <File Name="Cable 2"/>
+            <File Name="Carnage 4"/>
+            <File Name="Dead X-Men 2"/>
+            <File Name="Giant-Size Fantastic Four 1"/>
+            <File Name="Marvel Previews 30"/>
+            <File Name="Miles Morales: Spider-Man 17"/>
+            <File Name="Power Pack: Into the Storm 2"/>
+            <File Name="Punisher 4"/>
+            <File Name="Resurrection of Magneto 2"/>
+            <File Name="Spider-Punk: Arms Race 1"/>
+            <File Name="Star Wars: Thrawn - Alliances 2"/>
+            <File Name="The Amazing Spider-Man 44"/>
+            <File Name="The Immortal Thor 7"/>
+            <File Name="The Invincible Iron Man 15"/>
+            <File Name="What If...?: Venom 1"/>
+            <File Name="White Widow 4"/>
+            <File Name="Wolverine 44"/>
+            <File Name="Women of Marvel 1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/avengers-twilight-2024/3" Name="Avengers - Twilight #3"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/cable-2024/2" Name="Cable #2"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/carnage-2023/4" Name="Carnage #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/dead-xmen-2024/2" Name="Dead X-Men #2"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/fantastic-four-2022/giantsize1" Name="Giant-Size Fantastic Four #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/miles-morales-spiderman-2022/17" Name="Miles Morales - Spider-Man #17"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/power-pack-into-the-storm-2024/2" Name="Power Pack - Into the Storm #2"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/punisher-2023/4" Name="Punisher #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/resurrection-of-magneto-2024/2" Name="Resurrection of Magneto #2"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/spiderpunk-arms-race-2024/1" Name="Spider-Punk - Arms Race #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/star-wars-thrawn-alliances-2024/2" Name="Star Wars - Thrawn - Alliances #2"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-amazing-spiderman-2022/44" Name="The Amazing Spider-Man #44"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/immortal-thor-2023/7" Name="The Immortal Thor #7"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/invincible-iron-man-2022/15" Name="The Invincible Iron Man #15"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/what-if-venom-2024/1" Name="What If…? - Venom #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/white-widow-2023/4" Name="White Widow #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/wolverine-2020/44" Name="Wolverine #44"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/women-of-marvel-2024/1" Name="Women of Marvel #1"/>
+        </Directory>
+        <Directory Month="03" Name="CMC 2024 10">
+            <File Name="Aliens: What If...? 1"/>
+            <File Name="Captain America 7"/>
+            <File Name="Daredevil: Gang War 4"/>
+            <File Name="Doctor Strange 13"/>
+            <File Name="Giant-Size Spider-Gwen 1"/>
+            <File Name="Marvel Must-Haves 1"/>
+            <File Name="Ms. Marvel: Mutant Menace 1"/>
+            <File Name="Star Wars 44"/>
+            <File Name="Star Wars: The High Republic 4"/>
+            <File Name="Thanos 4"/>
+            <File Name="The Avengers 11"/>
+            <File Name="The Sensational She-Hulk 6"/>
+            <File Name="The Sentry 4"/>
+            <File Name="The Spectacular Spider-Men 1"/>
+            <File Name="Ultimate X-Men 1"/>
+            <File Name="Venom 31"/>
+            <File Name="Weapon X-Men 1"/>
+            <File Name="X-Men 32"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/blood-hunt-diaries-2024/1" Name="Blood Hunt Diaries"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/captain-america-2023/7" Name="Captain America #7"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/daredevil-gang-war-2023/4" Name="Daredevil - Gang War #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/doctor-strange-2023/13" Name="Doctor Strange #13"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/spidergwen-2023/giant-size-spider-gwen" Name="Giant-Size Spider-Gwen #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/ms-marvel-mutant-menace-2024/1" Name="Ms. Marvel - Mutant Menace #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/thanos-2023/4" Name="Thanos #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-avengers-2023/11" Name="The Avengers #11"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-sensational-shehulk-2023/6" Name="The Sensational She-Hulk #6"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-sentry-2023/4" Name="The Sentry #4"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-spectacular-spidermen-2024/1" Name="The Spectacular Spider-Men #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/ultimate-xmen-2024/1" Name="Ultimate X-Men #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/venom-2021/31" Name="Venom #31"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/weapon-xmen-2024/1" Name="Weapon X-Men #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/what-if-aliens-2024/1" Name="What If…? - Aliens #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/xmen-2021/32" Name="X-Men #32"/>
         </Directory>
     </Year>
