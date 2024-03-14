@@ -26,6 +26,7 @@
         <Directory Month="01" Name="CDCC 2024 02">
             <File Name="Action Comics 1061"/>
             <File Name="Batman and Robin 5"/>
+            <File Name="Blue Beetle: Edición en Español 5"/>
             <File Name="Fables 161"/>
             <File Name="Green Lantern 7"/>
             <File Name="Looney Tunes 276"/>
@@ -152,6 +153,8 @@
             <File Name="Batman and Robin 6"/>
             <File Name="Batman: City of Madness 3"/>
             <File Name="Blue Beetle 6"/>
+            <File Name="Blue Beetle: Edición en Español 6"/>
+            <File Name="DC Connect 46"/>
             <File Name="Green Lantern 8"/>
             <File Name="Mad 36"/>
             <File Name="Outsiders 4"/>
@@ -224,6 +227,7 @@
             <File Name="Batman 145"/>
             <File Name="Birds of Prey 7"/>
             <File Name="Blue Beetle 7"/>
+            <File Name="Blue Beetle: Edición en Español 7"/>
             <File Name="Kneel Before Zod 3"/>
             <File Name="Poison Ivy 20"/>
             <File Name="Shazam! 9"/>
@@ -243,5 +247,35 @@
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/superman-78-the-metal-curtain-2023/5" Name="Superman ’78 - The Metal Curtain #5"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-batman-first-knight-2024/1" Name="The Bat-Man - First Knight #1"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-batman-and-scoobydoo-mysteries-2024/3" Name="The Batman and Scooby-Doo Mysteries #3"/>
+        </Directory>
+        <Directory Month="03" Name="CDCC 2024 11">
+            <File Name="Action Comics 1063"/>
+            <File Name="Batman / Dylan Dog 1"/>
+            <File Name="Batman and Robin 7"/>
+            <File Name="Batman and Robin and Howard 1"/>
+            <File Name="Fables 162"/>
+            <File Name="Green Lantern 9"/>
+            <File Name="Looney Tunes 277"/>
+            <File Name="Outsiders 5"/>
+            <File Name="Red Hood: The Hill 2"/>
+            <File Name="Sinister Sons 2"/>
+            <File Name="Speed Force 5"/>
+            <File Name="Suicide Squad: Dream Team 1"/>
+            <File Name="Wesley Dodds: The Sandman 6"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/action-comics-2016/1063" Name="Action Comics #1063"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/batman-dylan-dog-2024/1" Name="Batman - Dylan Dog #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/batman-justice-buster-2023/9" Name="Batman - Justice Buster #9"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/batman-and-robin-2023/7" Name="Batman and Robin #7"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/fables-2002/162" Name="Fables #162"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/green-lantern-2023/9" Name="Green Lantern #9"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/joker-one-operation-2023/19" Name="Joker - One Operation Joker #19"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/looney-tunes-1994/277" Name="Looney Tunes #277"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/mad-magazine-2018/36" Name="Mad Magazine #36"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/outsiders-2023/5" Name="Outsiders #5"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/red-hood-the-hill-2024/2" Name="Red Hood - The Hill #2"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/sinister-sons-2024/2" Name="Sinister Sons #2"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/speed-force-2023/5" Name="Speed Force #5"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/suicide-squad-dream-team-2024/1" Name="Suicide Squad - Dream Team #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/wesley-dodds-the-sandman-2023/6" Name="Wesley Dodds - The Sandman #6"/>
         </Directory>
     </Year>
