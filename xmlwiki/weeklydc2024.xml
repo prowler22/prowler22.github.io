@@ -305,4 +305,28 @@
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/titans-2023/9" Name="Titans #9"/>
             <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/wonder-woman-2023/7" Name="Wonder Woman #7"/>
         </Directory>
+        <Directory Month="03" Name="CDCC 2024 13">
+            <File Name="Alan Scott: The Green Lantern 5"/>
+            <File Name="Amazons Attack 6"/>
+            <File Name="Batman: Dark Age 1"/>
+            <File Name="Batman: The Brave and the Bold 11"/>
+            <File Name="Detective Comics 1083"/>
+            <File Name="Green Arrow 10"/>
+            <File Name="Harley Quinn 38"/>
+            <File Name="Power Girl 7"/>
+            <File Name="Primer 1"/>
+            <File Name="The Flash 7"/>
+            <File Name="The Penguin 8"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/alan-scott-the-green-lantern-2023/5" Name="Alan Scott - The Green Lantern #5"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/amazons-attack-2023/6" Name="Amazons Attack #6"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/batman-dark-age-2024/1" Name="Batman - Dark Age #1"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/batman-the-brave-and-the-bold-2023/11" Name="Batman - The Brave and the Bold #11"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/detective-comics-2016/1083" Name="Detective Comics #1083"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/green-arrow-2023/10" Name="Green Arrow #10"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/harley-quinn-2021/38" Name="Harley Quinn #38"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/joker-one-operation-2023/20" Name="Joker - One Operation Joker #20"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/power-girl-2023/7" Name="Power Girl #7"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-flash-2023/7" Name="The Flash #7"/>
+            <Link Href="https://comic-reader.000webhostapp.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-penguin-2023/8" Name="The Penguin #8"/>
+        </Directory>
     </Year>
