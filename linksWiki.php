@@ -1,7 +1,7 @@
 <?php
 define('URL', 'https://leagueofcomicgeeks.com/comics/new-comics/%YEAR%/%MONTH%/%DAY%?publisher=%PUB%');
 define('WEEKURL', 'https://getcomics.org/other-comics/%YEAR%-%MONTH%-%DAY%-weekly-pack/');
-define('COMICURL', 'https://comic-reader.000webhostapp.com/wr/reader.php?URL=%URL%');
+define('COMICURL', 'http://prowler22.wuaze.com/wr/reader.php?URL=%URL%');
 define('TOP', "<?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<!DOCTYPE xml>\n");
 
 $startYear = 2021;
@@ -44,6 +44,7 @@ foreach ($years as $year) {
       $currentWed->setTimestamp($nextDate);
 
       $url = str_replace(array("%YEAR%", "%MONTH%", "%DAY%", "%PUB%"), array($year, $currentMonth, $currentDay, $pub), $startURL);
+      // echo $url;
       $website = @file_get_contents_curl($url);
       if ($website == '' || $website === false) {
          echo "Website not loaded: " . $url;
@@ -62,6 +63,17 @@ foreach ($years as $year) {
       $i = 1;
       $weekList = array();
       foreach ($elements as $elem) {
+         $lowerNodeValue = strtolower($elem->nodeValue);
+         if (strpos($lowerNodeValue, "variant") !== false) continue;
+         if (strpos($lowerNodeValue, "printing") !== false) continue;
+         if (strpos($lowerNodeValue, "facsimile") !== false) continue;
+         if (strpos($lowerNodeValue, "misprint") !== false) continue;
+         if (strpos($lowerNodeValue, "incentive") !== false) continue;
+         if (strpos($lowerNodeValue, "dynamite edition") !== false) continue;
+         if (strpos($lowerNodeValue, "black cover error") !== false) continue;
+         if (strpos($lowerNodeValue, "store edition") !== false) continue;
+         if (strpos($lowerNodeValue, "cover b larroca") !== false) continue;
+         if (strpos($lowerNodeValue, "die-cut") !== false) continue;
          $weekList[] = $elem->nodeValue;
       }
 
