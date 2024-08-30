@@ -2,6 +2,7 @@
 <!DOCTYPE xml>
     <Year Name="CMC 2023">
         <Directory Month="01" Name="CMC 2023 01">
+            <File Name="Avengers: Electric Rain Infinity Comic Chapter 10"/>
             <File Name="Captain America: Sentinel of Liberty 8"/>
             <File Name="Captain Marvel 45"/>
             <File Name="Fantastic Four 3"/>
@@ -39,6 +40,7 @@
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/xmen-legends-2021/15" Name="X-Men Legends #5"/>
         </Directory>
         <Directory Month="01" Name="CMC 2023 02">
+            <File Name="Avengers: Electric Rain Infinity Comic Chapter 11"/>
             <File Name="Black Panther 13"/>
             <File Name="Captain America: Symbol of Truth 9"/>
             <File Name="Carnage 9"/>
@@ -89,6 +91,7 @@
             <File Name="Alien 5"/>
             <File Name="Avengers Forever 13"/>
             <File Name="Avengers Two: Wonder Man and Beast - Marvel Tales 1"/>
+            <File Name="Avengers: Electric Rain Infinity Comic Chapter 12"/>
             <File Name="Dark Web: X-Men 3"/>
             <File Name="Deadly Neighborhood Spider-Man 4"/>
             <File Name="Deadpool 3"/>
@@ -127,6 +130,8 @@
         </Directory>
         <Directory Month="01" Name="CMC 2023 04">
             <File Name="All-Out Avengers 5"/>
+            <File Name="Avengers: Electric Rain Infinity Comic Chapter 13"/>
+            <File Name="Devil Dinosaur Infinity Comic 1"/>
             <File Name="Doctor Strange: Fall Sunrise 3"/>
             <File Name="Midnight Suns 5"/>
             <File Name="Murderworld: Wolverine 1"/>
@@ -137,6 +142,7 @@
             <File Name="Star Wars: Yoda 3"/>
             <File Name="The Amazing Spider-Man 18"/>
             <File Name="Thor 30"/>
+            <File Name="Who Is... Kang Infinity Comic 1"/>
             <File Name="X-Terminators 5"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/allout-avengers-2022/5" Name="All-Out Avengers #5"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-amazing-spiderman-2022/18" Name="Amazing Spider-Man #18"/>
@@ -152,6 +158,16 @@
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/xterminators-2022/5" Name="X-Terminators #5"/>
         </Directory>
         <Directory Month="02" Name="CMC 2023 05">
+            <File Name="Ant-Man and the Wasp: Lost and Found Infinity Comic Chapter 1"/>
+            <File Name="Ant-Man and the Wasp: Lost and Found Infinity Comic Chapter 10"/>
+            <File Name="Ant-Man and the Wasp: Lost and Found Infinity Comic Chapter 2"/>
+            <File Name="Ant-Man and the Wasp: Lost and Found Infinity Comic Chapter 3"/>
+            <File Name="Ant-Man and the Wasp: Lost and Found Infinity Comic Chapter 4"/>
+            <File Name="Ant-Man and the Wasp: Lost and Found Infinity Comic Chapter 5"/>
+            <File Name="Ant-Man and the Wasp: Lost and Found Infinity Comic Chapter 6"/>
+            <File Name="Ant-Man and the Wasp: Lost and Found Infinity Comic Chapter 7"/>
+            <File Name="Ant-Man and the Wasp: Lost and Found Infinity Comic Chapter 8"/>
+            <File Name="Ant-Man and the Wasp: Lost and Found Infinity Comic Chapter 9"/>
             <File Name="Bloodline: Daughter of Blade 1"/>
             <File Name="Captain America: Sentinel of Liberty 9"/>
             <File Name="Dark Web: Finale 1"/>
@@ -189,6 +205,7 @@
             <File Name="Black Panther 14"/>
             <File Name="Captain America: Symbol of Truth 10"/>
             <File Name="Daredevil 8"/>
+            <File Name="Devil Dinosaur Infinity Comic 2"/>
             <File Name="Ghost Rider 11"/>
             <File Name="Gold Goblin 4"/>
             <File Name="Joe Fixit 2"/>
@@ -204,6 +221,8 @@
             <File Name="Stormbreakers 2023 Sketchbook 1"/>
             <File Name="The Amazing Spider-Man 19"/>
             <File Name="The Avengers: War Across Time 2"/>
+            <File Name="Who Is... Miracleman Infinity Comic 1"/>
+            <File Name="Who Is... Moon Girl Infinity Comic 1"/>
             <File Name="X-Men: Legends 6"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/alien-2022/6.1" Name="Alien #6"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/the-amazing-spiderman-2022/19" Name="Amazing Spider-Man #19"/>
@@ -245,6 +264,7 @@
             <File Name="Star Wars: Bounty Hunters 31"/>
             <File Name="The Invincible Iron Man 3"/>
             <File Name="Wasp 2"/>
+            <File Name="Who Is... M.O.D.O.K. Infinity Comic 1"/>
             <File Name="Wolverine 30"/>
             <File Name="X-Men 19"/>
             <File Name="X-Treme X-Men 3"/>
@@ -273,6 +293,7 @@
             <File Name="Carnage 10"/>
             <File Name="Deadly Neighborhood Spider-Man 5"/>
             <File Name="Deadpool 4"/>
+            <File Name="Devil Dinosaur Infinity Comic 3"/>
             <File Name="Doctor Strange: Fall Sunrise 4"/>
             <File Name="Immoral X-Men 1"/>
             <File Name="Marvel Previews 18"/>
@@ -348,6 +369,7 @@
         <Directory Month="03" Name="CMC 2023 10">
             <File Name="Black Panther 15"/>
             <File Name="Bloodline: Daughter of Blade 2"/>
+            <File Name="Devil Dinosaur Infinity Comic 4"/>
             <File Name="Fantastic Four 5"/>
             <File Name="Mary Jane &amp; Black Cat 4"/>
             <File Name="Moon Knight 21"/>
@@ -390,6 +412,7 @@
             <File Name="Hellcat 1"/>
             <File Name="Hulk 13"/>
             <File Name="Immoral X-Men 2"/>
+            <File Name="Marvel&apos;s Voices Infinity Comic 44"/>
             <File Name="Miles Morales: Spider-Man 4"/>
             <File Name="Moon Girl and Devil Dinosaur 4"/>
             <File Name="Red Goblin 2"/>
@@ -419,8 +442,18 @@
             <File Name="Avengers: Rage of Ultron - Marvel Tales 1"/>
             <File Name="Carnage 11"/>
             <File Name="Doctor Strange 1"/>
+            <File Name="Doctor Strange: Last Days of Magic Infinity Comic Chapter 1"/>
+            <File Name="Doctor Strange: Last Days of Magic Infinity Comic Chapter 2"/>
+            <File Name="Doctor Strange: Last Days of Magic Infinity Comic Chapter 3"/>
+            <File Name="Doctor Strange: Last Days of Magic Infinity Comic Chapter 4"/>
+            <File Name="Doctor Strange: Last Days of Magic Infinity Comic Chapter 5"/>
+            <File Name="Doctor Strange: Last Days of Magic Infinity Comic Chapter 6"/>
+            <File Name="Doctor Strange: Last Days of Magic Infinity Comic Chapter 7"/>
+            <File Name="Doctor Strange: Last Days of Magic Infinity Comic Chapter 8"/>
             <File Name="Joe Fixit 3"/>
             <File Name="Marauders 12"/>
+            <File Name="Marvel Meow and Pizza Dog Infinity Comic 1"/>
+            <File Name="Marvel&apos;s Voices Infinity Comic 45"/>
             <File Name="Monica Rambeau: Photon 4"/>
             <File Name="Punisher 10"/>
             <File Name="She-Hulk 11"/>
@@ -457,8 +490,10 @@
             <File Name="Deadpool 5"/>
             <File Name="It&apos;s Jeff! 1"/>
             <File Name="Marvel Previews 19"/>
+            <File Name="Marvel&apos;s Voices Infinity Comic 46"/>
             <File Name="Planet Hulk: Worldbreaker 5"/>
             <File Name="Sabretooth &amp; the Exiles 5"/>
+            <File Name="Spider-Man &amp; Hulk: Toilet Paper Infinity Comic 1"/>
             <File Name="Star Wars: Return of the Jedi – Jabba&apos;s Palace 1"/>
             <File Name="Star Wars: The High Republic 7"/>
             <File Name="Star Wars: The High Republic - The Blade 4"/>
@@ -492,6 +527,8 @@
             <File Name="I Am Iron Man 2"/>
             <File Name="Immoral X-Men 3"/>
             <File Name="Joe Fixit 4"/>
+            <File Name="Marvel Meow and Pizza Dog Infinity Comic 2"/>
+            <File Name="Marvel&apos;s Voices Infinity Comic 47"/>
             <File Name="Planet of the Apes 1"/>
             <File Name="Rogue &amp; Gambit 2"/>
             <File Name="Scarlet Witch 4"/>
@@ -528,6 +565,7 @@
             <File Name="Carnage 12"/>
             <File Name="Fantastic Four 6"/>
             <File Name="Guardians of the Galaxy 1"/>
+            <File Name="Marvel&apos;s Voices Infinity Comic 48"/>
             <File Name="Marvel&apos;s Voices: Spider-Verse 1"/>
             <File Name="Miles Morales: Spider-Man 5"/>
             <File Name="Moon Knight 22"/>
@@ -564,6 +602,8 @@
             <File Name="Captain America: Unforgiven 1"/>
             <File Name="Hallows&apos; Eve 2"/>
             <File Name="Hellcat 2"/>
+            <File Name="Marvel Meow and Pizza Dog Infinity Comic 3"/>
+            <File Name="Marvel&apos;s Voices Infinity Comic 49"/>
             <File Name="Moon Girl and Devil Dinosaur 5"/>
             <File Name="New Mutants: Lethal Legion 2"/>
             <File Name="Nightcrawlers 3"/>
@@ -608,6 +648,7 @@
             <File Name="Doctor Strange 2"/>
             <File Name="Guardians of the Galaxy: Bane of Blastaar 1"/>
             <File Name="Hulk 14"/>
+            <File Name="Marvel Meow and Pizza Dog Infinity Comic 4"/>
             <File Name="Marvel Previews 20"/>
             <File Name="Mary Jane &amp; Black Cat 5"/>
             <File Name="Miracleman: Marvel Tales 1"/>
@@ -643,6 +684,7 @@
         <Directory Month="05" Name="CMC 2023 18">
             <File Name="Carnage Reigns: Alpha 1"/>
             <File Name="Classic Cover Collection: Thor Love and Thunder 0"/>
+            <File Name="Cosmo the Spacedog Infinity Comic 1"/>
             <File Name="Cult of Carnage: Misery 1"/>
             <File Name="Demon Wars: Scarlet Sin 1"/>
             <File Name="Edge of Spider-Verse 1"/>
@@ -651,6 +693,7 @@
             <File Name="Free Comic Book Day 2023: Spidey and His Amazing Friends 1"/>
             <File Name="Free Comic Book Day 2023: Uncanny Avengers 1"/>
             <File Name="Groot 1"/>
+            <File Name="Guardians of the Galaxy: The Jewel of Death Infinity Comic 1"/>
             <File Name="Immortal X-Men 11"/>
             <File Name="Joe Fixit 5"/>
             <File Name="Marvel&apos;s Spider-Man 2 1"/>
@@ -664,6 +707,7 @@
             <File Name="Star Wars: Return of the Jedi – Lando 1"/>
             <File Name="Star Wars: Yoda 7"/>
             <File Name="The Avengers: War Across Time 5"/>
+            <File Name="Who Is…? Adam Warlock Infinity Comic 1"/>
             <File Name="X-Men: Before the Fall - Sons of X 1"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/alien-2023/1" Name="Alien #1"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/avengers-war-across-time-2023/5" Name="Avengers - War Across Time #5"/>
@@ -691,7 +735,9 @@
             <File Name="Daredevil 11"/>
             <File Name="Extreme Venomverse 1"/>
             <File Name="Ghost Rider 14"/>
+            <File Name="Guardians of the Galaxy: The Jewel of Death Infinity Comic 2"/>
             <File Name="I Am Iron Man 3"/>
+            <File Name="Li&apos;l Rocket Infinity Comic 1"/>
             <File Name="Miracleman by Gaiman &amp; Buckingham: The Silver Age 5"/>
             <File Name="Rogue &amp; Gambit 3"/>
             <File Name="Silk 1"/>
@@ -724,9 +770,11 @@
         <Directory Month="05" Name="CMC 2023 20">
             <File Name="Bloodline: Daughter of Blade 4"/>
             <File Name="Captain America: Sentinel of Liberty 12"/>
+            <File Name="Cosmo the Spacedog Infinity Comic 2"/>
             <File Name="Danny Ketch: Ghost Rider 1"/>
             <File Name="Fantastic Four 7"/>
             <File Name="Guardians of the Galaxy 2"/>
+            <File Name="Guardians of the Galaxy: The Jewel of Death Infinity Comic 3"/>
             <File Name="Hulk Annual 1"/>
             <File Name="Miles Morales: Spider-Man 6"/>
             <File Name="Planet of the Apes 2"/>
@@ -763,8 +811,10 @@
             <File Name="Daredevil &amp; Echo 1"/>
             <File Name="Extreme Venomverse 2"/>
             <File Name="Fury 1"/>
+            <File Name="Guardians of the Galaxy: The Jewel of Death Infinity Comic 4"/>
             <File Name="Hallows&apos; Eve 3"/>
             <File Name="Hellcat 3"/>
+            <File Name="Li&apos;l Rocket Infinity Comic 2"/>
             <File Name="Marvel Previews 21"/>
             <File Name="New Mutants: Lethal Legion 3"/>
             <File Name="Spider-Man 2099: Dark Genesis 4"/>
@@ -792,11 +842,26 @@
         </Directory>
         <Directory Month="05" Name="CMC 2023 22">
             <File Name="Alien 2"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 1"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 10"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 11"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 12"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 13"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 14"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 2"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 3"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 4"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 5"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 6"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 7"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 8"/>
+            <File Name="Amazing Spider-Man: Spider-Verse Infinity Comic Chapter 9"/>
             <File Name="Avengers Beyond 3"/>
             <File Name="Betsy Braddock: Captain Britain 4"/>
             <File Name="Captain America: Symbol of Truth 13"/>
             <File Name="Carnage 13"/>
             <File Name="Clobberin&apos; Time 3"/>
+            <File Name="Cosmo the Spacedog Infinity Comic 3"/>
             <File Name="Deadpool 7"/>
             <File Name="Doctor Strange 3"/>
             <File Name="Edge of Spider-Verse 2"/>
@@ -833,6 +898,7 @@
             <File Name="Fantastic Four 8"/>
             <File Name="Groot 2"/>
             <File Name="Immortal X-Men 12"/>
+            <File Name="Li&apos;l Rocket Infinity Comic 3"/>
             <File Name="Loki 1"/>
             <File Name="Red Goblin 5"/>
             <File Name="Spider-Man 9"/>
@@ -868,12 +934,32 @@
             <File Name="Carnage 14"/>
             <File Name="Clobberin&apos; Time 4"/>
             <File Name="Cosmic Ghost Rider 4"/>
+            <File Name="Cosmo the Spacedog Infinity Comic 4"/>
             <File Name="Doctor Strange 4"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 1"/>
             <File Name="Extreme Venomverse 3"/>
             <File Name="Marvel&apos;s Voices: Pride 1"/>
             <File Name="Moon Knight 24"/>
             <File Name="Planet of the Apes 3"/>
             <File Name="Rogue &amp; Gambit 4"/>
+            <File Name="Secret Invasion Infinity Comic 6"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 1"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 10"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 11"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 12"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 13"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 14"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 15"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 16"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 17"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 18"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 2"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 3"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 4"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 5"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 7"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 8"/>
+            <File Name="Secret Invasion Infinity Comic Chapter 9"/>
             <File Name="Son of Origins of Marvel Comics: Marvel Tales 1"/>
             <File Name="Spider-Gwen: Shadow Clones 4"/>
             <File Name="Spider-Man: India 1"/>
@@ -913,15 +999,18 @@
             <File Name="Cult of Carnage: Misery 2"/>
             <File Name="Danny Ketch: Ghost Rider 2"/>
             <File Name="Edge of Spider-Verse 3"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 2"/>
             <File Name="Guardians of the Galaxy 3"/>
             <File Name="Hallows&apos; Eve 4"/>
             <File Name="Hellcat 4"/>
             <File Name="I Am Iron Man 4"/>
+            <File Name="Li&apos;l Rocket Infinity Comic 4"/>
             <File Name="Miles Morales: Spider-Man 7"/>
             <File Name="New Mutants: Lethal Legion 4"/>
             <File Name="Scarlet Witch Annual 1"/>
             <File Name="Star Wars: Bounty Hunters 35"/>
             <File Name="Star Wars: The Mandalorian Season 2 1"/>
+            <File Name="Strange Tales: Secret Invasion Infinity Comic 1"/>
             <File Name="The Avengers 2"/>
             <File Name="The Incredible Hulk 1"/>
             <File Name="The Incredible Hulk 1  Gleason Virgin Edition B"/>
@@ -951,10 +1040,13 @@
         <Directory Month="06" Name="CMC 2023 26">
             <File Name="Alien 3"/>
             <File Name="Avengers Beyond 4"/>
+            <File Name="Blade: First Bite Infinity Comic 1"/>
             <File Name="Captain America: Symbol of Truth 14"/>
             <File Name="Carnage Reigns: Omega 1"/>
+            <File Name="Cosmo the Spacedog Infinity Comic 5"/>
             <File Name="Daredevil &amp; Echo 2"/>
             <File Name="Deadpool 8"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 3"/>
             <File Name="Ghost Rider 15"/>
             <File Name="Marvel Previews 22"/>
             <File Name="Predator 4"/>
@@ -989,14 +1081,23 @@
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/xmen-before-the-fall-heralds-of-apocalypse-2023/1" Name="X-Men - Before the Fall - Heralds of Apocalypse #1"/>
         </Directory>
         <Directory Month="07" Name="CMC 2023 27">
+            <File Name="Blade: First Bite Infinity Comic 2"/>
+            <File Name="Brute Force Infinity Comic 1"/>
+            <File Name="Brute Force Infinity Comic 2"/>
+            <File Name="Brute Force Infinity Comic 3"/>
+            <File Name="Brute Force Infinity Comic 4"/>
+            <File Name="Brute Force Infinity Comic 5"/>
+            <File Name="Brute Force Infinity Comic 6"/>
             <File Name="Captain America 750"/>
             <File Name="Captain Marvel: Dark Tempest 1"/>
             <File Name="Clobberin&apos; Time 5"/>
             <File Name="Daredevil 13"/>
             <File Name="Doctor Strange 5"/>
             <File Name="Edge of Spider-Verse 4"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 4"/>
             <File Name="Extreme Venomverse 4"/>
             <File Name="Fantastic Four 9"/>
+            <File Name="Li&apos;l Rocket Infinity Comic 5"/>
             <File Name="Marvel Zero 1"/>
             <File Name="Spider-Man 10"/>
             <File Name="Star Wars 36"/>
@@ -1027,7 +1128,11 @@
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/xmen-before-the-fall-sinister-four-2023/1" Name="X-Men - Before the Fall - Sinister Four #1"/>
         </Directory>
         <Directory Month="07" Name="CMC 2023 28">
+            <File Name="Blade: First Bite Infinity Comic 3"/>
+            <File Name="Cosmo the Spacedog Infinity Comic 6"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 5"/>
             <File Name="Fallen Friend: The Death of Ms. Marvel 1"/>
+            <File Name="Fallen Friend: The Death of Ms. Marvel Infinity Comic 1"/>
             <File Name="Groot 3"/>
             <File Name="Immortal X-Men 13"/>
             <File Name="Loki 2"/>
@@ -1069,10 +1174,13 @@
             <File Name="Alien 4"/>
             <File Name="Black Panther 2"/>
             <File Name="Blade 1"/>
+            <File Name="Blade: First Bite Infinity Comic 4"/>
             <File Name="Deadpool: Badder Blood 2"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 6"/>
             <File Name="Extreme Venomverse 5"/>
             <File Name="Guardians of the Galaxy 4"/>
             <File Name="Kith for X-Men 1"/>
+            <File Name="Li&apos;l Rocket Infinity Comic 6"/>
             <File Name="Moon Knight: City of the Dead 1"/>
             <File Name="New Mutants: Lethal Legion 5"/>
             <File Name="Spider-Gwen: Shadow Clones 5"/>
@@ -1099,6 +1207,7 @@
             <File Name="Danny Ketch: Ghost Rider 3"/>
             <File Name="Daredevil &amp; Echo 3"/>
             <File Name="Deadpool 9"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 7"/>
             <File Name="Ghost Rider 16"/>
             <File Name="Hallows&apos; Eve 5"/>
             <File Name="Hellcat 5"/>
@@ -1153,6 +1262,7 @@
             <File Name="Astonishing Iceman 1"/>
             <File Name="Death of the Venomverse 1"/>
             <File Name="Doctor Strange 6"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 8"/>
             <File Name="Fantastic Four 10"/>
             <File Name="Magneto 1"/>
             <File Name="Moon Knight 26"/>
@@ -1182,6 +1292,7 @@
         <Directory Month="08" Name="CMC 2023 32">
             <File Name="Captain Marvel: Dark Tempest 2"/>
             <File Name="Children of the Vault 1"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 9"/>
             <File Name="Ghost Rider / Wolverine: Weapons of Vengeance - Alpha 1"/>
             <File Name="Guardians of the Galaxy 5"/>
             <File Name="Immortal X-Men 14"/>
@@ -1213,6 +1324,7 @@
             <File Name="Daredevil 14"/>
             <File Name="Dark X-Men 1"/>
             <File Name="Death of the Venomverse 2"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 10"/>
             <File Name="Ghost Rider 17"/>
             <File Name="Groot 4"/>
             <File Name="Loki 3"/>
@@ -1223,6 +1335,7 @@
             <File Name="Uncanny Avengers 1"/>
             <File Name="What If...? Dark: Moon Knight 1"/>
             <File Name="X-Men: Days of Future Past – Doomsday 2"/>
+            <File Name="X-Men: Hellfire Gala Last Rites Infinity Comic 1"/>
             <File Name="X-Men: Red 14"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/alien-2023/5.1" Name="Alien #5"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/alpha-flight-2023/1" Name="Alpha Flight #1"/>
@@ -1246,6 +1359,7 @@
             <File Name="Captain America: Finale 1"/>
             <File Name="Daredevil &amp; Echo 4"/>
             <File Name="Deadpool 10"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 11"/>
             <File Name="Fantastic Four Annual 1"/>
             <File Name="Jean Grey 1"/>
             <File Name="Marvel Unleashed 1"/>
@@ -1284,10 +1398,12 @@
             <File Name="Danny Ketch: Ghost Rider 4"/>
             <File Name="Deadpool: Badder Blood 3"/>
             <File Name="Death of the Venomverse 3"/>
+            <File Name="Edge of Venomverse Unlimited Infinity Comic Chapter 12"/>
             <File Name="Marvel Age 1000"/>
             <File Name="Marvel Previews 24"/>
             <File Name="Moon Knight Annual 1"/>
             <File Name="Ms. Marvel: The New Mutant 1"/>
+            <File Name="Ms. Marvel: The New Mutant Infinity Comic 1"/>
             <File Name="Spider-Man: India 3"/>
             <File Name="Star Wars: Bounty Hunters 37"/>
             <File Name="Star Wars: The Mandalorian Season 2 3"/>
@@ -1314,6 +1430,7 @@
             <File Name="Doctor Strange 7"/>
             <File Name="Fantastic Four 11"/>
             <File Name="Ghost Rider / Wolverine: Weapons of Vengeance - Omega 1"/>
+            <File Name="I Am Groot Infinity Comic 1"/>
             <File Name="Immortal X-Men 15"/>
             <File Name="Magneto 2"/>
             <File Name="Moon Knight 27"/>
@@ -1350,6 +1467,7 @@
             <File Name="Children of the Vault 2"/>
             <File Name="Daredevil 1"/>
             <File Name="Ghost Rider 18"/>
+            <File Name="I Am Groot Infinity Comic 2"/>
             <File Name="Miles Morales: Spider-Man 10"/>
             <File Name="Red Goblin 8"/>
             <File Name="Spider-Man Unlimited Infinity Comic 2"/>
@@ -1390,6 +1508,7 @@
             <File Name="Deadpool: Badder Blood 4"/>
             <File Name="Death of the Venomverse 4"/>
             <File Name="Guardians of the Galaxy 6"/>
+            <File Name="I Am Groot Infinity Comic 3"/>
             <File Name="Loki 4"/>
             <File Name="Predator vs. Wolverine 1"/>
             <File Name="Spider-Man Unlimited Infinity Comic 3"/>
@@ -1423,14 +1542,16 @@
         <Directory Month="09" Name="CMC 2023 39">
             <File Name="Blade 3"/>
             <File Name="Death of the Venomverse 5"/>
+            <File Name="I Am Groot Infinity Comic 4"/>
             <File Name="Jean Grey 2"/>
             <File Name="Marvel Previews 25"/>
             <File Name="Marvel Unleashed 2"/>
             <File Name="Miracleman by Gaiman &amp; Buckingham: The Silver Age 6"/>
             <File Name="Moon Knight: City of the Dead 3"/>
             <File Name="Ms. Marvel: The New Mutant 2"/>
+            <File Name="Ms. Marvel: The New Mutant Infinity Comic 2"/>
             <File Name="Realm of X 2"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 4"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 4"/>
             <File Name="Spider-Man: India 4"/>
             <File Name="Star Wars: Doctor Aphra 36"/>
             <File Name="Star Wars: The Mandalorian Season 2 4"/>
@@ -1467,11 +1588,13 @@
             <File Name="Doctor Strange 8"/>
             <File Name="Fantastic Four 12"/>
             <File Name="G.O.D.S. 1"/>
+            <File Name="G.O.D.S. Infinity Comic 1"/>
             <File Name="Ghost Rider Annual 1"/>
+            <File Name="I Am Groot Infinity Comic 5"/>
             <File Name="Immortal X-Men 16"/>
             <File Name="Moon Knight 18  Halloween Trick-Or-Read 2023 Edition"/>
             <File Name="Red Goblin 9"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 5"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 5"/>
             <File Name="Spidey and His Amazing Friends: Halloween Trick-or-Read 2023 1"/>
             <File Name="Star Wars: Bounty Hunters 39"/>
             <File Name="Star Wars: Darth Vader 39"/>
@@ -1512,11 +1635,12 @@
             <File Name="Captain Marvel: Assault on Eden 1"/>
             <File Name="Capwolf &amp; The Howling Commandos 1"/>
             <File Name="Guardians of the Galaxy 7"/>
+            <File Name="I Am Groot Infinity Comic 6"/>
             <File Name="Magneto 3"/>
             <File Name="Moon Knight vs. Werewolf by Night: Marvel Tales 1"/>
             <File Name="Moon Knight: City of the Dead 4"/>
             <File Name="Silver Surfer Rebirth: Legacy 2"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 6"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 6"/>
             <File Name="Spider-Man: India 5"/>
             <File Name="Star Wars: Dark Droids 3"/>
             <File Name="Star Wars: The Mandalorian Season 2 5"/>
@@ -1554,13 +1678,14 @@
             <File Name="Miles Morales: Spider-Man 11"/>
             <File Name="Moon Knight 28"/>
             <File Name="Scarlet Witch 9"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 7"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 7"/>
             <File Name="Spine-Tingling Spider-Man 1"/>
             <File Name="Star Wars 39"/>
             <File Name="Star Wars: Obi-Wan Kenobi 2"/>
             <File Name="The Incredible Hulk 5"/>
             <File Name="The Invincible Iron Man 11"/>
             <File Name="The Sensational She-Hulk 1"/>
+            <File Name="Who Is... Kraven Infinity Comic 1"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/astonishing-iceman-2023/3" Name="Astonishing Iceman #3"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/avengers-inc-2023/2" Name="Avengers Inc. #2"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/children-of-the-vault-2023/3" Name="Children of the Vault #3"/>
@@ -1589,9 +1714,10 @@
             <File Name="Marvel Unleashed 3"/>
             <File Name="Marvel Zombies: Black, White &amp; Blood 1"/>
             <File Name="Ms. Marvel: The New Mutant 3"/>
+            <File Name="Ms. Marvel: The New Mutant Infinity Comic 3"/>
             <File Name="Predator vs. Wolverine 2"/>
             <File Name="Realm of X 3"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 8"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 8"/>
             <File Name="Star Wars: Dark Droids - D-Squad 2"/>
             <File Name="Star Wars: Doctor Aphra 37"/>
             <File Name="The Amazing Spider-Man 36"/>
@@ -1625,12 +1751,12 @@
             <File Name="Magneto 4"/>
             <File Name="Scarlet Witch 10"/>
             <File Name="Spider-Boy 1"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 9"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 9"/>
             <File Name="Star Wars 40"/>
             <File Name="Star Wars: The High Republic 5  Trick-or-Read 2023 Edition"/>
             <File Name="The Avengers 7"/>
             <File Name="Ultimate Universe 1"/>
-            <File Name="Ultimate Universe Infinity Comic Chapter 1"/>
+            <File Name="Ultimate Universe Infinity Comic 1"/>
             <File Name="Venom 27"/>
             <File Name="White Widow 1"/>
             <File Name="X-Men 28"/>
@@ -1649,10 +1775,11 @@
         <Directory Month="11" Name="CMC 2023 45">
             <File Name="Captain Marvel: Dark Tempest 5"/>
             <File Name="G.O.D.S. 2"/>
+            <File Name="G.O.D.S. Infinity Comic 2"/>
             <File Name="Guardians of the Galaxy 8"/>
             <File Name="Marvel Unleashed 4"/>
             <File Name="Punisher 1"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 10"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 10"/>
             <File Name="Star Wars: Darth Vader 40"/>
             <File Name="Star Wars: The High Republic 1"/>
             <File Name="Star Wars: The High Republic - Shadows of Starlight 2"/>
@@ -1660,6 +1787,9 @@
             <File Name="The Amazing Spider-Man 37"/>
             <File Name="Uncanny Spider-Man 3"/>
             <File Name="What If...? Dark: Tomb of Dracula 1"/>
+            <File Name="Who Is... A Flerken Infinity Comic 1"/>
+            <File Name="Who Is... Monica Rambeau Infinity Comic 1"/>
+            <File Name="Who Is... Ms. Marvel Infinity Comic 1"/>
             <File Name="X-Force 46"/>
             <File Name="X-Men: Red 17"/>
             <Link Href="http://prowler22.wuaze.com/wr/reader.php?URL=https://readcomicsonline.ru/comic/captain-marvel-dark-tempest-2023/5" Name="Captain Marvel - Dark Tempest #5"/>
@@ -1693,7 +1823,7 @@
             <File Name="Jean Grey 4"/>
             <File Name="Red Goblin 10"/>
             <File Name="Silver Surfer Rebirth: Legacy 3"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 11"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 11"/>
             <File Name="Spine-Tingling Spider-Man 2"/>
             <File Name="Star Wars: Dark Droids 4"/>
             <File Name="Star Wars: Doctor Aphra 38"/>
@@ -1737,7 +1867,7 @@
             <File Name="Marvel Previews 27"/>
             <File Name="Marvel Super Heroes Secret Wars: Battleworld 1"/>
             <File Name="Moon Knight: City of the Dead 5"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 12"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 12"/>
             <File Name="Star Wars: Bounty Hunters 40"/>
             <File Name="Star Wars: Dark Droids - D-Squad 3"/>
             <File Name="The Amazing Spider-Man 38"/>
@@ -1773,7 +1903,7 @@
             <File Name="Ms. Marvel: The New Mutant 4"/>
             <File Name="Predator vs. Wolverine 3"/>
             <File Name="Realm of X 4"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 13"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 13"/>
             <File Name="Spider-Woman 1"/>
             <File Name="Star Wars: Obi-Wan Kenobi 3"/>
             <File Name="The Amazing Spider-Man Gang War: First Strike 1"/>
@@ -1798,7 +1928,7 @@
             <File Name="Fantastic Four 14"/>
             <File Name="Marvel Mutts Infinity Comic 2"/>
             <File Name="Marvel&apos;s Voices: Avengers 1"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 14"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 14"/>
             <File Name="Star Wars 41"/>
             <File Name="Star Wars: Dark Droids - D-Squad 4"/>
             <File Name="The Amazing Spider-Man 39"/>
@@ -1836,7 +1966,7 @@
             <File Name="Punisher 2"/>
             <File Name="Silver Surfer Rebirth: Legacy 4"/>
             <File Name="Spider-Gwen: Smash 1"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 15"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 15"/>
             <File Name="Star Wars: Bounty Hunters 41"/>
             <File Name="Star Wars: The High Republic - Shadows of Starlight 3"/>
             <File Name="The Immortal Thor 5"/>
@@ -1867,10 +1997,11 @@
             <File Name="Daredevil: Black Armor 2"/>
             <File Name="Doctor Strange 10"/>
             <File Name="G.O.D.S. 3"/>
+            <File Name="G.O.D.S. Infinity Comic 3"/>
             <File Name="Marvel Mutts Infinity Comic 4"/>
             <File Name="ROM and the X-Men: Marvel Tales 1"/>
             <File Name="Spider-Boy 2"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 16"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 16"/>
             <File Name="Spine-Tingling Spider-Man 3"/>
             <File Name="Star Wars: Darth Vader 41"/>
             <File Name="Star Wars: Doctor Aphra 39"/>
@@ -1918,7 +2049,7 @@
             <File Name="Marvel Super Heroes Secret Wars: Battleworld 2"/>
             <File Name="Miles Morales: Spider-Man 14"/>
             <File Name="Predator vs. Wolverine 4"/>
-            <File Name="Spider-Man Unlimited Infinity Comic Chapter 17"/>
+            <File Name="Spider-Man Unlimited Infinity Comic 17"/>
             <File Name="Spider-Woman 2"/>
             <File Name="Star Wars: Dark Droids 5"/>
             <File Name="Star Wars: The Mandalorian Season 2 7"/>
