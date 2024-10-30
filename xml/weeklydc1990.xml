@@ -2,625 +2,625 @@
 <!DOCTYPE xml>
     <Year Name="CDCC 1990">
         <Directory Name="CDCC 1990 01">
-            <File Name="Adventures of Superman 463"/>
-            <File Name="Animal Man 20"/>
-            <File Name="Batman 444"/>
-            <File Name="Beautiful Stories For Ugly Children 8"/>
-            <File Name="Blackhawk 11"/>
-            <File Name="Checkmate 25"/>
-            <File Name="Green Lantern:Emerald Dawn 3"/>
-            <File Name="L.E.G.I.O.N. &apos;90 12"/>
-            <File Name="Sandman 13"/>
-            <File Name="Star Trek:The Next Generation 5"/>
-            <File Name="Starman 19"/>
-            <File Name="Swamp Thing 92"/>
-            <File Name="Action Comics 650"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 15"/>
-            <File Name="Captain Atom 38"/>
-            <File Name="Doctor Fate 14"/>
-            <File Name="Green Arrow 29"/>
-            <File Name="Justice League Europe 11"/>
-            <File Name="Legends of the Dark Knight 4"/>
-            <File Name="New Gods 13"/>
-            <File Name="Phantom 12"/>
-            <File Name="Shadow Strikes 6"/>
-            <File Name="Suicide Squad 38"/>
-            <File Name="Adam Strange 1"/>
-            <File Name="Doc Savage 18"/>
-            <File Name="Firestorm 95"/>
-            <File Name="Flash 36"/>
-            <File Name="Huntress 12"/>
-            <File Name="Justice League America 36"/>
-            <File Name="Legion of Super-Heroes 5"/>
-            <File Name="Manhunter 23"/>
-            <File Name="Superboy 2"/>
-            <File Name="Wonder Woman 40"/>
-            <File Name="Dragonlance 17"/>
-            <File Name="El Diablo 7"/>
-            <File Name="Forgotten Realms 8"/>
-            <File Name="Hawk and Dove 10"/>
-            <File Name="Hellblazer 27"/>
-            <File Name="Mister Miracle 13"/>
-            <File Name="New Titans 64"/>
-            <File Name="Ring of the Nibelung 3"/>
-            <File Name="Star Trek 6"/>
-            <File Name="Superman 41"/>
-            <File Name="Time Masters 2"/>
-            <File Name="Adventures of Superman 464"/>
-            <File Name="Animal Man 21"/>
-            <File Name="Batman 445"/>
-            <File Name="Blackhawk 12"/>
-            <File Name="Checkmate 26"/>
-            <File Name="Doom Patrol 30"/>
-            <File Name="Green Lantern:Emerald Dawn 4"/>
-            <File Name="L.E.G.I.O.N. &apos;90 13"/>
-            <File Name="Sandman 14"/>
-            <File Name="Score 4"/>
-            <File Name="Star Trek:The Next Generation 6"/>
-            <File Name="Starman 20"/>
-            <File Name="Swamp Thing 93"/>
+            <File Name="Adventures of Superman 463" ID="1732" SERIESID="1984"/>
+            <File Name="Animal Man 20" ID="2652" SERIESID="83"/>
+            <File Name="Batman 444" ID="3981" SERIESID="162"/>
+            <File Name="Beautiful Stories For Ugly Children 8" ID="5364" SERIESID="407"/>
+            <File Name="Blackhawk 11" ID="5807" SERIESID="461"/>
+            <File Name="Checkmate 25" ID="6970" SERIESID="559"/>
+            <File Name="Green Lantern:Emerald Dawn 3" ID="13001" SERIESID="947"/>
+            <File Name="L.E.G.I.O.N. &apos;90 12" ID="18202" SERIESID="1314"/>
+            <File Name="Sandman 13" ID="23017" SERIESID="1704"/>
+            <File Name="Star Trek:The Next Generation 5" ID="25187" SERIESID="1953"/>
+            <File Name="Starman 19" ID="25888" SERIESID="1865"/>
+            <File Name="Swamp Thing 92" ID="28301" SERIESID="2109"/>
+            <File Name="Action Comics 650" ID="666" SERIESID="28"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 15" ID="868" SERIESID="32"/>
+            <File Name="Captain Atom 38" ID="6509" SERIESID="527"/>
+            <File Name="Doctor Fate 14" ID="9166" SERIESID="705"/>
+            <File Name="Green Arrow 29" ID="12468" SERIESID="918"/>
+            <File Name="Justice League Europe 11" ID="17252" SERIESID="1232"/>
+            <File Name="Legends of the Dark Knight 4" ID="4751" SERIESID="296"/>
+            <File Name="New Gods 13" ID="20432" SERIESID="1485"/>
+            <File Name="Phantom 12" ID="21728" SERIESID="1560"/>
+            <File Name="Shadow Strikes 6" ID="24208" SERIESID="1798"/>
+            <File Name="Suicide Squad 38" ID="26007" SERIESID="1928"/>
+            <File Name="Adam Strange 1" ID="849" SERIESID="30"/>
+            <File Name="Doc Savage 18" ID="9141" SERIESID="703"/>
+            <File Name="Firestorm 95" ID="9949" SERIESID="853"/>
+            <File Name="Flash 36" ID="10447" SERIESID="808"/>
+            <File Name="Huntress 12" ID="16150" SERIESID="1093"/>
+            <File Name="Justice League America 36" ID="17106" SERIESID="1227"/>
+            <File Name="Legion of Super-Heroes 5" ID="18541" SERIESID="1324"/>
+            <File Name="Manhunter 23" ID="19517" SERIESID="1397"/>
+            <File Name="Superboy 2" ID="26502" SERIESID="1965"/>
+            <File Name="Wonder Woman 40" ID="31602" SERIESID="2352"/>
+            <File Name="Dragonlance 17" ID="9400" SERIESID="723"/>
+            <File Name="El Diablo 7" ID="9551" SERIESID="740"/>
+            <File Name="Forgotten Realms 8" ID="10901" SERIESID="839"/>
+            <File Name="Hawk and Dove 10" ID="13357" SERIESID="998"/>
+            <File Name="Hellblazer 27" ID="15451" SERIESID="1039"/>
+            <File Name="Mister Miracle 13" ID="19307" SERIESID="1443"/>
+            <File Name="New Titans 64" ID="20571" SERIESID="1491"/>
+            <File Name="Ring of the Nibelung 3" ID="22675" SERIESID="1669"/>
+            <File Name="Star Trek 6" ID="25060" SERIESID="1932"/>
+            <File Name="Superman 41" ID="27167" SERIESID="1985"/>
+            <File Name="Time Masters 2" ID="29276" SERIESID="2199"/>
+            <File Name="Adventures of Superman 464" ID="1733" SERIESID="1984"/>
+            <File Name="Animal Man 21" ID="2653" SERIESID="83"/>
+            <File Name="Batman 445" ID="3982" SERIESID="162"/>
+            <File Name="Blackhawk 12" ID="5808" SERIESID="461"/>
+            <File Name="Checkmate 26" ID="6971" SERIESID="559"/>
+            <File Name="Doom Patrol 30" ID="9289" SERIESID="714"/>
+            <File Name="Green Lantern:Emerald Dawn 4" ID="13002" SERIESID="947"/>
+            <File Name="L.E.G.I.O.N. &apos;90 13" ID="18203" SERIESID="1314"/>
+            <File Name="Sandman 14" ID="23018" SERIESID="1704"/>
+            <File Name="Score 4" ID="23362" SERIESID="1753"/>
+            <File Name="Star Trek:The Next Generation 6" ID="25188" SERIESID="1953"/>
+            <File Name="Starman 20" ID="25889" SERIESID="1865"/>
+            <File Name="Swamp Thing 93" ID="28302" SERIESID="2109"/>
         </Directory>
         <Directory Name="CDCC 1990 02">
-            <File Name="Action Comics 651"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 16"/>
-            <File Name="Atlantis Chronicles 1"/>
-            <File Name="Beautiful Stories For Ugly Children 9"/>
-            <File Name="Captain Atom 39"/>
-            <File Name="Detective Comics 612"/>
-            <File Name="Doctor Fate 15"/>
-            <File Name="Green Arrow 30"/>
-            <File Name="Justice League Europe 12"/>
-            <File Name="Legends of the Dark Knight 5"/>
-            <File Name="Looney Tunes Magazine 2"/>
-            <File Name="New Gods 14"/>
-            <File Name="Phantom 13"/>
-            <File Name="Question 35"/>
-            <File Name="Sgt. Rock Special 7"/>
-            <File Name="Shadow Strikes 7"/>
-            <File Name="Suicide Squad 39"/>
-            <File Name="Adam Strange 2"/>
-            <File Name="Firestorm 96"/>
-            <File Name="Flash 37"/>
-            <File Name="Huntress 13"/>
-            <File Name="Justice League America 37"/>
-            <File Name="Legion of Super-Heroes 6"/>
-            <File Name="Manhunter 24"/>
-            <File Name="Superboy 3"/>
-            <File Name="Wonder Woman 41"/>
-            <File Name="Dragonlance 18"/>
-            <File Name="El Diablo 8"/>
-            <File Name="Forgotten Realms 9"/>
-            <File Name="Hawk and Dove 11"/>
-            <File Name="Hellblazer 28"/>
-            <File Name="Mister Miracle 14"/>
-            <File Name="New Titans 65"/>
-            <File Name="Ring of the Nibelung 4"/>
-            <File Name="Secret Origins 48"/>
-            <File Name="Star Trek 7"/>
-            <File Name="Superman 42"/>
-            <File Name="Time Masters 3"/>
-            <File Name="Adventures of Superman 465"/>
-            <File Name="Animal Man 22"/>
-            <File Name="Batman 446"/>
-            <File Name="Blackhawk 13"/>
-            <File Name="Doom Patrol 31"/>
-            <File Name="Green Lantern:Emerald Dawn 5"/>
-            <File Name="Justice League Annual 4"/>
-            <File Name="L.E.G.I.O.N. &apos;90 14"/>
-            <File Name="Sandman 15"/>
-            <File Name="Star Trek:The Next Generation 7"/>
-            <File Name="Starman 21"/>
-            <File Name="Swamp Thing 94"/>
-            <File Name="Tempus Fugitive 1"/>
+            <File Name="Action Comics 651" ID="667" SERIESID="28"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 16" ID="869" SERIESID="32"/>
+            <File Name="Atlantis Chronicles 1" ID="3282" SERIESID="124"/>
+            <File Name="Beautiful Stories For Ugly Children 9" ID="5365" SERIESID="407"/>
+            <File Name="Captain Atom 39" ID="6510" SERIESID="527"/>
+            <File Name="Detective Comics 612" ID="8907" SERIESID="693"/>
+            <File Name="Doctor Fate 15" ID="9167" SERIESID="705"/>
+            <File Name="Green Arrow 30" ID="12154" SERIESID="918"/>
+            <File Name="Justice League Europe 12" ID="17253" SERIESID="1232"/>
+            <File Name="Legends of the Dark Knight 5" ID="4752" SERIESID="296"/>
+            <File Name="Looney Tunes Magazine 2" ID="19360" SERIESID="1371"/>
+            <File Name="New Gods 14" ID="20433" SERIESID="1485"/>
+            <File Name="Phantom 13" ID="21729" SERIESID="1560"/>
+            <File Name="Question 35" ID="22161" SERIESID="1632"/>
+            <File Name="Sgt. Rock Special 7" ID="24026" SERIESID="1782"/>
+            <File Name="Shadow Strikes 7" ID="24209" SERIESID="1798"/>
+            <File Name="Suicide Squad 39" ID="26008" SERIESID="1928"/>
+            <File Name="Adam Strange 2" ID="850" SERIESID="30"/>
+            <File Name="Firestorm 96" ID="9950" SERIESID="853"/>
+            <File Name="Flash 37" ID="10448" SERIESID="808"/>
+            <File Name="Huntress 13" ID="16151" SERIESID="1093"/>
+            <File Name="Justice League America 37" ID="17107" SERIESID="1227"/>
+            <File Name="Legion of Super-Heroes 6" ID="18542" SERIESID="1324"/>
+            <File Name="Manhunter 24" ID="19518" SERIESID="1397"/>
+            <File Name="Superboy 3" ID="26503" SERIESID="1965"/>
+            <File Name="Wonder Woman 41" ID="31603" SERIESID="2352"/>
+            <File Name="Dragonlance 18" ID="9401" SERIESID="723"/>
+            <File Name="El Diablo 8" ID="9552" SERIESID="740"/>
+            <File Name="Forgotten Realms 9" ID="10902" SERIESID="839"/>
+            <File Name="Hawk and Dove 11" ID="13358" SERIESID="998"/>
+            <File Name="Hellblazer 28" ID="15452" SERIESID="1039"/>
+            <File Name="Mister Miracle 14" ID="19308" SERIESID="1443"/>
+            <File Name="New Titans 65" ID="20572" SERIESID="1491"/>
+            <File Name="Ring of the Nibelung 4" ID="22676" SERIESID="1669"/>
+            <File Name="Secret Origins 48" ID="23639" SERIESID="1764"/>
+            <File Name="Star Trek 7" ID="25061" SERIESID="1932"/>
+            <File Name="Superman 42" ID="27168" SERIESID="1985"/>
+            <File Name="Time Masters 3" ID="29277" SERIESID="2199"/>
+            <File Name="Adventures of Superman 465" ID="1734" SERIESID="1984"/>
+            <File Name="Animal Man 22" ID="2654" SERIESID="83"/>
+            <File Name="Batman 446" ID="3983" SERIESID="162"/>
+            <File Name="Blackhawk 13" ID="5809" SERIESID="461"/>
+            <File Name="Doom Patrol 31" ID="9290" SERIESID="714"/>
+            <File Name="Green Lantern:Emerald Dawn 5" ID="13003" SERIESID="947"/>
+            <File Name="Justice League Annual 4" ID="17108" SERIESID="1227"/>
+            <File Name="L.E.G.I.O.N. &apos;90 14" ID="18204" SERIESID="1314"/>
+            <File Name="Sandman 15" ID="23019" SERIESID="1704"/>
+            <File Name="Star Trek:The Next Generation 7" ID="25189" SERIESID="1953"/>
+            <File Name="Starman 21" ID="25890" SERIESID="1865"/>
+            <File Name="Swamp Thing 94" ID="28303" SERIESID="2109"/>
+            <File Name="Tempus Fugitive 1" ID="29129" SERIESID="2177"/>
         </Directory>
         <Directory Name="CDCC 1990 03">
-            <File Name="Action Comics 652"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 17"/>
-            <File Name="Atlantis Chronicles 2"/>
-            <File Name="Beautiful Stories For Ugly Children 10"/>
-            <File Name="Captain Atom 40"/>
-            <File Name="Detective Comics 613"/>
-            <File Name="Doctor Fate 16"/>
-            <File Name="Elvis Mandible 1"/>
-            <File Name="Green Arrow 31"/>
-            <File Name="Justice League Europe 13"/>
-            <File Name="Legends of the Dark Knight 6"/>
-            <File Name="New Gods 15"/>
-            <File Name="Question 36"/>
-            <File Name="Shadow Strikes 8"/>
-            <File Name="Suicide Squad 40"/>
-            <File Name="Butcher 1"/>
-            <File Name="Doc Savage 19"/>
-            <File Name="Firestorm 97"/>
-            <File Name="Flash 38"/>
-            <File Name="Huntress 14"/>
-            <File Name="Justice League America 38"/>
-            <File Name="Legion of Super-Heroes 7"/>
-            <File Name="Superboy 4"/>
-            <File Name="Wonder Woman 42"/>
-            <File Name="Dragonlance 19"/>
-            <File Name="El Diablo 9"/>
-            <File Name="Forgotten Realms 10"/>
-            <File Name="Green Arrow Annual 3"/>
-            <File Name="Hawk and Dove 12"/>
-            <File Name="Hellblazer 29"/>
-            <File Name="Mister Miracle 15"/>
-            <File Name="New Titans 66"/>
-            <File Name="Star Trek 8"/>
-            <File Name="Superman 43"/>
-            <File Name="Time Masters 4"/>
-            <File Name="Adventures of Ford Fairlane 1"/>
-            <File Name="Adventures of Superman 466"/>
-            <File Name="Animal Man 23"/>
-            <File Name="Batman 447"/>
-            <File Name="Blackhawk 14"/>
-            <File Name="Checkmate 27"/>
-            <File Name="Doom Patrol 32"/>
-            <File Name="Green Lantern:Emerald Dawn 6"/>
-            <File Name="L.E.G.I.O.N. &apos;90 15"/>
-            <File Name="Star Trek:The Next Generation 8"/>
-            <File Name="Starman 22"/>
-            <File Name="Swamp Thing 95"/>
-            <File Name="Tempus Fugitive 2"/>
+            <File Name="Action Comics 652" ID="668" SERIESID="28"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 17" ID="870" SERIESID="32"/>
+            <File Name="Atlantis Chronicles 2" ID="3283" SERIESID="124"/>
+            <File Name="Beautiful Stories For Ugly Children 10" ID="5366" SERIESID="407"/>
+            <File Name="Captain Atom 40" ID="6511" SERIESID="527"/>
+            <File Name="Detective Comics 613" ID="8908" SERIESID="693"/>
+            <File Name="Doctor Fate 16" ID="9168" SERIESID="705"/>
+            <File Name="Elvis Mandible 1" ID="9612" SERIESID="753"/>
+            <File Name="Green Arrow 31" ID="12155" SERIESID="918"/>
+            <File Name="Justice League Europe 13" ID="17254" SERIESID="1232"/>
+            <File Name="Legends of the Dark Knight 6" ID="4753" SERIESID="296"/>
+            <File Name="New Gods 15" ID="20434" SERIESID="1485"/>
+            <File Name="Question 36" ID="22162" SERIESID="1632"/>
+            <File Name="Shadow Strikes 8" ID="24210" SERIESID="1798"/>
+            <File Name="Suicide Squad 40" ID="26009" SERIESID="1928"/>
+            <File Name="Butcher 1" ID="7105" SERIESID="522"/>
+            <File Name="Doc Savage 19" ID="9142" SERIESID="703"/>
+            <File Name="Firestorm 97" ID="9951" SERIESID="853"/>
+            <File Name="Flash 38" ID="10449" SERIESID="808"/>
+            <File Name="Huntress 14" ID="16152" SERIESID="1093"/>
+            <File Name="Justice League America 38" ID="17109" SERIESID="1227"/>
+            <File Name="Legion of Super-Heroes 7" ID="18543" SERIESID="1324"/>
+            <File Name="Superboy 4" ID="26504" SERIESID="1965"/>
+            <File Name="Wonder Woman 42" ID="31604" SERIESID="2352"/>
+            <File Name="Dragonlance 19" ID="9402" SERIESID="723"/>
+            <File Name="El Diablo 9" ID="9553" SERIESID="740"/>
+            <File Name="Forgotten Realms 10" ID="10903" SERIESID="839"/>
+            <File Name="Green Arrow Annual 3" ID="12156" SERIESID="918"/>
+            <File Name="Hawk and Dove 12" ID="13359" SERIESID="998"/>
+            <File Name="Hellblazer 29" ID="15453" SERIESID="1039"/>
+            <File Name="Mister Miracle 15" ID="19309" SERIESID="1443"/>
+            <File Name="New Titans 66" ID="20573" SERIESID="1491"/>
+            <File Name="Star Trek 8" ID="25062" SERIESID="1932"/>
+            <File Name="Superman 43" ID="27169" SERIESID="1985"/>
+            <File Name="Time Masters 4" ID="29278" SERIESID="2199"/>
+            <File Name="Adventures of Ford Fairlane 1" ID="1550" SERIESID="42"/>
+            <File Name="Adventures of Superman 466" ID="1735" SERIESID="1984"/>
+            <File Name="Animal Man 23" ID="2655" SERIESID="83"/>
+            <File Name="Batman 447" ID="3985" SERIESID="162"/>
+            <File Name="Blackhawk 14" ID="5810" SERIESID="461"/>
+            <File Name="Checkmate 27" ID="6972" SERIESID="559"/>
+            <File Name="Doom Patrol 32" ID="9291" SERIESID="714"/>
+            <File Name="Green Lantern:Emerald Dawn 6" ID="13004" SERIESID="947"/>
+            <File Name="L.E.G.I.O.N. &apos;90 15" ID="18205" SERIESID="1314"/>
+            <File Name="Star Trek:The Next Generation 8" ID="25190" SERIESID="1953"/>
+            <File Name="Starman 22" ID="25891" SERIESID="1865"/>
+            <File Name="Swamp Thing 95" ID="28304" SERIESID="2109"/>
+            <File Name="Tempus Fugitive 2" ID="29130" SERIESID="2177"/>
         </Directory>
         <Directory Name="CDCC 1990 04">
-            <File Name="Action Comics 653"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 18"/>
-            <File Name="Atlantis Chronicles 3"/>
-            <File Name="Beautiful Stories For Ugly Children 11"/>
-            <File Name="Captain Atom 41"/>
-            <File Name="Detective Comics 614"/>
-            <File Name="Doctor Fate 17"/>
-            <File Name="Green Arrow 32"/>
-            <File Name="Justice League Europe 14"/>
-            <File Name="Legends of the Dark Knight 7"/>
-            <File Name="New Gods 16"/>
-            <File Name="Shadow Strikes 9"/>
-            <File Name="Suicide Squad 41"/>
-            <File Name="Butcher 2"/>
-            <File Name="Doc Savage 20"/>
-            <File Name="Firestorm 98"/>
-            <File Name="Flash 39"/>
-            <File Name="Hawkworld 1"/>
-            <File Name="Huntress 15"/>
-            <File Name="Justice League America 39"/>
-            <File Name="Legion of Super-Heroes 8"/>
-            <File Name="Star Trek Annual 1"/>
-            <File Name="Superboy 5"/>
-            <File Name="Wonder Woman 43"/>
-            <File Name="Batman 448"/>
-            <File Name="Dragonlance 20"/>
-            <File Name="El Diablo 10"/>
-            <File Name="Forgotten Realms 11"/>
-            <File Name="Green Lantern 1"/>
-            <File Name="Hawk and Dove 13"/>
-            <File Name="Hellblazer 30"/>
-            <File Name="Justice League Europe Annual 1"/>
-            <File Name="Mister Miracle 16"/>
-            <File Name="Secret Origins 49"/>
-            <File Name="Star Trek 9"/>
-            <File Name="Superman 44"/>
-            <File Name="Time Masters 5"/>
-            <File Name="Adventures of Ford Fairlane 2"/>
-            <File Name="Adventures of Superman 467"/>
-            <File Name="Animal Man 24"/>
-            <File Name="Checkmate 28"/>
-            <File Name="Detective Comics 615"/>
-            <File Name="Doom Patrol 33"/>
-            <File Name="Invaders From Home 1"/>
-            <File Name="L.E.G.I.O.N. &apos;90 16"/>
-            <File Name="Sandman 16"/>
-            <File Name="Star Trek:The Next Generation 9"/>
-            <File Name="Starman 23"/>
-            <File Name="Swamp Thing 96"/>
+            <File Name="Action Comics 653" ID="669" SERIESID="28"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 18" ID="871" SERIESID="32"/>
+            <File Name="Atlantis Chronicles 3" ID="3284" SERIESID="124"/>
+            <File Name="Beautiful Stories For Ugly Children 11" ID="5367" SERIESID="407"/>
+            <File Name="Captain Atom 41" ID="6512" SERIESID="527"/>
+            <File Name="Detective Comics 614" ID="8909" SERIESID="693"/>
+            <File Name="Doctor Fate 17" ID="9169" SERIESID="705"/>
+            <File Name="Green Arrow 32" ID="12157" SERIESID="918"/>
+            <File Name="Justice League Europe 14" ID="17255" SERIESID="1232"/>
+            <File Name="Legends of the Dark Knight 7" ID="4754" SERIESID="296"/>
+            <File Name="New Gods 16" ID="20435" SERIESID="1485"/>
+            <File Name="Shadow Strikes 9" ID="24211" SERIESID="1798"/>
+            <File Name="Suicide Squad 41" ID="26010" SERIESID="1928"/>
+            <File Name="Butcher 2" ID="7106" SERIESID="522"/>
+            <File Name="Doc Savage 20" ID="9143" SERIESID="703"/>
+            <File Name="Firestorm 98" ID="9952" SERIESID="853"/>
+            <File Name="Flash 39" ID="10450" SERIESID="808"/>
+            <File Name="Hawkworld 1" ID="14888" SERIESID="1010"/>
+            <File Name="Huntress 15" ID="16153" SERIESID="1093"/>
+            <File Name="Justice League America 39" ID="17110" SERIESID="1227"/>
+            <File Name="Legion of Super-Heroes 8" ID="18544" SERIESID="1324"/>
+            <File Name="Star Trek Annual 1" ID="25063" SERIESID="1932"/>
+            <File Name="Superboy 5" ID="26505" SERIESID="1965"/>
+            <File Name="Wonder Woman 43" ID="31605" SERIESID="2352"/>
+            <File Name="Batman 448" ID="3986" SERIESID="162"/>
+            <File Name="Dragonlance 20" ID="9403" SERIESID="723"/>
+            <File Name="El Diablo 10" ID="9554" SERIESID="740"/>
+            <File Name="Forgotten Realms 11" ID="10904" SERIESID="839"/>
+            <File Name="Green Lantern 1" ID="12775" SERIESID="931"/>
+            <File Name="Hawk and Dove 13" ID="13360" SERIESID="998"/>
+            <File Name="Hellblazer 30" ID="15454" SERIESID="1039"/>
+            <File Name="Justice League Europe Annual 1" ID="17256" SERIESID="1232"/>
+            <File Name="Mister Miracle 16" ID="19310" SERIESID="1443"/>
+            <File Name="Secret Origins 49" ID="23640" SERIESID="1764"/>
+            <File Name="Star Trek 9" ID="25064" SERIESID="1932"/>
+            <File Name="Superman 44" ID="27170" SERIESID="1985"/>
+            <File Name="Time Masters 5" ID="29279" SERIESID="2199"/>
+            <File Name="Adventures of Ford Fairlane 2" ID="1551" SERIESID="42"/>
+            <File Name="Adventures of Superman 467" ID="1736" SERIESID="1984"/>
+            <File Name="Animal Man 24" ID="2656" SERIESID="83"/>
+            <File Name="Checkmate 28" ID="6973" SERIESID="559"/>
+            <File Name="Detective Comics 615" ID="8910" SERIESID="693"/>
+            <File Name="Doom Patrol 33" ID="9292" SERIESID="714"/>
+            <File Name="Invaders From Home 1" ID="16362" SERIESID="1113"/>
+            <File Name="L.E.G.I.O.N. &apos;90 16" ID="18206" SERIESID="1314"/>
+            <File Name="Sandman 16" ID="23020" SERIESID="1704"/>
+            <File Name="Star Trek:The Next Generation 9" ID="25191" SERIESID="1953"/>
+            <File Name="Starman 23" ID="25892" SERIESID="1865"/>
+            <File Name="Swamp Thing 96" ID="28305" SERIESID="2109"/>
         </Directory>
         <Directory Name="CDCC 1990 05">
-            <File Name="Action Comics 654"/>
-            <File Name="Atlantis Chronicles 4"/>
-            <File Name="Batman 449"/>
-            <File Name="Captain Atom 42"/>
-            <File Name="Doctor Fate 18"/>
-            <File Name="Green Arrow 33"/>
-            <File Name="Justice League Europe 15"/>
-            <File Name="Legends of the Dark Knight 8"/>
-            <File Name="Looney Tunes Magazine 3"/>
-            <File Name="Suicide Squad 42"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 19"/>
-            <File Name="Bugs Bunny 1"/>
-            <File Name="Detective Comics 616"/>
-            <File Name="New Gods 17"/>
-            <File Name="Sgt. Rock Special 8"/>
-            <File Name="Shadow Strikes 10"/>
-            <File Name="Beautiful Stories For Ugly Children 12"/>
-            <File Name="Batman 450"/>
-            <File Name="Butcher 3"/>
-            <File Name="Doc Savage 21"/>
-            <File Name="Firestorm 99"/>
-            <File Name="Flash 40"/>
-            <File Name="Hawkworld 2"/>
-            <File Name="Huntress 16"/>
-            <File Name="Justice League America 40"/>
-            <File Name="Legion of Super-Heroes 9"/>
-            <File Name="Superboy 6"/>
-            <File Name="Wonder Woman 44"/>
-            <File Name="Demon 1"/>
-            <File Name="Detective Comics 617"/>
-            <File Name="Dragonlance 21"/>
-            <File Name="El Diablo 11"/>
-            <File Name="Green Lantern 2"/>
-            <File Name="Hawk and Dove 14"/>
-            <File Name="Hellblazer 31"/>
-            <File Name="Mister Miracle 17"/>
-            <File Name="Ms. Tree Quarterly 1"/>
-            <File Name="New Titans 67"/>
-            <File Name="Star Trek 10"/>
-            <File Name="Superman 45"/>
-            <File Name="Time Masters 6"/>
-            <File Name="Adventures of Ford Fairlane 3"/>
-            <File Name="Adventures of Superman 468"/>
-            <File Name="Animal Man 25"/>
-            <File Name="Batman 451"/>
-            <File Name="Batman Annual 14"/>
-            <File Name="Blackhawk 15"/>
-            <File Name="Doom Patrol 34"/>
-            <File Name="Flash Special 1"/>
-            <File Name="Invaders From Home 2"/>
-            <File Name="L.E.G.I.O.N. &apos;90 17"/>
-            <File Name="Shade, the Changing Man 1"/>
-            <File Name="Star Trek:The Next Generation 10"/>
-            <File Name="Starman 24"/>
-            <File Name="Swamp Thing 97"/>
+            <File Name="Action Comics 654" ID="670" SERIESID="28"/>
+            <File Name="Atlantis Chronicles 4" ID="3285" SERIESID="124"/>
+            <File Name="Batman 449" ID="3987" SERIESID="162"/>
+            <File Name="Captain Atom 42" ID="6513" SERIESID="527"/>
+            <File Name="Doctor Fate 18" ID="9170" SERIESID="705"/>
+            <File Name="Green Arrow 33" ID="12158" SERIESID="918"/>
+            <File Name="Justice League Europe 15" ID="17257" SERIESID="1232"/>
+            <File Name="Legends of the Dark Knight 8" ID="4755" SERIESID="296"/>
+            <File Name="Looney Tunes Magazine 3" ID="19361" SERIESID="1371"/>
+            <File Name="Suicide Squad 42" ID="26011" SERIESID="1928"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 19" ID="872" SERIESID="32"/>
+            <File Name="Bugs Bunny 1" ID="7096" SERIESID="517"/>
+            <File Name="Detective Comics 616" ID="8911" SERIESID="693"/>
+            <File Name="New Gods 17" ID="20436" SERIESID="1485"/>
+            <File Name="Sgt. Rock Special 8" ID="24027" SERIESID="1782"/>
+            <File Name="Shadow Strikes 10" ID="24212" SERIESID="1798"/>
+            <File Name="Beautiful Stories For Ugly Children 12" ID="5368" SERIESID="407"/>
+            <File Name="Batman 450" ID="3988" SERIESID="162"/>
+            <File Name="Butcher 3" ID="7107" SERIESID="522"/>
+            <File Name="Doc Savage 21" ID="9144" SERIESID="703"/>
+            <File Name="Firestorm 99" ID="9953" SERIESID="853"/>
+            <File Name="Flash 40" ID="10451" SERIESID="808"/>
+            <File Name="Hawkworld 2" ID="14889" SERIESID="1010"/>
+            <File Name="Huntress 16" ID="16154" SERIESID="1093"/>
+            <File Name="Justice League America 40" ID="17111" SERIESID="1227"/>
+            <File Name="Legion of Super-Heroes 9" ID="18545" SERIESID="1324"/>
+            <File Name="Superboy 6" ID="26506" SERIESID="1965"/>
+            <File Name="Wonder Woman 44" ID="31606" SERIESID="2352"/>
+            <File Name="Demon 1" ID="8172" SERIESID="687"/>
+            <File Name="Detective Comics 617" ID="8912" SERIESID="693"/>
+            <File Name="Dragonlance 21" ID="9404" SERIESID="723"/>
+            <File Name="El Diablo 11" ID="9555" SERIESID="740"/>
+            <File Name="Green Lantern 2" ID="12776" SERIESID="931"/>
+            <File Name="Hawk and Dove 14" ID="13361" SERIESID="998"/>
+            <File Name="Hellblazer 31" ID="15455" SERIESID="1039"/>
+            <File Name="Mister Miracle 17" ID="19311" SERIESID="1443"/>
+            <File Name="Ms. Tree Quarterly 1" ID="19705" SERIESID="1458"/>
+            <File Name="New Titans 67" ID="20574" SERIESID="1491"/>
+            <File Name="Star Trek 10" ID="25065" SERIESID="1932"/>
+            <File Name="Superman 45" ID="27171" SERIESID="1985"/>
+            <File Name="Time Masters 6" ID="29280" SERIESID="2199"/>
+            <File Name="Adventures of Ford Fairlane 3" ID="1552" SERIESID="42"/>
+            <File Name="Adventures of Superman 468" ID="1737" SERIESID="1984"/>
+            <File Name="Animal Man 25" ID="2657" SERIESID="83"/>
+            <File Name="Batman 451" ID="3989" SERIESID="162"/>
+            <File Name="Batman Annual 14" ID="3984" SERIESID="162"/>
+            <File Name="Blackhawk 15" ID="5811" SERIESID="461"/>
+            <File Name="Doom Patrol 34" ID="9293" SERIESID="714"/>
+            <File Name="Flash Special 1" ID="10452" SERIESID="808"/>
+            <File Name="Invaders From Home 2" ID="16363" SERIESID="1113"/>
+            <File Name="L.E.G.I.O.N. &apos;90 17" ID="18207" SERIESID="1314"/>
+            <File Name="Shade, the Changing Man 1" ID="24059" SERIESID="1788"/>
+            <File Name="Star Trek:The Next Generation 10" ID="25192" SERIESID="1953"/>
+            <File Name="Starman 24" ID="25893" SERIESID="1865"/>
+            <File Name="Swamp Thing 97" ID="28306" SERIESID="2109"/>
         </Directory>
         <Directory Name="CDCC 1990 06">
-            <File Name="Action Comics 655"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 20"/>
-            <File Name="Atlantis Chronicles 5"/>
-            <File Name="Bugs Bunny 2"/>
-            <File Name="Captain Atom 43"/>
-            <File Name="Detective Comics 618"/>
-            <File Name="Doctor Fate 19"/>
-            <File Name="Green Arrow 34"/>
-            <File Name="Justice League Europe 16"/>
-            <File Name="Legends of the Dark Knight 9"/>
-            <File Name="New Gods 18"/>
-            <File Name="Suicide Squad 43"/>
-            <File Name="Beautiful Stories For Ugly Children 13"/>
-            <File Name="Butcher 4"/>
-            <File Name="Checkmate 29"/>
-            <File Name="Doc Savage 22"/>
-            <File Name="Firestorm 100"/>
-            <File Name="Flash 41"/>
-            <File Name="Hawkworld 3"/>
-            <File Name="Huntress 17"/>
-            <File Name="Justice League America 41"/>
-            <File Name="Legion of Super-Heroes 10"/>
-            <File Name="Sandman 17"/>
-            <File Name="Star Trek:The Next Generation Annual 1"/>
-            <File Name="Superboy 7"/>
-            <File Name="Total Recall 1"/>
-            <File Name="Wonder Woman 45"/>
-            <File Name="World&apos;s Finest 1"/>
-            <File Name="Adam Strange 3"/>
-            <File Name="Batman 452"/>
-            <File Name="Demon 2"/>
-            <File Name="Dragonlance 22"/>
-            <File Name="El Diablo 12"/>
-            <File Name="Green Lantern 3"/>
-            <File Name="Hawk and Dove 15"/>
-            <File Name="Hellblazer 32"/>
-            <File Name="Mister Miracle 18"/>
-            <File Name="New Titans 68"/>
-            <File Name="Secret Origins 50"/>
-            <File Name="Star Trek 11"/>
-            <File Name="Superman 46"/>
-            <File Name="Time Masters 7"/>
-            <File Name="Adventures of Ford Fairlane 4"/>
-            <File Name="Adventures of Superman 469"/>
-            <File Name="Animal Man 26"/>
-            <File Name="Beautiful Stories For Ugly Children 14"/>
-            <File Name="Blackhawk 16"/>
-            <File Name="Checkmate 30"/>
-            <File Name="Detective Comics 619"/>
-            <File Name="Doom Patrol 35"/>
-            <File Name="Invaders From Home 3"/>
-            <File Name="L.E.G.I.O.N. &apos;90 18"/>
-            <File Name="Shade, the Changing Man 2"/>
-            <File Name="Star Trek:The Next Generation 11"/>
-            <File Name="Starman 25"/>
-            <File Name="Swamp Thing 98"/>
-            <File Name="Who&apos;s Who in the DC Universe 1"/>
+            <File Name="Action Comics 655" ID="671" SERIESID="28"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 20" ID="873" SERIESID="32"/>
+            <File Name="Atlantis Chronicles 5" ID="3286" SERIESID="124"/>
+            <File Name="Bugs Bunny 2" ID="7097" SERIESID="517"/>
+            <File Name="Captain Atom 43" ID="6514" SERIESID="527"/>
+            <File Name="Detective Comics 618" ID="8913" SERIESID="693"/>
+            <File Name="Doctor Fate 19" ID="9171" SERIESID="705"/>
+            <File Name="Green Arrow 34" ID="12159" SERIESID="918"/>
+            <File Name="Justice League Europe 16" ID="17258" SERIESID="1232"/>
+            <File Name="Legends of the Dark Knight 9" ID="4756" SERIESID="296"/>
+            <File Name="New Gods 18" ID="20437" SERIESID="1485"/>
+            <File Name="Suicide Squad 43" ID="26012" SERIESID="1928"/>
+            <File Name="Beautiful Stories For Ugly Children 13" ID="5369" SERIESID="407"/>
+            <File Name="Butcher 4" ID="6362" SERIESID="522"/>
+            <File Name="Checkmate 29" ID="6974" SERIESID="559"/>
+            <File Name="Doc Savage 22" ID="9145" SERIESID="703"/>
+            <File Name="Firestorm 100" ID="10148" SERIESID="853"/>
+            <File Name="Flash 41" ID="10453" SERIESID="808"/>
+            <File Name="Hawkworld 3" ID="14890" SERIESID="1010"/>
+            <File Name="Huntress 17" ID="16155" SERIESID="1093"/>
+            <File Name="Justice League America 41" ID="17112" SERIESID="1227"/>
+            <File Name="Legion of Super-Heroes 10" ID="18546" SERIESID="1324"/>
+            <File Name="Sandman 17" ID="23021" SERIESID="1704"/>
+            <File Name="Star Trek:The Next Generation Annual 1" ID="25193" SERIESID="1953"/>
+            <File Name="Superboy 7" ID="26507" SERIESID="1965"/>
+            <File Name="Total Recall 1" ID="29657" SERIESID="2223"/>
+            <File Name="Wonder Woman 45" ID="31607" SERIESID="2352"/>
+            <File Name="World&apos;s Finest 1" ID="31828" SERIESID="2377"/>
+            <File Name="Adam Strange 3" ID="851" SERIESID="30"/>
+            <File Name="Batman 452" ID="3990" SERIESID="162"/>
+            <File Name="Demon 2" ID="8173" SERIESID="687"/>
+            <File Name="Dragonlance 22" ID="9405" SERIESID="723"/>
+            <File Name="El Diablo 12" ID="9556" SERIESID="740"/>
+            <File Name="Green Lantern 3" ID="12777" SERIESID="931"/>
+            <File Name="Hawk and Dove 15" ID="13362" SERIESID="998"/>
+            <File Name="Hellblazer 32" ID="15456" SERIESID="1039"/>
+            <File Name="Mister Miracle 18" ID="19312" SERIESID="1443"/>
+            <File Name="New Titans 68" ID="20575" SERIESID="1491"/>
+            <File Name="Secret Origins 50" ID="23641" SERIESID="1764"/>
+            <File Name="Star Trek 11" ID="25066" SERIESID="1932"/>
+            <File Name="Superman 46" ID="27172" SERIESID="1985"/>
+            <File Name="Time Masters 7" ID="29281" SERIESID="2199"/>
+            <File Name="Adventures of Ford Fairlane 4" ID="1553" SERIESID="42"/>
+            <File Name="Adventures of Superman 469" ID="1738" SERIESID="1984"/>
+            <File Name="Animal Man 26" ID="2658" SERIESID="83"/>
+            <File Name="Beautiful Stories For Ugly Children 14" ID="5370" SERIESID="407"/>
+            <File Name="Blackhawk 16" ID="5812" SERIESID="461"/>
+            <File Name="Checkmate 30" ID="6975" SERIESID="559"/>
+            <File Name="Detective Comics 619" ID="8914" SERIESID="693"/>
+            <File Name="Doom Patrol 35" ID="9294" SERIESID="714"/>
+            <File Name="Invaders From Home 3" ID="16364" SERIESID="1113"/>
+            <File Name="L.E.G.I.O.N. &apos;90 18" ID="18208" SERIESID="1314"/>
+            <File Name="Shade, the Changing Man 2" ID="24060" SERIESID="1788"/>
+            <File Name="Star Trek:The Next Generation 11" ID="25194" SERIESID="1953"/>
+            <File Name="Starman 25" ID="25894" SERIESID="1865"/>
+            <File Name="Swamp Thing 98" ID="28307" SERIESID="2109"/>
+            <File Name="Who&apos;s Who in the DC Universe 1" ID="30809" SERIESID="2146"/>
         </Directory>
         <Directory Name="CDCC 1990 07">
-            <File Name="&apos;Mazing Man Special 3"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 21"/>
-            <File Name="Adventures of Superman Annual 2"/>
-            <File Name="Atlantis Chronicles 6"/>
-            <File Name="Batman 453"/>
-            <File Name="Captain Atom 44"/>
-            <File Name="Green Arrow 35"/>
-            <File Name="Justice League Europe 17"/>
-            <File Name="New Gods 19"/>
-            <File Name="Sandman 18"/>
-            <File Name="Shadow Strikes 11"/>
-            <File Name="Suicide Squad 44"/>
-            <File Name="Action Comics 656"/>
-            <File Name="Bugs Bunny 3"/>
-            <File Name="Detective Comics 620"/>
-            <File Name="L.E.G.I.O.N. &apos;90 Annual 1"/>
-            <File Name="Legends of the Dark Knight 10"/>
-            <File Name="Butcher 5"/>
-            <File Name="Doc Savage 23"/>
-            <File Name="Flash 42"/>
-            <File Name="Forgotten Realms 12"/>
-            <File Name="Green Arrow 36"/>
-            <File Name="Hawkworld 4"/>
-            <File Name="Huntress 18"/>
-            <File Name="Justice League America 42"/>
-            <File Name="Legion of Super-Heroes 11"/>
-            <File Name="Nation of Snitches 1"/>
-            <File Name="Superboy 8"/>
-            <File Name="TSR Worlds 1"/>
-            <File Name="Wonder Woman 46"/>
-            <File Name="World&apos;s Finest 2"/>
-            <File Name="Batman 454"/>
-            <File Name="Breathtaker 1"/>
-            <File Name="Demon 3"/>
-            <File Name="El Diablo 13"/>
-            <File Name="Enemy Ace Special 1"/>
-            <File Name="Green Lantern 4"/>
-            <File Name="Hawk and Dove 16"/>
-            <File Name="Hellblazer 33"/>
-            <File Name="Invaders From Home 4"/>
-            <File Name="Legion of Super-Heroes Annual 1"/>
-            <File Name="Mister Miracle 19"/>
-            <File Name="New Titans Annual 6"/>
-            <File Name="Star Trek 12"/>
-            <File Name="Superman 47"/>
-            <File Name="Time Masters 8"/>
-            <File Name="Adventures of Superman 470"/>
-            <File Name="Animal Man 27"/>
-            <File Name="Beautiful Stories For Ugly Children 15"/>
-            <File Name="Detective Comics 621"/>
-            <File Name="Doom Patrol 36"/>
-            <File Name="Forgotten Realms 13"/>
-            <File Name="Green Arrow 37"/>
-            <File Name="L.E.G.I.O.N. &apos;90 19"/>
-            <File Name="Sandman 19"/>
-            <File Name="Shade, the Changing Man 3"/>
-            <File Name="Spelljammer 1"/>
-            <File Name="Star Trek:The Next Generation 12"/>
-            <File Name="Starman 26"/>
-            <File Name="Swamp Thing 99"/>
-            <File Name="Who&apos;s Who in the DC Universe 2"/>
+            <File Name="&apos;Mazing Man Special 3" ID="19082" SERIESID="1296"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 21" ID="874" SERIESID="32"/>
+            <File Name="Adventures of Superman Annual 2" ID="1739" SERIESID="1984"/>
+            <File Name="Atlantis Chronicles 6" ID="3287" SERIESID="124"/>
+            <File Name="Batman 453" ID="3991" SERIESID="162"/>
+            <File Name="Captain Atom 44" ID="6515" SERIESID="527"/>
+            <File Name="Green Arrow 35" ID="12160" SERIESID="918"/>
+            <File Name="Justice League Europe 17" ID="17259" SERIESID="1232"/>
+            <File Name="New Gods 19" ID="20438" SERIESID="1485"/>
+            <File Name="Sandman 18" ID="23022" SERIESID="1704"/>
+            <File Name="Shadow Strikes 11" ID="24213" SERIESID="1798"/>
+            <File Name="Suicide Squad 44" ID="26013" SERIESID="1928"/>
+            <File Name="Action Comics 656" ID="672" SERIESID="28"/>
+            <File Name="Bugs Bunny 3" ID="7098" SERIESID="517"/>
+            <File Name="Detective Comics 620" ID="8915" SERIESID="693"/>
+            <File Name="L.E.G.I.O.N. &apos;90 Annual 1" ID="18209" SERIESID="1314"/>
+            <File Name="Legends of the Dark Knight 10" ID="4757" SERIESID="296"/>
+            <File Name="Butcher 5" ID="6363" SERIESID="522"/>
+            <File Name="Doc Savage 23" ID="9146" SERIESID="703"/>
+            <File Name="Flash 42" ID="10454" SERIESID="808"/>
+            <File Name="Forgotten Realms 12" ID="10905" SERIESID="839"/>
+            <File Name="Green Arrow 36" ID="12161" SERIESID="918"/>
+            <File Name="Hawkworld 4" ID="14891" SERIESID="1010"/>
+            <File Name="Huntress 18" ID="16156" SERIESID="1093"/>
+            <File Name="Justice League America 42" ID="17113" SERIESID="1227"/>
+            <File Name="Legion of Super-Heroes 11" ID="18547" SERIESID="1324"/>
+            <File Name="Nation of Snitches 1" ID="20247" SERIESID="1474"/>
+            <File Name="Superboy 8" ID="26508" SERIESID="1965"/>
+            <File Name="TSR Worlds 1" ID="29754" SERIESID="2247"/>
+            <File Name="Wonder Woman 46" ID="31608" SERIESID="2352"/>
+            <File Name="World&apos;s Finest 2" ID="31829" SERIESID="2377"/>
+            <File Name="Batman 454" ID="3992" SERIESID="162"/>
+            <File Name="Breathtaker 1" ID="7083" SERIESID="513"/>
+            <File Name="Demon 3" ID="8174" SERIESID="687"/>
+            <File Name="El Diablo 13" ID="9557" SERIESID="740"/>
+            <File Name="Enemy Ace Special 1" ID="9623" SERIESID="757"/>
+            <File Name="Green Lantern 4" ID="12778" SERIESID="931"/>
+            <File Name="Hawk and Dove 16" ID="13363" SERIESID="998"/>
+            <File Name="Hellblazer 33" ID="15457" SERIESID="1039"/>
+            <File Name="Invaders From Home 4" ID="16365" SERIESID="1113"/>
+            <File Name="Legion of Super-Heroes Annual 1" ID="18548" SERIESID="1324"/>
+            <File Name="Mister Miracle 19" ID="19313" SERIESID="1443"/>
+            <File Name="New Titans Annual 6" ID="20577" SERIESID="1491"/>
+            <File Name="Star Trek 12" ID="25067" SERIESID="1932"/>
+            <File Name="Superman 47" ID="27173" SERIESID="1985"/>
+            <File Name="Time Masters 8" ID="29282" SERIESID="2199"/>
+            <File Name="Adventures of Superman 470" ID="1740" SERIESID="1984"/>
+            <File Name="Animal Man 27" ID="2659" SERIESID="83"/>
+            <File Name="Beautiful Stories For Ugly Children 15" ID="5371" SERIESID="407"/>
+            <File Name="Detective Comics 621" ID="8916" SERIESID="693"/>
+            <File Name="Doom Patrol 36" ID="9295" SERIESID="714"/>
+            <File Name="Forgotten Realms 13" ID="10906" SERIESID="839"/>
+            <File Name="Green Arrow 37" ID="12162" SERIESID="918"/>
+            <File Name="L.E.G.I.O.N. &apos;90 19" ID="18210" SERIESID="1314"/>
+            <File Name="Sandman 19" ID="23023" SERIESID="1704"/>
+            <File Name="Shade, the Changing Man 3" ID="24061" SERIESID="1788"/>
+            <File Name="Spelljammer 1" ID="25793" SERIESID="1850"/>
+            <File Name="Star Trek:The Next Generation 12" ID="25195" SERIESID="1953"/>
+            <File Name="Starman 26" ID="25895" SERIESID="1865"/>
+            <File Name="Swamp Thing 99" ID="28308" SERIESID="2109"/>
+            <File Name="Who&apos;s Who in the DC Universe 2" ID="30810" SERIESID="2146"/>
         </Directory>
         <Directory Name="CDCC 1990 08">
-            <File Name="Action Comics 657"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 22"/>
-            <File Name="Atlantis Chronicles 7"/>
-            <File Name="Captain Atom 45"/>
-            <File Name="Doctor Fate 20"/>
-            <File Name="Justice League Europe 18"/>
-            <File Name="Legends of the Dark Knight 11"/>
-            <File Name="New Titans 69"/>
-            <File Name="Sgt. Rock Special 9"/>
-            <File Name="Shadow Strikes 12"/>
-            <File Name="Suicide Squad 45"/>
-            <File Name="Doc Savage 24"/>
-            <File Name="Flash 43"/>
-            <File Name="Green Arrow 38"/>
-            <File Name="Huntress 19"/>
-            <File Name="Justice League America 43"/>
-            <File Name="Legion of Super-Heroes 12"/>
-            <File Name="Superboy 9"/>
-            <File Name="Wonder Woman 47"/>
-            <File Name="Batman 455"/>
-            <File Name="Breathtaker 2"/>
-            <File Name="Demon 4"/>
-            <File Name="Dragonlance 23"/>
-            <File Name="El Diablo 14"/>
-            <File Name="Forgotten Realms 14"/>
-            <File Name="Green Lantern 5"/>
-            <File Name="Hawk and Dove 17"/>
-            <File Name="Hellblazer 34"/>
-            <File Name="Mister Miracle 20"/>
-            <File Name="Ms. Tree Quarterly 2"/>
-            <File Name="New Titans 70"/>
-            <File Name="Star Trek 13"/>
-            <File Name="Superman 48"/>
-            <File Name="Tiny Toon Adventures Magazine 1"/>
-            <File Name="World&apos;s Finest 3"/>
-            <File Name="Adventures of Superman 471"/>
-            <File Name="Animal Man 28"/>
-            <File Name="Detective Comics 622"/>
-            <File Name="Doom Patrol 37"/>
-            <File Name="Invaders From Home 5"/>
-            <File Name="L.E.G.I.O.N. &apos;90 20"/>
-            <File Name="Sandman 20"/>
-            <File Name="Shade, the Changing Man 4"/>
-            <File Name="Spelljammer 2"/>
-            <File Name="Star Trek:The Next Generation 13"/>
-            <File Name="Starman 27"/>
-            <File Name="Swamp Thing 100"/>
-            <File Name="Who&apos;s Who in the DC Universe 3"/>
+            <File Name="Action Comics 657" ID="673" SERIESID="28"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 22" ID="875" SERIESID="32"/>
+            <File Name="Atlantis Chronicles 7" ID="3288" SERIESID="124"/>
+            <File Name="Captain Atom 45" ID="6516" SERIESID="527"/>
+            <File Name="Doctor Fate 20" ID="9172" SERIESID="705"/>
+            <File Name="Justice League Europe 18" ID="17260" SERIESID="1232"/>
+            <File Name="Legends of the Dark Knight 11" ID="4758" SERIESID="296"/>
+            <File Name="New Titans 69" ID="20576" SERIESID="1491"/>
+            <File Name="Sgt. Rock Special 9" ID="24028" SERIESID="1782"/>
+            <File Name="Shadow Strikes 12" ID="24214" SERIESID="1798"/>
+            <File Name="Suicide Squad 45" ID="26014" SERIESID="1928"/>
+            <File Name="Doc Savage 24" ID="9147" SERIESID="703"/>
+            <File Name="Flash 43" ID="10455" SERIESID="808"/>
+            <File Name="Green Arrow 38" ID="12163" SERIESID="918"/>
+            <File Name="Huntress 19" ID="16157" SERIESID="1093"/>
+            <File Name="Justice League America 43" ID="17114" SERIESID="1227"/>
+            <File Name="Legion of Super-Heroes 12" ID="18549" SERIESID="1324"/>
+            <File Name="Superboy 9" ID="26509" SERIESID="1965"/>
+            <File Name="Wonder Woman 47" ID="31609" SERIESID="2352"/>
+            <File Name="Batman 455" ID="3993" SERIESID="162"/>
+            <File Name="Breathtaker 2" ID="7084" SERIESID="513"/>
+            <File Name="Demon 4" ID="8175" SERIESID="687"/>
+            <File Name="Dragonlance 23" ID="9406" SERIESID="723"/>
+            <File Name="El Diablo 14" ID="9558" SERIESID="740"/>
+            <File Name="Forgotten Realms 14" ID="10907" SERIESID="839"/>
+            <File Name="Green Lantern 5" ID="12779" SERIESID="931"/>
+            <File Name="Hawk and Dove 17" ID="13364" SERIESID="998"/>
+            <File Name="Hellblazer 34" ID="15458" SERIESID="1039"/>
+            <File Name="Mister Miracle 20" ID="19314" SERIESID="1443"/>
+            <File Name="Ms. Tree Quarterly 2" ID="19706" SERIESID="1458"/>
+            <File Name="New Titans 70" ID="20578" SERIESID="1491"/>
+            <File Name="Star Trek 13" ID="25068" SERIESID="1932"/>
+            <File Name="Superman 48" ID="27174" SERIESID="1985"/>
+            <File Name="Tiny Toon Adventures Magazine 1" ID="29288" SERIESID="2201"/>
+            <File Name="World&apos;s Finest 3" ID="31830" SERIESID="2377"/>
+            <File Name="Adventures of Superman 471" ID="1741" SERIESID="1984"/>
+            <File Name="Animal Man 28" ID="2660" SERIESID="83"/>
+            <File Name="Detective Comics 622" ID="8917" SERIESID="693"/>
+            <File Name="Doom Patrol 37" ID="9296" SERIESID="714"/>
+            <File Name="Invaders From Home 5" ID="16366" SERIESID="1113"/>
+            <File Name="L.E.G.I.O.N. &apos;90 20" ID="18211" SERIESID="1314"/>
+            <File Name="Sandman 20" ID="23024" SERIESID="1704"/>
+            <File Name="Shade, the Changing Man 4" ID="24062" SERIESID="1788"/>
+            <File Name="Spelljammer 2" ID="25794" SERIESID="1850"/>
+            <File Name="Star Trek:The Next Generation 13" ID="25196" SERIESID="1953"/>
+            <File Name="Starman 27" ID="25896" SERIESID="1865"/>
+            <File Name="Swamp Thing 100" ID="28309" SERIESID="2109"/>
+            <File Name="Who&apos;s Who in the DC Universe 3" ID="30811" SERIESID="2146"/>
         </Directory>
         <Directory Name="CDCC 1990 09">
-            <File Name="Action Comics 658"/>
-            <File Name="Advanced Dungeons &amp; Dragons Annual Comic Book 1"/>
-            <File Name="Captain Atom 46"/>
-            <File Name="Doctor Fate 21"/>
-            <File Name="Hawk and Dove Annual 1"/>
-            <File Name="Justice League Europe 19"/>
-            <File Name="Looney Tunes Magazine 4"/>
-            <File Name="Nazz 1"/>
-            <File Name="Suicide Squad 46"/>
-            <File Name="Beautiful Stories For Ugly Children 16"/>
-            <File Name="Flash 44"/>
-            <File Name="Hawkworld 5"/>
-            <File Name="Justice League America 44"/>
-            <File Name="Lobo 1"/>
-            <File Name="New Gods 20"/>
-            <File Name="Shadow Strikes 13"/>
-            <File Name="Superboy 10"/>
-            <File Name="Wonder Woman 48"/>
-            <File Name="Batman 456"/>
-            <File Name="Breathtaker 3"/>
-            <File Name="Checkmate 31"/>
-            <File Name="Demon 5"/>
-            <File Name="Detective Comics Annual 3"/>
-            <File Name="Dragonlance 24"/>
-            <File Name="Forgotten Realms 15"/>
-            <File Name="Green Lantern 6"/>
-            <File Name="Hawk and Dove 18"/>
-            <File Name="Hellblazer 35"/>
-            <File Name="Mister Miracle 21"/>
-            <File Name="New Titans 71"/>
-            <File Name="Question Quarterly 1"/>
-            <File Name="Superman 49"/>
-            <File Name="Adventures of Superman 472"/>
-            <File Name="Animal Man 29"/>
-            <File Name="Beautiful Stories For Ugly Children 17"/>
-            <File Name="Doom Patrol 38"/>
-            <File Name="L.E.G.I.O.N. &apos;90 21"/>
-            <File Name="Shade, the Changing Man 5"/>
-            <File Name="Spelljammer 3"/>
-            <File Name="Starman 28"/>
-            <File Name="Swamp Thing 101"/>
-            <File Name="Who&apos;s Who in the DC Universe 4"/>
-            <File Name="Invaders From Home 6"/>
+            <File Name="Action Comics 658" ID="674" SERIESID="28"/>
+            <File Name="Advanced Dungeons &amp; Dragons Annual Comic Book 1" ID="876" SERIESID="32"/>
+            <File Name="Captain Atom 46" ID="6517" SERIESID="527"/>
+            <File Name="Doctor Fate 21" ID="9173" SERIESID="705"/>
+            <File Name="Hawk and Dove Annual 1" ID="13365" SERIESID="998"/>
+            <File Name="Justice League Europe 19" ID="17261" SERIESID="1232"/>
+            <File Name="Looney Tunes Magazine 4" ID="19362" SERIESID="1371"/>
+            <File Name="Nazz 1" ID="20248" SERIESID="1475"/>
+            <File Name="Suicide Squad 46" ID="26015" SERIESID="1928"/>
+            <File Name="Beautiful Stories For Ugly Children 16" ID="5372" SERIESID="407"/>
+            <File Name="Flash 44" ID="10456" SERIESID="808"/>
+            <File Name="Hawkworld 5" ID="14892" SERIESID="1010"/>
+            <File Name="Justice League America 44" ID="17115" SERIESID="1227"/>
+            <File Name="Lobo 1" ID="18785" SERIESID="1340"/>
+            <File Name="New Gods 20" ID="20439" SERIESID="1485"/>
+            <File Name="Shadow Strikes 13" ID="24215" SERIESID="1798"/>
+            <File Name="Superboy 10" ID="26510" SERIESID="1965"/>
+            <File Name="Wonder Woman 48" ID="31610" SERIESID="2352"/>
+            <File Name="Batman 456" ID="3994" SERIESID="162"/>
+            <File Name="Breathtaker 3" ID="7085" SERIESID="513"/>
+            <File Name="Checkmate 31" ID="6976" SERIESID="559"/>
+            <File Name="Demon 5" ID="8176" SERIESID="687"/>
+            <File Name="Detective Comics Annual 3" ID="8918" SERIESID="693"/>
+            <File Name="Dragonlance 24" ID="9407" SERIESID="723"/>
+            <File Name="Forgotten Realms 15" ID="10908" SERIESID="839"/>
+            <File Name="Green Lantern 6" ID="12780" SERIESID="931"/>
+            <File Name="Hawk and Dove 18" ID="13366" SERIESID="998"/>
+            <File Name="Hellblazer 35" ID="15459" SERIESID="1039"/>
+            <File Name="Mister Miracle 21" ID="19315" SERIESID="1443"/>
+            <File Name="New Titans 71" ID="20579" SERIESID="1491"/>
+            <File Name="Question Quarterly 1" ID="22163" SERIESID="1633"/>
+            <File Name="Superman 49" ID="27175" SERIESID="1985"/>
+            <File Name="Adventures of Superman 472" ID="1742" SERIESID="1984"/>
+            <File Name="Animal Man 29" ID="2661" SERIESID="83"/>
+            <File Name="Beautiful Stories For Ugly Children 17" ID="5373" SERIESID="407"/>
+            <File Name="Doom Patrol 38" ID="9297" SERIESID="714"/>
+            <File Name="L.E.G.I.O.N. &apos;90 21" ID="18212" SERIESID="1314"/>
+            <File Name="Shade, the Changing Man 5" ID="24063" SERIESID="1788"/>
+            <File Name="Spelljammer 3" ID="25795" SERIESID="1850"/>
+            <File Name="Starman 28" ID="25897" SERIESID="1865"/>
+            <File Name="Swamp Thing 101" ID="28310" SERIESID="2109"/>
+            <File Name="Who&apos;s Who in the DC Universe 4" ID="30812" SERIESID="2146"/>
+            <File Name="Invaders From Home 6" ID="16367" SERIESID="1113"/>
         </Directory>
         <Directory Name="CDCC 1990 10">
-            <File Name="Captain Atom 47"/>
-            <File Name="Doctor Fate 22"/>
-            <File Name="Hawkworld Annual 1"/>
-            <File Name="Justice League Europe 20"/>
-            <File Name="Legion of Super-Heroes 13"/>
-            <File Name="Suicide Squad 47"/>
-            <File Name="Action Comics 659"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 23"/>
-            <File Name="Detective Comics 623"/>
-            <File Name="Green Arrow 39"/>
-            <File Name="Legends of the Dark Knight 12"/>
-            <File Name="Breathtaker 4"/>
-            <File Name="Dragonlance 25"/>
-            <File Name="Flash 45"/>
-            <File Name="Hawkworld 6"/>
-            <File Name="Justice League America 45"/>
-            <File Name="Lobo 2"/>
-            <File Name="Superboy 11"/>
-            <File Name="Wonder Woman 49"/>
-            <File Name="Batman 457"/>
-            <File Name="Demon 6"/>
-            <File Name="El Diablo 15"/>
-            <File Name="Forgotten Realms 16"/>
-            <File Name="Green Arrow 40"/>
-            <File Name="Green Lantern 7"/>
-            <File Name="Hawk and Dove 19"/>
-            <File Name="Hellblazer 36"/>
-            <File Name="Mister Miracle 22"/>
-            <File Name="Star Trek 14"/>
-            <File Name="Superman 50"/>
-            <File Name="Adventures of Superman 473"/>
-            <File Name="Animal Man 30"/>
-            <File Name="Beautiful Stories For Ugly Children 18"/>
-            <File Name="Checkmate 32"/>
-            <File Name="Doom Patrol 39"/>
-            <File Name="L.E.G.I.O.N. &apos;90 22"/>
-            <File Name="Shade, the Changing Man 6"/>
-            <File Name="Spelljammer 4"/>
-            <File Name="Star Trek:The Next Generation 14"/>
-            <File Name="Starman 29"/>
-            <File Name="Swamp Thing 102"/>
-            <File Name="Who&apos;s Who in the DC Universe 5"/>
+            <File Name="Captain Atom 47" ID="6518" SERIESID="527"/>
+            <File Name="Doctor Fate 22" ID="9174" SERIESID="705"/>
+            <File Name="Justice League Europe 20" ID="17262" SERIESID="1232"/>
+            <File Name="Legion of Super-Heroes 13" ID="18550" SERIESID="1324"/>
+            <File Name="Suicide Squad 47" ID="26016" SERIESID="1928"/>
+            <File Name="Action Comics 659" ID="675" SERIESID="28"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 23" ID="877" SERIESID="32"/>
+            <File Name="Detective Comics 623" ID="8919" SERIESID="693"/>
+            <File Name="Green Arrow 39" ID="12164" SERIESID="918"/>
+            <File Name="Legends of the Dark Knight 12" ID="4759" SERIESID="296"/>
+            <File Name="Breathtaker 4" ID="7086" SERIESID="513"/>
+            <File Name="Dragonlance 25" ID="9408" SERIESID="723"/>
+            <File Name="Flash 45" ID="10457" SERIESID="808"/>
+            <File Name="Hawkworld 6" ID="14894" SERIESID="1010"/>
+            <File Name="Justice League America 45" ID="17116" SERIESID="1227"/>
+            <File Name="Lobo 2" ID="18786" SERIESID="1340"/>
+            <File Name="Superboy 11" ID="26511" SERIESID="1965"/>
+            <File Name="Wonder Woman 49" ID="31611" SERIESID="2352"/>
+            <File Name="Batman 457" ID="3995" SERIESID="162"/>
+            <File Name="Demon 6" ID="8177" SERIESID="687"/>
+            <File Name="El Diablo 15" ID="9559" SERIESID="740"/>
+            <File Name="Forgotten Realms 16" ID="10910" SERIESID="839"/>
+            <File Name="Green Arrow 40" ID="12165" SERIESID="918"/>
+            <File Name="Green Lantern 7" ID="12781" SERIESID="931"/>
+            <File Name="Hawk and Dove 19" ID="13367" SERIESID="998"/>
+            <File Name="Hellblazer 36" ID="15460" SERIESID="1039"/>
+            <File Name="Mister Miracle 22" ID="19316" SERIESID="1443"/>
+            <File Name="Star Trek 14" ID="25069" SERIESID="1932"/>
+            <File Name="Superman 50" ID="27176" SERIESID="1985"/>
+            <File Name="Adventures of Superman 473" ID="1743" SERIESID="1984"/>
+            <File Name="Animal Man 30" ID="2662" SERIESID="83"/>
+            <File Name="Beautiful Stories For Ugly Children 18" ID="5374" SERIESID="407"/>
+            <File Name="Checkmate 32" ID="6977" SERIESID="559"/>
+            <File Name="Doom Patrol 39" ID="9298" SERIESID="714"/>
+            <File Name="Hawkworld Annual 1" ID="14893" SERIESID="1010"/>
+            <File Name="L.E.G.I.O.N. &apos;90 22" ID="18213" SERIESID="1314"/>
+            <File Name="Shade, the Changing Man 6" ID="24064" SERIESID="1788"/>
+            <File Name="Spelljammer 4" ID="25796" SERIESID="1850"/>
+            <File Name="Star Trek:The Next Generation 14" ID="25197" SERIESID="1953"/>
+            <File Name="Starman 29" ID="25898" SERIESID="1865"/>
+            <File Name="Swamp Thing 102" ID="28311" SERIESID="2109"/>
+            <File Name="Who&apos;s Who in the DC Universe 5" ID="30813" SERIESID="2146"/>
         </Directory>
         <Directory Name="CDCC 1990 11">
-            <File Name="Action Comics 660"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 24"/>
-            <File Name="Books of Magic 1"/>
-            <File Name="Captain Atom 48"/>
-            <File Name="Detective Comics 624"/>
-            <File Name="Doctor Fate 23"/>
-            <File Name="Green Arrow 41"/>
-            <File Name="Justice League Europe 21"/>
-            <File Name="Justice League Quarterly 1"/>
-            <File Name="New Gods 21"/>
-            <File Name="Sandman 21"/>
-            <File Name="Sgt. Rock Special 10"/>
-            <File Name="Shadow Strikes 14"/>
-            <File Name="Suicide Squad 48"/>
-            <File Name="Tiny Toon Adventures Magazine 2"/>
-            <File Name="World Without End 1"/>
-            <File Name="Flash 46"/>
-            <File Name="Hawkworld 7"/>
-            <File Name="Justice League International Special 2"/>
-            <File Name="Legion of Super-Heroes 14"/>
-            <File Name="Lobo 3"/>
-            <File Name="Robin 1"/>
-            <File Name="Superboy 12"/>
-            <File Name="Wonder Woman 50"/>
-            <File Name="Batman 458"/>
-            <File Name="Demon 7"/>
-            <File Name="Dragonlance 26"/>
-            <File Name="El Diablo 16"/>
-            <File Name="Forgotten Realms 17"/>
-            <File Name="Green Lantern 8"/>
-            <File Name="Hawk and Dove 20"/>
-            <File Name="Hellblazer 37"/>
-            <File Name="Justice League America 46"/>
-            <File Name="Legends of the Dark Knight 13"/>
-            <File Name="Mister Miracle 23"/>
-            <File Name="Ms. Tree Quarterly 3"/>
-            <File Name="New Titans 72"/>
-            <File Name="Star Trek 15"/>
-            <File Name="Superman 51"/>
-            <File Name="Adventures of Superman 474"/>
-            <File Name="Animal Man 31"/>
-            <File Name="Checkmate 33"/>
-            <File Name="Doom Patrol 40"/>
-            <File Name="L.E.G.I.O.N. &apos;91 23"/>
-            <File Name="Sandman 22"/>
-            <File Name="Shade, the Changing Man 7"/>
-            <File Name="Spelljammer 5"/>
-            <File Name="Star Trek:The Next Generation 15"/>
-            <File Name="Starman 30"/>
-            <File Name="Swamp Thing 103"/>
-            <File Name="Who&apos;s Who in the DC Universe 6"/>
+            <File Name="Action Comics 660" ID="676" SERIESID="28"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 24" ID="878" SERIESID="32"/>
+            <File Name="Books of Magic 1" ID="6077" SERIESID="494"/>
+            <File Name="Captain Atom 48" ID="6519" SERIESID="527"/>
+            <File Name="Detective Comics 624" ID="8920" SERIESID="693"/>
+            <File Name="Doctor Fate 23" ID="9175" SERIESID="705"/>
+            <File Name="Green Arrow 41" ID="12166" SERIESID="918"/>
+            <File Name="Justice League Europe 21" ID="17263" SERIESID="1232"/>
+            <File Name="Justice League Quarterly 1" ID="18018" SERIESID="1238"/>
+            <File Name="New Gods 21" ID="20440" SERIESID="1485"/>
+            <File Name="Sandman 21" ID="23025" SERIESID="1704"/>
+            <File Name="Sgt. Rock Special 10" ID="24029" SERIESID="1782"/>
+            <File Name="Shadow Strikes 14" ID="24216" SERIESID="1798"/>
+            <File Name="Suicide Squad 48" ID="26017" SERIESID="1928"/>
+            <File Name="Tiny Toon Adventures Magazine 2" ID="29289" SERIESID="2201"/>
+            <File Name="World Without End 1" ID="31968" SERIESID="2386"/>
+            <File Name="Flash 46" ID="10458" SERIESID="808"/>
+            <File Name="Hawkworld 7" ID="14895" SERIESID="1010"/>
+            <File Name="Justice League International Special 2" ID="17118" SERIESID="1227"/>
+            <File Name="Legion of Super-Heroes 14" ID="18551" SERIESID="1324"/>
+            <File Name="Lobo 3" ID="18787" SERIESID="1340"/>
+            <File Name="Robin 1" ID="22708" SERIESID="1672"/>
+            <File Name="Superboy 12" ID="26512" SERIESID="1965"/>
+            <File Name="Wonder Woman 50" ID="31612" SERIESID="2352"/>
+            <File Name="Batman 458" ID="3996" SERIESID="162"/>
+            <File Name="Demon 7" ID="8178" SERIESID="687"/>
+            <File Name="Dragonlance 26" ID="9409" SERIESID="723"/>
+            <File Name="El Diablo 16" ID="9560" SERIESID="740"/>
+            <File Name="Forgotten Realms 17" ID="10911" SERIESID="839"/>
+            <File Name="Green Lantern 8" ID="12782" SERIESID="931"/>
+            <File Name="Hawk and Dove 20" ID="13368" SERIESID="998"/>
+            <File Name="Hellblazer 37" ID="15461" SERIESID="1039"/>
+            <File Name="Justice League America 46" ID="17117" SERIESID="1227"/>
+            <File Name="Legends of the Dark Knight 13" ID="4760" SERIESID="296"/>
+            <File Name="Mister Miracle 23" ID="19317" SERIESID="1443"/>
+            <File Name="Ms. Tree Quarterly 3" ID="19707" SERIESID="1458"/>
+            <File Name="New Titans 72" ID="20580" SERIESID="1491"/>
+            <File Name="Star Trek 15" ID="25070" SERIESID="1932"/>
+            <File Name="Superman 51" ID="27177" SERIESID="1985"/>
+            <File Name="Adventures of Superman 474" ID="1744" SERIESID="1984"/>
+            <File Name="Animal Man 31" ID="2663" SERIESID="83"/>
+            <File Name="Checkmate 33" ID="6978" SERIESID="559"/>
+            <File Name="Doom Patrol 40" ID="9299" SERIESID="714"/>
+            <File Name="L.E.G.I.O.N. &apos;91 23" ID="18214" SERIESID="1314"/>
+            <File Name="Sandman 22" ID="23026" SERIESID="1704"/>
+            <File Name="Shade, the Changing Man 7" ID="24065" SERIESID="1788"/>
+            <File Name="Spelljammer 5" ID="25797" SERIESID="1850"/>
+            <File Name="Star Trek:The Next Generation 15" ID="25198" SERIESID="1953"/>
+            <File Name="Starman 30" ID="25899" SERIESID="1865"/>
+            <File Name="Swamp Thing 103" ID="28312" SERIESID="2109"/>
+            <File Name="Who&apos;s Who in the DC Universe 6" ID="30814" SERIESID="2146"/>
         </Directory>
         <Directory Name="CDCC 1990 12">
-            <File Name="Action Comics 661"/>
-            <File Name="Advanced Dungeons &amp; Dragons Comic Book 25"/>
-            <File Name="Books of Magic 2"/>
-            <File Name="Captain Atom 49"/>
-            <File Name="Detective Comics 625"/>
-            <File Name="Doctor Fate 24"/>
-            <File Name="Forgotten Realms Annual 1"/>
-            <File Name="Green Arrow 42"/>
-            <File Name="Justice League Europe 22"/>
-            <File Name="Legends of the Dark Knight 14"/>
-            <File Name="Looney Tunes Magazine 5"/>
-            <File Name="Nazz 2"/>
-            <File Name="Suicide Squad 49"/>
-            <File Name="World Without End 2"/>
-            <File Name="Avatar 1"/>
-            <File Name="Flash 47"/>
-            <File Name="Hawkworld 8"/>
-            <File Name="Legion of Super-Heroes 15"/>
-            <File Name="Lobo 4"/>
-            <File Name="New Gods 22"/>
-            <File Name="Robin 2"/>
-            <File Name="Superboy 13"/>
-            <File Name="Wonder Woman 51"/>
-            <File Name="Batman 459"/>
-            <File Name="Demon 8"/>
-            <File Name="Dragonlance 27"/>
-            <File Name="Forgotten Realms 18"/>
-            <File Name="Green Lantern 9"/>
-            <File Name="Hawk and Dove 21"/>
-            <File Name="Hellblazer 38"/>
-            <File Name="Justice League America 47"/>
-            <File Name="Mister Miracle 24"/>
-            <File Name="New Titans 73"/>
-            <File Name="Shadow Strikes 15"/>
-            <File Name="Star Trek 16"/>
-            <File Name="Superman 52"/>
+            <File Name="Action Comics 661" ID="677" SERIESID="28"/>
+            <File Name="Advanced Dungeons &amp; Dragons Comic Book 25" ID="879" SERIESID="32"/>
+            <File Name="Books of Magic 2" ID="6078" SERIESID="494"/>
+            <File Name="Captain Atom 49" ID="6520" SERIESID="527"/>
+            <File Name="Detective Comics 625" ID="8921" SERIESID="693"/>
+            <File Name="Doctor Fate 24" ID="9176" SERIESID="705"/>
+            <File Name="Forgotten Realms Annual 1" ID="10909" SERIESID="839"/>
+            <File Name="Green Arrow 42" ID="12167" SERIESID="918"/>
+            <File Name="Justice League Europe 22" ID="17264" SERIESID="1232"/>
+            <File Name="Legends of the Dark Knight 14" ID="4761" SERIESID="296"/>
+            <File Name="Looney Tunes Magazine 5" ID="19363" SERIESID="1371"/>
+            <File Name="Nazz 2" ID="20249" SERIESID="1475"/>
+            <File Name="Suicide Squad 49" ID="26018" SERIESID="1928"/>
+            <File Name="World Without End 2" ID="31969" SERIESID="2386"/>
+            <File Name="Avatar 1" ID="3125" SERIESID="141"/>
+            <File Name="Flash 47" ID="10459" SERIESID="808"/>
+            <File Name="Hawkworld 8" ID="14896" SERIESID="1010"/>
+            <File Name="Legion of Super-Heroes 15" ID="18552" SERIESID="1324"/>
+            <File Name="Lobo 4" ID="18788" SERIESID="1340"/>
+            <File Name="New Gods 22" ID="20441" SERIESID="1485"/>
+            <File Name="Robin 2" ID="22709" SERIESID="1672"/>
+            <File Name="Superboy 13" ID="26513" SERIESID="1965"/>
+            <File Name="Wonder Woman 51" ID="31613" SERIESID="2352"/>
+            <File Name="Batman 459" ID="3997" SERIESID="162"/>
+            <File Name="Demon 8" ID="8179" SERIESID="687"/>
+            <File Name="Dragonlance 27" ID="9410" SERIESID="723"/>
+            <File Name="Forgotten Realms 18" ID="10912" SERIESID="839"/>
+            <File Name="Green Lantern 9" ID="12783" SERIESID="931"/>
+            <File Name="Hawk and Dove 21" ID="13369" SERIESID="998"/>
+            <File Name="Hellblazer 38" ID="15462" SERIESID="1039"/>
+            <File Name="Justice League America 47" ID="17119" SERIESID="1227"/>
+            <File Name="Mister Miracle 24" ID="19318" SERIESID="1443"/>
+            <File Name="New Titans 73" ID="20581" SERIESID="1491"/>
+            <File Name="Shadow Strikes 15" ID="24217" SERIESID="1798"/>
+            <File Name="Star Trek 16" ID="25071" SERIESID="1932"/>
+            <File Name="Superman 52" ID="27178" SERIESID="1985"/>
         </Directory>
     </Year>

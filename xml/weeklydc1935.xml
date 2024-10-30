@@ -2,31 +2,31 @@
 <!DOCTYPE xml>
     <Year Name="CDCC 1935">
         <Directory Name="CDCC 1935 01">
-            <File Name="New Fun 1"/>
+            <File Name="New Fun 1" ID="20359" SERIESID="1454"/>
         </Directory>
         <Directory Name="CDCC 1935 02">
-            <File Name="New Fun 2"/>
+            <File Name="New Fun 2" ID="20360" SERIESID="1454"/>
         </Directory>
         <Directory Name="CDCC 1935 03">
-            <File Name="New Fun 3"/>
+            <File Name="New Fun 3" ID="20361" SERIESID="1454"/>
         </Directory>
         <Directory Name="CDCC 1935 04">
-            <File Name="New Fun 4"/>
+            <File Name="New Fun 4" ID="20362" SERIESID="1454"/>
         </Directory>
         <Directory Name="CDCC 1935 07">
-            <File Name="New Fun 5"/>
+            <File Name="New Fun 5" ID="20363" SERIESID="1454"/>
         </Directory>
         <Directory Name="CDCC 1935 09">
-            <File Name="New Fun 6"/>
+            <File Name="New Fun 6" ID="20364" SERIESID="1454"/>
         </Directory>
         <Directory Name="CDCC 1935 10">
-            <File Name="Big Book of Fun Comics 1"/>
+            <File Name="Big Book of Fun Comics 1" ID="5488" SERIESID="420"/>
         </Directory>
         <Directory Name="CDCC 1935 11">
-            <File Name="New Comics 1"/>
+            <File Name="New Comics 1" ID="20348" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1935 12">
-            <File Name="More Fun 7"/>
-            <File Name="New Comics 2"/>
+            <File Name="More Fun 7" ID="19813" SERIESID="1454"/>
+            <File Name="New Comics 2" ID="20349" SERIESID="33"/>
         </Directory>
     </Year>

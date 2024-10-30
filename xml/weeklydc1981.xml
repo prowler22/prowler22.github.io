@@ -2,392 +2,405 @@
 <!DOCTYPE xml>
     <Year Name="CDCC 1981">
         <Directory Name="CDCC 1981 01">
-            <File Name="Batman 334"/>
-            <File Name="Best of DC 11"/>
-            <File Name="DC Comics Presents 32"/>
-            <File Name="DC Special Blue Ribbon Digest 8"/>
-            <File Name="Flash 296"/>
-            <File Name="G.I. Combat 228"/>
-            <File Name="Ghosts 99"/>
-            <File Name="Jonah Hex 47"/>
-            <File Name="Justice League of America 189"/>
-            <File Name="New Teen Titans 6"/>
-            <File Name="Secrets of Haunted House 35"/>
-            <File Name="Superman 358"/>
-            <File Name="Weird War Tales 98"/>
-            <File Name="Wonder Woman 278"/>
-            <File Name="World&apos;s Finest Comics 268"/>
-            <File Name="Action Comics 518"/>
-            <File Name="Adventure Comics 480"/>
-            <File Name="Brave &amp; the Bold 173"/>
-            <File Name="Detective Comics 501"/>
-            <File Name="Green Lantern 139"/>
-            <File Name="House of Mystery 291"/>
-            <File Name="Legion of Super-Heroes 274"/>
-            <File Name="New Adventures of Superboy 16"/>
-            <File Name="Sgt. Rock 351"/>
-            <File Name="Super Friends 43"/>
-            <File Name="Unexpected 209"/>
-            <File Name="Unknown Soldier 250"/>
-            <File Name="Warlord 44"/>
+            <File Name="Batman in Belt &apos;em for Safety ( 1)" ID="37924" SERIESID="13011"/>
+            <File Name="Elson&apos;s Presents 1" ID="37794" SERIESID="3066"/>
+            <File Name="Elson&apos;s Presents 2" ID="37795" SERIESID="3066"/>
+            <File Name="Elson&apos;s Presents 3" ID="37796" SERIESID="3066"/>
+            <File Name="Elson&apos;s Presents 4" ID="37797" SERIESID="3066"/>
+            <File Name="Elson&apos;s Presents 5" ID="37798" SERIESID="3066"/>
+            <File Name="Elson&apos;s Presents 6" ID="37799" SERIESID="3066"/>
+            <File Name="Super Friends Special 1" ID="40674" SERIESID="3578"/>
+            <File Name="Batman 334" ID="3864" SERIESID="162"/>
+            <File Name="Best of DC 11" ID="5403" SERIESID="409"/>
+            <File Name="DC Comics Presents 32" ID="7679" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 8" ID="7921" SERIESID="649"/>
+            <File Name="Flash 296" ID="10354" SERIESID="807"/>
+            <File Name="G.I. Combat 228" ID="11641" SERIESID="887"/>
+            <File Name="Ghosts 99" ID="11434" SERIESID="882"/>
+            <File Name="Jonah Hex 47" ID="16730" SERIESID="1203"/>
+            <File Name="Justice League of America 189" ID="17930" SERIESID="1234"/>
+            <File Name="New Teen Titans 6" ID="20466" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 35" ID="23703" SERIESID="1771"/>
+            <File Name="Superman 358" ID="27540" SERIESID="1984"/>
+            <File Name="Weird War Tales 98" ID="30746" SERIESID="2315"/>
+            <File Name="Wonder Woman 278" ID="31320" SERIESID="2351"/>
+            <File Name="World&apos;s Finest Comics 268" ID="31593" SERIESID="2378"/>
+            <File Name="Action Comics 518" ID="501" SERIESID="28"/>
+            <File Name="Adventure Comics 480" ID="1339" SERIESID="33"/>
+            <File Name="Brave &amp; the Bold 173" ID="7044" SERIESID="509"/>
+            <File Name="Detective Comics 501" ID="8612" SERIESID="693"/>
+            <File Name="Green Lantern 139" ID="12687" SERIESID="930"/>
+            <File Name="House of Mystery 291" ID="15826" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 274" ID="18427" SERIESID="1964"/>
+            <File Name="New Adventures of Superboy 16" ID="20307" SERIESID="1479"/>
+            <File Name="Sgt. Rock 351" ID="23942" SERIESID="1534"/>
+            <File Name="Super Friends 43" ID="26714" SERIESID="1971"/>
+            <File Name="Unexpected 209" ID="29920" SERIESID="2133"/>
+            <File Name="Unknown Soldier 250" ID="30450" SERIESID="1930"/>
+            <File Name="Warlord 44" ID="30022" SERIESID="2303"/>
         </Directory>
         <Directory Name="CDCC 1981 02">
-            <File Name="Batman 335"/>
-            <File Name="Best of DC 12"/>
-            <File Name="DC Comics Presents 33"/>
-            <File Name="DC Special Blue Ribbon Digest 9"/>
-            <File Name="Flash 297"/>
-            <File Name="G.I. Combat 229"/>
-            <File Name="Ghosts 100"/>
-            <File Name="Jonah Hex 48"/>
-            <File Name="Justice League of America 190"/>
-            <File Name="New Teen Titans 7"/>
-            <File Name="Secrets of Haunted House 36"/>
-            <File Name="Superman 359"/>
-            <File Name="Superman Family 207"/>
-            <File Name="Tales of the Green Lantern Corps 1"/>
-            <File Name="Weird War Tales 99"/>
-            <File Name="Wonder Woman 279"/>
-            <File Name="Action Comics 519"/>
-            <File Name="Adventure Comics 481"/>
-            <File Name="Brave &amp; the Bold 174"/>
-            <File Name="Detective Comics 502"/>
-            <File Name="Green Lantern 140"/>
-            <File Name="House of Mystery 292"/>
-            <File Name="Legion of Super-Heroes 275"/>
-            <File Name="New Adventures of Superboy 17"/>
-            <File Name="Sgt. Rock 352"/>
-            <File Name="Super Friends 44"/>
-            <File Name="Unexpected 210"/>
-            <File Name="Unknown Soldier 251"/>
-            <File Name="Warlord 45"/>
+            <File Name="Batman 335" ID="3865" SERIESID="162"/>
+            <File Name="Best of DC 12" ID="5404" SERIESID="409"/>
+            <File Name="DC Comics Presents 33" ID="7680" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 9" ID="7922" SERIESID="649"/>
+            <File Name="Flash 297" ID="10355" SERIESID="807"/>
+            <File Name="G.I. Combat 229" ID="11642" SERIESID="887"/>
+            <File Name="Ghosts 100" ID="11435" SERIESID="882"/>
+            <File Name="Jonah Hex 48" ID="16731" SERIESID="1203"/>
+            <File Name="Justice League of America 190" ID="17931" SERIESID="1234"/>
+            <File Name="New Teen Titans 7" ID="20467" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 36" ID="23704" SERIESID="1771"/>
+            <File Name="Superman 359" ID="27541" SERIESID="1984"/>
+            <File Name="Superman Family 207" ID="27720" SERIESID="1889"/>
+            <File Name="Tales of the Green Lantern Corps 1" ID="28497" SERIESID="2129"/>
+            <File Name="Weird War Tales 99" ID="30747" SERIESID="2315"/>
+            <File Name="Wonder Woman 279" ID="31321" SERIESID="2351"/>
+            <File Name="Action Comics 519" ID="502" SERIESID="28"/>
+            <File Name="Adventure Comics 481" ID="1340" SERIESID="33"/>
+            <File Name="Brave &amp; the Bold 174" ID="7045" SERIESID="509"/>
+            <File Name="Detective Comics 502" ID="8613" SERIESID="693"/>
+            <File Name="Green Lantern 140" ID="12688" SERIESID="930"/>
+            <File Name="House of Mystery 292" ID="15827" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 275" ID="18428" SERIESID="1964"/>
+            <File Name="New Adventures of Superboy 17" ID="20308" SERIESID="1479"/>
+            <File Name="Sgt. Rock 352" ID="23943" SERIESID="1534"/>
+            <File Name="Super Friends 44" ID="26715" SERIESID="1971"/>
+            <File Name="Unexpected 210" ID="29921" SERIESID="2133"/>
+            <File Name="Unknown Soldier 251" ID="30451" SERIESID="1930"/>
+            <File Name="Warlord 45" ID="30023" SERIESID="2303"/>
         </Directory>
         <Directory Name="CDCC 1981 03">
-            <File Name="Batman 336"/>
-            <File Name="Best of DC 13"/>
-            <File Name="DC Comics Presents 34"/>
-            <File Name="DC Special Blue Ribbon Digest 10"/>
-            <File Name="Flash 298"/>
-            <File Name="G.I. Combat 230"/>
-            <File Name="Ghosts 101"/>
-            <File Name="Jonah Hex 49"/>
-            <File Name="Justice League of America 191"/>
-            <File Name="New Teen Titans 8"/>
-            <File Name="Secrets of Haunted House 37"/>
-            <File Name="Superman 360"/>
-            <File Name="Tales of the Green Lantern Corps 2"/>
-            <File Name="Weird War Tales 100"/>
-            <File Name="Wonder Woman 280"/>
-            <File Name="World&apos;s Finest Comics 269"/>
-            <File Name="Action Comics 520"/>
-            <File Name="Adventure Comics 482"/>
-            <File Name="Brave &amp; the Bold 175"/>
-            <File Name="Detective Comics 503"/>
-            <File Name="Green Lantern 141"/>
-            <File Name="House of Mystery 293"/>
-            <File Name="Legion of Super-Heroes 276"/>
-            <File Name="New Adventures of Superboy 18"/>
-            <File Name="Sgt. Rock 353"/>
-            <File Name="Super Friends 45"/>
-            <File Name="Unexpected 211"/>
-            <File Name="Unknown Soldier 252"/>
-            <File Name="Warlord 46"/>
+            <File Name="Batman 336" ID="3866" SERIESID="162"/>
+            <File Name="Best of DC 13" ID="5405" SERIESID="409"/>
+            <File Name="DC Comics Presents 34" ID="7681" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 10" ID="7923" SERIESID="649"/>
+            <File Name="Flash 298" ID="10356" SERIESID="807"/>
+            <File Name="G.I. Combat 230" ID="11643" SERIESID="887"/>
+            <File Name="Ghosts 101" ID="11436" SERIESID="882"/>
+            <File Name="Jonah Hex 49" ID="16732" SERIESID="1203"/>
+            <File Name="Justice League of America 191" ID="17932" SERIESID="1234"/>
+            <File Name="New Teen Titans 8" ID="20468" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 37" ID="23705" SERIESID="1771"/>
+            <File Name="Superman 360" ID="27542" SERIESID="1984"/>
+            <File Name="Tales of the Green Lantern Corps 2" ID="28498" SERIESID="2129"/>
+            <File Name="Weird War Tales 100" ID="30748" SERIESID="2315"/>
+            <File Name="Wonder Woman 280" ID="31322" SERIESID="2351"/>
+            <File Name="World&apos;s Finest Comics 269" ID="31594" SERIESID="2378"/>
+            <File Name="Action Comics 520" ID="503" SERIESID="28"/>
+            <File Name="Adventure Comics 482" ID="1341" SERIESID="33"/>
+            <File Name="Brave &amp; the Bold 175" ID="7046" SERIESID="509"/>
+            <File Name="Detective Comics 503" ID="8614" SERIESID="693"/>
+            <File Name="Green Lantern 141" ID="12689" SERIESID="930"/>
+            <File Name="House of Mystery 293" ID="15828" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 276" ID="18429" SERIESID="1964"/>
+            <File Name="New Adventures of Superboy 18" ID="20309" SERIESID="1479"/>
+            <File Name="Sgt. Rock 353" ID="23944" SERIESID="1534"/>
+            <File Name="Super Friends 45" ID="26716" SERIESID="1971"/>
+            <File Name="Unexpected 211" ID="29922" SERIESID="2133"/>
+            <File Name="Unknown Soldier 252" ID="30452" SERIESID="1930"/>
+            <File Name="Warlord 46" ID="30024" SERIESID="2303"/>
         </Directory>
         <Directory Name="CDCC 1981 04">
-            <File Name="Batman 337"/>
-            <File Name="Best of DC 14"/>
-            <File Name="DC Comics Presents 35"/>
-            <File Name="DC Special Blue Ribbon Digest 11"/>
-            <File Name="Flash 299"/>
-            <File Name="G.I. Combat 231"/>
-            <File Name="Ghosts 102"/>
-            <File Name="Jonah Hex 50"/>
-            <File Name="Justice League of America 192"/>
-            <File Name="New Teen Titans 9"/>
-            <File Name="Secrets of Haunted House 38"/>
-            <File Name="Superman 361"/>
-            <File Name="Tales of the Green Lantern Corps 3"/>
-            <File Name="Weird War Tales 101"/>
-            <File Name="Wonder Woman 281"/>
-            <File Name="Action Comics 521"/>
-            <File Name="Adventure Comics 483"/>
-            <File Name="Brave &amp; the Bold 176"/>
-            <File Name="Detective Comics 504"/>
-            <File Name="Green Lantern 142"/>
-            <File Name="House of Mystery 294"/>
-            <File Name="Legion of Super-Heroes 277"/>
-            <File Name="Madame Xanadu 1"/>
-            <File Name="New Adventures of Superboy 19"/>
-            <File Name="Sgt. Rock 354"/>
-            <File Name="Super Friends 46"/>
-            <File Name="Superman Family 208"/>
-            <File Name="Unexpected 212"/>
-            <File Name="Unknown Soldier 253"/>
-            <File Name="Warlord 47"/>
-            <File Name="Marvel Treasury Edition Featuring Superman and Spider-Man 28"/>
+            <File Name="Lionel Play World 1" ID="37791" SERIESID="3063"/>
+            <File Name="Lionel Play World 2" ID="37792" SERIESID="3063"/>
+            <File Name="Lionel Play World 3" ID="37793" SERIESID="3063"/>
+            <File Name="Superman in &apos;Victory by Computer&apos; ( 1)  [Radio Shack Premium]" ID="37964" SERIESID="3533"/>
+            <File Name="Batman 337" ID="3867" SERIESID="162"/>
+            <File Name="Best of DC 14" ID="5406" SERIESID="409"/>
+            <File Name="DC Comics Presents 35" ID="7682" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 11" ID="7924" SERIESID="649"/>
+            <File Name="Flash 299" ID="10357" SERIESID="807"/>
+            <File Name="G.I. Combat 231" ID="11644" SERIESID="887"/>
+            <File Name="Ghosts 102" ID="11437" SERIESID="882"/>
+            <File Name="Jonah Hex 50" ID="16733" SERIESID="1203"/>
+            <File Name="Justice League of America 192" ID="17933" SERIESID="1234"/>
+            <File Name="New Teen Titans 9" ID="20469" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 38" ID="23706" SERIESID="1771"/>
+            <File Name="Superman 361" ID="27543" SERIESID="1984"/>
+            <File Name="Tales of the Green Lantern Corps 3" ID="28499" SERIESID="2129"/>
+            <File Name="Weird War Tales 101" ID="30749" SERIESID="2315"/>
+            <File Name="Wonder Woman 281" ID="31323" SERIESID="2351"/>
+            <File Name="Action Comics 521" ID="504" SERIESID="28"/>
+            <File Name="Adventure Comics 483" ID="1342" SERIESID="33"/>
+            <File Name="Brave &amp; the Bold 176" ID="7047" SERIESID="509"/>
+            <File Name="Detective Comics 504" ID="8615" SERIESID="693"/>
+            <File Name="Green Lantern 142" ID="12690" SERIESID="930"/>
+            <File Name="House of Mystery 294" ID="15829" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 277" ID="18430" SERIESID="1964"/>
+            <File Name="Madame Xanadu 1" ID="19460" SERIESID="1387"/>
+            <File Name="New Adventures of Superboy 19" ID="20310" SERIESID="1479"/>
+            <File Name="Sgt. Rock 354" ID="23945" SERIESID="1534"/>
+            <File Name="Super Friends 46" ID="26717" SERIESID="1971"/>
+            <File Name="Superman Family 208" ID="27721" SERIESID="1889"/>
+            <File Name="Unexpected 212" ID="29923" SERIESID="2133"/>
+            <File Name="Unknown Soldier 253" ID="30453" SERIESID="1930"/>
+            <File Name="Warlord 47" ID="30025" SERIESID="2303"/>
+            <File Name="Marvel Treasury Edition Featuring Superman and Spider-Man 28" ID="19044" SERIESID="1410"/>
         </Directory>
         <Directory Name="CDCC 1981 05">
-            <File Name="Batman 338"/>
-            <File Name="Best of DC 15"/>
-            <File Name="DC Comics Presents 36"/>
-            <File Name="DC Special Blue Ribbon Digest 12"/>
-            <File Name="Flash 300"/>
-            <File Name="G.I. Combat 232"/>
-            <File Name="Ghosts 103"/>
-            <File Name="Jonah Hex 51"/>
-            <File Name="Justice League of America 193"/>
-            <File Name="New Teen Titans 10"/>
-            <File Name="Secrets of Haunted House 39"/>
-            <File Name="Superman 362"/>
-            <File Name="Weird War Tales 102"/>
-            <File Name="Wonder Woman 282"/>
-            <File Name="Action Comics 522"/>
-            <File Name="Adventure Comics 484"/>
-            <File Name="Brave &amp; the Bold 177"/>
-            <File Name="Detective Comics 505"/>
-            <File Name="Green Lantern 143"/>
-            <File Name="House of Mystery 295"/>
-            <File Name="Legion of Super-Heroes 278"/>
-            <File Name="New Adventures of Superboy 20"/>
-            <File Name="Sgt. Rock 355"/>
-            <File Name="Super Friends 47"/>
-            <File Name="Superman Family 209"/>
-            <File Name="Unexpected 213"/>
-            <File Name="Unknown Soldier 254"/>
-            <File Name="Warlord 48"/>
-            <File Name="World&apos;s Finest Comics 270"/>
+            <File Name="Batman 338" ID="3868" SERIESID="162"/>
+            <File Name="Best of DC 15" ID="5407" SERIESID="409"/>
+            <File Name="DC Comics Presents 36" ID="7683" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 12" ID="7925" SERIESID="649"/>
+            <File Name="Flash 300" ID="10358" SERIESID="807"/>
+            <File Name="G.I. Combat 232" ID="11645" SERIESID="887"/>
+            <File Name="Ghosts 103" ID="11438" SERIESID="882"/>
+            <File Name="Jonah Hex 51" ID="16734" SERIESID="1203"/>
+            <File Name="Justice League of America 193" ID="17934" SERIESID="1234"/>
+            <File Name="New Teen Titans 10" ID="20470" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 39" ID="23707" SERIESID="1771"/>
+            <File Name="Superman 362" ID="27544" SERIESID="1984"/>
+            <File Name="Weird War Tales 102" ID="30750" SERIESID="2315"/>
+            <File Name="Wonder Woman 282" ID="31324" SERIESID="2351"/>
+            <File Name="Action Comics 522" ID="505" SERIESID="28"/>
+            <File Name="Adventure Comics 484" ID="1343" SERIESID="33"/>
+            <File Name="Brave &amp; the Bold 177" ID="7048" SERIESID="509"/>
+            <File Name="Detective Comics 505" ID="8616" SERIESID="693"/>
+            <File Name="Green Lantern 143" ID="12691" SERIESID="930"/>
+            <File Name="House of Mystery 295" ID="15830" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 278" ID="18431" SERIESID="1964"/>
+            <File Name="New Adventures of Superboy 20" ID="20311" SERIESID="1479"/>
+            <File Name="Sgt. Rock 355" ID="23946" SERIESID="1534"/>
+            <File Name="Super Friends 47" ID="26718" SERIESID="1971"/>
+            <File Name="Superman Family 209" ID="27722" SERIESID="1889"/>
+            <File Name="Unexpected 213" ID="29924" SERIESID="2133"/>
+            <File Name="Unknown Soldier 254" ID="30454" SERIESID="1930"/>
+            <File Name="Warlord 48" ID="30026" SERIESID="2303"/>
+            <File Name="World&apos;s Finest Comics 270" ID="31595" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1981 06">
-            <File Name="Arak/Son of Thunder 1"/>
-            <File Name="Batman 339"/>
-            <File Name="Best of DC 16"/>
-            <File Name="DC Comics Presents 37"/>
-            <File Name="DC Special Blue Ribbon Digest 13"/>
-            <File Name="Flash 301"/>
-            <File Name="G.I. Combat 233"/>
-            <File Name="Ghosts 104"/>
-            <File Name="Jonah Hex 52"/>
-            <File Name="Justice League of America 194"/>
-            <File Name="Krypton Chronicles 1"/>
-            <File Name="New Teen Titans 11"/>
-            <File Name="Secrets of Haunted House 40"/>
-            <File Name="Superman 363"/>
-            <File Name="Weird War Tales 103"/>
-            <File Name="Wonder Woman 283"/>
-            <File Name="Action Comics 523"/>
-            <File Name="Adventure Comics 485"/>
-            <File Name="All-Star Squadron 1"/>
-            <File Name="Brave &amp; the Bold 178"/>
-            <File Name="DC Special Series 25"/>
-            <File Name="DC Special Series 26"/>
-            <File Name="Detective Comics 506"/>
-            <File Name="Green Lantern 144"/>
-            <File Name="House of Mystery 296"/>
-            <File Name="Legion of Super-Heroes 279"/>
-            <File Name="New Adventures of Superboy 21"/>
-            <File Name="Sgt. Rock 356"/>
-            <File Name="Superman Family 210"/>
-            <File Name="Unexpected 214"/>
-            <File Name="Unknown Soldier 255"/>
-            <File Name="Warlord 49"/>
-            <File Name="World&apos;s Finest Comics 271"/>
+            <File Name="Arak/Son of Thunder 1" ID="2995" SERIESID="104"/>
+            <File Name="Batman 339" ID="3869" SERIESID="162"/>
+            <File Name="Best of DC 16" ID="5408" SERIESID="409"/>
+            <File Name="DC Comics Presents 37" ID="7684" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 13" ID="7926" SERIESID="649"/>
+            <File Name="Flash 301" ID="10359" SERIESID="807"/>
+            <File Name="G.I. Combat 233" ID="11646" SERIESID="887"/>
+            <File Name="Ghosts 104" ID="11439" SERIESID="882"/>
+            <File Name="Jonah Hex 52" ID="16735" SERIESID="1203"/>
+            <File Name="Justice League of America 194" ID="17935" SERIESID="1234"/>
+            <File Name="Krypton Chronicles 1" ID="17625" SERIESID="1272"/>
+            <File Name="New Teen Titans 11" ID="20471" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 40" ID="23708" SERIESID="1771"/>
+            <File Name="Superman 363" ID="27545" SERIESID="1984"/>
+            <File Name="Weird War Tales 103" ID="30751" SERIESID="2315"/>
+            <File Name="Wonder Woman 283" ID="31325" SERIESID="2351"/>
+            <File Name="Action Comics 523" ID="506" SERIESID="28"/>
+            <File Name="Adventure Comics 485" ID="1344" SERIESID="33"/>
+            <File Name="All-Star Squadron 1" ID="2330" SERIESID="62"/>
+            <File Name="Brave &amp; the Bold 178" ID="7049" SERIESID="509"/>
+            <File Name="DC Special Series 25" ID="7962" SERIESID="650"/>
+            <File Name="DC Special Series 26" ID="7963" SERIESID="650"/>
+            <File Name="Detective Comics 506" ID="8617" SERIESID="693"/>
+            <File Name="Green Lantern 144" ID="12692" SERIESID="930"/>
+            <File Name="House of Mystery 296" ID="15831" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 279" ID="18432" SERIESID="1964"/>
+            <File Name="New Adventures of Superboy 21" ID="20312" SERIESID="1479"/>
+            <File Name="Sgt. Rock 356" ID="23947" SERIESID="1534"/>
+            <File Name="Superman Family 210" ID="27723" SERIESID="1889"/>
+            <File Name="Unexpected 214" ID="29925" SERIESID="2133"/>
+            <File Name="Unknown Soldier 255" ID="30455" SERIESID="1930"/>
+            <File Name="Warlord 49" ID="30027" SERIESID="2303"/>
+            <File Name="World&apos;s Finest Comics 271" ID="31596" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1981 07">
-            <File Name="Arak/Son of Thunder 2"/>
-            <File Name="Batman 340"/>
-            <File Name="Best of DC 17"/>
-            <File Name="DC Comics Presents 38"/>
-            <File Name="DC Special Blue Ribbon Digest 14"/>
-            <File Name="Flash 302"/>
-            <File Name="G.I. Combat 234"/>
-            <File Name="Ghosts 105"/>
-            <File Name="Jonah Hex 53"/>
-            <File Name="Justice League of America 195"/>
-            <File Name="Krypton Chronicles 2"/>
-            <File Name="New Teen Titans 12"/>
-            <File Name="Secrets of Haunted House 41"/>
-            <File Name="Superman 364"/>
-            <File Name="Weird War Tales 104"/>
-            <File Name="Wonder Woman 284"/>
-            <File Name="Action Comics 524"/>
-            <File Name="Adventure Comics 486"/>
-            <File Name="All-Star Squadron 2"/>
-            <File Name="Brave &amp; the Bold 179"/>
-            <File Name="Detective Comics 507"/>
-            <File Name="Green Lantern 145"/>
-            <File Name="House of Mystery 297"/>
-            <File Name="Legion of Super-Heroes 280"/>
-            <File Name="New Adventures of Superboy 22"/>
-            <File Name="Sgt. Rock 357"/>
-            <File Name="Superman Family 211"/>
-            <File Name="Unexpected 215"/>
-            <File Name="Unknown Soldier 256"/>
-            <File Name="Warlord 50"/>
-            <File Name="World&apos;s Finest Comics 272"/>
+            <File Name="Arak/Son of Thunder 2" ID="2996" SERIESID="104"/>
+            <File Name="Batman 340" ID="3870" SERIESID="162"/>
+            <File Name="Best of DC 17" ID="5409" SERIESID="409"/>
+            <File Name="DC Comics Presents 38" ID="7685" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 14" ID="7927" SERIESID="649"/>
+            <File Name="Flash 302" ID="10360" SERIESID="807"/>
+            <File Name="G.I. Combat 234" ID="11647" SERIESID="887"/>
+            <File Name="Ghosts 105" ID="11440" SERIESID="882"/>
+            <File Name="Jonah Hex 53" ID="16736" SERIESID="1203"/>
+            <File Name="Justice League of America 195" ID="17936" SERIESID="1234"/>
+            <File Name="Krypton Chronicles 2" ID="17626" SERIESID="1272"/>
+            <File Name="New Teen Titans 12" ID="20472" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 41" ID="23709" SERIESID="1771"/>
+            <File Name="Superman 364" ID="27546" SERIESID="1984"/>
+            <File Name="Weird War Tales 104" ID="30752" SERIESID="2315"/>
+            <File Name="Wonder Woman 284" ID="31326" SERIESID="2351"/>
+            <File Name="Action Comics 524" ID="507" SERIESID="28"/>
+            <File Name="Adventure Comics 486" ID="1345" SERIESID="33"/>
+            <File Name="All-Star Squadron 2" ID="2331" SERIESID="62"/>
+            <File Name="Brave &amp; the Bold 179" ID="7050" SERIESID="509"/>
+            <File Name="Detective Comics 507" ID="8618" SERIESID="693"/>
+            <File Name="Green Lantern 145" ID="12693" SERIESID="930"/>
+            <File Name="House of Mystery 297" ID="15832" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 280" ID="18433" SERIESID="1964"/>
+            <File Name="New Adventures of Superboy 22" ID="20313" SERIESID="1479"/>
+            <File Name="Sgt. Rock 357" ID="23948" SERIESID="1534"/>
+            <File Name="Superman Family 211" ID="27724" SERIESID="1889"/>
+            <File Name="Unexpected 215" ID="29926" SERIESID="2133"/>
+            <File Name="Unknown Soldier 256" ID="30456" SERIESID="1930"/>
+            <File Name="Warlord 50" ID="30028" SERIESID="2303"/>
+            <File Name="World&apos;s Finest Comics 272" ID="31597" SERIESID="2378"/>
+            <File Name="Superman Spectacular 1" ID="37967" SERIESID="3519"/>
         </Directory>
         <Directory Name="CDCC 1981 08">
-            <File Name="Arak/Son of Thunder 3"/>
-            <File Name="Batman 341"/>
-            <File Name="Best of DC 18"/>
-            <File Name="DC Comics Presents 39"/>
-            <File Name="DC Special Blue Ribbon Digest 15"/>
-            <File Name="Flash 303"/>
-            <File Name="G.I. Combat 235"/>
-            <File Name="Ghosts 106"/>
-            <File Name="Jonah Hex 54"/>
-            <File Name="Justice League of America 196"/>
-            <File Name="Krypton Chronicles 3"/>
-            <File Name="New Teen Titans 13"/>
-            <File Name="Secrets of Haunted House 42"/>
-            <File Name="Superman 365"/>
-            <File Name="Weird War Tales 105"/>
-            <File Name="Wonder Woman 285"/>
-            <File Name="Action Comics 525"/>
-            <File Name="Adventure Comics 487"/>
-            <File Name="All-Star Squadron 3"/>
-            <File Name="Brave &amp; the Bold 180"/>
-            <File Name="Detective Comics 508"/>
-            <File Name="Green Lantern 146"/>
-            <File Name="House of Mystery 298"/>
-            <File Name="Legion of Super-Heroes 281"/>
-            <File Name="New Adventures of Superboy 23"/>
-            <File Name="Sgt. Rock 358"/>
-            <File Name="Superman Family 212"/>
-            <File Name="Unexpected 216"/>
-            <File Name="Unknown Soldier 257"/>
-            <File Name="Warlord 51"/>
-            <File Name="World&apos;s Finest Comics 273"/>
+            <File Name="Arak/Son of Thunder 3" ID="2997" SERIESID="104"/>
+            <File Name="Batman 341" ID="3871" SERIESID="162"/>
+            <File Name="Best of DC 18" ID="5410" SERIESID="409"/>
+            <File Name="DC Comics Presents 39" ID="7686" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 15" ID="7928" SERIESID="649"/>
+            <File Name="Flash 303" ID="10361" SERIESID="807"/>
+            <File Name="G.I. Combat 235" ID="11648" SERIESID="887"/>
+            <File Name="Ghosts 106" ID="11441" SERIESID="882"/>
+            <File Name="Jonah Hex 54" ID="16737" SERIESID="1203"/>
+            <File Name="Justice League of America 196" ID="17937" SERIESID="1234"/>
+            <File Name="Krypton Chronicles 3" ID="17627" SERIESID="1272"/>
+            <File Name="New Teen Titans 13" ID="20473" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 42" ID="23710" SERIESID="1771"/>
+            <File Name="Superman 365" ID="27547" SERIESID="1984"/>
+            <File Name="Weird War Tales 105" ID="30753" SERIESID="2315"/>
+            <File Name="Wonder Woman 285" ID="31327" SERIESID="2351"/>
+            <File Name="Action Comics 525" ID="508" SERIESID="28"/>
+            <File Name="Adventure Comics 487" ID="1346" SERIESID="33"/>
+            <File Name="All-Star Squadron 3" ID="2332" SERIESID="62"/>
+            <File Name="Brave &amp; the Bold 180" ID="7051" SERIESID="509"/>
+            <File Name="Detective Comics 508" ID="8619" SERIESID="693"/>
+            <File Name="Green Lantern 146" ID="12694" SERIESID="930"/>
+            <File Name="House of Mystery 298" ID="15833" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 281" ID="18434" SERIESID="1964"/>
+            <File Name="New Adventures of Superboy 23" ID="20314" SERIESID="1479"/>
+            <File Name="Sgt. Rock 358" ID="23949" SERIESID="1534"/>
+            <File Name="Superman Family 212" ID="27725" SERIESID="1889"/>
+            <File Name="Unexpected 216" ID="29927" SERIESID="2133"/>
+            <File Name="Unknown Soldier 257" ID="30457" SERIESID="1930"/>
+            <File Name="Warlord 51" ID="30029" SERIESID="2303"/>
+            <File Name="World&apos;s Finest Comics 273" ID="31914" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1981 09">
-            <File Name="Arak/Son of Thunder 4"/>
-            <File Name="Batman 342"/>
-            <File Name="Best of DC 19"/>
-            <File Name="DC Comics Presents 40"/>
-            <File Name="DC Special Blue Ribbon Digest 16"/>
-            <File Name="Flash 304"/>
-            <File Name="G.I. Combat 236"/>
-            <File Name="Ghosts 107"/>
-            <File Name="Jonah Hex 55"/>
-            <File Name="Justice League of America 197"/>
-            <File Name="New Teen Titans 14"/>
-            <File Name="Secrets of Haunted House 43"/>
-            <File Name="Superman 366"/>
-            <File Name="Weird War Tales 106"/>
-            <File Name="Wonder Woman 286"/>
-            <File Name="Action Comics 526"/>
-            <File Name="Adventure Comics 488"/>
-            <File Name="All-Star Squadron 4"/>
-            <File Name="Brave &amp; the Bold 181"/>
-            <File Name="DC Special Series 27"/>
-            <File Name="Detective Comics 509"/>
-            <File Name="Green Lantern 147"/>
-            <File Name="House of Mystery 299"/>
-            <File Name="Legion of Super-Heroes 282"/>
-            <File Name="New Adventures of Superboy 24"/>
-            <File Name="Sgt. Rock 359"/>
-            <File Name="Superman Family 213"/>
-            <File Name="Unexpected 217"/>
-            <File Name="Unknown Soldier 258"/>
-            <File Name="Warlord 52"/>
-            <File Name="World&apos;s Finest Comics 274"/>
+            <File Name="Arak/Son of Thunder 4" ID="2998" SERIESID="104"/>
+            <File Name="Batman 342" ID="3872" SERIESID="162"/>
+            <File Name="Best of DC 19" ID="5411" SERIESID="409"/>
+            <File Name="DC Comics Presents 40" ID="7687" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 16" ID="7929" SERIESID="649"/>
+            <File Name="Flash 304" ID="10362" SERIESID="807"/>
+            <File Name="G.I. Combat 236" ID="11649" SERIESID="887"/>
+            <File Name="Ghosts 107" ID="11442" SERIESID="882"/>
+            <File Name="Jonah Hex 55" ID="16738" SERIESID="1203"/>
+            <File Name="Justice League of America 197" ID="17938" SERIESID="1234"/>
+            <File Name="New Teen Titans 14" ID="20474" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 43" ID="23711" SERIESID="1771"/>
+            <File Name="Superman 366" ID="27548" SERIESID="1984"/>
+            <File Name="Weird War Tales 106" ID="30754" SERIESID="2315"/>
+            <File Name="Wonder Woman 286" ID="31328" SERIESID="2351"/>
+            <File Name="Action Comics 526" ID="509" SERIESID="28"/>
+            <File Name="Adventure Comics 488" ID="1347" SERIESID="33"/>
+            <File Name="All-Star Squadron 4" ID="2333" SERIESID="62"/>
+            <File Name="Brave &amp; the Bold 181" ID="7052" SERIESID="509"/>
+            <File Name="DC Special Series 27" ID="7964" SERIESID="650"/>
+            <File Name="Detective Comics 509" ID="8620" SERIESID="693"/>
+            <File Name="Green Lantern 147" ID="12695" SERIESID="930"/>
+            <File Name="House of Mystery 299" ID="15834" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 282" ID="18435" SERIESID="1964"/>
+            <File Name="New Adventures of Superboy 24" ID="20315" SERIESID="1479"/>
+            <File Name="Sgt. Rock 359" ID="23950" SERIESID="1534"/>
+            <File Name="Superman Family 213" ID="27726" SERIESID="1889"/>
+            <File Name="Unexpected 217" ID="29928" SERIESID="2133"/>
+            <File Name="Unknown Soldier 258" ID="30458" SERIESID="1930"/>
+            <File Name="Warlord 52" ID="30030" SERIESID="2303"/>
+            <File Name="World&apos;s Finest Comics 274" ID="31915" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1981 10">
-            <File Name="Arak/Son of Thunder 5"/>
-            <File Name="Best of DC 20"/>
-            <File Name="DC Comics Presents 41"/>
-            <File Name="DC Special Blue Ribbon Digest 17"/>
-            <File Name="Ghosts 108"/>
-            <File Name="Justice League of America 198"/>
-            <File Name="Weird War Tales 107"/>
-            <File Name="Wonder Woman 287"/>
-            <File Name="Batman 343"/>
-            <File Name="Flash 305"/>
-            <File Name="G.I. Combat 237"/>
-            <File Name="Jonah Hex 56"/>
-            <File Name="New Teen Titans 15"/>
-            <File Name="Secrets of Haunted House 44"/>
-            <File Name="Brave &amp; the Bold 182"/>
-            <File Name="Green Lantern 148"/>
-            <File Name="House of Mystery 300"/>
-            <File Name="Legion of Super-Heroes 283"/>
-            <File Name="Phantom Zone 1"/>
-            <File Name="Sgt. Rock 360"/>
-            <File Name="Superman 367"/>
-            <File Name="Superman Family 214"/>
-            <File Name="Warlord 53"/>
-            <File Name="Action Comics 527"/>
-            <File Name="Adventure Comics 489"/>
-            <File Name="All-Star Squadron 5"/>
-            <File Name="Detective Comics 510"/>
-            <File Name="New Adventures of Superboy 25"/>
-            <File Name="Unexpected 218"/>
-            <File Name="Unknown Soldier 259"/>
-            <File Name="World&apos;s Finest Comics 275"/>
+            <File Name="Arak/Son of Thunder 5" ID="2999" SERIESID="104"/>
+            <File Name="Best of DC 20" ID="5412" SERIESID="409"/>
+            <File Name="DC Comics Presents 41" ID="7688" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 17" ID="7930" SERIESID="649"/>
+            <File Name="Ghosts 108" ID="11443" SERIESID="882"/>
+            <File Name="Justice League of America 198" ID="17939" SERIESID="1234"/>
+            <File Name="Weird War Tales 107" ID="30755" SERIESID="2315"/>
+            <File Name="Wonder Woman 287" ID="31329" SERIESID="2351"/>
+            <File Name="Batman 343" ID="3873" SERIESID="162"/>
+            <File Name="Flash 305" ID="10363" SERIESID="807"/>
+            <File Name="G.I. Combat 237" ID="11650" SERIESID="887"/>
+            <File Name="Jonah Hex 56" ID="16739" SERIESID="1203"/>
+            <File Name="New Teen Titans 15" ID="20475" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 44" ID="23712" SERIESID="1771"/>
+            <File Name="Brave &amp; the Bold 182" ID="7053" SERIESID="509"/>
+            <File Name="Green Lantern 148" ID="12696" SERIESID="930"/>
+            <File Name="House of Mystery 300" ID="15835" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 283" ID="18436" SERIESID="1964"/>
+            <File Name="Phantom Zone 1" ID="21781" SERIESID="1564"/>
+            <File Name="Sgt. Rock 360" ID="23951" SERIESID="1534"/>
+            <File Name="Superman 367" ID="27549" SERIESID="1984"/>
+            <File Name="Superman Family 214" ID="27727" SERIESID="1889"/>
+            <File Name="Warlord 53" ID="30031" SERIESID="2303"/>
+            <File Name="Action Comics 527" ID="510" SERIESID="28"/>
+            <File Name="Adventure Comics 489" ID="1348" SERIESID="33"/>
+            <File Name="All-Star Squadron 5" ID="2334" SERIESID="62"/>
+            <File Name="Detective Comics 510" ID="8621" SERIESID="693"/>
+            <File Name="New Adventures of Superboy 25" ID="20316" SERIESID="1479"/>
+            <File Name="Unexpected 218" ID="29929" SERIESID="2133"/>
+            <File Name="Unknown Soldier 259" ID="30459" SERIESID="1930"/>
+            <File Name="World&apos;s Finest Comics 275" ID="31916" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1981 11">
-            <File Name="Arak/Son of Thunder 6"/>
-            <File Name="Best of DC 21"/>
-            <File Name="DC Comics Presents 42"/>
-            <File Name="DC Special Blue Ribbon Digest 18"/>
-            <File Name="Ghosts 109"/>
-            <File Name="Justice League of America 199"/>
-            <File Name="Weird War Tales 108"/>
-            <File Name="Wonder Woman 288"/>
-            <File Name="Batman 344"/>
-            <File Name="Flash 306"/>
-            <File Name="G.I. Combat 238"/>
-            <File Name="Jonah Hex 57"/>
-            <File Name="New Teen Titans 16"/>
-            <File Name="Secrets of Haunted House 45"/>
-            <File Name="Superman 368"/>
-            <File Name="Brave &amp; the Bold 183"/>
-            <File Name="Green Lantern 149"/>
-            <File Name="House of Mystery 301"/>
-            <File Name="Legion of Super-Heroes 284"/>
-            <File Name="Phantom Zone 2"/>
-            <File Name="Sgt. Rock 361"/>
-            <File Name="Superman Family 215"/>
-            <File Name="Warlord 54"/>
-            <File Name="Action Comics 528"/>
-            <File Name="Adventure Comics 490"/>
-            <File Name="All-Star Squadron 6"/>
-            <File Name="Detective Comics 511"/>
-            <File Name="New Adventures of Superboy 26"/>
-            <File Name="Unexpected 219"/>
-            <File Name="Unknown Soldier 260"/>
-            <File Name="World&apos;s Finest Comics 276"/>
+            <File Name="Arak/Son of Thunder 6" ID="3000" SERIESID="104"/>
+            <File Name="Best of DC 21" ID="5413" SERIESID="409"/>
+            <File Name="DC Comics Presents 42" ID="7689" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 18" ID="7931" SERIESID="649"/>
+            <File Name="Ghosts 109" ID="11444" SERIESID="882"/>
+            <File Name="Justice League of America 199" ID="17940" SERIESID="1234"/>
+            <File Name="Weird War Tales 108" ID="30756" SERIESID="2315"/>
+            <File Name="Wonder Woman 288" ID="31330" SERIESID="2351"/>
+            <File Name="Batman 344" ID="3874" SERIESID="162"/>
+            <File Name="Flash 306" ID="10364" SERIESID="807"/>
+            <File Name="G.I. Combat 238" ID="11651" SERIESID="887"/>
+            <File Name="Jonah Hex 57" ID="16740" SERIESID="1203"/>
+            <File Name="New Teen Titans 16" ID="20476" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 45" ID="23713" SERIESID="1771"/>
+            <File Name="Superman 368" ID="27550" SERIESID="1984"/>
+            <File Name="Brave &amp; the Bold 183" ID="7054" SERIESID="509"/>
+            <File Name="Green Lantern 149" ID="12697" SERIESID="930"/>
+            <File Name="House of Mystery 301" ID="15836" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 284" ID="18437" SERIESID="1964"/>
+            <File Name="Phantom Zone 2" ID="21782" SERIESID="1564"/>
+            <File Name="Sgt. Rock 361" ID="23952" SERIESID="1534"/>
+            <File Name="Superman Family 215" ID="27728" SERIESID="1889"/>
+            <File Name="Warlord 54" ID="30032" SERIESID="2303"/>
+            <File Name="Action Comics 528" ID="511" SERIESID="28"/>
+            <File Name="Adventure Comics 490" ID="1349" SERIESID="33"/>
+            <File Name="All-Star Squadron 6" ID="2335" SERIESID="62"/>
+            <File Name="Detective Comics 511" ID="8622" SERIESID="693"/>
+            <File Name="New Adventures of Superboy 26" ID="20317" SERIESID="1479"/>
+            <File Name="Unexpected 219" ID="29930" SERIESID="2133"/>
+            <File Name="Unknown Soldier 260" ID="30460" SERIESID="1930"/>
+            <File Name="World&apos;s Finest Comics 276" ID="31917" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1981 12">
-            <File Name="Arak/Son of Thunder 7"/>
-            <File Name="Best of DC 22"/>
-            <File Name="DC Comics Presents 43"/>
-            <File Name="DC Special Blue Ribbon Digest 19"/>
-            <File Name="Ghosts 110"/>
-            <File Name="Justice League of America 200"/>
-            <File Name="Weird War Tales 109"/>
-            <File Name="Wonder Woman 289"/>
-            <File Name="Batman 345"/>
-            <File Name="Flash 307"/>
-            <File Name="G.I. Combat 239"/>
-            <File Name="Jonah Hex 58"/>
-            <File Name="New Teen Titans 17"/>
-            <File Name="Secrets of Haunted House 46"/>
-            <File Name="Superman 369"/>
-            <File Name="Brave &amp; the Bold 184"/>
-            <File Name="Green Lantern 150"/>
-            <File Name="House of Mystery 302"/>
-            <File Name="Legion of Super-Heroes 285"/>
-            <File Name="Phantom Zone 3"/>
-            <File Name="Sgt. Rock 362"/>
-            <File Name="Superman Family 216"/>
-            <File Name="Warlord 55"/>
-            <File Name="Action Comics 529"/>
-            <File Name="All-Star Squadron 7"/>
-            <File Name="Captain Carrot and His Amazing Zoo Crew 1"/>
-            <File Name="Detective Comics 512"/>
-            <File Name="New Adventures of Superboy 27"/>
-            <File Name="Unexpected 220"/>
-            <File Name="Unknown Soldier 261"/>
-            <File Name="World&apos;s Finest Comics 277"/>
+            <File Name="Arak/Son of Thunder 7" ID="3001" SERIESID="104"/>
+            <File Name="Best of DC 22" ID="5414" SERIESID="409"/>
+            <File Name="DC Comics Presents 43" ID="7690" SERIESID="637"/>
+            <File Name="DC Special Blue Ribbon Digest 19" ID="7932" SERIESID="649"/>
+            <File Name="Ghosts 110" ID="11445" SERIESID="882"/>
+            <File Name="Justice League of America 200" ID="17941" SERIESID="1234"/>
+            <File Name="Weird War Tales 109" ID="30757" SERIESID="2315"/>
+            <File Name="Wonder Woman 289" ID="31331" SERIESID="2351"/>
+            <File Name="Batman 345" ID="3875" SERIESID="162"/>
+            <File Name="Flash 307" ID="10365" SERIESID="807"/>
+            <File Name="G.I. Combat 239" ID="11652" SERIESID="887"/>
+            <File Name="Jonah Hex 58" ID="16741" SERIESID="1203"/>
+            <File Name="New Teen Titans 17" ID="20477" SERIESID="1490"/>
+            <File Name="Secrets of Haunted House 46" ID="23714" SERIESID="1771"/>
+            <File Name="Superman 369" ID="27551" SERIESID="1984"/>
+            <File Name="Brave &amp; the Bold 184" ID="7055" SERIESID="509"/>
+            <File Name="Green Lantern 150" ID="12698" SERIESID="930"/>
+            <File Name="House of Mystery 302" ID="15837" SERIESID="1080"/>
+            <File Name="Legion of Super-Heroes 285" ID="18438" SERIESID="1964"/>
+            <File Name="Phantom Zone 3" ID="21783" SERIESID="1564"/>
+            <File Name="Sgt. Rock 362" ID="23953" SERIESID="1534"/>
+            <File Name="Superman Family 216" ID="27729" SERIESID="1889"/>
+            <File Name="Warlord 55" ID="30033" SERIESID="2303"/>
+            <File Name="Action Comics 529" ID="512" SERIESID="28"/>
+            <File Name="All-Star Squadron 7" ID="2336" SERIESID="62"/>
+            <File Name="Captain Carrot and His Amazing Zoo Crew 1" ID="6529" SERIESID="528"/>
+            <File Name="Detective Comics 512" ID="8623" SERIESID="693"/>
+            <File Name="New Adventures of Superboy 27" ID="20318" SERIESID="1479"/>
+            <File Name="Unexpected 220" ID="29931" SERIESID="2133"/>
+            <File Name="Unknown Soldier 261" ID="30461" SERIESID="1930"/>
+            <File Name="World&apos;s Finest Comics 277" ID="31918" SERIESID="2378"/>
         </Directory>
     </Year>

@@ -2,101 +2,101 @@
 <!DOCTYPE xml>
     <Year Name="CDCC 1939">
         <Directory Name="CDCC 1939 01">
-            <File Name="Action Comics 9"/>
-            <File Name="More Fun Comics 40"/>
-            <File Name="Detective Comics 24"/>
-            <File Name="Adventure Comics 35"/>
+            <File Name="Action Comics 9" ID="581" SERIESID="28"/>
+            <File Name="More Fun Comics 40" ID="19846" SERIESID="1454"/>
+            <File Name="Detective Comics 24" ID="8280" SERIESID="693"/>
+            <File Name="Adventure Comics 35" ID="894" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1939 02">
-            <File Name="Action Comics 10"/>
-            <File Name="More Fun Comics 41"/>
-            <File Name="Detective Comics 25"/>
-            <File Name="Adventure Comics 36"/>
+            <File Name="Action Comics 10" ID="582" SERIESID="28"/>
+            <File Name="More Fun Comics 41" ID="19847" SERIESID="1454"/>
+            <File Name="Detective Comics 25" ID="8281" SERIESID="693"/>
+            <File Name="Adventure Comics 36" ID="895" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1939 03">
-            <File Name="All-American Comics 1"/>
-            <File Name="Action Comics 11"/>
-            <File Name="Movie Comics 1"/>
-            <File Name="More Fun Comics 42"/>
-            <File Name="Detective Comics 26"/>
-            <File Name="Adventure Comics 37"/>
+            <File Name="All-American Comics 1" ID="1929" SERIESID="50"/>
+            <File Name="Action Comics 11" ID="583" SERIESID="28"/>
+            <File Name="Movie Comics 1" ID="19939" SERIESID="1457"/>
+            <File Name="More Fun Comics 42" ID="19848" SERIESID="1454"/>
+            <File Name="Detective Comics 26" ID="8282" SERIESID="693"/>
+            <File Name="Adventure Comics 37" ID="896" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1939 04">
-            <File Name="All-American Comics 2"/>
-            <File Name="Action Comics 12"/>
-            <File Name="Movie Comics 2"/>
-            <File Name="More Fun Comics 43"/>
-            <File Name="Detective Comics 27"/>
-            <File Name="Adventure Comics 38"/>
-            <File Name="All-American Comics 3"/>
-            <File Name="New York World&apos;s Fair Comics ( 1)"/>
+            <File Name="All-American Comics 2" ID="1930" SERIESID="50"/>
+            <File Name="Action Comics 12" ID="584" SERIESID="28"/>
+            <File Name="Movie Comics 2" ID="19940" SERIESID="1457"/>
+            <File Name="More Fun Comics 43" ID="19849" SERIESID="1454"/>
+            <File Name="Detective Comics 27" ID="8283" SERIESID="693"/>
+            <File Name="Adventure Comics 38" ID="897" SERIESID="33"/>
+            <File Name="All-American Comics 3" ID="1931" SERIESID="50"/>
+            <File Name="New York World&apos;s Fair Comics ( 1)" ID="21061" SERIESID="1302"/>
         </Directory>
         <Directory Name="CDCC 1939 05">
-            <File Name="Action Comics 13"/>
-            <File Name="Movie Comics 3"/>
-            <File Name="More Fun Comics 44"/>
-            <File Name="Detective Comics 28"/>
-            <File Name="Adventure Comics 39"/>
-            <File Name="Superman 1"/>
-            <File Name="All-American Comics 4"/>
+            <File Name="Action Comics 13" ID="585" SERIESID="28"/>
+            <File Name="Movie Comics 3" ID="19941" SERIESID="1457"/>
+            <File Name="More Fun Comics 44" ID="19850" SERIESID="1454"/>
+            <File Name="Detective Comics 28" ID="8284" SERIESID="693"/>
+            <File Name="Adventure Comics 39" ID="898" SERIESID="33"/>
+            <File Name="Superman 1" ID="26837" SERIESID="1984"/>
+            <File Name="All-American Comics 4" ID="1932" SERIESID="50"/>
         </Directory>
         <Directory Name="CDCC 1939 06">
-            <File Name="Movie Comics 4"/>
-            <File Name="Action Comics 14"/>
-            <File Name="More Fun Comics 45"/>
-            <File Name="Detective Comics 29"/>
-            <File Name="Adventure Comics 40"/>
-            <File Name="All-American Comics 5"/>
-            <File Name="Action Comics 15"/>
+            <File Name="Movie Comics 4" ID="19942" SERIESID="1457"/>
+            <File Name="Action Comics 14" ID="586" SERIESID="28"/>
+            <File Name="More Fun Comics 45" ID="19851" SERIESID="1454"/>
+            <File Name="Detective Comics 29" ID="8285" SERIESID="693"/>
+            <File Name="Adventure Comics 40" ID="899" SERIESID="33"/>
+            <File Name="All-American Comics 5" ID="1933" SERIESID="50"/>
+            <File Name="Action Comics 15" ID="587" SERIESID="28"/>
         </Directory>
         <Directory Name="CDCC 1939 07">
-            <File Name="Movie Comics 5"/>
-            <File Name="More Fun Comics 46"/>
-            <File Name="Detective Comics 30"/>
-            <File Name="Adventure Comics 41"/>
-            <File Name="All-American Comics 6"/>
+            <File Name="Movie Comics 5" ID="19943" SERIESID="1457"/>
+            <File Name="More Fun Comics 46" ID="19852" SERIESID="1454"/>
+            <File Name="Detective Comics 30" ID="8286" SERIESID="693"/>
+            <File Name="Adventure Comics 41" ID="900" SERIESID="33"/>
+            <File Name="All-American Comics 6" ID="1934" SERIESID="50"/>
         </Directory>
         <Directory Name="CDCC 1939 08">
-            <File Name="Action Comics 16"/>
-            <File Name="Movie Comics 6"/>
-            <File Name="More Fun Comics 47"/>
-            <File Name="Detective Comics 31"/>
-            <File Name="Adventure Comics 42"/>
-            <File Name="Mutt &amp; Jeff ( 1)"/>
-            <File Name="Superman 2"/>
-            <File Name="All-American Comics 7"/>
-            <File Name="Action Comics 17"/>
+            <File Name="Action Comics 16" ID="588" SERIESID="28"/>
+            <File Name="Movie Comics 6" ID="19944" SERIESID="1457"/>
+            <File Name="More Fun Comics 47" ID="19853" SERIESID="1454"/>
+            <File Name="Detective Comics 31" ID="8287" SERIESID="693"/>
+            <File Name="Adventure Comics 42" ID="901" SERIESID="33"/>
+            <File Name="Mutt &amp; Jeff ( 1)" ID="19721" SERIESID="1461"/>
+            <File Name="Superman 2" ID="26838" SERIESID="1984"/>
+            <File Name="All-American Comics 7" ID="1935" SERIESID="50"/>
+            <File Name="Action Comics 17" ID="589" SERIESID="28"/>
         </Directory>
         <Directory Name="CDCC 1939 09">
-            <File Name="More Fun Comics 48"/>
-            <File Name="Detective Comics 32"/>
-            <File Name="Adventure Comics 43"/>
-            <File Name="All-American Comics 8"/>
-            <File Name="Action Comics 18"/>
+            <File Name="More Fun Comics 48" ID="19854" SERIESID="1454"/>
+            <File Name="Detective Comics 32" ID="8288" SERIESID="693"/>
+            <File Name="Adventure Comics 43" ID="902" SERIESID="33"/>
+            <File Name="All-American Comics 8" ID="1936" SERIESID="50"/>
+            <File Name="Action Comics 18" ID="590" SERIESID="28"/>
         </Directory>
         <Directory Name="CDCC 1939 10">
-            <File Name="More Fun Comics 49"/>
-            <File Name="Detective Comics 33"/>
-            <File Name="Adventure Comics 44"/>
-            <File Name="All-American Comics 9"/>
-            <File Name="Action Comics 19"/>
+            <File Name="More Fun Comics 49" ID="19855" SERIESID="1454"/>
+            <File Name="Detective Comics 33" ID="8289" SERIESID="693"/>
+            <File Name="Adventure Comics 44" ID="903" SERIESID="33"/>
+            <File Name="All-American Comics 9" ID="1937" SERIESID="50"/>
+            <File Name="Action Comics 19" ID="591" SERIESID="28"/>
         </Directory>
         <Directory Name="CDCC 1939 11">
-            <File Name="More Fun Comics 50"/>
-            <File Name="Detective Comics 34"/>
-            <File Name="Adventure Comics 45"/>
-            <File Name="Flash Comics 1"/>
-            <File Name="Superman 3"/>
-            <File Name="All-American Comics 10"/>
-            <File Name="Double Action Comics 2"/>
+            <File Name="More Fun Comics 50" ID="19856" SERIESID="1454"/>
+            <File Name="Detective Comics 34" ID="8290" SERIESID="693"/>
+            <File Name="Adventure Comics 45" ID="904" SERIESID="33"/>
+            <File Name="Flash Comics 1" ID="10622" SERIESID="815"/>
+            <File Name="Superman 3" ID="26839" SERIESID="1984"/>
+            <File Name="All-American Comics 10" ID="1938" SERIESID="50"/>
+            <File Name="Double Action Comics 2" ID="9383" SERIESID="722"/>
         </Directory>
         <Directory Name="CDCC 1939 12">
-            <File Name="Action Comics 20"/>
-            <File Name="More Fun Comics 51"/>
-            <File Name="Detective Comics 35"/>
-            <File Name="Adventure Comics 46"/>
-            <File Name="Flash Comics 2"/>
-            <File Name="All-American Comics 11"/>
-            <File Name="Action Comics 21"/>
+            <File Name="Action Comics 20" ID="592" SERIESID="28"/>
+            <File Name="More Fun Comics 51" ID="19857" SERIESID="1454"/>
+            <File Name="Detective Comics 35" ID="8291" SERIESID="693"/>
+            <File Name="Adventure Comics 46" ID="905" SERIESID="33"/>
+            <File Name="Flash Comics 2" ID="10623" SERIESID="815"/>
+            <File Name="All-American Comics 11" ID="1939" SERIESID="50"/>
+            <File Name="Action Comics 21" ID="593" SERIESID="28"/>
         </Directory>
     </Year>

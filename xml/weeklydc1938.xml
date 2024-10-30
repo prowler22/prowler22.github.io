@@ -2,71 +2,71 @@
 <!DOCTYPE xml>
     <Year Name="CDCC 1938">
         <Directory Name="CDCC 1938 01">
-            <File Name="New Adventure Comics 23"/>
-            <File Name="More Fun Comics 29"/>
-            <File Name="Detective Comics 12"/>
+            <File Name="New Adventure Comics 23" ID="20277" SERIESID="33"/>
+            <File Name="More Fun Comics 29" ID="19835" SERIESID="1454"/>
+            <File Name="Detective Comics 12" ID="8268" SERIESID="693"/>
         </Directory>
         <Directory Name="CDCC 1938 02">
-            <File Name="New Adventure Comics 24"/>
-            <File Name="More Fun Comics 30"/>
-            <File Name="Detective Comics 13"/>
+            <File Name="New Adventure Comics 24" ID="20278" SERIESID="33"/>
+            <File Name="More Fun Comics 30" ID="19836" SERIESID="1454"/>
+            <File Name="Detective Comics 13" ID="8269" SERIESID="693"/>
         </Directory>
         <Directory Name="CDCC 1938 03">
-            <File Name="New Adventure Comics 25"/>
-            <File Name="New Book of Comics 2"/>
-            <File Name="Detective Comics 14"/>
+            <File Name="New Adventure Comics 25" ID="20279" SERIESID="33"/>
+            <File Name="New Book of Comics 2" ID="20347" SERIESID="1480"/>
+            <File Name="Detective Comics 14" ID="8270" SERIESID="693"/>
         </Directory>
         <Directory Name="CDCC 1938 04">
-            <File Name="More Fun Comics 31"/>
-            <File Name="Detective Comics 15"/>
-            <File Name="New Adventure Comics 26"/>
+            <File Name="More Fun Comics 31" ID="19837" SERIESID="1454"/>
+            <File Name="Detective Comics 15" ID="8271" SERIESID="693"/>
+            <File Name="New Adventure Comics 26" ID="20280" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1938 05">
-            <File Name="Action Comics 1"/>
-            <File Name="More Fun Comics 32"/>
-            <File Name="Detective Comics 16"/>
-            <File Name="New Adventure Comics 27"/>
+            <File Name="Action Comics 1" ID="5" SERIESID="28"/>
+            <File Name="More Fun Comics 32" ID="19838" SERIESID="1454"/>
+            <File Name="Detective Comics 16" ID="8272" SERIESID="693"/>
+            <File Name="New Adventure Comics 27" ID="20281" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1938 06">
-            <File Name="Action Comics 2"/>
-            <File Name="More Fun Comics 33"/>
-            <File Name="Detective Comics 17"/>
-            <File Name="New Adventure Comics 28"/>
+            <File Name="Action Comics 2" ID="6" SERIESID="28"/>
+            <File Name="More Fun Comics 33" ID="19839" SERIESID="1454"/>
+            <File Name="Detective Comics 17" ID="8273" SERIESID="693"/>
+            <File Name="New Adventure Comics 28" ID="20282" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1938 07">
-            <File Name="Action Comics 3"/>
-            <File Name="More Fun Comics 34"/>
-            <File Name="Detective Comics 18"/>
-            <File Name="New Adventure Comics 29"/>
+            <File Name="Action Comics 3" ID="7" SERIESID="28"/>
+            <File Name="More Fun Comics 34" ID="19840" SERIESID="1454"/>
+            <File Name="Detective Comics 18" ID="8274" SERIESID="693"/>
+            <File Name="New Adventure Comics 29" ID="20283" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1938 08">
-            <File Name="Action Comics 4"/>
-            <File Name="More Fun Comics 35"/>
-            <File Name="Detective Comics 19"/>
-            <File Name="New Adventure Comics 30"/>
+            <File Name="Action Comics 4" ID="576" SERIESID="28"/>
+            <File Name="More Fun Comics 35" ID="19841" SERIESID="1454"/>
+            <File Name="Detective Comics 19" ID="8275" SERIESID="693"/>
+            <File Name="New Adventure Comics 30" ID="20284" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1938 09">
-            <File Name="Action Comics 5"/>
-            <File Name="More Fun Comics 36"/>
-            <File Name="Detective Comics 20"/>
-            <File Name="New Adventure Comics 31"/>
+            <File Name="Action Comics 5" ID="577" SERIESID="28"/>
+            <File Name="More Fun Comics 36" ID="19842" SERIESID="1454"/>
+            <File Name="Detective Comics 20" ID="8276" SERIESID="693"/>
+            <File Name="New Adventure Comics 31" ID="20285" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1938 10">
-            <File Name="Action Comics 6"/>
-            <File Name="More Fun Comics 37"/>
-            <File Name="Detective Comics 21"/>
-            <File Name="Adventure Comics 32"/>
+            <File Name="Action Comics 6" ID="578" SERIESID="28"/>
+            <File Name="More Fun Comics 37" ID="19843" SERIESID="1454"/>
+            <File Name="Detective Comics 21" ID="8277" SERIESID="693"/>
+            <File Name="Adventure Comics 32" ID="891" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1938 11">
-            <File Name="Action Comics 7"/>
-            <File Name="More Fun Comics 38"/>
-            <File Name="Detective Comics 22"/>
-            <File Name="Adventure Comics 33"/>
+            <File Name="Action Comics 7" ID="579" SERIESID="28"/>
+            <File Name="More Fun Comics 38" ID="19844" SERIESID="1454"/>
+            <File Name="Detective Comics 22" ID="8278" SERIESID="693"/>
+            <File Name="Adventure Comics 33" ID="892" SERIESID="33"/>
         </Directory>
         <Directory Name="CDCC 1938 12">
-            <File Name="Action Comics 8"/>
-            <File Name="More Fun Comics 39"/>
-            <File Name="Detective Comics 23"/>
-            <File Name="Adventure Comics 34"/>
+            <File Name="Action Comics 8" ID="580" SERIESID="28"/>
+            <File Name="More Fun Comics 39" ID="19845" SERIESID="1454"/>
+            <File Name="Detective Comics 23" ID="8279" SERIESID="693"/>
+            <File Name="Adventure Comics 34" ID="893" SERIESID="33"/>
         </Directory>
     </Year>

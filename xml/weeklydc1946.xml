@@ -2,232 +2,234 @@
 <!DOCTYPE xml>
     <Year Name="CDCC 1946">
         <Directory Name="CDCC 1946 01">
-            <File Name="All Funny Comics 10"/>
-            <File Name="Superman 39"/>
-            <File Name="Animal Antics 1"/>
-            <File Name="Star Spangled Comics 54"/>
-            <File Name="Real Fact Comics 1"/>
-            <File Name="Sensation Comics 51"/>
-            <File Name="All-American Comics 71"/>
-            <File Name="Action Comics 94"/>
-            <File Name="Boy Commandos 14"/>
-            <File Name="Detective Comics 109"/>
-            <File Name="More Fun Comics 108"/>
-            <File Name="Buzzy 6"/>
-            <File Name="World&apos;s Finest Comics 21"/>
+            <File Name="All Funny Comics 10" ID="2215" SERIESID="55"/>
+            <File Name="Superman 39" ID="26875" SERIESID="1984"/>
+            <File Name="Animal Antics 1" ID="2610" SERIESID="82"/>
+            <File Name="Star Spangled Comics 54" ID="24791" SERIESID="1879"/>
+            <File Name="Real Fact Comics 1" ID="22244" SERIESID="1643"/>
+            <File Name="Sensation Comics 51" ID="23797" SERIESID="1775"/>
+            <File Name="All-American Comics 71" ID="1999" SERIESID="50"/>
+            <File Name="Action Comics 94" ID="77" SERIESID="28"/>
+            <File Name="Boy Commandos 14" ID="6208" SERIESID="505"/>
+            <File Name="Detective Comics 109" ID="8365" SERIESID="693"/>
+            <File Name="More Fun Comics 108" ID="19914" SERIESID="1454"/>
+            <File Name="Buzzy 6" ID="6369" SERIESID="523"/>
+            <File Name="World&apos;s Finest Comics 21" ID="31851" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1946 02">
-            <File Name="Comic Cavalcade 14"/>
-            <File Name="Leading Comics 18"/>
-            <File Name="Mutt &amp; Jeff 21"/>
-            <File Name="Star Spangled Comics 55"/>
-            <File Name="Wonder Woman 16"/>
-            <File Name="Flash Comics 70"/>
-            <File Name="Funny Folks 1"/>
-            <File Name="Funny Stuff 8"/>
-            <File Name="All-American Comics 72"/>
-            <File Name="Batman 34"/>
-            <File Name="Action Comics 95"/>
-            <File Name="Sensation Comics 52"/>
-            <File Name="All-Star Comics 28"/>
-            <File Name="Real Screen Comics 5"/>
-            <File Name="Detective Comics 110"/>
-            <File Name="Green Lantern 19"/>
-            <File Name="Adventure Comics 103"/>
-            <File Name="All-Flash 22"/>
+            <File Name="Comic Cavalcade 14" ID="7213" SERIESID="571"/>
+            <File Name="Leading Comics 18" ID="17686" SERIESID="1280"/>
+            <File Name="Mutt &amp; Jeff 21" ID="19741" SERIESID="1461"/>
+            <File Name="Star Spangled Comics 55" ID="24792" SERIESID="1879"/>
+            <File Name="Wonder Woman 16" ID="31058" SERIESID="2351"/>
+            <File Name="Flash Comics 70" ID="10691" SERIESID="815"/>
+            <File Name="Funny Folks 1" ID="11771" SERIESID="851"/>
+            <File Name="Funny Stuff 8" ID="11804" SERIESID="852"/>
+            <File Name="All-American Comics 72" ID="2000" SERIESID="50"/>
+            <File Name="Batman 34" ID="3557" SERIESID="162"/>
+            <File Name="Action Comics 95" ID="78" SERIESID="28"/>
+            <File Name="Sensation Comics 52" ID="23798" SERIESID="1775"/>
+            <File Name="All-Star Comics 28" ID="2269" SERIESID="58"/>
+            <File Name="Real Screen Comics 5" ID="22269" SERIESID="1644"/>
+            <File Name="Detective Comics 110" ID="8366" SERIESID="693"/>
+            <File Name="Green Lantern 19" ID="12529" SERIESID="929"/>
+            <File Name="Adventure Comics 103" ID="962" SERIESID="33"/>
+            <File Name="All-Flash 22" ID="2195" SERIESID="54"/>
         </Directory>
         <Directory Name="CDCC 1946 03">
-            <File Name="All Funny Comics 11"/>
-            <File Name="Animal Antics 2"/>
-            <File Name="Superman 40"/>
-            <File Name="More Fun Comics 109"/>
-            <File Name="Star Spangled Comics 56"/>
-            <File Name="Flash Comics 71"/>
-            <File Name="Funny Stuff 9"/>
-            <File Name="Real Fact Comics 2"/>
-            <File Name="Action Comics 96"/>
-            <File Name="Sensation Comics 53"/>
-            <File Name="All-American Comics 73"/>
-            <File Name="Detective Comics 111"/>
-            <File Name="Buzzy 7"/>
-            <File Name="Adventure Comics 104"/>
-            <File Name="World&apos;s Finest Comics 22"/>
+            <File Name="All Funny Comics 11" ID="2216" SERIESID="55"/>
+            <File Name="Animal Antics 2" ID="2611" SERIESID="82"/>
+            <File Name="Superman 40" ID="26876" SERIESID="1984"/>
+            <File Name="More Fun Comics 109" ID="19915" SERIESID="1454"/>
+            <File Name="Star Spangled Comics 56" ID="24793" SERIESID="1879"/>
+            <File Name="Flash Comics 71" ID="10692" SERIESID="815"/>
+            <File Name="Funny Stuff 9" ID="11805" SERIESID="852"/>
+            <File Name="Real Fact Comics 2" ID="22245" SERIESID="1643"/>
+            <File Name="Action Comics 96" ID="79" SERIESID="28"/>
+            <File Name="Sensation Comics 53" ID="23799" SERIESID="1775"/>
+            <File Name="All-American Comics 73" ID="2001" SERIESID="50"/>
+            <File Name="Detective Comics 111" ID="8367" SERIESID="693"/>
+            <File Name="Buzzy 7" ID="6370" SERIESID="523"/>
+            <File Name="Adventure Comics 104" ID="963" SERIESID="33"/>
+            <File Name="World&apos;s Finest Comics 22" ID="31852" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1946 04">
-            <File Name="Comic Cavalcade 15"/>
-            <File Name="Leading Comics 19"/>
-            <File Name="More Fun Comics 110"/>
-            <File Name="Mutt &amp; Jeff 22"/>
-            <File Name="Wonder Woman 17"/>
-            <File Name="Star Spangled Comics 57"/>
-            <File Name="Flash Comics 72"/>
-            <File Name="Funny Stuff 10"/>
-            <File Name="Batman 35"/>
-            <File Name="Funny Folks 2"/>
-            <File Name="Action Comics 97"/>
-            <File Name="All-American Comics 74"/>
-            <File Name="Boy Commandos 15"/>
-            <File Name="Real Screen Comics 6"/>
-            <File Name="Sensation Comics 54"/>
-            <File Name="All-Star Comics 29"/>
-            <File Name="Detective Comics 112"/>
-            <File Name="Adventure Comics 105"/>
-            <File Name="All-Flash 23"/>
-            <File Name="Green Lantern 20"/>
+            <File Name="Comic Cavalcade 15" ID="7214" SERIESID="571"/>
+            <File Name="Leading Comics 19" ID="17687" SERIESID="1280"/>
+            <File Name="More Fun Comics 110" ID="19916" SERIESID="1454"/>
+            <File Name="Mutt &amp; Jeff 22" ID="19742" SERIESID="1461"/>
+            <File Name="Wonder Woman 17" ID="31059" SERIESID="2351"/>
+            <File Name="Star Spangled Comics 57" ID="24794" SERIESID="1879"/>
+            <File Name="Flash Comics 72" ID="10693" SERIESID="815"/>
+            <File Name="Funny Stuff 10" ID="11806" SERIESID="852"/>
+            <File Name="Batman 35" ID="3558" SERIESID="162"/>
+            <File Name="Funny Folks 2" ID="11772" SERIESID="851"/>
+            <File Name="Action Comics 97" ID="80" SERIESID="28"/>
+            <File Name="All-American Comics 74" ID="2002" SERIESID="50"/>
+            <File Name="Boy Commandos 15" ID="6209" SERIESID="505"/>
+            <File Name="Real Screen Comics 6" ID="22270" SERIESID="1644"/>
+            <File Name="Sensation Comics 54" ID="23800" SERIESID="1775"/>
+            <File Name="All-Star Comics 29" ID="2270" SERIESID="58"/>
+            <File Name="Detective Comics 112" ID="8368" SERIESID="693"/>
+            <File Name="Adventure Comics 105" ID="964" SERIESID="33"/>
+            <File Name="All-Flash 23" ID="2196" SERIESID="54"/>
+            <File Name="Green Lantern 20" ID="12530" SERIESID="929"/>
         </Directory>
         <Directory Name="CDCC 1946 05">
-            <File Name="All Funny Comics 12"/>
-            <File Name="More Fun Comics 111"/>
-            <File Name="Superman 41"/>
-            <File Name="Animal Antics 3"/>
-            <File Name="Star Spangled Comics 58"/>
-            <File Name="Real Fact Comics 3"/>
-            <File Name="Flash Comics 73"/>
-            <File Name="Funny Stuff 11"/>
-            <File Name="Action Comics 98"/>
-            <File Name="All-American Comics 75"/>
-            <File Name="Sensation Comics 55"/>
-            <File Name="Adventure Comics 106"/>
-            <File Name="Detective Comics 113"/>
-            <File Name="Buzzy 8"/>
-            <File Name="More Fun Comics 112"/>
-            <File Name="Wonder Woman 18"/>
-            <File Name="World&apos;s Finest Comics 23"/>
+            <File Name="All Funny Comics 12" ID="2217" SERIESID="55"/>
+            <File Name="More Fun Comics 111" ID="19917" SERIESID="1454"/>
+            <File Name="Superman 41" ID="26877" SERIESID="1984"/>
+            <File Name="Animal Antics 3" ID="2612" SERIESID="82"/>
+            <File Name="Star Spangled Comics 58" ID="24795" SERIESID="1879"/>
+            <File Name="Real Fact Comics 3" ID="22246" SERIESID="1643"/>
+            <File Name="Flash Comics 73" ID="10694" SERIESID="815"/>
+            <File Name="Funny Stuff 11" ID="11807" SERIESID="852"/>
+            <File Name="Action Comics 98" ID="81" SERIESID="28"/>
+            <File Name="All-American Comics 75" ID="2003" SERIESID="50"/>
+            <File Name="Sensation Comics 55" ID="23801" SERIESID="1775"/>
+            <File Name="Adventure Comics 106" ID="965" SERIESID="33"/>
+            <File Name="Detective Comics 113" ID="8369" SERIESID="693"/>
+            <File Name="Buzzy 8" ID="6371" SERIESID="523"/>
+            <File Name="More Fun Comics 112" ID="19918" SERIESID="1454"/>
+            <File Name="Wonder Woman 18" ID="31060" SERIESID="2351"/>
+            <File Name="World&apos;s Finest Comics 23" ID="31853" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1946 06">
-            <File Name="Boy Commandos 16"/>
-            <File Name="Leading Comics 20"/>
-            <File Name="Mutt &amp; Jeff 23"/>
-            <File Name="Star Spangled Comics 59"/>
-            <File Name="Batman 36"/>
-            <File Name="Flash Comics 74"/>
-            <File Name="Funny Stuff 12"/>
-            <File Name="Action Comics 99"/>
-            <File Name="Comic Cavalcade 16"/>
-            <File Name="Funny Folks 3"/>
-            <File Name="All-American Comics 76"/>
-            <File Name="Sensation Comics 56"/>
-            <File Name="Adventure Comics 107"/>
-            <File Name="Real Screen Comics 7"/>
-            <File Name="All-Star Comics 30"/>
-            <File Name="Detective Comics 114"/>
-            <File Name="All-Flash 24"/>
-            <File Name="Green Lantern 21"/>
-            <File Name="More Fun Comics 113"/>
+            <File Name="Boy Commandos 16" ID="6210" SERIESID="505"/>
+            <File Name="Leading Comics 20" ID="17688" SERIESID="1280"/>
+            <File Name="Mutt &amp; Jeff 23" ID="19743" SERIESID="1461"/>
+            <File Name="Star Spangled Comics 59" ID="24796" SERIESID="1879"/>
+            <File Name="Batman 36" ID="3559" SERIESID="162"/>
+            <File Name="Flash Comics 74" ID="10695" SERIESID="815"/>
+            <File Name="Funny Stuff 12" ID="11808" SERIESID="852"/>
+            <File Name="Action Comics 99" ID="82" SERIESID="28"/>
+            <File Name="Comic Cavalcade 16" ID="7215" SERIESID="571"/>
+            <File Name="Funny Folks 3" ID="11773" SERIESID="851"/>
+            <File Name="All-American Comics 76" ID="2004" SERIESID="50"/>
+            <File Name="Sensation Comics 56" ID="23802" SERIESID="1775"/>
+            <File Name="Adventure Comics 107" ID="966" SERIESID="33"/>
+            <File Name="Real Screen Comics 7" ID="22271" SERIESID="1644"/>
+            <File Name="All-Star Comics 30" ID="2271" SERIESID="58"/>
+            <File Name="Detective Comics 114" ID="8370" SERIESID="693"/>
+            <File Name="All-Flash 24" ID="2197" SERIESID="54"/>
+            <File Name="Green Lantern 21" ID="12531" SERIESID="929"/>
+            <File Name="More Fun Comics 113" ID="19919" SERIESID="1454"/>
         </Directory>
         <Directory Name="CDCC 1946 07">
-            <File Name="All Funny Comics 13"/>
-            <File Name="Superman 42"/>
-            <File Name="Animal Antics 4"/>
-            <File Name="Star Spangled Comics 60"/>
-            <File Name="Real Fact Comics 4"/>
-            <File Name="Flash Comics 75"/>
-            <File Name="Funny Stuff 13"/>
-            <File Name="Action Comics 100"/>
-            <File Name="All-American Comics 77"/>
-            <File Name="Sensation Comics 57"/>
-            <File Name="Adventure Comics 108"/>
-            <File Name="Detective Comics 115"/>
-            <File Name="Buzzy 9"/>
-            <File Name="Boy Commandos 17"/>
-            <File Name="More Fun Comics 114"/>
-            <File Name="Wonder Woman 19"/>
-            <File Name="World&apos;s Finest Comics 24"/>
+            <File Name="All Funny Comics 13" ID="2218" SERIESID="55"/>
+            <File Name="Superman 42" ID="26878" SERIESID="1984"/>
+            <File Name="Animal Antics 4" ID="2613" SERIESID="82"/>
+            <File Name="Star Spangled Comics 60" ID="24797" SERIESID="1879"/>
+            <File Name="Real Fact Comics 4" ID="22247" SERIESID="1643"/>
+            <File Name="Flash Comics 75" ID="10696" SERIESID="815"/>
+            <File Name="Funny Stuff 13" ID="11809" SERIESID="852"/>
+            <File Name="Action Comics 100" ID="83" SERIESID="28"/>
+            <File Name="All-American Comics 77" ID="2005" SERIESID="50"/>
+            <File Name="Sensation Comics 57" ID="23803" SERIESID="1775"/>
+            <File Name="Adventure Comics 108" ID="967" SERIESID="33"/>
+            <File Name="Detective Comics 115" ID="8371" SERIESID="693"/>
+            <File Name="Buzzy 9" ID="6372" SERIESID="523"/>
+            <File Name="Boy Commandos 17" ID="6211" SERIESID="505"/>
+            <File Name="More Fun Comics 114" ID="19920" SERIESID="1454"/>
+            <File Name="Wonder Woman 19" ID="31061" SERIESID="2351"/>
+            <File Name="World&apos;s Finest Comics 24" ID="31854" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1946 08">
-            <File Name="Leading Comics 21"/>
-            <File Name="Star Spangled Comics 61"/>
-            <File Name="Batman 37"/>
-            <File Name="Flash Comics 76"/>
-            <File Name="Funny Stuff 14"/>
-            <File Name="Mutt &amp; Jeff 24"/>
-            <File Name="Action Comics 101"/>
-            <File Name="Comic Cavalcade 17"/>
-            <File Name="Funny Folks 4"/>
-            <File Name="All-American Comics 78"/>
-            <File Name="Real Screen Comics 8"/>
-            <File Name="Sensation Comics 58"/>
-            <File Name="Adventure Comics 109"/>
-            <File Name="All-Star Comics 31"/>
-            <File Name="Detective Comics 116"/>
-            <File Name="All-Flash 25"/>
-            <File Name="Green Lantern 22"/>
-            <File Name="All Funny Comics 14"/>
-            <File Name="More Fun Comics 115"/>
-            <File Name="Superman 43"/>
-            <File Name="Star Spangled Comics 62"/>
+            <File Name="Leading Comics 21" ID="17689" SERIESID="1280"/>
+            <File Name="Star Spangled Comics 61" ID="24798" SERIESID="1879"/>
+            <File Name="Batman 37" ID="3560" SERIESID="162"/>
+            <File Name="Flash Comics 76" ID="10697" SERIESID="815"/>
+            <File Name="Funny Stuff 14" ID="11810" SERIESID="852"/>
+            <File Name="Mutt &amp; Jeff 24" ID="19744" SERIESID="1461"/>
+            <File Name="Action Comics 101" ID="84" SERIESID="28"/>
+            <File Name="Comic Cavalcade 17" ID="7216" SERIESID="571"/>
+            <File Name="Funny Folks 4" ID="11774" SERIESID="851"/>
+            <File Name="All-American Comics 78" ID="2006" SERIESID="50"/>
+            <File Name="Real Screen Comics 8" ID="22272" SERIESID="1644"/>
+            <File Name="Sensation Comics 58" ID="23804" SERIESID="1775"/>
+            <File Name="Adventure Comics 109" ID="968" SERIESID="33"/>
+            <File Name="All-Star Comics 31" ID="2272" SERIESID="58"/>
+            <File Name="Detective Comics 116" ID="8372" SERIESID="693"/>
+            <File Name="All-Flash 25" ID="2198" SERIESID="54"/>
+            <File Name="Green Lantern 22" ID="12532" SERIESID="929"/>
+            <File Name="All Funny Comics 14" ID="2219" SERIESID="55"/>
+            <File Name="More Fun Comics 115" ID="19921" SERIESID="1454"/>
+            <File Name="Superman 43" ID="26879" SERIESID="1984"/>
+            <File Name="Star Spangled Comics 62" ID="24799" SERIESID="1879"/>
         </Directory>
         <Directory Name="CDCC 1946 09">
-            <File Name="Animal Antics 5"/>
-            <File Name="Flash Comics 77"/>
-            <File Name="Funny Stuff 15"/>
-            <File Name="Real Fact Comics 5"/>
-            <File Name="Action Comics 102"/>
-            <File Name="All-American Comics 79"/>
-            <File Name="Sensation Comics 59"/>
-            <File Name="Adventure Comics 110"/>
-            <File Name="Buzzy 10"/>
-            <File Name="Detective Comics 117"/>
-            <File Name="Boy Commandos 18"/>
-            <File Name="More Fun Comics 116"/>
-            <File Name="Wonder Woman 20"/>
-            <File Name="World&apos;s Finest Comics 25"/>
+            <File Name="Animal Antics 5" ID="2614" SERIESID="82"/>
+            <File Name="Flash Comics 77" ID="10698" SERIESID="815"/>
+            <File Name="Funny Stuff 15" ID="11811" SERIESID="852"/>
+            <File Name="Real Fact Comics 5" ID="22248" SERIESID="1643"/>
+            <File Name="Action Comics 102" ID="85" SERIESID="28"/>
+            <File Name="All-American Comics 79" ID="2007" SERIESID="50"/>
+            <File Name="Sensation Comics 59" ID="23805" SERIESID="1775"/>
+            <File Name="Adventure Comics 110" ID="969" SERIESID="33"/>
+            <File Name="Buzzy 10" ID="6373" SERIESID="523"/>
+            <File Name="Detective Comics 117" ID="8373" SERIESID="693"/>
+            <File Name="Boy Commandos 18" ID="6212" SERIESID="505"/>
+            <File Name="More Fun Comics 116" ID="19922" SERIESID="1454"/>
+            <File Name="Wonder Woman 20" ID="31062" SERIESID="2351"/>
+            <File Name="World&apos;s Finest Comics 25" ID="31855" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1946 10">
-            <File Name="Leading Comics 22"/>
-            <File Name="Mutt &amp; Jeff 25"/>
-            <File Name="Star Spangled Comics 63"/>
-            <File Name="Flash Comics 78"/>
-            <File Name="Funny Stuff 16"/>
-            <File Name="Batman 38"/>
-            <File Name="Comic Cavalcade 18"/>
-            <File Name="Action Comics 103"/>
-            <File Name="Funny Folks 5"/>
-            <File Name="All-American Comics 80"/>
-            <File Name="Real Screen Comics 9"/>
-            <File Name="Sensation Comics 60"/>
-            <File Name="Adventure Comics 111"/>
-            <File Name="All-Star Comics 32"/>
-            <File Name="Detective Comics 118"/>
-            <File Name="All Funny Comics 15"/>
-            <File Name="All-Flash 26"/>
-            <File Name="Green Lantern 23"/>
-            <File Name="More Fun Comics 117"/>
-            <File Name="Superman 44"/>
+            <File Name="Leading Comics 22" ID="17690" SERIESID="1280"/>
+            <File Name="Mutt &amp; Jeff 25" ID="19745" SERIESID="1461"/>
+            <File Name="Star Spangled Comics 63" ID="24800" SERIESID="1879"/>
+            <File Name="Flash Comics 78" ID="10699" SERIESID="815"/>
+            <File Name="Funny Stuff 16" ID="11812" SERIESID="852"/>
+            <File Name="Batman 38" ID="3561" SERIESID="162"/>
+            <File Name="Comic Cavalcade 18" ID="7217" SERIESID="571"/>
+            <File Name="Action Comics 103" ID="86" SERIESID="28"/>
+            <File Name="Funny Folks 5" ID="11775" SERIESID="851"/>
+            <File Name="All-American Comics 80" ID="2008" SERIESID="50"/>
+            <File Name="Real Screen Comics 9" ID="22273" SERIESID="1644"/>
+            <File Name="Sensation Comics 60" ID="23806" SERIESID="1775"/>
+            <File Name="Adventure Comics 111" ID="970" SERIESID="33"/>
+            <File Name="All-Star Comics 32" ID="2273" SERIESID="58"/>
+            <File Name="Detective Comics 118" ID="8374" SERIESID="693"/>
+            <File Name="All Funny Comics 15" ID="2220" SERIESID="55"/>
+            <File Name="All-Flash 26" ID="2199" SERIESID="54"/>
+            <File Name="Green Lantern 23" ID="12533" SERIESID="929"/>
+            <File Name="More Fun Comics 117" ID="19923" SERIESID="1454"/>
+            <File Name="Superman 44" ID="26880" SERIESID="1984"/>
         </Directory>
         <Directory Name="CDCC 1946 11">
-            <File Name="Animal Antics 6"/>
-            <File Name="Star Spangled Comics 64"/>
-            <File Name="Flash Comics 79"/>
-            <File Name="Funny Stuff 17"/>
-            <File Name="Real Fact Comics 6"/>
-            <File Name="Action Comics 104"/>
-            <File Name="All-American Comics 81"/>
-            <File Name="Sensation Comics 61"/>
-            <File Name="Adventure Comics 112"/>
-            <File Name="Buzzy 11"/>
-            <File Name="Detective Comics 119"/>
-            <File Name="Wonder Woman 21"/>
-            <File Name="Boy Commandos 19"/>
-            <File Name="More Fun Comics 118"/>
-            <File Name="World&apos;s Finest Comics 26"/>
+            <File Name="Animal Antics 6" ID="2615" SERIESID="82"/>
+            <File Name="Star Spangled Comics 64" ID="24801" SERIESID="1879"/>
+            <File Name="Flash Comics 79" ID="10700" SERIESID="815"/>
+            <File Name="Funny Stuff 17" ID="11813" SERIESID="852"/>
+            <File Name="Real Fact Comics 6" ID="22249" SERIESID="1643"/>
+            <File Name="Action Comics 104" ID="87" SERIESID="28"/>
+            <File Name="All-American Comics 81" ID="2009" SERIESID="50"/>
+            <File Name="Sensation Comics 61" ID="23807" SERIESID="1775"/>
+            <File Name="Adventure Comics 112" ID="971" SERIESID="33"/>
+            <File Name="Buzzy 11" ID="6374" SERIESID="523"/>
+            <File Name="Detective Comics 119" ID="8375" SERIESID="693"/>
+            <File Name="Wonder Woman 21" ID="31063" SERIESID="2351"/>
+            <File Name="Boy Commandos 19" ID="6213" SERIESID="505"/>
+            <File Name="More Fun Comics 118" ID="19924" SERIESID="1454"/>
+            <File Name="World&apos;s Finest Comics 26" ID="31856" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1946 12">
-            <File Name="Leading Comics 23"/>
-            <File Name="Mutt &amp; Jeff 26"/>
-            <File Name="Flash Comics 80"/>
-            <File Name="Funny Stuff 18"/>
-            <File Name="Batman 39"/>
-            <File Name="Comic Cavalcade 19"/>
-            <File Name="Star Spangled Comics 65"/>
-            <File Name="Action Comics 105"/>
-            <File Name="Funny Folks 6"/>
-            <File Name="Real Screen Comics 10"/>
-            <File Name="Adventure Comics 113"/>
-            <File Name="All-American Comics 82"/>
-            <File Name="Sensation Comics 62"/>
-            <File Name="All-Star Comics 33"/>
-            <File Name="Detective Comics 120"/>
-            <File Name="More Fun Comics 119"/>
+            <File Name="Flash Comics ( 1)  [Wheaties Premium]" ID="38671" SERIESID="3502"/>
+            <File Name="Funny Stuff ( 1)  [Wheaties Premium]" ID="38672" SERIESID="3502"/>
+            <File Name="Leading Comics 23" ID="17691" SERIESID="1280"/>
+            <File Name="Mutt &amp; Jeff 26" ID="19746" SERIESID="1461"/>
+            <File Name="Flash Comics 80" ID="10701" SERIESID="815"/>
+            <File Name="Funny Stuff 18" ID="11814" SERIESID="852"/>
+            <File Name="Batman 39" ID="3562" SERIESID="162"/>
+            <File Name="Comic Cavalcade 19" ID="7218" SERIESID="571"/>
+            <File Name="Star Spangled Comics 65" ID="24802" SERIESID="1879"/>
+            <File Name="Action Comics 105" ID="88" SERIESID="28"/>
+            <File Name="Funny Folks 6" ID="11776" SERIESID="851"/>
+            <File Name="Real Screen Comics 10" ID="22274" SERIESID="1644"/>
+            <File Name="Adventure Comics 113" ID="972" SERIESID="33"/>
+            <File Name="All-American Comics 82" ID="2010" SERIESID="50"/>
+            <File Name="Sensation Comics 62" ID="23808" SERIESID="1775"/>
+            <File Name="All-Star Comics 33" ID="2274" SERIESID="58"/>
+            <File Name="Detective Comics 120" ID="8376" SERIESID="693"/>
+            <File Name="More Fun Comics 119" ID="19925" SERIESID="1454"/>
         </Directory>
     </Year>

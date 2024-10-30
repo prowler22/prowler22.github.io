@@ -2,260 +2,261 @@
 <!DOCTYPE xml>
     <Year Name="CDCC 1949">
         <Directory Name="CDCC 1949 01">
-            <File Name="Dale Evans Comics 4"/>
-            <File Name="Star Spangled Comics 90"/>
-            <File Name="Funny Stuff 43"/>
-            <File Name="Superboy 1"/>
-            <File Name="Mr. District Attorney 8"/>
-            <File Name="Real Fact Comics 19"/>
-            <File Name="Action Comics 130"/>
-            <File Name="Green Lantern 37"/>
-            <File Name="Sensation Comics 87"/>
-            <File Name="Adventure Comics 138"/>
-            <File Name="Buzzy 24"/>
-            <File Name="Detective Comics 145"/>
-            <File Name="Miss Beverly Hills 1"/>
-            <File Name="Wonder Woman 34"/>
-            <File Name="Boy Commandos 32"/>
-            <File Name="Western Comics 8"/>
-            <File Name="World&apos;s Finest Comics 39"/>
+            <File Name="Dale Evans Comics 4" ID="7457" SERIESID="608"/>
+            <File Name="Star Spangled Comics 90" ID="24827" SERIESID="1879"/>
+            <File Name="Funny Stuff 43" ID="11839" SERIESID="852"/>
+            <File Name="Superboy 1" ID="26241" SERIESID="1964"/>
+            <File Name="Mr. District Attorney 8" ID="19639" SERIESID="1439"/>
+            <File Name="Real Fact Comics 19" ID="22262" SERIESID="1643"/>
+            <File Name="Action Comics 130" ID="113" SERIESID="28"/>
+            <File Name="Green Lantern 37" ID="12547" SERIESID="929"/>
+            <File Name="Sensation Comics 87" ID="23833" SERIESID="1775"/>
+            <File Name="Adventure Comics 138" ID="997" SERIESID="33"/>
+            <File Name="Buzzy 24" ID="6387" SERIESID="523"/>
+            <File Name="Detective Comics 145" ID="8401" SERIESID="693"/>
+            <File Name="Miss Beverly Hills 1" ID="19620" SERIESID="1437"/>
+            <File Name="Wonder Woman 34" ID="31076" SERIESID="2351"/>
+            <File Name="Boy Commandos 32" ID="6226" SERIESID="505"/>
+            <File Name="Make Way for Youth ( 1)" ID="38676" SERIESID="3552"/>
+            <File Name="Western Comics 8" ID="30355" SERIESID="2322"/>
+            <File Name="World&apos;s Finest Comics 39" ID="31869" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1949 02">
-            <File Name="Leading Comics 36"/>
-            <File Name="Date with Judy 10"/>
-            <File Name="Star Spangled Comics 91"/>
-            <File Name="Funny Stuff 44"/>
-            <File Name="Gang Busters 9"/>
-            <File Name="Mutt &amp; Jeff 39"/>
-            <File Name="Batman 52"/>
-            <File Name="Comic Cavalcade 32"/>
-            <File Name="Action Comics 131"/>
-            <File Name="Funny Folks 19"/>
-            <File Name="All-American Western 107"/>
-            <File Name="Real Screen Comics 23"/>
-            <File Name="Sensation Comics 88"/>
-            <File Name="Adventure Comics 139"/>
-            <File Name="All-Star Comics 46"/>
-            <File Name="Detective Comics 146"/>
-            <File Name="Leave It to Binky 8"/>
-            <File Name="Scribbly 5"/>
+            <File Name="Leading Comics 36" ID="17704" SERIESID="1280"/>
+            <File Name="Date with Judy 10" ID="7560" SERIESID="633"/>
+            <File Name="Star Spangled Comics 91" ID="24828" SERIESID="1879"/>
+            <File Name="Funny Stuff 44" ID="11840" SERIESID="852"/>
+            <File Name="Gang Busters 9" ID="11157" SERIESID="856"/>
+            <File Name="Mutt &amp; Jeff 39" ID="19759" SERIESID="1461"/>
+            <File Name="Batman 52" ID="3575" SERIESID="162"/>
+            <File Name="Comic Cavalcade 32" ID="7231" SERIESID="571"/>
+            <File Name="Action Comics 131" ID="114" SERIESID="28"/>
+            <File Name="Funny Folks 19" ID="11789" SERIESID="851"/>
+            <File Name="All-American Western 107" ID="2154" SERIESID="50"/>
+            <File Name="Real Screen Comics 23" ID="22287" SERIESID="1644"/>
+            <File Name="Sensation Comics 88" ID="23834" SERIESID="1775"/>
+            <File Name="Adventure Comics 139" ID="998" SERIESID="33"/>
+            <File Name="All-Star Comics 46" ID="2287" SERIESID="58"/>
+            <File Name="Detective Comics 146" ID="8402" SERIESID="693"/>
+            <File Name="Leave It to Binky 8" ID="17776" SERIESID="1288"/>
+            <File Name="Scribbly 5" ID="23371" SERIESID="1755"/>
         </Directory>
         <Directory Name="CDCC 1949 03">
-            <File Name="Animal Antics 20"/>
-            <File Name="Superman 58"/>
-            <File Name="Dale Evans Comics 5"/>
-            <File Name="Star Spangled Comics 92"/>
-            <File Name="Funny Stuff 45"/>
-            <File Name="Superboy 2"/>
-            <File Name="Mr. District Attorney 9"/>
-            <File Name="Real Fact Comics 20"/>
-            <File Name="Action Comics 132"/>
-            <File Name="Green Lantern 38"/>
-            <File Name="Buzzy 25"/>
-            <File Name="Sensation Comics 89"/>
-            <File Name="Adventure Comics 140"/>
-            <File Name="Detective Comics 147"/>
-            <File Name="Miss Beverly Hills of Hollywood 2"/>
-            <File Name="Wonder Woman 35"/>
-            <File Name="Boy Commandos 33"/>
-            <File Name="Western Comics 9"/>
-            <File Name="World&apos;s Finest Comics 40"/>
+            <File Name="Animal Antics 20" ID="2629" SERIESID="82"/>
+            <File Name="Superman 58" ID="26894" SERIESID="1984"/>
+            <File Name="Dale Evans Comics 5" ID="7458" SERIESID="608"/>
+            <File Name="Star Spangled Comics 92" ID="24829" SERIESID="1879"/>
+            <File Name="Funny Stuff 45" ID="11841" SERIESID="852"/>
+            <File Name="Superboy 2" ID="26242" SERIESID="1964"/>
+            <File Name="Mr. District Attorney 9" ID="19640" SERIESID="1439"/>
+            <File Name="Real Fact Comics 20" ID="22263" SERIESID="1643"/>
+            <File Name="Action Comics 132" ID="115" SERIESID="28"/>
+            <File Name="Green Lantern 38" ID="12548" SERIESID="929"/>
+            <File Name="Buzzy 25" ID="6388" SERIESID="523"/>
+            <File Name="Sensation Comics 89" ID="23835" SERIESID="1775"/>
+            <File Name="Adventure Comics 140" ID="999" SERIESID="33"/>
+            <File Name="Detective Comics 147" ID="8403" SERIESID="693"/>
+            <File Name="Miss Beverly Hills of Hollywood 2" ID="19621" SERIESID="1437"/>
+            <File Name="Wonder Woman 35" ID="31077" SERIESID="2351"/>
+            <File Name="Boy Commandos 33" ID="6227" SERIESID="505"/>
+            <File Name="Western Comics 9" ID="30356" SERIESID="2322"/>
+            <File Name="World&apos;s Finest Comics 40" ID="31870" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1949 04">
-            <File Name="Leading Comics 37"/>
-            <File Name="Date with Judy 11"/>
-            <File Name="Star Spangled Comics 93"/>
-            <File Name="Funny Stuff 46"/>
-            <File Name="Gang Busters 10"/>
-            <File Name="Mutt &amp; Jeff 40"/>
-            <File Name="Batman 53"/>
-            <File Name="Comic Cavalcade 33"/>
-            <File Name="Action Comics 133"/>
-            <File Name="Funny Folks 20"/>
-            <File Name="Adventure Comics 141"/>
-            <File Name="All-American Western 108"/>
-            <File Name="Sensation Comics 90"/>
-            <File Name="Detective Comics 148"/>
-            <File Name="Real Screen Comics 24"/>
-            <File Name="All-Star Comics 47"/>
-            <File Name="Leave It to Binky 9"/>
-            <File Name="Scribbly 6"/>
+            <File Name="Leading Comics 37" ID="17705" SERIESID="1280"/>
+            <File Name="Date with Judy 11" ID="7561" SERIESID="633"/>
+            <File Name="Star Spangled Comics 93" ID="24830" SERIESID="1879"/>
+            <File Name="Funny Stuff 46" ID="11842" SERIESID="852"/>
+            <File Name="Gang Busters 10" ID="11158" SERIESID="856"/>
+            <File Name="Mutt &amp; Jeff 40" ID="19760" SERIESID="1461"/>
+            <File Name="Batman 53" ID="3576" SERIESID="162"/>
+            <File Name="Comic Cavalcade 33" ID="7232" SERIESID="571"/>
+            <File Name="Action Comics 133" ID="116" SERIESID="28"/>
+            <File Name="Funny Folks 20" ID="11790" SERIESID="851"/>
+            <File Name="Adventure Comics 141" ID="1000" SERIESID="33"/>
+            <File Name="All-American Western 108" ID="2155" SERIESID="50"/>
+            <File Name="Sensation Comics 90" ID="23836" SERIESID="1775"/>
+            <File Name="Detective Comics 148" ID="8404" SERIESID="693"/>
+            <File Name="Real Screen Comics 24" ID="22288" SERIESID="1644"/>
+            <File Name="All-Star Comics 47" ID="2288" SERIESID="58"/>
+            <File Name="Leave It to Binky 9" ID="17777" SERIESID="1288"/>
+            <File Name="Scribbly 6" ID="23372" SERIESID="1755"/>
         </Directory>
         <Directory Name="CDCC 1949 05">
-            <File Name="Animal Antics 21"/>
-            <File Name="Superman 59"/>
-            <File Name="Dale Evans Comics 6"/>
-            <File Name="Star Spangled Comics 94"/>
-            <File Name="Funny Stuff 47"/>
-            <File Name="Real Fact Comics 21"/>
-            <File Name="Mr. District Attorney 10"/>
-            <File Name="Romance Trail 1"/>
-            <File Name="Action Comics 134"/>
-            <File Name="Adventure Comics 142"/>
-            <File Name="Sensation Comics 91"/>
-            <File Name="Buzzy 26"/>
-            <File Name="Detective Comics 149"/>
-            <File Name="Miss Beverly Hills of Hollywood 3"/>
-            <File Name="Superboy 3"/>
-            <File Name="Wonder Woman 36"/>
-            <File Name="Boy Commandos 34"/>
-            <File Name="Western Comics 10"/>
-            <File Name="World&apos;s Finest Comics 41"/>
+            <File Name="Animal Antics 21" ID="2630" SERIESID="82"/>
+            <File Name="Superman 59" ID="26895" SERIESID="1984"/>
+            <File Name="Dale Evans Comics 6" ID="7459" SERIESID="608"/>
+            <File Name="Star Spangled Comics 94" ID="24831" SERIESID="1879"/>
+            <File Name="Funny Stuff 47" ID="11843" SERIESID="852"/>
+            <File Name="Real Fact Comics 21" ID="22264" SERIESID="1643"/>
+            <File Name="Mr. District Attorney 10" ID="19641" SERIESID="1439"/>
+            <File Name="Romance Trail 1" ID="22954" SERIESID="1695"/>
+            <File Name="Action Comics 134" ID="117" SERIESID="28"/>
+            <File Name="Adventure Comics 142" ID="1001" SERIESID="33"/>
+            <File Name="Sensation Comics 91" ID="23837" SERIESID="1775"/>
+            <File Name="Buzzy 26" ID="6389" SERIESID="523"/>
+            <File Name="Detective Comics 149" ID="8405" SERIESID="693"/>
+            <File Name="Miss Beverly Hills of Hollywood 3" ID="19622" SERIESID="1437"/>
+            <File Name="Superboy 3" ID="26243" SERIESID="1964"/>
+            <File Name="Wonder Woman 36" ID="31078" SERIESID="2351"/>
+            <File Name="Boy Commandos 34" ID="6228" SERIESID="505"/>
+            <File Name="Western Comics 10" ID="30357" SERIESID="2322"/>
+            <File Name="World&apos;s Finest Comics 41" ID="31871" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1949 06">
-            <File Name="Leading Comics 38"/>
-            <File Name="Date with Judy 12"/>
-            <File Name="Star Spangled Comics 95"/>
-            <File Name="Funny Stuff 48"/>
-            <File Name="Gang Busters 11"/>
-            <File Name="Mutt &amp; Jeff 41"/>
-            <File Name="Batman 54"/>
-            <File Name="Comic Cavalcade 34"/>
-            <File Name="Action Comics 135"/>
-            <File Name="Adventure Comics 143"/>
-            <File Name="Funny Folks 21"/>
-            <File Name="Girls&apos; Love Stories 1"/>
-            <File Name="Sensation Comics 92"/>
-            <File Name="All-American Western 109"/>
-            <File Name="Real Screen Comics 25"/>
-            <File Name="All-Star Comics 48"/>
-            <File Name="Detective Comics 150"/>
-            <File Name="Leave It to Binky 10"/>
-            <File Name="Scribbly 7"/>
+            <File Name="Leading Comics 38" ID="17706" SERIESID="1280"/>
+            <File Name="Date with Judy 12" ID="7562" SERIESID="633"/>
+            <File Name="Star Spangled Comics 95" ID="24832" SERIESID="1879"/>
+            <File Name="Funny Stuff 48" ID="11844" SERIESID="852"/>
+            <File Name="Gang Busters 11" ID="11159" SERIESID="856"/>
+            <File Name="Mutt &amp; Jeff 41" ID="19761" SERIESID="1461"/>
+            <File Name="Batman 54" ID="3577" SERIESID="162"/>
+            <File Name="Comic Cavalcade 34" ID="7233" SERIESID="571"/>
+            <File Name="Action Comics 135" ID="118" SERIESID="28"/>
+            <File Name="Adventure Comics 143" ID="1002" SERIESID="33"/>
+            <File Name="Funny Folks 21" ID="11791" SERIESID="851"/>
+            <File Name="Girls&apos; Love Stories 1" ID="11860" SERIESID="891"/>
+            <File Name="Sensation Comics 92" ID="23838" SERIESID="1775"/>
+            <File Name="All-American Western 109" ID="2156" SERIESID="50"/>
+            <File Name="Real Screen Comics 25" ID="22289" SERIESID="1644"/>
+            <File Name="All-Star Comics 48" ID="2289" SERIESID="58"/>
+            <File Name="Detective Comics 150" ID="8406" SERIESID="693"/>
+            <File Name="Leave It to Binky 10" ID="17778" SERIESID="1288"/>
+            <File Name="Scribbly 7" ID="23373" SERIESID="1755"/>
         </Directory>
         <Directory Name="CDCC 1949 07">
-            <File Name="Animal Antics 22"/>
-            <File Name="Superman 60"/>
-            <File Name="Jimmy Wakely 1"/>
-            <File Name="Star Spangled Comics 96"/>
-            <File Name="Dale Evans Comics 7"/>
-            <File Name="Mr. District Attorney 11"/>
-            <File Name="Funny Stuff 49"/>
-            <File Name="Romance Trail 2"/>
-            <File Name="Action Comics 136"/>
-            <File Name="Adventure Comics 144"/>
-            <File Name="Sensation Comics 93"/>
-            <File Name="Buzzy 27"/>
-            <File Name="Detective Comics 151"/>
-            <File Name="Secret Hearts 1"/>
-            <File Name="Superboy 4"/>
-            <File Name="Miss Beverly Hills of Hollywood 4"/>
-            <File Name="Wonder Woman 37"/>
-            <File Name="Boy Commandos 35"/>
-            <File Name="Western Comics 11"/>
-            <File Name="World&apos;s Finest Comics 42"/>
+            <File Name="Animal Antics 22" ID="2631" SERIESID="82"/>
+            <File Name="Superman 60" ID="26896" SERIESID="1984"/>
+            <File Name="Jimmy Wakely 1" ID="16447" SERIESID="1138"/>
+            <File Name="Star Spangled Comics 96" ID="24833" SERIESID="1879"/>
+            <File Name="Dale Evans Comics 7" ID="7460" SERIESID="608"/>
+            <File Name="Mr. District Attorney 11" ID="19642" SERIESID="1439"/>
+            <File Name="Funny Stuff 49" ID="11845" SERIESID="852"/>
+            <File Name="Romance Trail 2" ID="22955" SERIESID="1695"/>
+            <File Name="Action Comics 136" ID="119" SERIESID="28"/>
+            <File Name="Adventure Comics 144" ID="1003" SERIESID="33"/>
+            <File Name="Sensation Comics 93" ID="23839" SERIESID="1775"/>
+            <File Name="Buzzy 27" ID="6390" SERIESID="523"/>
+            <File Name="Detective Comics 151" ID="8407" SERIESID="693"/>
+            <File Name="Secret Hearts 1" ID="23427" SERIESID="1761"/>
+            <File Name="Superboy 4" ID="26244" SERIESID="1964"/>
+            <File Name="Miss Beverly Hills of Hollywood 4" ID="19623" SERIESID="1437"/>
+            <File Name="Wonder Woman 37" ID="31079" SERIESID="2351"/>
+            <File Name="Boy Commandos 35" ID="6229" SERIESID="505"/>
+            <File Name="Western Comics 11" ID="30358" SERIESID="2322"/>
+            <File Name="World&apos;s Finest Comics 42" ID="31872" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1949 08">
-            <File Name="Leading Comics 39"/>
-            <File Name="Date with Judy 13"/>
-            <File Name="Star Spangled Comics 97"/>
-            <File Name="Batman 55"/>
-            <File Name="Comic Cavalcade 35"/>
-            <File Name="Gang Busters 12"/>
-            <File Name="Mutt &amp; Jeff 42"/>
-            <File Name="Action Comics 137"/>
-            <File Name="Adventure Comics 145"/>
-            <File Name="Funny Folks 22"/>
-            <File Name="All-American Western 110"/>
-            <File Name="Funny Stuff 50"/>
-            <File Name="Girls&apos; Love Stories 2"/>
-            <File Name="All-Star Comics 49"/>
-            <File Name="Real Screen Comics 26"/>
-            <File Name="Detective Comics 152"/>
-            <File Name="Alan Ladd 1"/>
-            <File Name="Leave It to Binky 11"/>
-            <File Name="Ozzie &amp; Harriet 1"/>
-            <File Name="Scribbly 8"/>
-            <File Name="Animal Antics 23"/>
-            <File Name="Jimmy Wakely 2"/>
-            <File Name="Superman 61"/>
+            <File Name="Leading Comics 39" ID="17707" SERIESID="1280"/>
+            <File Name="Date with Judy 13" ID="7563" SERIESID="633"/>
+            <File Name="Star Spangled Comics 97" ID="24834" SERIESID="1879"/>
+            <File Name="Batman 55" ID="3578" SERIESID="162"/>
+            <File Name="Comic Cavalcade 35" ID="7234" SERIESID="571"/>
+            <File Name="Gang Busters 12" ID="11160" SERIESID="856"/>
+            <File Name="Mutt &amp; Jeff 42" ID="19762" SERIESID="1461"/>
+            <File Name="Action Comics 137" ID="120" SERIESID="28"/>
+            <File Name="Adventure Comics 145" ID="1004" SERIESID="33"/>
+            <File Name="Funny Folks 22" ID="11792" SERIESID="851"/>
+            <File Name="All-American Western 110" ID="2157" SERIESID="50"/>
+            <File Name="Funny Stuff 50" ID="11846" SERIESID="852"/>
+            <File Name="Girls&apos; Love Stories 2" ID="11861" SERIESID="891"/>
+            <File Name="All-Star Comics 49" ID="2290" SERIESID="58"/>
+            <File Name="Real Screen Comics 26" ID="22290" SERIESID="1644"/>
+            <File Name="Detective Comics 152" ID="8408" SERIESID="693"/>
+            <File Name="Alan Ladd 1" ID="1392" SERIESID="39"/>
+            <File Name="Leave It to Binky 11" ID="17779" SERIESID="1288"/>
+            <File Name="Ozzie &amp; Harriet 1" ID="1638" SERIESID="44"/>
+            <File Name="Scribbly 8" ID="23374" SERIESID="1755"/>
+            <File Name="Animal Antics 23" ID="2632" SERIESID="82"/>
+            <File Name="Jimmy Wakely 2" ID="16448" SERIESID="1138"/>
+            <File Name="Superman 61" ID="26897" SERIESID="1984"/>
         </Directory>
         <Directory Name="CDCC 1949 09">
-            <File Name="Dale Evans Comics 8"/>
-            <File Name="Mr. District Attorney 12"/>
-            <File Name="Star Spangled Comics 98"/>
-            <File Name="Action Comics 138"/>
-            <File Name="Funny Stuff 51"/>
-            <File Name="Romance Trail 3"/>
-            <File Name="Sensation Comics 94"/>
-            <File Name="Superboy 5"/>
-            <File Name="Adventure Comics 146"/>
-            <File Name="Buzzy 28"/>
-            <File Name="Detective Comics 153"/>
-            <File Name="Peter Porkchops 1"/>
-            <File Name="Secret Hearts 2"/>
-            <File Name="Wonder Woman 38"/>
-            <File Name="Boy Commandos 36"/>
-            <File Name="Miss Beverly Hills of Hollywood 5"/>
-            <File Name="Western Comics 12"/>
-            <File Name="World&apos;s Finest Comics 43"/>
+            <File Name="Dale Evans Comics 8" ID="7461" SERIESID="608"/>
+            <File Name="Mr. District Attorney 12" ID="19643" SERIESID="1439"/>
+            <File Name="Star Spangled Comics 98" ID="24835" SERIESID="1879"/>
+            <File Name="Action Comics 138" ID="121" SERIESID="28"/>
+            <File Name="Funny Stuff 51" ID="11847" SERIESID="852"/>
+            <File Name="Romance Trail 3" ID="22956" SERIESID="1695"/>
+            <File Name="Sensation Comics 94" ID="23840" SERIESID="1775"/>
+            <File Name="Superboy 5" ID="26245" SERIESID="1964"/>
+            <File Name="Adventure Comics 146" ID="1005" SERIESID="33"/>
+            <File Name="Buzzy 28" ID="6391" SERIESID="523"/>
+            <File Name="Detective Comics 153" ID="8409" SERIESID="693"/>
+            <File Name="Peter Porkchops 1" ID="21651" SERIESID="1558"/>
+            <File Name="Secret Hearts 2" ID="23428" SERIESID="1761"/>
+            <File Name="Wonder Woman 38" ID="31080" SERIESID="2351"/>
+            <File Name="Boy Commandos 36" ID="6230" SERIESID="505"/>
+            <File Name="Miss Beverly Hills of Hollywood 5" ID="19624" SERIESID="1437"/>
+            <File Name="Western Comics 12" ID="30359" SERIESID="2322"/>
+            <File Name="World&apos;s Finest Comics 43" ID="31873" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1949 10">
-            <File Name="Leading Comics 40"/>
-            <File Name="Date with Judy 14"/>
-            <File Name="Star Spangled Comics 99"/>
-            <File Name="Batman 56"/>
-            <File Name="Gang Busters 13"/>
-            <File Name="Mutt &amp; Jeff 43"/>
-            <File Name="Action Comics 139"/>
-            <File Name="Adventure Comics 147"/>
-            <File Name="Comic Cavalcade 36"/>
-            <File Name="Girls&apos; Love Stories 3"/>
-            <File Name="All-American Western 111"/>
-            <File Name="All-Star Comics 50"/>
-            <File Name="Detective Comics 154"/>
-            <File Name="Funny Folks 23"/>
-            <File Name="Adventures of Alan Ladd 2"/>
-            <File Name="Adventures of Ozzie &amp; Harriet 2"/>
-            <File Name="Real Screen Comics 27"/>
-            <File Name="Jimmy Wakely 3"/>
-            <File Name="Leave It to Binky 12"/>
+            <File Name="Leading Comics 40" ID="17708" SERIESID="1280"/>
+            <File Name="Date with Judy 14" ID="7564" SERIESID="633"/>
+            <File Name="Star Spangled Comics 99" ID="24836" SERIESID="1879"/>
+            <File Name="Batman 56" ID="3579" SERIESID="162"/>
+            <File Name="Gang Busters 13" ID="11161" SERIESID="856"/>
+            <File Name="Mutt &amp; Jeff 43" ID="19763" SERIESID="1461"/>
+            <File Name="Action Comics 139" ID="122" SERIESID="28"/>
+            <File Name="Adventure Comics 147" ID="1006" SERIESID="33"/>
+            <File Name="Comic Cavalcade 36" ID="7235" SERIESID="571"/>
+            <File Name="Girls&apos; Love Stories 3" ID="11862" SERIESID="891"/>
+            <File Name="All-American Western 111" ID="2158" SERIESID="50"/>
+            <File Name="All-Star Comics 50" ID="2291" SERIESID="58"/>
+            <File Name="Detective Comics 154" ID="8410" SERIESID="693"/>
+            <File Name="Funny Folks 23" ID="11793" SERIESID="851"/>
+            <File Name="Adventures of Alan Ladd 2" ID="1393" SERIESID="39"/>
+            <File Name="Adventures of Ozzie &amp; Harriet 2" ID="1639" SERIESID="44"/>
+            <File Name="Real Screen Comics 27" ID="22291" SERIESID="1644"/>
+            <File Name="Jimmy Wakely 3" ID="16449" SERIESID="1138"/>
+            <File Name="Leave It to Binky 12" ID="17780" SERIESID="1288"/>
         </Directory>
         <Directory Name="CDCC 1949 11">
-            <File Name="Star Spangled Comics 100"/>
-            <File Name="Superman 62"/>
-            <File Name="Movietown&apos;s Animal Antics 24"/>
-            <File Name="Mr. District Attorney 13"/>
-            <File Name="Scribbly 9"/>
-            <File Name="Action Comics 140"/>
-            <File Name="Dale Evans Comics 9"/>
-            <File Name="Adventure Comics 148"/>
-            <File Name="Romance Trail 4"/>
-            <File Name="Sensation Comics 95"/>
-            <File Name="Buzzy 29"/>
-            <File Name="Funny Stuff 52"/>
-            <File Name="Detective Comics 155"/>
-            <File Name="Secret Hearts 3"/>
-            <File Name="Peter Porkchops 2"/>
-            <File Name="Superboy 6"/>
-            <File Name="Adventures of Bob Hope 1"/>
-            <File Name="Miss Beverly Hills of Hollywood 6"/>
-            <File Name="Wonder Woman 39"/>
-            <File Name="Girls&apos; Romances 1"/>
-            <File Name="Western Comics 13"/>
+            <File Name="Star Spangled Comics 100" ID="24837" SERIESID="1879"/>
+            <File Name="Superman 62" ID="26898" SERIESID="1984"/>
+            <File Name="Movietown&apos;s Animal Antics 24" ID="19945" SERIESID="82"/>
+            <File Name="Mr. District Attorney 13" ID="19644" SERIESID="1439"/>
+            <File Name="Scribbly 9" ID="23375" SERIESID="1755"/>
+            <File Name="Action Comics 140" ID="123" SERIESID="28"/>
+            <File Name="Dale Evans Comics 9" ID="7462" SERIESID="608"/>
+            <File Name="Adventure Comics 148" ID="1007" SERIESID="33"/>
+            <File Name="Romance Trail 4" ID="22957" SERIESID="1695"/>
+            <File Name="Sensation Comics 95" ID="23841" SERIESID="1775"/>
+            <File Name="Buzzy 29" ID="6392" SERIESID="523"/>
+            <File Name="Funny Stuff 52" ID="11848" SERIESID="852"/>
+            <File Name="Detective Comics 155" ID="8411" SERIESID="693"/>
+            <File Name="Secret Hearts 3" ID="23429" SERIESID="1761"/>
+            <File Name="Peter Porkchops 2" ID="21652" SERIESID="1558"/>
+            <File Name="Superboy 6" ID="26246" SERIESID="1964"/>
+            <File Name="Adventures of Bob Hope 1" ID="1401" SERIESID="40"/>
+            <File Name="Miss Beverly Hills of Hollywood 6" ID="19625" SERIESID="1437"/>
+            <File Name="Wonder Woman 39" ID="31081" SERIESID="2351"/>
+            <File Name="Girls&apos; Romances 1" ID="12040" SERIESID="892"/>
+            <File Name="Western Comics 13" ID="30360" SERIESID="2322"/>
         </Directory>
         <Directory Name="CDCC 1949 12">
-            <File Name="Leading Comics 41"/>
-            <File Name="World&apos;s Finest Comics 44"/>
-            <File Name="Date with Judy 15"/>
-            <File Name="Gangbusters 14"/>
-            <File Name="Miss Melody Lane of Broadway 1"/>
-            <File Name="Mutt &amp; Jeff 44"/>
-            <File Name="Star Spangled Comics 101"/>
-            <File Name="Batman 57"/>
-            <File Name="Action Comics 141"/>
-            <File Name="Adventure Comics 149"/>
-            <File Name="Comic Cavalcade 37"/>
-            <File Name="Funny Folks 24"/>
-            <File Name="Girls&apos; Love Stories 4"/>
-            <File Name="Adventures of Ozzie &amp; Harriet 3"/>
-            <File Name="Detective Comics 156"/>
-            <File Name="Real Screen Comics 28"/>
-            <File Name="Adventures of Alan Ladd 3"/>
-            <File Name="All-American Western 112"/>
-            <File Name="All-Star Comics 51"/>
-            <File Name="Jimmy Wakely 4"/>
-            <File Name="Leave It to Binky 13"/>
-            <File Name="Superman 63"/>
+            <File Name="Leading Comics 41" ID="17709" SERIESID="1280"/>
+            <File Name="World&apos;s Finest Comics 44" ID="31874" SERIESID="2378"/>
+            <File Name="Date with Judy 15" ID="7565" SERIESID="633"/>
+            <File Name="Gangbusters 14" ID="11162" SERIESID="856"/>
+            <File Name="Miss Melody Lane of Broadway 1" ID="19629" SERIESID="1438"/>
+            <File Name="Mutt &amp; Jeff 44" ID="19764" SERIESID="1461"/>
+            <File Name="Star Spangled Comics 101" ID="24838" SERIESID="1879"/>
+            <File Name="Batman 57" ID="3580" SERIESID="162"/>
+            <File Name="Action Comics 141" ID="124" SERIESID="28"/>
+            <File Name="Adventure Comics 149" ID="1008" SERIESID="33"/>
+            <File Name="Comic Cavalcade 37" ID="7236" SERIESID="571"/>
+            <File Name="Funny Folks 24" ID="11794" SERIESID="851"/>
+            <File Name="Girls&apos; Love Stories 4" ID="11863" SERIESID="891"/>
+            <File Name="Adventures of Ozzie &amp; Harriet 3" ID="1640" SERIESID="44"/>
+            <File Name="Detective Comics 156" ID="8412" SERIESID="693"/>
+            <File Name="Real Screen Comics 28" ID="22292" SERIESID="1644"/>
+            <File Name="Adventures of Alan Ladd 3" ID="1394" SERIESID="39"/>
+            <File Name="All-American Western 112" ID="2159" SERIESID="50"/>
+            <File Name="All-Star Comics 51" ID="2292" SERIESID="58"/>
+            <File Name="Jimmy Wakely 4" ID="16450" SERIESID="1138"/>
+            <File Name="Leave It to Binky 13" ID="17781" SERIESID="1288"/>
+            <File Name="Superman 63" ID="26899" SERIESID="1984"/>
         </Directory>
     </Year>

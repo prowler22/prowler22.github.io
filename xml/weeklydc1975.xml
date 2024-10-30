@@ -2,450 +2,456 @@
 <!DOCTYPE xml>
     <Year Name="CDCC 1975">
         <Directory Name="CDCC 1975 01">
-            <File Name="Famous First Edition F-6"/>
-            <File Name="Ghosts 37"/>
-            <File Name="Justice League of America 117"/>
-            <File Name="Limited Collectors&apos; Edition C-35"/>
-            <File Name="Our Army at War 279"/>
-            <File Name="Secrets of Haunted House 1"/>
-            <File Name="Young Love 115"/>
-            <File Name="Kamandi, the Last Boy on Earth 28"/>
-            <File Name="Phantom Stranger 36"/>
-            <File Name="Rima, the Jungle Girl 7"/>
-            <File Name="Shadow 10"/>
-            <File Name="Batman 262"/>
-            <File Name="Black Magic 9"/>
-            <File Name="Superboy 208"/>
-            <File Name="Wonder Woman 217"/>
-            <File Name="Beowulf 1"/>
-            <File Name="House of Mystery 230"/>
-            <File Name="Our Fighting Forces 154"/>
-            <File Name="World&apos;s Finest Comics 229"/>
-            <File Name="G.I. Combat 177"/>
-            <File Name="Superman Family 170"/>
-            <File Name="Weird War Tales 36"/>
-            <File Name="Brave &amp; the Bold 118"/>
-            <File Name="Plop 11"/>
-            <File Name="Weird Mystery Tales 17"/>
-            <File Name="Witching Hour 53"/>
-            <File Name="1st Issue Special 1"/>
-            <File Name="Star Spangled War Stories 186"/>
-            <File Name="Superman 286"/>
-            <File Name="Action Comics 446"/>
-            <File Name="Detective Comics 446"/>
-            <File Name="House of Secrets 130"/>
-            <File Name="Tarzan 236"/>
-            <File Name="Richard Dragon, Kung-Fu Fighter 1"/>
-            <File Name="Sandman 2"/>
-            <File Name="Unexpected 163"/>
+            <File Name="Famous First Edition F-6" ID="10037" SERIESID="789"/>
+            <File Name="Ghosts 37" ID="11372" SERIESID="882"/>
+            <File Name="Justice League of America 117" ID="17858" SERIESID="1234"/>
+            <File Name="Limited Collectors&apos; Edition C-35" ID="18656" SERIESID="1292"/>
+            <File Name="Our Army at War 279" ID="20874" SERIESID="1534"/>
+            <File Name="Secrets of Haunted House 1" ID="23669" SERIESID="1771"/>
+            <File Name="Young Love 115" ID="32223" SERIESID="2404"/>
+            <File Name="Kamandi, the Last Boy on Earth 28" ID="17494" SERIESID="1249"/>
+            <File Name="Phantom Stranger 36" ID="21771" SERIESID="1562"/>
+            <File Name="Rima, the Jungle Girl 7" ID="22672" SERIESID="1668"/>
+            <File Name="Shadow 10" ID="24143" SERIESID="1791"/>
+            <File Name="Batman 262" ID="3792" SERIESID="162"/>
+            <File Name="Black Magic 9" ID="5866" SERIESID="467"/>
+            <File Name="Superboy 208" ID="26449" SERIESID="1964"/>
+            <File Name="Wonder Woman 217" ID="31259" SERIESID="2351"/>
+            <File Name="Beowulf 1" ID="5387" SERIESID="408"/>
+            <File Name="House of Mystery 230" ID="15765" SERIESID="1080"/>
+            <File Name="Our Fighting Forces 154" ID="21425" SERIESID="1535"/>
+            <File Name="World&apos;s Finest Comics 229" ID="31554" SERIESID="2378"/>
+            <File Name="G.I. Combat 177" ID="11590" SERIESID="887"/>
+            <File Name="Superman Family 170" ID="27683" SERIESID="1889"/>
+            <File Name="Weird War Tales 36" ID="30258" SERIESID="2315"/>
+            <File Name="Brave &amp; the Bold 118" ID="6989" SERIESID="509"/>
+            <File Name="Plop 11" ID="21903" SERIESID="1583"/>
+            <File Name="Weird Mystery Tales 17" ID="30214" SERIESID="2313"/>
+            <File Name="Witching Hour 53" ID="31005" SERIESID="2349"/>
+            <File Name="1st Issue Special 1" ID="10149" SERIESID="806"/>
+            <File Name="Star Spangled War Stories 186" ID="24977" SERIESID="1930"/>
+            <File Name="Superman 286" ID="27468" SERIESID="1984"/>
+            <File Name="Action Comics 446" ID="429" SERIESID="28"/>
+            <File Name="Amazing World of DC Comics 4" ID="37464" SERIESID="3057"/>
+            <File Name="Detective Comics 446" ID="8789" SERIESID="693"/>
+            <File Name="House of Secrets 130" ID="15986" SERIESID="1081"/>
+            <File Name="Tarzan 236" ID="28993" SERIESID="2159"/>
+            <File Name="Richard Dragon, Kung-Fu Fighter 1" ID="22648" SERIESID="1667"/>
+            <File Name="Sandman 2" ID="23000" SERIESID="1703"/>
+            <File Name="Unexpected 163" ID="29874" SERIESID="2133"/>
         </Directory>
         <Directory Name="CDCC 1975 02">
-            <File Name="Ghosts 38"/>
-            <File Name="Swamp Thing 16"/>
-            <File Name="Tales of Ghost Castle 1"/>
-            <File Name="Weird Western Tales 28"/>
-            <File Name="House of Mystery 231"/>
-            <File Name="Joker 1"/>
-            <File Name="Kamandi, the Last Boy on Earth 29"/>
-            <File Name="Tor 1"/>
-            <File Name="Young Romance 205"/>
-            <File Name="G.I. Combat 178"/>
-            <File Name="Justice League of America 118"/>
-            <File Name="Korak, Son of Tarzan 57"/>
-            <File Name="Omac 5"/>
-            <File Name="Weird War Tales 37"/>
-            <File Name="Batman 263"/>
-            <File Name="DC Special 16"/>
-            <File Name="Our Army at War 280"/>
-            <File Name="World&apos;s Finest Comics 230"/>
-            <File Name="Our Fighting Forces 155"/>
-            <File Name="Plop 12"/>
-            <File Name="Superman 287"/>
-            <File Name="Witching Hour 54"/>
-            <File Name="Claw the Unconquered 1"/>
-            <File Name="Justice, Inc. 1"/>
-            <File Name="Shazam 18"/>
-            <File Name="Star Spangled War Stories 187"/>
-            <File Name="Weird Mystery Tales 18"/>
-            <File Name="Detective Comics 447"/>
-            <File Name="Flash 233"/>
-            <File Name="House of Secrets 131"/>
-            <File Name="Tarzan 237"/>
-            <File Name="1st Issue Special 2"/>
-            <File Name="Action Comics 447"/>
-            <File Name="Adventure Comics 439"/>
-            <File Name="Unexpected 164"/>
+            <File Name="Ghosts 38" ID="11373" SERIESID="882"/>
+            <File Name="Swamp Thing 16" ID="28196" SERIESID="2108"/>
+            <File Name="Tales of Ghost Castle 1" ID="28494" SERIESID="2128"/>
+            <File Name="Weird Western Tales 28" ID="30280" SERIESID="64"/>
+            <File Name="House of Mystery 231" ID="15766" SERIESID="1080"/>
+            <File Name="Joker 1" ID="16856" SERIESID="1199"/>
+            <File Name="Kamandi, the Last Boy on Earth 29" ID="17495" SERIESID="1249"/>
+            <File Name="Tor 1" ID="29645" SERIESID="2220"/>
+            <File Name="Young Romance 205" ID="32315" SERIESID="2405"/>
+            <File Name="G.I. Combat 178" ID="11591" SERIESID="887"/>
+            <File Name="Justice League of America 118" ID="17859" SERIESID="1234"/>
+            <File Name="Korak, Son of Tarzan 57" ID="17622" SERIESID="1271"/>
+            <File Name="Omac 5" ID="20683" SERIESID="1517"/>
+            <File Name="Weird War Tales 37" ID="30259" SERIESID="2315"/>
+            <File Name="Batman 263" ID="3793" SERIESID="162"/>
+            <File Name="DC Special 16" ID="7900" SERIESID="648"/>
+            <File Name="Our Army at War 280" ID="20875" SERIESID="1534"/>
+            <File Name="World&apos;s Finest Comics 230" ID="31555" SERIESID="2378"/>
+            <File Name="Our Fighting Forces 155" ID="21426" SERIESID="1535"/>
+            <File Name="Plop 12" ID="21904" SERIESID="1583"/>
+            <File Name="Superman 287" ID="27469" SERIESID="1984"/>
+            <File Name="Witching Hour 54" ID="31006" SERIESID="2349"/>
+            <File Name="Claw the Unconquered 1" ID="7143" SERIESID="568"/>
+            <File Name="Justice, Inc. 1" ID="17060" SERIESID="1225"/>
+            <File Name="Shazam 18" ID="24255" SERIESID="1800"/>
+            <File Name="Star Spangled War Stories 187" ID="24978" SERIESID="1930"/>
+            <File Name="Weird Mystery Tales 18" ID="30215" SERIESID="2313"/>
+            <File Name="Detective Comics 447" ID="8790" SERIESID="693"/>
+            <File Name="Flash 233" ID="10291" SERIESID="807"/>
+            <File Name="House of Secrets 131" ID="15987" SERIESID="1081"/>
+            <File Name="Tarzan 237" ID="28994" SERIESID="2159"/>
+            <File Name="1st Issue Special 2" ID="10150" SERIESID="806"/>
+            <File Name="Action Comics 447" ID="430" SERIESID="28"/>
+            <File Name="Adventure Comics 439" ID="1298" SERIESID="33"/>
+            <File Name="Unexpected 164" ID="29875" SERIESID="2133"/>
         </Directory>
         <Directory Name="CDCC 1975 03">
-            <File Name="Ghosts 39"/>
-            <File Name="Justice League of America 119"/>
-            <File Name="Our Army at War 281"/>
-            <File Name="Young Love 116"/>
-            <File Name="Famous First Edition F-7"/>
-            <File Name="Kamandi, the Last Boy on Earth 30"/>
-            <File Name="Limited Collectors&apos; Edition C-36"/>
-            <File Name="Phantom Stranger 37"/>
-            <File Name="Secrets of Haunted House 2"/>
-            <File Name="Shadow 11"/>
-            <File Name="Stalker 1"/>
-            <File Name="Wonder Woman 218"/>
-            <File Name="Batman 264"/>
-            <File Name="House of Mystery 232"/>
-            <File Name="Our Fighting Forces 156"/>
-            <File Name="Superboy 209"/>
-            <File Name="Superman Family 171"/>
-            <File Name="Tarzan 238"/>
-            <File Name="Beowulf 2"/>
-            <File Name="G.I. Combat 179"/>
-            <File Name="Plop 13"/>
-            <File Name="Weird War Tales 38"/>
-            <File Name="Brave &amp; the Bold 119"/>
-            <File Name="Star Spangled War Stories 188"/>
-            <File Name="Superman 288"/>
-            <File Name="Weird Mystery Tales 19"/>
-            <File Name="Witching Hour 55"/>
-            <File Name="1st Issue Special 3"/>
-            <File Name="Detective Comics 448"/>
-            <File Name="Flash 234"/>
-            <File Name="Kong the Untamed 1"/>
-            <File Name="Action Comics 448"/>
-            <File Name="House of Secrets 132"/>
-            <File Name="Richard Dragon, Kung-Fu Fighter 2"/>
-            <File Name="Sandman 3"/>
-            <File Name="Unexpected 165"/>
+            <File Name="Ghosts 39" ID="11374" SERIESID="882"/>
+            <File Name="Justice League of America 119" ID="17860" SERIESID="1234"/>
+            <File Name="Our Army at War 281" ID="20876" SERIESID="1534"/>
+            <File Name="Young Love 116" ID="32224" SERIESID="2404"/>
+            <File Name="Famous First Edition F-7" ID="10039" SERIESID="789"/>
+            <File Name="Kamandi, the Last Boy on Earth 30" ID="17496" SERIESID="1249"/>
+            <File Name="Limited Collectors&apos; Edition C-36" ID="18657" SERIESID="1292"/>
+            <File Name="Phantom Stranger 37" ID="21772" SERIESID="1562"/>
+            <File Name="Secrets of Haunted House 2" ID="23670" SERIESID="1771"/>
+            <File Name="Shadow 11" ID="24144" SERIESID="1791"/>
+            <File Name="Stalker 1" ID="25834" SERIESID="1858"/>
+            <File Name="Wonder Woman 218" ID="31260" SERIESID="2351"/>
+            <File Name="Batman 264" ID="3794" SERIESID="162"/>
+            <File Name="House of Mystery 232" ID="15767" SERIESID="1080"/>
+            <File Name="Our Fighting Forces 156" ID="21427" SERIESID="1535"/>
+            <File Name="Superboy 209" ID="26450" SERIESID="1964"/>
+            <File Name="Superman Family 171" ID="27684" SERIESID="1889"/>
+            <File Name="Tarzan 238" ID="28995" SERIESID="2159"/>
+            <File Name="Beowulf 2" ID="5388" SERIESID="408"/>
+            <File Name="G.I. Combat 179" ID="11592" SERIESID="887"/>
+            <File Name="Plop 13" ID="21905" SERIESID="1583"/>
+            <File Name="Weird War Tales 38" ID="30260" SERIESID="2315"/>
+            <File Name="Brave &amp; the Bold 119" ID="6990" SERIESID="509"/>
+            <File Name="Star Spangled War Stories 188" ID="24979" SERIESID="1930"/>
+            <File Name="Superman 288" ID="27470" SERIESID="1984"/>
+            <File Name="Weird Mystery Tales 19" ID="30216" SERIESID="2313"/>
+            <File Name="Witching Hour 55" ID="31007" SERIESID="2349"/>
+            <File Name="1st Issue Special 3" ID="10151" SERIESID="806"/>
+            <File Name="Detective Comics 448" ID="8791" SERIESID="693"/>
+            <File Name="Flash 234" ID="10292" SERIESID="807"/>
+            <File Name="Kong the Untamed 1" ID="17606" SERIESID="1270"/>
+            <File Name="Action Comics 448" ID="431" SERIESID="28"/>
+            <File Name="House of Secrets 132" ID="15988" SERIESID="1081"/>
+            <File Name="Richard Dragon, Kung-Fu Fighter 2" ID="22649" SERIESID="1667"/>
+            <File Name="Sandman 3" ID="23001" SERIESID="1703"/>
+            <File Name="Unexpected 165" ID="29876" SERIESID="2133"/>
         </Directory>
         <Directory Name="CDCC 1975 04">
-            <File Name="Joker 2"/>
-            <File Name="Our Army at War 282"/>
-            <File Name="Swamp Thing 17"/>
-            <File Name="Young Romance 206"/>
-            <File Name="Kamandi, the Last Boy on Earth 31"/>
-            <File Name="Tales of Ghost Castle 2"/>
-            <File Name="Tor 2"/>
-            <File Name="Weird Western Tales 29"/>
-            <File Name="G.I. Combat 180"/>
-            <File Name="House of Mystery 233"/>
-            <File Name="Justice League of America 120"/>
-            <File Name="Batman 265"/>
-            <File Name="Korak, Son of Tarzan 58"/>
-            <File Name="Omac 6"/>
-            <File Name="Weird War Tales 39"/>
-            <File Name="Plop 14"/>
-            <File Name="Witching Hour 56"/>
-            <File Name="World&apos;s Finest Comics 231"/>
-            <File Name="Justice, Inc. 2"/>
-            <File Name="Our Fighting Forces 157"/>
-            <File Name="Star Spangled War Stories 189"/>
-            <File Name="Superman 289"/>
-            <File Name="Action Comics 449"/>
-            <File Name="Brave &amp; the Bold 120"/>
-            <File Name="Ghosts 40"/>
-            <File Name="1st Issue Special 4"/>
-            <File Name="Claw the Unconquered 2"/>
-            <File Name="Shazam 19"/>
-            <File Name="Weird Mystery Tales 20"/>
-            <File Name="Adventure Comics 440"/>
-            <File Name="Detective Comics 449"/>
-            <File Name="House of Secrets 133"/>
-            <File Name="Tarzan 239"/>
-            <File Name="Unexpected 166"/>
+            <File Name="Joker 2" ID="16857" SERIESID="1199"/>
+            <File Name="Our Army at War 282" ID="20877" SERIESID="1534"/>
+            <File Name="Swamp Thing 17" ID="28197" SERIESID="2108"/>
+            <File Name="Young Romance 206" ID="32316" SERIESID="2405"/>
+            <File Name="Kamandi, the Last Boy on Earth 31" ID="17497" SERIESID="1249"/>
+            <File Name="Tales of Ghost Castle 2" ID="28495" SERIESID="2128"/>
+            <File Name="Tor 2" ID="29646" SERIESID="2220"/>
+            <File Name="Weird Western Tales 29" ID="30281" SERIESID="64"/>
+            <File Name="Amazing World of DC Comics 5" ID="37465" SERIESID="3057"/>
+            <File Name="G.I. Combat 180" ID="11593" SERIESID="887"/>
+            <File Name="House of Mystery 233" ID="15768" SERIESID="1080"/>
+            <File Name="Justice League of America 120" ID="17861" SERIESID="1234"/>
+            <File Name="Batman 265" ID="3795" SERIESID="162"/>
+            <File Name="Korak, Son of Tarzan 58" ID="17623" SERIESID="1271"/>
+            <File Name="Omac 6" ID="20684" SERIESID="1517"/>
+            <File Name="Weird War Tales 39" ID="30261" SERIESID="2315"/>
+            <File Name="Plop 14" ID="21906" SERIESID="1583"/>
+            <File Name="Witching Hour 56" ID="31008" SERIESID="2349"/>
+            <File Name="World&apos;s Finest Comics 231" ID="31556" SERIESID="2378"/>
+            <File Name="Justice, Inc. 2" ID="17061" SERIESID="1225"/>
+            <File Name="Our Fighting Forces 157" ID="21428" SERIESID="1535"/>
+            <File Name="Star Spangled War Stories 189" ID="24980" SERIESID="1930"/>
+            <File Name="Superman 289" ID="27471" SERIESID="1984"/>
+            <File Name="Action Comics 449" ID="432" SERIESID="28"/>
+            <File Name="Brave &amp; the Bold 120" ID="6991" SERIESID="509"/>
+            <File Name="Ghosts 40" ID="11375" SERIESID="882"/>
+            <File Name="1st Issue Special 4" ID="10152" SERIESID="806"/>
+            <File Name="Claw the Unconquered 2" ID="7144" SERIESID="568"/>
+            <File Name="Shazam 19" ID="24256" SERIESID="1800"/>
+            <File Name="Weird Mystery Tales 20" ID="30217" SERIESID="2313"/>
+            <File Name="Adventure Comics 440" ID="1299" SERIESID="33"/>
+            <File Name="Detective Comics 449" ID="8792" SERIESID="693"/>
+            <File Name="House of Secrets 133" ID="15989" SERIESID="1081"/>
+            <File Name="Tarzan 239" ID="28996" SERIESID="2159"/>
+            <File Name="Unexpected 166" ID="29877" SERIESID="2133"/>
         </Directory>
         <Directory Name="CDCC 1975 05">
-            <File Name="Justice League of America 121"/>
-            <File Name="Our Army at War 283"/>
-            <File Name="Wonder Woman 219"/>
-            <File Name="Young Love 117"/>
-            <File Name="Ghosts 41"/>
-            <File Name="Secrets of Haunted House 3"/>
-            <File Name="Shadow 12"/>
-            <File Name="Stalker 2"/>
-            <File Name="Famous First Edition F-8"/>
-            <File Name="Limited Collectors&apos; Edition C-37"/>
-            <File Name="Phantom Stranger 38"/>
-            <File Name="Superboy 210"/>
-            <File Name="Beowulf 3"/>
-            <File Name="House of Mystery 234"/>
-            <File Name="Kamandi, the Last Boy on Earth 32"/>
-            <File Name="Our Fighting Forces 158"/>
-            <File Name="Superman Family 172"/>
-            <File Name="Batman 266"/>
-            <File Name="DC Special 17"/>
-            <File Name="House of Secrets 134"/>
-            <File Name="G.I. Combat 181"/>
-            <File Name="Plop 15"/>
-            <File Name="Weird Mystery Tales 21"/>
-            <File Name="Weird War Tales 40"/>
-            <File Name="1st Issue Special 5"/>
-            <File Name="Star Spangled War Stories 190"/>
-            <File Name="Superman 290"/>
-            <File Name="Witching Hour 57"/>
-            <File Name="Flash 235"/>
-            <File Name="Kong the Untamed 2"/>
-            <File Name="Richard Dragon, Kung-Fu Fighter 3"/>
-            <File Name="Tarzan 240"/>
-            <File Name="Action Comics 450"/>
-            <File Name="Detective Comics 450"/>
-            <File Name="Sandman 4"/>
-            <File Name="Unexpected 167"/>
+            <File Name="Justice League of America 121" ID="17862" SERIESID="1234"/>
+            <File Name="Our Army at War 283" ID="20878" SERIESID="1534"/>
+            <File Name="Wonder Woman 219" ID="31261" SERIESID="2351"/>
+            <File Name="Young Love 117" ID="32225" SERIESID="2404"/>
+            <File Name="Ghosts 41" ID="11376" SERIESID="882"/>
+            <File Name="Secrets of Haunted House 3" ID="23671" SERIESID="1771"/>
+            <File Name="Shadow 12" ID="24145" SERIESID="1791"/>
+            <File Name="Stalker 2" ID="25835" SERIESID="1858"/>
+            <File Name="Famous First Edition F-8" ID="10040" SERIESID="789"/>
+            <File Name="Limited Collectors&apos; Edition C-37" ID="18658" SERIESID="1292"/>
+            <File Name="Phantom Stranger 38" ID="21773" SERIESID="1562"/>
+            <File Name="Superboy 210" ID="26451" SERIESID="1964"/>
+            <File Name="Beowulf 3" ID="5389" SERIESID="408"/>
+            <File Name="House of Mystery 234" ID="15769" SERIESID="1080"/>
+            <File Name="Kamandi, the Last Boy on Earth 32" ID="17498" SERIESID="1249"/>
+            <File Name="Our Fighting Forces 158" ID="21429" SERIESID="1535"/>
+            <File Name="Superman Family 172" ID="27685" SERIESID="1889"/>
+            <File Name="Batman 266" ID="3796" SERIESID="162"/>
+            <File Name="DC Special 17" ID="7901" SERIESID="648"/>
+            <File Name="House of Secrets 134" ID="15990" SERIESID="1081"/>
+            <File Name="G.I. Combat 181" ID="11594" SERIESID="887"/>
+            <File Name="Plop 15" ID="21907" SERIESID="1583"/>
+            <File Name="Weird Mystery Tales 21" ID="30218" SERIESID="2313"/>
+            <File Name="Weird War Tales 40" ID="30262" SERIESID="2315"/>
+            <File Name="1st Issue Special 5" ID="10153" SERIESID="806"/>
+            <File Name="Star Spangled War Stories 190" ID="24981" SERIESID="1930"/>
+            <File Name="Superman 290" ID="27472" SERIESID="1984"/>
+            <File Name="Witching Hour 57" ID="31009" SERIESID="2349"/>
+            <File Name="Flash 235" ID="10293" SERIESID="807"/>
+            <File Name="Kong the Untamed 2" ID="17607" SERIESID="1270"/>
+            <File Name="Richard Dragon, Kung-Fu Fighter 3" ID="22650" SERIESID="1667"/>
+            <File Name="Tarzan 240" ID="28997" SERIESID="2159"/>
+            <File Name="Action Comics 450" ID="433" SERIESID="28"/>
+            <File Name="Detective Comics 450" ID="8793" SERIESID="693"/>
+            <File Name="Sandman 4" ID="23002" SERIESID="1703"/>
+            <File Name="Unexpected 167" ID="29878" SERIESID="2133"/>
         </Directory>
         <Directory Name="CDCC 1975 06">
-            <File Name="Ghosts 42"/>
-            <File Name="Joker 3"/>
-            <File Name="Our Army at War 284"/>
-            <File Name="Swamp Thing 18"/>
-            <File Name="Young Romance 207"/>
-            <File Name="Batman Family 1"/>
-            <File Name="Kamandi, the Last Boy on Earth 33"/>
-            <File Name="Tales of Ghost Castle 3"/>
-            <File Name="Tor 3"/>
-            <File Name="Weird Western Tales 30"/>
-            <File Name="House of Mystery 235"/>
-            <File Name="Justice League of America 122"/>
-            <File Name="Korak, Son of Tarzan 59"/>
-            <File Name="Omac 7"/>
-            <File Name="Weird War Tales 41"/>
-            <File Name="Batman 267"/>
-            <File Name="Plop 16"/>
-            <File Name="Superboy 211"/>
-            <File Name="World&apos;s Finest Comics 232"/>
-            <File Name="Justice, Inc. 3"/>
-            <File Name="Our Fighting Forces 159"/>
-            <File Name="Star Spangled War Stories 191"/>
-            <File Name="Witching Hour 58"/>
-            <File Name="Brave &amp; the Bold 121"/>
-            <File Name="Flash 236"/>
-            <File Name="G.I. Combat 182"/>
-            <File Name="Superman 291"/>
-            <File Name="Unexpected 168"/>
-            <File Name="1st Issue Special 6"/>
-            <File Name="Action Comics 451"/>
-            <File Name="Claw the Unconquered 3"/>
-            <File Name="Shazam 20"/>
-            <File Name="Weird Mystery Tales 22"/>
-            <File Name="Adventure Comics 441"/>
-            <File Name="Detective Comics 451"/>
-            <File Name="House of Secrets 135"/>
-            <File Name="Sherlock Holmes 1"/>
-            <File Name="Tarzan 241"/>
+            <File Name="Ghosts 42" ID="11377" SERIESID="882"/>
+            <File Name="Joker 3" ID="16858" SERIESID="1199"/>
+            <File Name="Our Army at War 284" ID="20879" SERIESID="1534"/>
+            <File Name="Swamp Thing 18" ID="28198" SERIESID="2108"/>
+            <File Name="Young Romance 207" ID="32317" SERIESID="2405"/>
+            <File Name="Batman Family 1" ID="4484" SERIESID="241"/>
+            <File Name="Kamandi, the Last Boy on Earth 33" ID="17499" SERIESID="1249"/>
+            <File Name="Tales of Ghost Castle 3" ID="28496" SERIESID="2128"/>
+            <File Name="Tor 3" ID="29647" SERIESID="2220"/>
+            <File Name="Weird Western Tales 30" ID="30282" SERIESID="64"/>
+            <File Name="House of Mystery 235" ID="15770" SERIESID="1080"/>
+            <File Name="Justice League of America 122" ID="17863" SERIESID="1234"/>
+            <File Name="Korak, Son of Tarzan 59" ID="17624" SERIESID="1271"/>
+            <File Name="Omac 7" ID="20685" SERIESID="1517"/>
+            <File Name="Weird War Tales 41" ID="30263" SERIESID="2315"/>
+            <File Name="Batman 267" ID="3797" SERIESID="162"/>
+            <File Name="Plop 16" ID="21908" SERIESID="1583"/>
+            <File Name="Superboy 211" ID="26452" SERIESID="1964"/>
+            <File Name="World&apos;s Finest Comics 232" ID="31557" SERIESID="2378"/>
+            <File Name="Amazing World of DC Comics 6" ID="37466" SERIESID="3057"/>
+            <File Name="Justice, Inc. 3" ID="17062" SERIESID="1225"/>
+            <File Name="Our Fighting Forces 159" ID="21430" SERIESID="1535"/>
+            <File Name="Star Spangled War Stories 191" ID="24982" SERIESID="1930"/>
+            <File Name="Witching Hour 58" ID="31010" SERIESID="2349"/>
+            <File Name="Brave &amp; the Bold 121" ID="6992" SERIESID="509"/>
+            <File Name="Flash 236" ID="10294" SERIESID="807"/>
+            <File Name="G.I. Combat 182" ID="11595" SERIESID="887"/>
+            <File Name="Superman 291" ID="27473" SERIESID="1984"/>
+            <File Name="Unexpected 168" ID="29879" SERIESID="2133"/>
+            <File Name="1st Issue Special 6" ID="10154" SERIESID="806"/>
+            <File Name="Action Comics 451" ID="434" SERIESID="28"/>
+            <File Name="Claw the Unconquered 3" ID="7145" SERIESID="568"/>
+            <File Name="Shazam 20" ID="24257" SERIESID="1800"/>
+            <File Name="Weird Mystery Tales 22" ID="30219" SERIESID="2313"/>
+            <File Name="Adventure Comics 441" ID="1300" SERIESID="33"/>
+            <File Name="Detective Comics 451" ID="8794" SERIESID="693"/>
+            <File Name="House of Secrets 135" ID="15991" SERIESID="1081"/>
+            <File Name="Sherlock Holmes 1" ID="24283" SERIESID="1805"/>
+            <File Name="Tarzan 241" ID="28998" SERIESID="2159"/>
         </Directory>
         <Directory Name="CDCC 1975 07">
-            <File Name="Ghosts 43"/>
-            <File Name="Justice League of America 123"/>
-            <File Name="Our Army at War 285"/>
-            <File Name="Secrets of Haunted House 4"/>
-            <File Name="Kamandi, the Last Boy on Earth 34"/>
-            <File Name="Limited Collectors&apos; Edition C-38"/>
-            <File Name="Limited Collectors&apos; Edition C-39"/>
-            <File Name="Phantom Stranger 39"/>
-            <File Name="Young Love 118"/>
-            <File Name="DC Special 18"/>
-            <File Name="House of Mystery 236"/>
-            <File Name="Super-Team Family 1"/>
-            <File Name="Superman Family 173"/>
-            <File Name="Batman 268"/>
-            <File Name="Stalker 3"/>
-            <File Name="Swamp Thing 19"/>
-            <File Name="Our Fighting Forces 160"/>
-            <File Name="Plop 17"/>
-            <File Name="Superboy 212"/>
-            <File Name="Wonder Woman 220"/>
-            <File Name="Star Spangled War Stories 192"/>
-            <File Name="Weird War Tales 42"/>
-            <File Name="Witching Hour 59"/>
-            <File Name="Beowulf 4"/>
-            <File Name="Brave &amp; the Bold 122"/>
-            <File Name="G.I. Combat 183"/>
-            <File Name="World&apos;s Finest Comics 233"/>
-            <File Name="1st Issue Special 7"/>
-            <File Name="Superman 292"/>
-            <File Name="Unexpected 169"/>
-            <File Name="House of Secrets 136"/>
-            <File Name="Kong the Untamed 3"/>
-            <File Name="Tarzan 242"/>
-            <File Name="Weird Mystery Tales 23"/>
-            <File Name="Action Comics 452"/>
-            <File Name="Detective Comics 452"/>
-            <File Name="Hercules Unbound 1"/>
-            <File Name="Richard Dragon, Kung-Fu Fighter 4"/>
-            <File Name="Sandman 5"/>
+            <File Name="Ghosts 43" ID="11378" SERIESID="882"/>
+            <File Name="Justice League of America 123" ID="17864" SERIESID="1234"/>
+            <File Name="Our Army at War 285" ID="20880" SERIESID="1534"/>
+            <File Name="Secrets of Haunted House 4" ID="23672" SERIESID="1771"/>
+            <File Name="Kamandi, the Last Boy on Earth 34" ID="17500" SERIESID="1249"/>
+            <File Name="Limited Collectors&apos; Edition C-38" ID="18659" SERIESID="1292"/>
+            <File Name="Limited Collectors&apos; Edition C-39" ID="18660" SERIESID="1292"/>
+            <File Name="Phantom Stranger 39" ID="21774" SERIESID="1562"/>
+            <File Name="Young Love 118" ID="32226" SERIESID="2404"/>
+            <File Name="DC Special 18" ID="7902" SERIESID="648"/>
+            <File Name="House of Mystery 236" ID="15771" SERIESID="1080"/>
+            <File Name="Super-Team Family 1" ID="28166" SERIESID="2107"/>
+            <File Name="Superman Family 173" ID="27686" SERIESID="1889"/>
+            <File Name="Batman 268" ID="3798" SERIESID="162"/>
+            <File Name="Stalker 3" ID="25836" SERIESID="1858"/>
+            <File Name="Swamp Thing 19" ID="28199" SERIESID="2108"/>
+            <File Name="Amazing World of DC Comics 7" ID="37467" SERIESID="3057"/>
+            <File Name="Our Fighting Forces 160" ID="21431" SERIESID="1535"/>
+            <File Name="Plop 17" ID="21909" SERIESID="1583"/>
+            <File Name="Superboy 212" ID="26453" SERIESID="1964"/>
+            <File Name="Wonder Woman 220" ID="31262" SERIESID="2351"/>
+            <File Name="Star Spangled War Stories 192" ID="24983" SERIESID="1930"/>
+            <File Name="Weird War Tales 42" ID="30264" SERIESID="2315"/>
+            <File Name="Witching Hour 59" ID="31011" SERIESID="2349"/>
+            <File Name="Beowulf 4" ID="5390" SERIESID="408"/>
+            <File Name="Brave &amp; the Bold 122" ID="6993" SERIESID="509"/>
+            <File Name="G.I. Combat 183" ID="11596" SERIESID="887"/>
+            <File Name="World&apos;s Finest Comics 233" ID="31558" SERIESID="2378"/>
+            <File Name="1st Issue Special 7" ID="10155" SERIESID="806"/>
+            <File Name="Superman 292" ID="27474" SERIESID="1984"/>
+            <File Name="Unexpected 169" ID="29880" SERIESID="2133"/>
+            <File Name="House of Secrets 136" ID="15992" SERIESID="1081"/>
+            <File Name="Kong the Untamed 3" ID="17608" SERIESID="1270"/>
+            <File Name="Tarzan 242" ID="28999" SERIESID="2159"/>
+            <File Name="Weird Mystery Tales 23" ID="30220" SERIESID="2313"/>
+            <File Name="Action Comics 452" ID="435" SERIESID="28"/>
+            <File Name="Detective Comics 452" ID="8795" SERIESID="693"/>
+            <File Name="Hercules Unbound 1" ID="15019" SERIESID="1055"/>
+            <File Name="Richard Dragon, Kung-Fu Fighter 4" ID="22651" SERIESID="1667"/>
+            <File Name="Sandman 5" ID="23003" SERIESID="1703"/>
         </Directory>
         <Directory Name="CDCC 1975 08">
-            <File Name="Ghosts 44"/>
-            <File Name="Joker 4"/>
-            <File Name="Our Army at War 286"/>
-            <File Name="Young Romance 208"/>
-            <File Name="Batman Family 2"/>
-            <File Name="Justice League of America 124"/>
-            <File Name="Kamandi, the Last Boy on Earth 35"/>
-            <File Name="Tarzan Family 60"/>
-            <File Name="House of Mystery 237"/>
-            <File Name="Tor 4"/>
-            <File Name="Weird War Tales 43"/>
-            <File Name="Weird Western Tales 31"/>
-            <File Name="Omac 8"/>
-            <File Name="Our Fighting Forces 161"/>
-            <File Name="Plop 18"/>
-            <File Name="Star Spangled War Stories 193"/>
-            <File Name="1st Issue Special 8"/>
-            <File Name="Batman 269"/>
-            <File Name="Justice, Inc. 4"/>
-            <File Name="MGM&apos;s Marvelous Wizard of Oz 1"/>
-            <File Name="Witching Hour 60"/>
-            <File Name="Flash 237"/>
-            <File Name="G.I. Combat 184"/>
-            <File Name="Shazam 21"/>
-            <File Name="Superman 293"/>
-            <File Name="Action Comics 453"/>
-            <File Name="Claw the Unconquered 4"/>
-            <File Name="Unexpected 170"/>
-            <File Name="Weird Mystery Tales 24"/>
-            <File Name="Adventure Comics 442"/>
-            <File Name="Detective Comics 453"/>
-            <File Name="House of Secrets 137"/>
-            <File Name="Tarzan 243"/>
+            <File Name="Ghosts 44" ID="11379" SERIESID="882"/>
+            <File Name="Joker 4" ID="16859" SERIESID="1199"/>
+            <File Name="Our Army at War 286" ID="20881" SERIESID="1534"/>
+            <File Name="Young Romance 208" ID="32318" SERIESID="2405"/>
+            <File Name="Batman Family 2" ID="4485" SERIESID="241"/>
+            <File Name="Justice League of America 124" ID="17865" SERIESID="1234"/>
+            <File Name="Kamandi, the Last Boy on Earth 35" ID="17501" SERIESID="1249"/>
+            <File Name="Tarzan Family 60" ID="29016" SERIESID="1271"/>
+            <File Name="House of Mystery 237" ID="15772" SERIESID="1080"/>
+            <File Name="Tor 4" ID="29648" SERIESID="2220"/>
+            <File Name="Weird War Tales 43" ID="30265" SERIESID="2315"/>
+            <File Name="Weird Western Tales 31" ID="30283" SERIESID="64"/>
+            <File Name="Omac 8" ID="20686" SERIESID="1517"/>
+            <File Name="Our Fighting Forces 161" ID="21432" SERIESID="1535"/>
+            <File Name="Plop 18" ID="21910" SERIESID="1583"/>
+            <File Name="Star Spangled War Stories 193" ID="24984" SERIESID="1930"/>
+            <File Name="1st Issue Special 8" ID="10156" SERIESID="806"/>
+            <File Name="Batman 269" ID="3799" SERIESID="162"/>
+            <File Name="Justice, Inc. 4" ID="17063" SERIESID="1225"/>
+            <File Name="MGM&apos;s Marvelous Wizard of Oz 1" ID="19202" SERIESID="1297"/>
+            <File Name="Witching Hour 60" ID="31012" SERIESID="2349"/>
+            <File Name="Flash 237" ID="10295" SERIESID="807"/>
+            <File Name="G.I. Combat 184" ID="11597" SERIESID="887"/>
+            <File Name="Shazam 21" ID="24258" SERIESID="1800"/>
+            <File Name="Superman 293" ID="27475" SERIESID="1984"/>
+            <File Name="Action Comics 453" ID="436" SERIESID="28"/>
+            <File Name="Claw the Unconquered 4" ID="7146" SERIESID="568"/>
+            <File Name="Unexpected 170" ID="29881" SERIESID="2133"/>
+            <File Name="Weird Mystery Tales 24" ID="30221" SERIESID="2313"/>
+            <File Name="Adventure Comics 442" ID="1301" SERIESID="33"/>
+            <File Name="Detective Comics 453" ID="8796" SERIESID="693"/>
+            <File Name="House of Secrets 137" ID="15993" SERIESID="1081"/>
+            <File Name="Tarzan 243" ID="29000" SERIESID="2159"/>
         </Directory>
         <Directory Name="CDCC 1975 09">
-            <File Name="Justice League of America 125"/>
-            <File Name="Our Army at War 287"/>
-            <File Name="Secrets of Haunted House 5"/>
-            <File Name="Young Love 119"/>
-            <File Name="Kamandi, the Last Boy on Earth 36"/>
-            <File Name="Limited Collectors&apos; Edition C-40"/>
-            <File Name="Limited Collectors&apos; Edition C-41"/>
-            <File Name="Man-Bat 1"/>
-            <File Name="Phantom Stranger 40"/>
-            <File Name="House of Mystery 238"/>
-            <File Name="Stalker 4"/>
-            <File Name="Star Spangled War Stories 194"/>
-            <File Name="Swamp Thing 20"/>
-            <File Name="Brave &amp; the Bold 123"/>
-            <File Name="DC Special 19"/>
-            <File Name="Superman Family 174"/>
-            <File Name="Wonder Woman 221"/>
-            <File Name="Beowulf 5"/>
-            <File Name="Our Fighting Forces 162"/>
-            <File Name="Superboy 213"/>
-            <File Name="Witching Hour 61"/>
-            <File Name="1st Issue Special 9"/>
-            <File Name="Batman 270"/>
-            <File Name="Superman 294"/>
-            <File Name="G.I. Combat 185"/>
-            <File Name="House of Secrets 138"/>
-            <File Name="Kong the Untamed 4"/>
-            <File Name="Sandman 6"/>
-            <File Name="Flash 238"/>
-            <File Name="Super-Team Family 2"/>
-            <File Name="Tarzan 244"/>
-            <File Name="World&apos;s Finest Comics 234"/>
-            <File Name="Action Comics 454"/>
-            <File Name="Detective Comics 454"/>
-            <File Name="Hercules Unbound 2"/>
-            <File Name="Richard Dragon, Kung-Fu Fighter 5"/>
+            <File Name="Justice League of America 125" ID="17866" SERIESID="1234"/>
+            <File Name="Our Army at War 287" ID="20882" SERIESID="1534"/>
+            <File Name="Secrets of Haunted House 5" ID="23673" SERIESID="1771"/>
+            <File Name="Young Love 119" ID="32227" SERIESID="2404"/>
+            <File Name="Kamandi, the Last Boy on Earth 36" ID="17502" SERIESID="1249"/>
+            <File Name="Limited Collectors&apos; Edition C-40" ID="18661" SERIESID="1292"/>
+            <File Name="Limited Collectors&apos; Edition C-41" ID="18662" SERIESID="1292"/>
+            <File Name="Man-Bat 1" ID="19480" SERIESID="1392"/>
+            <File Name="Phantom Stranger 40" ID="21775" SERIESID="1562"/>
+            <File Name="House of Mystery 238" ID="15773" SERIESID="1080"/>
+            <File Name="Stalker 4" ID="25837" SERIESID="1858"/>
+            <File Name="Star Spangled War Stories 194" ID="24985" SERIESID="1930"/>
+            <File Name="Swamp Thing 20" ID="28200" SERIESID="2108"/>
+            <File Name="Brave &amp; the Bold 123" ID="6994" SERIESID="509"/>
+            <File Name="DC Special 19" ID="7903" SERIESID="648"/>
+            <File Name="Superman Family 174" ID="27687" SERIESID="1889"/>
+            <File Name="Wonder Woman 221" ID="31263" SERIESID="2351"/>
+            <File Name="Beowulf 5" ID="5391" SERIESID="408"/>
+            <File Name="Our Fighting Forces 162" ID="21433" SERIESID="1535"/>
+            <File Name="Superboy 213" ID="26454" SERIESID="1964"/>
+            <File Name="Witching Hour 61" ID="31013" SERIESID="2349"/>
+            <File Name="1st Issue Special 9" ID="10157" SERIESID="806"/>
+            <File Name="Batman 270" ID="3800" SERIESID="162"/>
+            <File Name="Superman 294" ID="27476" SERIESID="1984"/>
+            <File Name="Amazing World of DC Comics 8" ID="37468" SERIESID="3057"/>
+            <File Name="G.I. Combat 185" ID="11598" SERIESID="887"/>
+            <File Name="House of Secrets 138" ID="15994" SERIESID="1081"/>
+            <File Name="Kong the Untamed 4" ID="17609" SERIESID="1270"/>
+            <File Name="Sandman 6" ID="23004" SERIESID="1703"/>
+            <File Name="Flash 238" ID="10296" SERIESID="807"/>
+            <File Name="Super-Team Family 2" ID="28167" SERIESID="2107"/>
+            <File Name="Tarzan 244" ID="29001" SERIESID="2159"/>
+            <File Name="World&apos;s Finest Comics 234" ID="31559" SERIESID="2378"/>
+            <File Name="Action Comics 454" ID="437" SERIESID="28"/>
+            <File Name="Detective Comics 454" ID="8797" SERIESID="693"/>
+            <File Name="Hercules Unbound 2" ID="15020" SERIESID="1055"/>
+            <File Name="Richard Dragon, Kung-Fu Fighter 5" ID="22652" SERIESID="1667"/>
         </Directory>
         <Directory Name="CDCC 1975 10">
-            <File Name="Ghosts 45"/>
-            <File Name="Joker 5"/>
-            <File Name="Kamandi, the Last Boy on Earth 37"/>
-            <File Name="Our Army at War 288"/>
-            <File Name="Brave &amp; the Bold 124"/>
-            <File Name="Justice League of America 126"/>
-            <File Name="Tor 5"/>
-            <File Name="Weird Western Tales 32"/>
-            <File Name="All-Star Comics 58"/>
-            <File Name="Tarzan Family 61"/>
-            <File Name="Weird War Tales 44"/>
-            <File Name="Blitzkrieg 1"/>
-            <File Name="Plop 19"/>
-            <File Name="Star Spangled War Stories 195"/>
-            <File Name="Batman 271"/>
-            <File Name="Our Fighting Forces 163"/>
-            <File Name="Superman 295"/>
-            <File Name="Warlord 1"/>
-            <File Name="Batman Family 3"/>
-            <File Name="Blackhawk 244"/>
-            <File Name="Superboy 214"/>
-            <File Name="1st Issue Special 10"/>
-            <File Name="G.I. Combat 186"/>
-            <File Name="Shazam 22"/>
-            <File Name="Unexpected 171"/>
-            <File Name="Claw the Unconquered 5"/>
-            <File Name="Detective Comics 455"/>
-            <File Name="World&apos;s Finest Comics 235"/>
-            <File Name="Action Comics 455"/>
-            <File Name="Adventure Comics 443"/>
-            <File Name="House of Secrets 139"/>
-            <File Name="Tarzan 245"/>
+            <File Name="Ghosts 45" ID="11380" SERIESID="882"/>
+            <File Name="Joker 5" ID="16860" SERIESID="1199"/>
+            <File Name="Kamandi, the Last Boy on Earth 37" ID="17503" SERIESID="1249"/>
+            <File Name="Our Army at War 288" ID="20883" SERIESID="1534"/>
+            <File Name="Brave &amp; the Bold 124" ID="6995" SERIESID="509"/>
+            <File Name="Justice League of America 126" ID="17867" SERIESID="1234"/>
+            <File Name="Tor 5" ID="29649" SERIESID="2220"/>
+            <File Name="Weird Western Tales 32" ID="30284" SERIESID="64"/>
+            <File Name="All-Star Comics 58" ID="2299" SERIESID="63"/>
+            <File Name="Tarzan Family 61" ID="29017" SERIESID="1271"/>
+            <File Name="Weird War Tales 44" ID="30266" SERIESID="2315"/>
+            <File Name="Blitzkrieg 1" ID="5906" SERIESID="473"/>
+            <File Name="Plop 19" ID="21911" SERIESID="1583"/>
+            <File Name="Star Spangled War Stories 195" ID="24986" SERIESID="1930"/>
+            <File Name="Batman 271" ID="3801" SERIESID="162"/>
+            <File Name="Our Fighting Forces 163" ID="21434" SERIESID="1535"/>
+            <File Name="Superman 295" ID="27477" SERIESID="1984"/>
+            <File Name="Warlord 1" ID="29979" SERIESID="2303"/>
+            <File Name="Batman Family 3" ID="4486" SERIESID="241"/>
+            <File Name="Blackhawk 244" ID="5763" SERIESID="459"/>
+            <File Name="Superboy 214" ID="26455" SERIESID="1964"/>
+            <File Name="1st Issue Special 10" ID="10158" SERIESID="806"/>
+            <File Name="G.I. Combat 186" ID="11599" SERIESID="887"/>
+            <File Name="Shazam 22" ID="24259" SERIESID="1800"/>
+            <File Name="Unexpected 171" ID="29882" SERIESID="2133"/>
+            <File Name="Claw the Unconquered 5" ID="7147" SERIESID="568"/>
+            <File Name="Detective Comics 455" ID="8798" SERIESID="693"/>
+            <File Name="World&apos;s Finest Comics 235" ID="31560" SERIESID="2378"/>
+            <File Name="Action Comics 455" ID="438" SERIESID="28"/>
+            <File Name="Adventure Comics 443" ID="1302" SERIESID="33"/>
+            <File Name="House of Secrets 139" ID="15995" SERIESID="1081"/>
+            <File Name="Tarzan 245" ID="29002" SERIESID="2159"/>
         </Directory>
         <Directory Name="CDCC 1975 11">
-            <File Name="Justice League of America 127"/>
-            <File Name="Man-Bat 2"/>
-            <File Name="Our Army at War 289"/>
-            <File Name="Young Love 120"/>
-            <File Name="Limited Collectors&apos; Edition C-42"/>
-            <File Name="Limited Collectors&apos; Edition C-43"/>
-            <File Name="Phantom Stranger 41"/>
-            <File Name="Superman Family 175"/>
-            <File Name="Swamp Thing 21"/>
-            <File Name="House of Mystery 239"/>
-            <File Name="Kamandi, the Last Boy on Earth 38"/>
-            <File Name="Kong the Untamed 5"/>
-            <File Name="Star Spangled War Stories 196"/>
-            <File Name="Batman 272"/>
-            <File Name="DC Special 20"/>
-            <File Name="Kobra 1"/>
-            <File Name="Superman 296"/>
-            <File Name="1st Issue Special 11"/>
-            <File Name="House of Secrets 140"/>
-            <File Name="Our Fighting Forces 164"/>
-            <File Name="Plastic Man 11"/>
-            <File Name="Flash 239"/>
-            <File Name="Hercules Unbound 3"/>
-            <File Name="Wonder Woman 222"/>
-            <File Name="Beowulf 6"/>
-            <File Name="G.I. Combat 187"/>
-            <File Name="Super-Team Family 3"/>
-            <File Name="Witching Hour 62"/>
-            <File Name="Action Comics 456"/>
-            <File Name="Detective Comics 456"/>
-            <File Name="Richard Dragon, Kung-Fu Fighter 6"/>
-            <File Name="Tarzan 246"/>
+            <File Name="Amazing World of DC Comics 9" ID="37469" SERIESID="3057"/>
+            <File Name="Justice League of America 127" ID="17868" SERIESID="1234"/>
+            <File Name="Man-Bat 2" ID="19481" SERIESID="1392"/>
+            <File Name="Our Army at War 289" ID="20884" SERIESID="1534"/>
+            <File Name="Young Love 120" ID="32228" SERIESID="2404"/>
+            <File Name="Limited Collectors&apos; Edition C-42" ID="18663" SERIESID="1292"/>
+            <File Name="Limited Collectors&apos; Edition C-43" ID="18664" SERIESID="1292"/>
+            <File Name="Phantom Stranger 41" ID="21776" SERIESID="1562"/>
+            <File Name="Superman Family 175" ID="27688" SERIESID="1889"/>
+            <File Name="Swamp Thing 21" ID="28201" SERIESID="2108"/>
+            <File Name="House of Mystery 239" ID="15774" SERIESID="1080"/>
+            <File Name="Kamandi, the Last Boy on Earth 38" ID="17504" SERIESID="1249"/>
+            <File Name="Kong the Untamed 5" ID="17610" SERIESID="1270"/>
+            <File Name="Star Spangled War Stories 196" ID="24987" SERIESID="1930"/>
+            <File Name="Batman 272" ID="3802" SERIESID="162"/>
+            <File Name="DC Special 20" ID="7904" SERIESID="648"/>
+            <File Name="Kobra 1" ID="17599" SERIESID="1269"/>
+            <File Name="Superman 296" ID="27478" SERIESID="1984"/>
+            <File Name="1st Issue Special 11" ID="10159" SERIESID="806"/>
+            <File Name="House of Secrets 140" ID="15996" SERIESID="1081"/>
+            <File Name="Our Fighting Forces 164" ID="21435" SERIESID="1535"/>
+            <File Name="Plastic Man 11" ID="21862" SERIESID="1577"/>
+            <File Name="Flash 239" ID="10297" SERIESID="807"/>
+            <File Name="Hercules Unbound 3" ID="15021" SERIESID="1055"/>
+            <File Name="Wonder Woman 222" ID="31264" SERIESID="2351"/>
+            <File Name="Beowulf 6" ID="5392" SERIESID="408"/>
+            <File Name="G.I. Combat 187" ID="11600" SERIESID="887"/>
+            <File Name="Super-Team Family 3" ID="28168" SERIESID="2107"/>
+            <File Name="Witching Hour 62" ID="31014" SERIESID="2349"/>
+            <File Name="Action Comics 456" ID="439" SERIESID="28"/>
+            <File Name="Detective Comics 456" ID="8799" SERIESID="693"/>
+            <File Name="Richard Dragon, Kung-Fu Fighter 6" ID="22653" SERIESID="1667"/>
+            <File Name="Tarzan 246" ID="29003" SERIESID="2159"/>
         </Directory>
         <Directory Name="CDCC 1975 12">
-            <File Name="Ghosts 46"/>
-            <File Name="Our Army at War 290"/>
-            <File Name="Weird Western Tales 33"/>
-            <File Name="Batman Family 4"/>
-            <File Name="Joker 6"/>
-            <File Name="Justice League of America 128"/>
-            <File Name="Kamandi, the Last Boy on Earth 39"/>
-            <File Name="Karate Kid 1"/>
-            <File Name="Batman 273"/>
-            <File Name="Freedom Fighters 1"/>
-            <File Name="Star Spangled War Stories 197"/>
-            <File Name="Tor 6"/>
-            <File Name="Four Star Spectacular 1"/>
-            <File Name="Plop 20"/>
-            <File Name="Superman 297"/>
-            <File Name="Warlord 2"/>
-            <File Name="All-Star Comics 59"/>
-            <File Name="Our Fighting Forces 165"/>
-            <File Name="Weird War Tales 45"/>
-            <File Name="Brave &amp; the Bold 125"/>
-            <File Name="Claw the Unconquered 6"/>
-            <File Name="Superboy 215"/>
-            <File Name="Tarzan Family 62"/>
-            <File Name="1st Issue Special 12"/>
-            <File Name="Blackhawk 245"/>
-            <File Name="Blitzkrieg 2"/>
-            <File Name="Flash 240"/>
-            <File Name="Shazam 23"/>
-            <File Name="World&apos;s Finest Comics 236"/>
-            <File Name="Action Comics 457"/>
-            <File Name="Adventure Comics 444"/>
-            <File Name="DC Super Stars 1"/>
-            <File Name="Detective Comics 457"/>
-            <File Name="G.I. Combat 188"/>
-            <File Name="Tarzan 247"/>
-            <File Name="Unexpected 172"/>
+            <File Name="Ghosts 46" ID="11381" SERIESID="882"/>
+            <File Name="Our Army at War 290" ID="20885" SERIESID="1534"/>
+            <File Name="Weird Western Tales 33" ID="30285" SERIESID="64"/>
+            <File Name="Batman Family 4" ID="4487" SERIESID="241"/>
+            <File Name="Joker 6" ID="16861" SERIESID="1199"/>
+            <File Name="Justice League of America 128" ID="17869" SERIESID="1234"/>
+            <File Name="Kamandi, the Last Boy on Earth 39" ID="17505" SERIESID="1249"/>
+            <File Name="Karate Kid 1" ID="17539" SERIESID="1251"/>
+            <File Name="Batman 273" ID="3803" SERIESID="162"/>
+            <File Name="Freedom Fighters 1" ID="11723" SERIESID="848"/>
+            <File Name="Star Spangled War Stories 197" ID="24988" SERIESID="1930"/>
+            <File Name="Tor 6" ID="29650" SERIESID="2220"/>
+            <File Name="Four Star Spectacular 1" ID="10936" SERIESID="843"/>
+            <File Name="Plop 20" ID="21912" SERIESID="1583"/>
+            <File Name="Superman 297" ID="27479" SERIESID="1984"/>
+            <File Name="Warlord 2" ID="29980" SERIESID="2303"/>
+            <File Name="All-Star Comics 59" ID="2300" SERIESID="63"/>
+            <File Name="Our Fighting Forces 165" ID="21436" SERIESID="1535"/>
+            <File Name="Weird War Tales 45" ID="30693" SERIESID="2315"/>
+            <File Name="Brave &amp; the Bold 125" ID="6996" SERIESID="509"/>
+            <File Name="Claw the Unconquered 6" ID="7148" SERIESID="568"/>
+            <File Name="Superboy 215" ID="26456" SERIESID="1964"/>
+            <File Name="Tarzan Family 62" ID="29018" SERIESID="1271"/>
+            <File Name="1st Issue Special 12" ID="10160" SERIESID="806"/>
+            <File Name="Blackhawk 245" ID="5764" SERIESID="459"/>
+            <File Name="Blitzkrieg 2" ID="5907" SERIESID="473"/>
+            <File Name="Flash 240" ID="10298" SERIESID="807"/>
+            <File Name="Shazam 23" ID="24260" SERIESID="1800"/>
+            <File Name="World&apos;s Finest Comics 236" ID="31561" SERIESID="2378"/>
+            <File Name="Action Comics 457" ID="440" SERIESID="28"/>
+            <File Name="Adventure Comics 444" ID="1303" SERIESID="33"/>
+            <File Name="DC Super Stars 1" ID="7965" SERIESID="651"/>
+            <File Name="Detective Comics 457" ID="8800" SERIESID="693"/>
+            <File Name="G.I. Combat 188" ID="11601" SERIESID="887"/>
+            <File Name="Tarzan 247" ID="29004" SERIESID="2159"/>
+            <File Name="Unexpected 172" ID="29883" SERIESID="2133"/>
         </Directory>
     </Year>

@@ -2,966 +2,983 @@
 <!DOCTYPE xml>
     <Year Name="CDCC 2016">
         <Directory Name="CDCC 2016 01">
-            <File Name="Action Comics 48"/>
-            <File Name="Batman &amp; Robin Eternal 14"/>
-            <File Name="Batman Beyond 8"/>
-            <File Name="DC Comics:Bombshells 8"/>
-            <File Name="DC Essentials:DC:The New Frontier 1"/>
-            <File Name="Detective Comics 48"/>
-            <File Name="Green Arrow 48"/>
-            <File Name="Green Lantern 48"/>
-            <File Name="Injustice:Gods Among Us:Year Five 1"/>
-            <File Name="Midnighter 8"/>
-            <File Name="Sheriff of Babylon 2"/>
-            <File Name="Survivors&apos; Club 4"/>
-            <File Name="Swamp Thing 1"/>
-            <File Name="Telos 4"/>
-            <File Name="Unfollow 3"/>
-            <File Name="Batman &amp; Robin Eternal 15"/>
-            <File Name="Batman &apos;66 Meets the Man from U.N.C.L.E. 2"/>
-            <File Name="Batman/Superman 28"/>
-            <File Name="Batman/Teenage Mutant Ninja Turtles 2"/>
-            <File Name="Catwoman 48"/>
-            <File Name="Constantine:The Hellblazer 8"/>
-            <File Name="Earth 2:Society 8"/>
-            <File Name="Fables:The Wolf Among Us 13"/>
-            <File Name="Gotham Academy 14"/>
-            <File Name="Green Lantern Corps:Edge of Oblivion 1"/>
-            <File Name="Legend of Wonder Woman 1"/>
-            <File Name="New Romancer 2"/>
-            <File Name="New Suicide Squad 16"/>
-            <File Name="Red Hood/Arsenal 8"/>
-            <File Name="Robin War 2"/>
-            <File Name="Scooby-Doo, Where Are You? 65"/>
-            <File Name="Slash &amp; Burn 3"/>
-            <File Name="Starfire 8"/>
-            <File Name="Superman:American Alien 3"/>
-            <File Name="Vertigo Essentials:Lucifer 1"/>
-            <File Name="Astro City 31"/>
-            <File Name="Batgirl 47"/>
-            <File Name="Batman 48"/>
-            <File Name="Batman &amp; Robin Eternal 16"/>
-            <File Name="Batman:Arkham Knight:Genesis 6"/>
-            <File Name="Clean Room 4"/>
-            <File Name="Dark Knight III:The Master Race Collector&apos;s Edition 2"/>
-            <File Name="Doctor Fate 8"/>
-            <File Name="Harley Quinn 24"/>
-            <File Name="Injustice:Gods Among Us:Year Five 2"/>
-            <File Name="Lucifer 2"/>
-            <File Name="Martian Manhunter 8"/>
-            <File Name="Poison Ivy:Cycle of Life and Death 1"/>
-            <File Name="Red Thorn 3"/>
-            <File Name="Robin:Son of Batman 8"/>
-            <File Name="Secret Six 10"/>
-            <File Name="Sinestro 19"/>
-            <File Name="Superman/Wonder Woman 25"/>
-            <File Name="Titans Hunt 4"/>
-            <File Name="Unfollow Special Edition 1"/>
-            <File Name="Wonder Woman 48"/>
-            <File Name="Aquaman 48"/>
-            <File Name="Art Ops 4"/>
-            <File Name="Batman &amp; Robin Eternal 17"/>
-            <File Name="Black Canary 7"/>
-            <File Name="Cyborg 7"/>
-            <File Name="Deathstroke 14"/>
-            <File Name="Grayson 16"/>
-            <File Name="He-Man:The Eternity War 14"/>
-            <File Name="Jacked 3"/>
-            <File Name="Justice League 3001 8"/>
-            <File Name="Justice League of America 7"/>
-            <File Name="Last Gang in Town 2"/>
-            <File Name="Omega Men 8"/>
-            <File Name="Scooby-Doo Team-Up 14"/>
-            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 1"/>
-            <File Name="Superman 48"/>
-            <File Name="Superman:Lois &amp; Clark 4"/>
-            <File Name="Teen Titans 16"/>
-            <File Name="Twilight Children 4"/>
-            <File Name="Vertigo Quarterly SFX 4"/>
+            <File Name="Action Comics 48" ID="167527" SERIESID="7827"/>
+            <File Name="Batman &amp; Robin Eternal 14" ID="167643" SERIESID="15969"/>
+            <File Name="Batman Beyond 8" ID="167685" SERIESID="15972"/>
+            <File Name="DC Comics:Bombshells 8" ID="168075" SERIESID="16025"/>
+            <File Name="DC Essentials:DC:The New Frontier 1" ID="168077" SERIESID="12819"/>
+            <File Name="Detective Comics 48" ID="168121" SERIESID="7845"/>
+            <File Name="Green Arrow 48" ID="168275" SERIESID="7850"/>
+            <File Name="Green Lantern 48" ID="168297" SERIESID="7851"/>
+            <File Name="Injustice:Gods Among Us:Year Five 1" ID="168484" SERIESID="16037"/>
+            <File Name="Midnighter 8" ID="168640" SERIESID="16048"/>
+            <File Name="Sheriff of Babylon 2" ID="168806" SERIESID="16057"/>
+            <File Name="Survivors&apos; Club 4" ID="168993" SERIESID="16074"/>
+            <File Name="Swamp Thing 1" ID="168995" SERIESID="16075"/>
+            <File Name="Telos 4" ID="169023" SERIESID="16076"/>
+            <File Name="Unfollow 3" ID="169037" SERIESID="16079"/>
+            <File Name="Batman &amp; Robin Eternal 15" ID="167644" SERIESID="15969"/>
+            <File Name="Batman &apos;66 Meets the Man from U.N.C.L.E. 2" ID="167717" SERIESID="15975"/>
+            <File Name="Batman/Superman 28" ID="167736" SERIESID="12529"/>
+            <File Name="Batman/Teenage Mutant Ninja Turtles 2" ID="167767" SERIESID="15976"/>
+            <File Name="Catwoman 48" ID="167815" SERIESID="7841"/>
+            <File Name="Constantine:The Hellblazer 8" ID="167837" SERIESID="15981"/>
+            <File Name="Earth 2:Society 8" ID="168154" SERIESID="16028"/>
+            <File Name="Fables:The Wolf Among Us 13" ID="168178" SERIESID="15385"/>
+            <File Name="Gotham Academy 14" ID="168228" SERIESID="15181"/>
+            <File Name="Green Lantern Corps:Edge of Oblivion 1" ID="168301" SERIESID="16029"/>
+            <File Name="Legend of Wonder Woman 1" ID="168589" SERIESID="16044"/>
+            <File Name="New Romancer 2" ID="168676" SERIESID="16049"/>
+            <File Name="New Suicide Squad 16" ID="168692" SERIESID="14499"/>
+            <File Name="Red Hood/Arsenal 8" ID="168723" SERIESID="16053"/>
+            <File Name="Robin War 2" ID="168747" SERIESID="16056"/>
+            <File Name="Scooby-Doo, Where Are You? 65" ID="168780" SERIESID="5583"/>
+            <File Name="Slash &amp; Burn 3" ID="168829" SERIESID="16058"/>
+            <File Name="Starfire 8" ID="168845" SERIESID="16059"/>
+            <File Name="Superman:American Alien 3" ID="168965" SERIESID="16072"/>
+            <File Name="Vertigo Essentials:Lucifer 1" ID="168606" SERIESID="12820"/>
+            <File Name="Astro City 31" ID="167582" SERIESID="12528"/>
+            <File Name="Batgirl 47" ID="167594" SERIESID="7831"/>
+            <File Name="Batman 48" ID="167622" SERIESID="7832"/>
+            <File Name="Batman &amp; Robin Eternal 16" ID="167645" SERIESID="15969"/>
+            <File Name="Batman:Arkham Knight:Genesis 6" ID="167671" SERIESID="15971"/>
+            <File Name="Clean Room 4" ID="167819" SERIESID="15980"/>
+            <File Name="Dark Knight III:The Master Race Collector&apos;s Edition 2" ID="168064" SERIESID="16024"/>
+            <File Name="Doctor Fate 8" ID="168133" SERIESID="16026"/>
+            <File Name="Harley Quinn 24" ID="168340" SERIESID="12810"/>
+            <File Name="Injustice:Gods Among Us:Year Five 2" ID="168486" SERIESID="16037"/>
+            <File Name="Lucifer 2" ID="168608" SERIESID="16045"/>
+            <File Name="Martian Manhunter 8" ID="168628" SERIESID="16047"/>
+            <File Name="Poison Ivy:Cycle of Life and Death 1" ID="168703" SERIESID="16051"/>
+            <File Name="Red Thorn 3" ID="168729" SERIESID="16054"/>
+            <File Name="Robin:Son of Batman 8" ID="168743" SERIESID="16055"/>
+            <File Name="Secret Six 10" ID="168794" SERIESID="15407"/>
+            <File Name="Sinestro 19" ID="168825" SERIESID="14500"/>
+            <File Name="Superman/Wonder Woman 25" ID="168988" SERIESID="12816"/>
+            <File Name="Titans Hunt 4" ID="169028" SERIESID="16077"/>
+            <File Name="Unfollow Special Edition 1" ID="169034" SERIESID="16079"/>
+            <File Name="Wonder Woman 48" ID="169077" SERIESID="7888"/>
+            <File Name="Aquaman 48" ID="176734" SERIESID="7830"/>
+            <File Name="Art Ops 4" ID="176794" SERIESID="15968"/>
+            <File Name="Batman &amp; Robin Eternal 17" ID="176920" SERIESID="15969"/>
+            <File Name="Black Canary 7" ID="176990" SERIESID="15979"/>
+            <File Name="Cyborg 7" ID="177474" SERIESID="16023"/>
+            <File Name="Deathstroke 14" ID="177558" SERIESID="15170"/>
+            <File Name="Grayson 16" ID="177991" SERIESID="14495"/>
+            <File Name="He-Man:The Eternity War 14" ID="178725" SERIESID="15394"/>
+            <File Name="Jacked 3" ID="178737" SERIESID="16038"/>
+            <File Name="Justice League 3001 8" ID="178751" SERIESID="16042"/>
+            <File Name="Justice League of America 7" ID="179281" SERIESID="16041"/>
+            <File Name="Last Gang in Town 2" ID="179343" SERIESID="16043"/>
+            <File Name="Omega Men 8" ID="179535" SERIESID="16050"/>
+            <File Name="Scooby-Doo Team-Up 14" ID="179642" SERIESID="12814"/>
+            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 1" ID="179728" SERIESID="17245"/>
+            <File Name="Superman 48" ID="179761" SERIESID="7881"/>
+            <File Name="Superman:Lois &amp; Clark 4" ID="179785" SERIESID="16073"/>
+            <File Name="Teen Titans 16" ID="180002" SERIESID="15220"/>
+            <File Name="Twilight Children 4" ID="180171" SERIESID="16078"/>
+            <File Name="Vertigo Quarterly SFX 4" ID="180190" SERIESID="16080"/>
         </Directory>
         <Directory Name="CDCC 2016 02">
-            <File Name="Action Comics 49"/>
-            <File Name="Batgirl 48"/>
-            <File Name="Batman &amp; Robin Eternal 18"/>
-            <File Name="Batman Beyond 9"/>
-            <File Name="Batman:Europa 4"/>
-            <File Name="Detective Comics 49"/>
-            <File Name="Green Arrow 49"/>
-            <File Name="Green Lantern 49"/>
-            <File Name="Looney Tunes 229"/>
-            <File Name="Midnighter 9"/>
-            <File Name="Sheriff of Babylon 3"/>
-            <File Name="Survivors&apos; Club 5"/>
-            <File Name="Swamp Thing 2"/>
-            <File Name="Unfollow 4"/>
-            <File Name="We Are Robin 8"/>
-            <File Name="Batman 49"/>
-            <File Name="Batman &amp; Robin Eternal 19"/>
-            <File Name="Batman &apos;66 Meets the Man from U.N.C.L.E. 3"/>
-            <File Name="Batman/Superman 29"/>
-            <File Name="Batman/Teenage Mutant Ninja Turtles 3"/>
-            <File Name="Batman:Arkham Knight:Batgirl &amp; Harley Quinn 1"/>
-            <File Name="Black Canary 8"/>
-            <File Name="Catwoman 49"/>
-            <File Name="Constantine:The Hellblazer 9"/>
-            <File Name="Dark and Bloody 1"/>
-            <File Name="DC Comics:Bombshells 9"/>
-            <File Name="Earth 2:Society 9"/>
-            <File Name="Fables:The Wolf Among Us 14"/>
-            <File Name="Flash 48"/>
-            <File Name="Gotham Academy 15"/>
-            <File Name="Green Lantern Corps:Edge of Oblivion 2"/>
-            <File Name="Harley&apos;s Little Black Book 2"/>
-            <File Name="Injustice:Gods Among Us:Year Five 3"/>
-            <File Name="Legend of Wonder Woman 2"/>
-            <File Name="New Romancer 3"/>
-            <File Name="New Suicide Squad 17"/>
-            <File Name="Red Hood/Arsenal 9"/>
-            <File Name="Scooby-Doo, Where Are You? 66"/>
-            <File Name="Slash &amp; Burn 4"/>
-            <File Name="Starfire 9"/>
-            <File Name="Telos 5"/>
-            <File Name="Astro City 32"/>
-            <File Name="Batman &amp; Robin Eternal 20"/>
-            <File Name="Clean Room 5"/>
-            <File Name="Doctor Fate 9"/>
-            <File Name="Harley Quinn 25"/>
-            <File Name="Injustice:Gods Among Us:Year Five 4"/>
-            <File Name="Lucifer 3"/>
-            <File Name="Martian Manhunter 9"/>
-            <File Name="Poison Ivy:Cycle of Life and Death 2"/>
-            <File Name="Red Thorn 4"/>
-            <File Name="Robin:Son of Batman 9"/>
-            <File Name="Secret Six 11"/>
-            <File Name="Sinestro 20"/>
-            <File Name="Superman:American Alien 4"/>
-            <File Name="Teen Titans Go 14"/>
-            <File Name="Titans Hunt 5"/>
-            <File Name="Wonder Woman 49"/>
-            <File Name="Aquaman 49"/>
-            <File Name="Art Ops 5"/>
-            <File Name="Batman &amp; Robin Eternal 21"/>
-            <File Name="Cyborg 8"/>
-            <File Name="Dark Knight III:The Master Race 3"/>
-            <File Name="DC Comics Essentials:Batman and Robin 1"/>
-            <File Name="Deathstroke 15"/>
-            <File Name="Flash 49"/>
-            <File Name="Grayson 17"/>
-            <File Name="He-Man:The Eternity War 15"/>
-            <File Name="Jacked 4"/>
-            <File Name="Justice League 48"/>
-            <File Name="Justice League 3001 9"/>
-            <File Name="Last Gang in Town 3"/>
-            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 2"/>
-            <File Name="Superman 49"/>
-            <File Name="Superman/Wonder Woman 26"/>
-            <File Name="Superman:Lois &amp; Clark 5"/>
-            <File Name="Superman:The Coming of the Supermen 1"/>
-            <File Name="Teen Titans 17"/>
-            <File Name="We Are Robin 9"/>
+            <File Name="General Mills Presents Batman V Superman:Dawn of Justice 1" ID="203810" SERIESID="20182"/>
+            <File Name="General Mills Presents Batman V Superman:Dawn of Justice 2" ID="203811" SERIESID="20182"/>
+            <File Name="General Mills Presents Batman V Superman:Dawn of Justice 3" ID="203812" SERIESID="20182"/>
+            <File Name="General Mills Presents Batman V Superman:Dawn of Justice 4" ID="203813" SERIESID="20182"/>
+            <File Name="Superman/Batman Special Edition 1" ID="203809" SERIESID="13038"/>
+            <File Name="Action Comics 49" ID="176662" SERIESID="7827"/>
+            <File Name="Batgirl 48" ID="176855" SERIESID="7831"/>
+            <File Name="Batman &amp; Robin Eternal 18" ID="176921" SERIESID="15969"/>
+            <File Name="Batman Beyond 9" ID="176930" SERIESID="15972"/>
+            <File Name="Batman:Europa 4" ID="177004" SERIESID="15974"/>
+            <File Name="Detective Comics 49" ID="177610" SERIESID="7845"/>
+            <File Name="Green Arrow 49" ID="178003" SERIESID="7850"/>
+            <File Name="Green Lantern 49" ID="178555" SERIESID="7851"/>
+            <File Name="Looney Tunes 229" ID="179367" SERIESID="1369"/>
+            <File Name="Midnighter 9" ID="179423" SERIESID="16048"/>
+            <File Name="Sheriff of Babylon 3" ID="179692" SERIESID="16057"/>
+            <File Name="Survivors&apos; Club 5" ID="179986" SERIESID="16074"/>
+            <File Name="Swamp Thing 2" ID="179992" SERIESID="16075"/>
+            <File Name="Unfollow 4" ID="180173" SERIESID="16079"/>
+            <File Name="We Are Robin 8" ID="180212" SERIESID="16081"/>
+            <File Name="Batman 49" ID="176909" SERIESID="7832"/>
+            <File Name="Batman &amp; Robin Eternal 19" ID="176922" SERIESID="15969"/>
+            <File Name="Batman &apos;66 Meets the Man from U.N.C.L.E. 3" ID="176966" SERIESID="15975"/>
+            <File Name="Batman/Superman 29" ID="176978" SERIESID="12529"/>
+            <File Name="Batman/Teenage Mutant Ninja Turtles 3" ID="178987" SERIESID="15976"/>
+            <File Name="Batman:Arkham Knight:Batgirl &amp; Harley Quinn 1" ID="177008" SERIESID="21318"/>
+            <File Name="Black Canary 8" ID="176991" SERIESID="15979"/>
+            <File Name="Catwoman 49" ID="177431" SERIESID="7841"/>
+            <File Name="Constantine:The Hellblazer 9" ID="177473" SERIESID="15981"/>
+            <File Name="Dark and Bloody 1" ID="177509" SERIESID="17025"/>
+            <File Name="DC Comics:Bombshells 9" ID="177524" SERIESID="16025"/>
+            <File Name="DC Essential Graphic Novels 2016 1" ID="262942" SERIESID="13102"/>
+            <File Name="Earth 2:Society 9" ID="177698" SERIESID="16028"/>
+            <File Name="Fables:The Wolf Among Us 14" ID="177848" SERIESID="15385"/>
+            <File Name="Flash 48" ID="177851" SERIESID="7847"/>
+            <File Name="Gotham Academy 15" ID="177974" SERIESID="15181"/>
+            <File Name="Green Lantern Corps:Edge of Oblivion 2" ID="178563" SERIESID="16029"/>
+            <File Name="Harley&apos;s Little Black Book 2" ID="178693" SERIESID="16032"/>
+            <File Name="Injustice:Gods Among Us:Year Five 3" ID="179061" SERIESID="16037"/>
+            <File Name="Legend of Wonder Woman 2" ID="179350" SERIESID="16044"/>
+            <File Name="New Romancer 3" ID="179450" SERIESID="16049"/>
+            <File Name="New Suicide Squad 17" ID="179455" SERIESID="14499"/>
+            <File Name="Red Hood/Arsenal 9" ID="179578" SERIESID="16053"/>
+            <File Name="Scooby-Doo, Where Are You? 66" ID="179655" SERIESID="5583"/>
+            <File Name="Slash &amp; Burn 4" ID="179715" SERIESID="16058"/>
+            <File Name="Starfire 9" ID="179156" SERIESID="16059"/>
+            <File Name="Telos 5" ID="180024" SERIESID="16076"/>
+            <File Name="Astro City 32" ID="176803" SERIESID="12528"/>
+            <File Name="Batman &amp; Robin Eternal 20" ID="176923" SERIESID="15969"/>
+            <File Name="Clean Room 5" ID="177455" SERIESID="15980"/>
+            <File Name="Doctor Fate 9" ID="177670" SERIESID="16026"/>
+            <File Name="Harley Quinn 25" ID="178663" SERIESID="12810"/>
+            <File Name="Injustice:Gods Among Us:Year Five 4" ID="179062" SERIESID="16037"/>
+            <File Name="Lucifer 3" ID="179384" SERIESID="16045"/>
+            <File Name="Martian Manhunter 9" ID="179417" SERIESID="16047"/>
+            <File Name="Poison Ivy:Cycle of Life and Death 2" ID="179541" SERIESID="16051"/>
+            <File Name="Red Thorn 4" ID="179585" SERIESID="16054"/>
+            <File Name="Robin:Son of Batman 9" ID="179595" SERIESID="16055"/>
+            <File Name="Secret Six 11" ID="179671" SERIESID="15407"/>
+            <File Name="Sinestro 20" ID="179702" SERIESID="14500"/>
+            <File Name="Superman:American Alien 4" ID="179776" SERIESID="16072"/>
+            <File Name="Teen Titans Go 14" ID="180016" SERIESID="12817"/>
+            <File Name="Titans Hunt 5" ID="180145" SERIESID="16077"/>
+            <File Name="Wonder Woman 49" ID="180233" SERIESID="7888"/>
+            <File Name="Aquaman 49" ID="176736" SERIESID="7830"/>
+            <File Name="Art Ops 5" ID="176795" SERIESID="15968"/>
+            <File Name="Batman &amp; Robin Eternal 21" ID="176924" SERIESID="15969"/>
+            <File Name="Cyborg 8" ID="177476" SERIESID="16023"/>
+            <File Name="Dark Knight III:The Master Race 3" ID="178762" SERIESID="16024"/>
+            <File Name="DC Comics Essentials:Batman and Robin 1" ID="178806" SERIESID="12819"/>
+            <File Name="Deathstroke 15" ID="177560" SERIESID="15170"/>
+            <File Name="Flash 49" ID="177853" SERIESID="7847"/>
+            <File Name="Grayson 17" ID="177993" SERIESID="14495"/>
+            <File Name="He-Man:The Eternity War 15" ID="178726" SERIESID="15394"/>
+            <File Name="Jacked 4" ID="178738" SERIESID="16038"/>
+            <File Name="Justice League 48" ID="178742" SERIESID="7858"/>
+            <File Name="Justice League 3001 9" ID="178752" SERIESID="16042"/>
+            <File Name="Last Gang in Town 3" ID="179344" SERIESID="16043"/>
+            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 2" ID="179730" SERIESID="17245"/>
+            <File Name="Superman 49" ID="179763" SERIESID="7881"/>
+            <File Name="Superman/Wonder Woman 26" ID="179804" SERIESID="12816"/>
+            <File Name="Superman:Lois &amp; Clark 5" ID="179787" SERIESID="16073"/>
+            <File Name="Superman:The Coming of the Supermen 1" ID="179796" SERIESID="17248"/>
+            <File Name="Teen Titans 17" ID="180004" SERIESID="15220"/>
+            <File Name="We Are Robin 9" ID="180214" SERIESID="16081"/>
         </Directory>
         <Directory Name="CDCC 2016 03">
-            <File Name="Batgirl 49"/>
-            <File Name="Batman &amp; Robin Eternal 22"/>
-            <File Name="Batman &apos;66 Meets the Man from U.N.C.L.E. 4"/>
-            <File Name="Batman Beyond 10"/>
-            <File Name="DC Comics Essentials:The Dark Knight Returns 1"/>
-            <File Name="DC Comics:Bombshells 10"/>
-            <File Name="Green Lantern 50"/>
-            <File Name="Injustice:Gods Among Us:Year Five 5"/>
-            <File Name="Midnighter 10"/>
-            <File Name="Omega Men 9"/>
-            <File Name="Scooby-Doo Team-Up 15"/>
-            <File Name="Sheriff of Babylon 4"/>
-            <File Name="Survivors&apos; Club 6"/>
-            <File Name="Swamp Thing 3"/>
-            <File Name="Unfollow 5"/>
-            <File Name="Action Comics 50"/>
-            <File Name="Batman &amp; Robin Eternal 23"/>
-            <File Name="Batman/Superman 30"/>
-            <File Name="Batman/Teenage Mutant Ninja Turtles 4"/>
-            <File Name="Catwoman 50"/>
-            <File Name="Constantine:The Hellblazer 10"/>
-            <File Name="Dark and Bloody 2"/>
-            <File Name="Dark Knight III:The Master Race Collector&apos;s Edition 3"/>
-            <File Name="Detective Comics 50"/>
-            <File Name="Earth 2:Society 10"/>
-            <File Name="Fables:The Wolf Among Us 15"/>
-            <File Name="Gotham Academy 16"/>
-            <File Name="Green Lantern Corps:Edge of Oblivion 3"/>
-            <File Name="Legend of Wonder Woman 3"/>
-            <File Name="New Romancer 4"/>
-            <File Name="New Suicide Squad 18"/>
-            <File Name="Red Hood/Arsenal 10"/>
-            <File Name="Scooby-Doo, Where Are You? 67"/>
-            <File Name="Slash &amp; Burn 5"/>
-            <File Name="Starfire 10"/>
-            <File Name="Telos 6"/>
-            <File Name="Astro City 33"/>
-            <File Name="Batman &amp; Robin Eternal 24"/>
-            <File Name="Black Canary 9"/>
-            <File Name="Clean Room 6"/>
-            <File Name="DC Comics Essentials:Superman Unchained 1"/>
-            <File Name="Doctor Fate 10"/>
-            <File Name="Green Arrow 50"/>
-            <File Name="Injustice:Gods Among Us:Year Five 6"/>
-            <File Name="Legends of Tomorrow Anthology 1"/>
-            <File Name="Lucifer 4"/>
-            <File Name="Martian Manhunter 10"/>
-            <File Name="Poison Ivy:Cycle of Life and Death 3"/>
-            <File Name="Red Thorn 5"/>
-            <File Name="Robin:Son of Batman 10"/>
-            <File Name="Sinestro 21"/>
-            <File Name="Superman 50"/>
-            <File Name="Superman/Wonder Woman 27"/>
-            <File Name="Superman:American Alien 5"/>
-            <File Name="Superman:The Coming of the Supermen 2"/>
-            <File Name="Titans Hunt 6"/>
-            <File Name="Art Ops 6"/>
-            <File Name="Batman 50"/>
-            <File Name="Batman &amp; Robin Eternal 25"/>
-            <File Name="Cyborg 9"/>
-            <File Name="Deathstroke 16"/>
-            <File Name="Grayson 18"/>
-            <File Name="Harley Quinn 26"/>
-            <File Name="Jacked 5"/>
-            <File Name="Justice League 3001 10"/>
-            <File Name="Last Gang in Town 4"/>
-            <File Name="Secret Six 12"/>
-            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 3"/>
-            <File Name="Superman:Lois &amp; Clark 6"/>
-            <File Name="Teen Titans 18"/>
-            <File Name="We Are Robin 10"/>
-            <File Name="Wonder Woman 50"/>
-            <File Name="Aquaman 50"/>
-            <File Name="Batman &amp; Robin Eternal 26"/>
-            <File Name="Justice League of America 8"/>
-            <File Name="Omega Men 10"/>
-            <File Name="Suiciders:Kings of Hell.A. 1"/>
+            <File Name="Detective Comics 474  [Comic Con Box Exclusive]" ID="215998" SERIESID="3476"/>
+            <File Name="Batgirl 49" ID="176856" SERIESID="7831"/>
+            <File Name="Batman &amp; Robin Eternal 22" ID="176925" SERIESID="15969"/>
+            <File Name="Batman &apos;66 Meets the Man from U.N.C.L.E. 4" ID="176967" SERIESID="15975"/>
+            <File Name="Batman Beyond 10" ID="176931" SERIESID="15972"/>
+            <File Name="DC Comics Essentials:The Dark Knight Returns 1" ID="178810" SERIESID="12819"/>
+            <File Name="DC Comics:Bombshells 10" ID="177525" SERIESID="16025"/>
+            <File Name="Green Lantern 50" ID="178557" SERIESID="7851"/>
+            <File Name="Injustice:Gods Among Us:Year Five 5" ID="179063" SERIESID="16037"/>
+            <File Name="Midnighter 10" ID="179424" SERIESID="16048"/>
+            <File Name="Omega Men 9" ID="179536" SERIESID="16050"/>
+            <File Name="Scooby-Doo Team-Up 15" ID="179643" SERIESID="12814"/>
+            <File Name="Sheriff of Babylon 4" ID="179693" SERIESID="16057"/>
+            <File Name="Survivors&apos; Club 6" ID="179987" SERIESID="16074"/>
+            <File Name="Swamp Thing 3" ID="179993" SERIESID="16075"/>
+            <File Name="Unfollow 5" ID="180174" SERIESID="16079"/>
+            <File Name="Action Comics 50" ID="176664" SERIESID="7827"/>
+            <File Name="Batman &amp; Robin Eternal 23" ID="176926" SERIESID="15969"/>
+            <File Name="Batman/Superman 30" ID="176980" SERIESID="12529"/>
+            <File Name="Batman/Teenage Mutant Ninja Turtles 4" ID="178991" SERIESID="15976"/>
+            <File Name="Catwoman 50" ID="177432" SERIESID="7841"/>
+            <File Name="Constantine:The Hellblazer 10" ID="177469" SERIESID="15981"/>
+            <File Name="Dark and Bloody 2" ID="177510" SERIESID="17025"/>
+            <File Name="Dark Knight III:The Master Race Collector&apos;s Edition 3" ID="178770" SERIESID="16024"/>
+            <File Name="Detective Comics 50" ID="177612" SERIESID="7845"/>
+            <File Name="Earth 2:Society 10" ID="177699" SERIESID="16028"/>
+            <File Name="Fables:The Wolf Among Us 15" ID="177849" SERIESID="15385"/>
+            <File Name="Gotham Academy 16" ID="177975" SERIESID="15181"/>
+            <File Name="Green Lantern Corps:Edge of Oblivion 3" ID="178564" SERIESID="16029"/>
+            <File Name="Legend of Wonder Woman 3" ID="179352" SERIESID="16044"/>
+            <File Name="New Romancer 4" ID="179451" SERIESID="16049"/>
+            <File Name="New Suicide Squad 18" ID="179456" SERIESID="14499"/>
+            <File Name="Red Hood/Arsenal 10" ID="179580" SERIESID="16053"/>
+            <File Name="Scooby-Doo, Where Are You? 67" ID="179656" SERIESID="5583"/>
+            <File Name="Slash &amp; Burn 5" ID="179716" SERIESID="16058"/>
+            <File Name="Starfire 10" ID="179152" SERIESID="16059"/>
+            <File Name="Telos 6" ID="180026" SERIESID="16076"/>
+            <File Name="Astro City 33" ID="176804" SERIESID="12528"/>
+            <File Name="Batman &amp; Robin Eternal 24" ID="176927" SERIESID="15969"/>
+            <File Name="Black Canary 9" ID="176992" SERIESID="15979"/>
+            <File Name="Clean Room 6" ID="177456" SERIESID="15980"/>
+            <File Name="DC Comics Essentials:Superman Unchained 1" ID="178809" SERIESID="12819"/>
+            <File Name="Doctor Fate 10" ID="177671" SERIESID="16026"/>
+            <File Name="Green Arrow 50" ID="178005" SERIESID="7850"/>
+            <File Name="Injustice:Gods Among Us:Year Five 6" ID="179064" SERIESID="16037"/>
+            <File Name="Legends of Tomorrow Anthology 1" ID="179360" SERIESID="17227"/>
+            <File Name="Lucifer 4" ID="179385" SERIESID="16045"/>
+            <File Name="Martian Manhunter 10" ID="179419" SERIESID="16047"/>
+            <File Name="Poison Ivy:Cycle of Life and Death 3" ID="179542" SERIESID="16051"/>
+            <File Name="Red Thorn 5" ID="179586" SERIESID="16054"/>
+            <File Name="Robin:Son of Batman 10" ID="179597" SERIESID="16055"/>
+            <File Name="Sinestro 21" ID="179704" SERIESID="14500"/>
+            <File Name="Superman 50" ID="179765" SERIESID="7881"/>
+            <File Name="Superman/Wonder Woman 27" ID="179807" SERIESID="12816"/>
+            <File Name="Superman:American Alien 5" ID="179778" SERIESID="16072"/>
+            <File Name="Superman:The Coming of the Supermen 2" ID="179798" SERIESID="17248"/>
+            <File Name="Titans Hunt 6" ID="180147" SERIESID="16077"/>
+            <File Name="Art Ops 6" ID="176796" SERIESID="15968"/>
+            <File Name="Batman 50" ID="176911" SERIESID="7832"/>
+            <File Name="Batman &amp; Robin Eternal 25" ID="176928" SERIESID="15969"/>
+            <File Name="Cyborg 9" ID="177478" SERIESID="16023"/>
+            <File Name="Deathstroke 16" ID="177562" SERIESID="15170"/>
+            <File Name="Grayson 18" ID="177995" SERIESID="14495"/>
+            <File Name="Harley Quinn 26" ID="178666" SERIESID="12810"/>
+            <File Name="Jacked 5" ID="178739" SERIESID="16038"/>
+            <File Name="Justice League 3001 10" ID="178753" SERIESID="16042"/>
+            <File Name="Last Gang in Town 4" ID="179345" SERIESID="16043"/>
+            <File Name="Secret Six 12" ID="179672" SERIESID="15407"/>
+            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 3" ID="179731" SERIESID="17245"/>
+            <File Name="Superman:Lois &amp; Clark 6" ID="179789" SERIESID="16073"/>
+            <File Name="Teen Titans 18" ID="180006" SERIESID="15220"/>
+            <File Name="We Are Robin 10" ID="180216" SERIESID="16081"/>
+            <File Name="Wonder Woman 50" ID="180236" SERIESID="7888"/>
+            <File Name="Aquaman 50" ID="176738" SERIESID="7830"/>
+            <File Name="Batman &amp; Robin Eternal 26" ID="176929" SERIESID="15969"/>
+            <File Name="Justice League of America 8" ID="179283" SERIESID="16041"/>
+            <File Name="Omega Men 10" ID="179537" SERIESID="16050"/>
+            <File Name="Suiciders:Kings of Hell.A. 1" ID="179719" SERIESID="17243"/>
         </Directory>
         <Directory Name="CDCC 2016 04">
-            <File Name="Batgirl 50"/>
-            <File Name="Batman Beyond 11"/>
-            <File Name="Bloodlines 1"/>
-            <File Name="DC Comics Essentials  Batman:Death of the Family 1"/>
-            <File Name="Detective Comics 51"/>
-            <File Name="Green Arrow 51"/>
-            <File Name="Green Lantern 51"/>
-            <File Name="Harley Quinn &amp; the Suicide Squad April Fools&apos; Special 1"/>
-            <File Name="Injustice:Gods Among Us:Year Five 7"/>
-            <File Name="Justice League Darkseid War Special 1"/>
-            <File Name="Looney Tunes 230"/>
-            <File Name="Midnighter 11"/>
-            <File Name="New Suicide Squad 19"/>
-            <File Name="Sheriff of Babylon 5"/>
-            <File Name="Superman 51"/>
-            <File Name="Superman:The Coming of the Supermen 3"/>
-            <File Name="Survivors&apos; Club 7"/>
-            <File Name="Swamp Thing 4"/>
-            <File Name="Unfollow 6"/>
-            <File Name="Batman/Superman 31"/>
-            <File Name="Batman/Teenage Mutant Ninja Turtles 5"/>
-            <File Name="Black Canary 10"/>
-            <File Name="Catwoman 51"/>
-            <File Name="Constantine:The Hellblazer 11"/>
-            <File Name="Dark and Bloody 3"/>
-            <File Name="DC Comics:Bombshells 11"/>
-            <File Name="Earth 2:Society 11"/>
-            <File Name="Fables:The Wolf Among Us 16"/>
-            <File Name="Gotham Academy 17"/>
-            <File Name="Green Lantern Corps:Edge of Oblivion 4"/>
-            <File Name="Harley Quinn &amp; Her Gang of Harleys 1"/>
-            <File Name="Legend of Wonder Woman 4"/>
-            <File Name="New Romancer 5"/>
-            <File Name="Red Hood/Arsenal 11"/>
-            <File Name="Scooby-Doo, Where Are You? 68"/>
-            <File Name="Slash &amp; Burn 6"/>
-            <File Name="Starfire 11"/>
-            <File Name="Wonder Woman &apos;77 Special 3"/>
-            <File Name="Action Comics 51"/>
-            <File Name="Aquaman 51"/>
-            <File Name="Astro City 34"/>
-            <File Name="Clean Room 7"/>
-            <File Name="DC Comics Essentials:JLA 1"/>
-            <File Name="Doctor Fate 11"/>
-            <File Name="Flash 50"/>
-            <File Name="Harley&apos;s Little Black Book 3"/>
-            <File Name="Injustice:Gods Among Us:Year Five 8"/>
-            <File Name="Legends of Tomorrow 2"/>
-            <File Name="Lucifer 5"/>
-            <File Name="Martian Manhunter 11"/>
-            <File Name="Poison Ivy:Cycle of Life and Death 4"/>
-            <File Name="Red Thorn 6"/>
-            <File Name="Robin:Son of Batman 11"/>
-            <File Name="Superman:American Alien 6"/>
-            <File Name="Superman:Lois &amp; Clark 7"/>
-            <File Name="Teen Titans Go 15"/>
-            <File Name="Titans Hunt 7"/>
-            <File Name="Wonder Woman 51"/>
-            <File Name="Art Ops 7"/>
-            <File Name="Batgirl 51"/>
-            <File Name="Batman 51"/>
-            <File Name="Batman &apos;66 Meets the Man from U.N.C.L.E. 5"/>
-            <File Name="Black Canary 11"/>
-            <File Name="Cyborg 10"/>
-            <File Name="Dark Knight III:The Master Race 4"/>
-            <File Name="Deathstroke 17"/>
-            <File Name="Grayson 19"/>
-            <File Name="Harley Quinn 27"/>
-            <File Name="Jacked 6"/>
-            <File Name="Justice League 49"/>
-            <File Name="Justice League 3001 11"/>
-            <File Name="Last Gang in Town 5"/>
-            <File Name="Omega Men 11"/>
-            <File Name="Secret Six 13"/>
-            <File Name="Sinestro 22"/>
-            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 4"/>
-            <File Name="Suiciders:Kings of Hell.A. 2"/>
-            <File Name="Superman/Wonder Woman 28"/>
-            <File Name="Teen Titans 19"/>
-            <File Name="We Are Robin 11"/>
+            <File Name="Batgirl 50" ID="176857" SERIESID="7831"/>
+            <File Name="Batman Beyond 11" ID="176933" SERIESID="15972"/>
+            <File Name="Bloodlines 1" ID="176996" SERIESID="16963"/>
+            <File Name="DC Comics Essentials  Batman:Death of the Family 1" ID="178807" SERIESID="12819"/>
+            <File Name="Detective Comics 51" ID="177616" SERIESID="7845"/>
+            <File Name="Green Arrow 51" ID="178007" SERIESID="7850"/>
+            <File Name="Green Lantern 51" ID="178559" SERIESID="7851"/>
+            <File Name="Harley Quinn &amp; the Suicide Squad April Fools&apos; Special 1" ID="179055" SERIESID="3088"/>
+            <File Name="Injustice:Gods Among Us:Year Five 7" ID="179065" SERIESID="16037"/>
+            <File Name="Justice League Darkseid War Special 1" ID="179142" SERIESID="16039"/>
+            <File Name="Looney Tunes 230" ID="179368" SERIESID="1369"/>
+            <File Name="Midnighter 11" ID="179425" SERIESID="16048"/>
+            <File Name="New Suicide Squad 19" ID="179458" SERIESID="14499"/>
+            <File Name="Sheriff of Babylon 5" ID="179694" SERIESID="16057"/>
+            <File Name="Superman 51" ID="179770" SERIESID="7881"/>
+            <File Name="Superman:The Coming of the Supermen 3" ID="179799" SERIESID="17248"/>
+            <File Name="Survivors&apos; Club 7" ID="179988" SERIESID="16074"/>
+            <File Name="Swamp Thing 4" ID="179994" SERIESID="16075"/>
+            <File Name="Unfollow 6" ID="180175" SERIESID="16079"/>
+            <File Name="Batman/Superman 31" ID="176985" SERIESID="12529"/>
+            <File Name="Batman/Teenage Mutant Ninja Turtles 5" ID="178994" SERIESID="15976"/>
+            <File Name="Black Canary 10" ID="176993" SERIESID="15979"/>
+            <File Name="Catwoman 51" ID="177433" SERIESID="7841"/>
+            <File Name="Constantine:The Hellblazer 11" ID="177470" SERIESID="15981"/>
+            <File Name="Dark and Bloody 3" ID="177511" SERIESID="17025"/>
+            <File Name="DC Comics:Bombshells 11" ID="177526" SERIESID="16025"/>
+            <File Name="Earth 2:Society 11" ID="177700" SERIESID="16028"/>
+            <File Name="Fables:The Wolf Among Us 16" ID="177850" SERIESID="15385"/>
+            <File Name="Gotham Academy 17" ID="177976" SERIESID="15181"/>
+            <File Name="Green Lantern Corps:Edge of Oblivion 4" ID="178565" SERIESID="16029"/>
+            <File Name="Harley Quinn &amp; Her Gang of Harleys 1" ID="178680" SERIESID="17123"/>
+            <File Name="Legend of Wonder Woman 4" ID="179353" SERIESID="16044"/>
+            <File Name="New Romancer 5" ID="179452" SERIESID="16049"/>
+            <File Name="Red Hood/Arsenal 11" ID="179581" SERIESID="16053"/>
+            <File Name="Scooby-Doo, Where Are You? 68" ID="179657" SERIESID="5583"/>
+            <File Name="Slash &amp; Burn 6" ID="179717" SERIESID="16058"/>
+            <File Name="Starfire 11" ID="179153" SERIESID="16059"/>
+            <File Name="Wonder Woman &apos;77 Special 3" ID="180294" SERIESID="16082"/>
+            <File Name="Action Comics 51" ID="176668" SERIESID="7827"/>
+            <File Name="Aquaman 51" ID="176740" SERIESID="7830"/>
+            <File Name="Astro City 34" ID="176805" SERIESID="12528"/>
+            <File Name="Clean Room 7" ID="177457" SERIESID="15980"/>
+            <File Name="DC Comics Essentials:JLA 1" ID="178808" SERIESID="12819"/>
+            <File Name="Doctor Fate 11" ID="177672" SERIESID="16026"/>
+            <File Name="Flash 50" ID="177855" SERIESID="7847"/>
+            <File Name="Harley&apos;s Little Black Book 3" ID="178695" SERIESID="16032"/>
+            <File Name="Injustice:Gods Among Us:Year Five 8" ID="179066" SERIESID="16037"/>
+            <File Name="Legends of Tomorrow 2" ID="179361" SERIESID="17227"/>
+            <File Name="Lucifer 5" ID="179386" SERIESID="16045"/>
+            <File Name="Martian Manhunter 11" ID="179420" SERIESID="16047"/>
+            <File Name="Poison Ivy:Cycle of Life and Death 4" ID="179543" SERIESID="16051"/>
+            <File Name="Red Thorn 6" ID="179587" SERIESID="16054"/>
+            <File Name="Robin:Son of Batman 11" ID="179601" SERIESID="16055"/>
+            <File Name="Superman:American Alien 6" ID="179780" SERIESID="16072"/>
+            <File Name="Superman:Lois &amp; Clark 7" ID="179790" SERIESID="16073"/>
+            <File Name="Teen Titans Go 15" ID="180017" SERIESID="12817"/>
+            <File Name="Titans Hunt 7" ID="180148" SERIESID="16077"/>
+            <File Name="Wonder Woman 51" ID="180240" SERIESID="7888"/>
+            <File Name="Art Ops 7" ID="176797" SERIESID="15968"/>
+            <File Name="Batgirl 51" ID="176861" SERIESID="7831"/>
+            <File Name="Batman 51" ID="176916" SERIESID="7832"/>
+            <File Name="Batman &apos;66 Meets the Man from U.N.C.L.E. 5" ID="176968" SERIESID="15975"/>
+            <File Name="Black Canary 11" ID="176994" SERIESID="15979"/>
+            <File Name="Cyborg 10" ID="177479" SERIESID="16023"/>
+            <File Name="Dark Knight III:The Master Race 4" ID="178771" SERIESID="16024"/>
+            <File Name="Deathstroke 17" ID="177564" SERIESID="15170"/>
+            <File Name="Grayson 19" ID="177999" SERIESID="14495"/>
+            <File Name="Harley Quinn 27" ID="178669" SERIESID="12810"/>
+            <File Name="Jacked 6" ID="178740" SERIESID="16038"/>
+            <File Name="Justice League 49" ID="178744" SERIESID="7858"/>
+            <File Name="Justice League 3001 11" ID="178754" SERIESID="16042"/>
+            <File Name="Last Gang in Town 5" ID="179346" SERIESID="16043"/>
+            <File Name="Omega Men 11" ID="179538" SERIESID="16050"/>
+            <File Name="Secret Six 13" ID="179673" SERIESID="15407"/>
+            <File Name="Sinestro 22" ID="179705" SERIESID="14500"/>
+            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 4" ID="179732" SERIESID="17245"/>
+            <File Name="Suiciders:Kings of Hell.A. 2" ID="179721" SERIESID="17243"/>
+            <File Name="Superman/Wonder Woman 28" ID="179811" SERIESID="12816"/>
+            <File Name="Teen Titans 19" ID="180008" SERIESID="15220"/>
+            <File Name="We Are Robin 11" ID="180217" SERIESID="16081"/>
         </Directory>
         <Directory Name="CDCC 2016 05">
-            <File Name="Batman Beyond 12"/>
-            <File Name="Batman/Superman 32"/>
-            <File Name="Bloodlines 2"/>
-            <File Name="Detective Comics 52"/>
-            <File Name="Flash 51"/>
-            <File Name="Green Arrow 52"/>
-            <File Name="Green Lantern 52"/>
-            <File Name="Injustice:Gods Among Us:Year Five 9"/>
-            <File Name="Legend of Wonder Woman 5"/>
-            <File Name="Midnighter 12"/>
-            <File Name="New Suicide Squad 20"/>
-            <File Name="Scooby-Doo Team-Up 16"/>
-            <File Name="Sheriff of Babylon 6"/>
-            <File Name="Superman:The Coming of the Supermen 4"/>
-            <File Name="Survivors&apos; Club 8"/>
-            <File Name="Unfollow 7"/>
-            <File Name="FCBD 2016  DC Superhero Girls Special Edition 1"/>
-            <File Name="FCBD 2016  Suicide Squad Special Edition 1"/>
-            <File Name="Action Comics 52"/>
-            <File Name="Adventures of Supergirl 1"/>
-            <File Name="Batman 52"/>
-            <File Name="Batman/Teenage Mutant Ninja Turtles 6"/>
-            <File Name="Catwoman 52"/>
-            <File Name="Constantine:The Hellblazer 12"/>
-            <File Name="Dark and Bloody 4"/>
-            <File Name="DC Comics:Bombshells 12"/>
-            <File Name="Earth 2:Society 12"/>
-            <File Name="Gotham Academy 18"/>
-            <File Name="Green Lantern Corps:Edge of Oblivion 5"/>
-            <File Name="Harley Quinn &amp; Her Gang of Harleys 2"/>
-            <File Name="Legends of Tomorrow 3"/>
-            <File Name="New Romancer 6"/>
-            <File Name="Red Hood/Arsenal 12"/>
-            <File Name="Scooby-Doo, Where Are You? 69"/>
-            <File Name="Starfire 12"/>
-            <File Name="Swamp Thing 5"/>
-            <File Name="Aquaman 52"/>
-            <File Name="Astro City 35"/>
-            <File Name="Clean Room 8"/>
-            <File Name="Dark Knight III:The Master Race Collector&apos;s Edition 4"/>
-            <File Name="Doctor Fate 12"/>
-            <File Name="Future Quest 1"/>
-            <File Name="Harley Quinn 28"/>
-            <File Name="Injustice:Gods Among Us:Year Five 10"/>
-            <File Name="Legend of Wonder Woman 6"/>
-            <File Name="Lucifer 6"/>
-            <File Name="Martian Manhunter 12"/>
-            <File Name="Poison Ivy:Cycle of Life and Death 5"/>
-            <File Name="Red Thorn 7"/>
-            <File Name="Robin:Son of Batman 12"/>
-            <File Name="Sinestro 23"/>
-            <File Name="Superman/Wonder Woman 29"/>
-            <File Name="Superman:American Alien 7"/>
-            <File Name="Titans Hunt 8"/>
-            <File Name="Wonder Woman 52"/>
-            <File Name="Adventures of Supergirl 2"/>
-            <File Name="Art Ops 8"/>
-            <File Name="Batgirl 52"/>
-            <File Name="Batman &apos;66 Meets the Man from U.N.C.L.E. 6"/>
-            <File Name="Cyborg 11"/>
-            <File Name="DC Comics:Bombshells 13"/>
-            <File Name="DC Universe:Rebirth 1"/>
-            <File Name="Deathstroke 18"/>
-            <File Name="Flash 52"/>
-            <File Name="Grayson 20"/>
-            <File Name="Justice League 50"/>
-            <File Name="Justice League 3001 12"/>
-            <File Name="Omega Men 12"/>
-            <File Name="Scooby Apocalypse 1"/>
-            <File Name="Secret Six 14"/>
-            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 5"/>
-            <File Name="Suiciders:Kings of Hell.A. 3"/>
-            <File Name="Superman 52"/>
-            <File Name="Superman:Lois &amp; Clark 8"/>
-            <File Name="Teen Titans 20"/>
-            <File Name="We Are Robin 12"/>
+            <File Name="Preacher AMC Edition 1" ID="203714" SERIESID="20156"/>
+            <File Name="Batman Beyond 12" ID="176934" SERIESID="15972"/>
+            <File Name="Batman/Superman 32" ID="176988" SERIESID="12529"/>
+            <File Name="Bloodlines 2" ID="176998" SERIESID="16963"/>
+            <File Name="Detective Comics 52" ID="177618" SERIESID="7845"/>
+            <File Name="Flash 51" ID="177857" SERIESID="7847"/>
+            <File Name="Green Arrow 52" ID="178009" SERIESID="7850"/>
+            <File Name="Green Lantern 52" ID="178561" SERIESID="7851"/>
+            <File Name="Injustice:Gods Among Us:Year Five 9" ID="179067" SERIESID="16037"/>
+            <File Name="Legend of Wonder Woman 5" ID="179354" SERIESID="16044"/>
+            <File Name="Midnighter 12" ID="179426" SERIESID="16048"/>
+            <File Name="New Suicide Squad 20" ID="179459" SERIESID="14499"/>
+            <File Name="Scooby-Doo Team-Up 16" ID="179644" SERIESID="12814"/>
+            <File Name="Sheriff of Babylon 6" ID="179695" SERIESID="16057"/>
+            <File Name="Superman:The Coming of the Supermen 4" ID="179800" SERIESID="17248"/>
+            <File Name="Survivors&apos; Club 8" ID="179989" SERIESID="16074"/>
+            <File Name="Unfollow 7" ID="180176" SERIESID="16079"/>
+            <File Name="FCBD 2016  DC Superhero Girls Special Edition 1" ID="177936" SERIESID="12995"/>
+            <File Name="FCBD 2016  Suicide Squad Special Edition 1" ID="179400" SERIESID="12995"/>
+            <File Name="Action Comics 52" ID="176671" SERIESID="7827"/>
+            <File Name="Adventures of Supergirl 1" ID="176725" SERIESID="16954"/>
+            <File Name="Batman 52" ID="176918" SERIESID="7832"/>
+            <File Name="Batman/Teenage Mutant Ninja Turtles 6" ID="178996" SERIESID="15976"/>
+            <File Name="Catwoman 52" ID="177434" SERIESID="7841"/>
+            <File Name="Constantine:The Hellblazer 12" ID="177471" SERIESID="15981"/>
+            <File Name="Dark and Bloody 4" ID="177512" SERIESID="17025"/>
+            <File Name="DC Comics:Bombshells 12" ID="177527" SERIESID="16025"/>
+            <File Name="Earth 2:Society 12" ID="177701" SERIESID="16028"/>
+            <File Name="Gotham Academy 18" ID="177977" SERIESID="15181"/>
+            <File Name="Green Lantern Corps:Edge of Oblivion 5" ID="178566" SERIESID="16029"/>
+            <File Name="Harley Quinn &amp; Her Gang of Harleys 2" ID="178682" SERIESID="17123"/>
+            <File Name="Legends of Tomorrow 3" ID="179362" SERIESID="17227"/>
+            <File Name="New Romancer 6" ID="179453" SERIESID="16049"/>
+            <File Name="Red Hood/Arsenal 12" ID="179583" SERIESID="16053"/>
+            <File Name="Scooby-Doo, Where Are You? 69" ID="179658" SERIESID="5583"/>
+            <File Name="Starfire 12" ID="179155" SERIESID="16059"/>
+            <File Name="Swamp Thing 5" ID="179995" SERIESID="16075"/>
+            <File Name="Aquaman 52" ID="176742" SERIESID="7830"/>
+            <File Name="Astro City 35" ID="176806" SERIESID="12528"/>
+            <File Name="Clean Room 8" ID="177458" SERIESID="15980"/>
+            <File Name="Dark Knight III:The Master Race Collector&apos;s Edition 4" ID="178777" SERIESID="16024"/>
+            <File Name="Doctor Fate 12" ID="177673" SERIESID="16026"/>
+            <File Name="Future Quest 1" ID="177944" SERIESID="17090"/>
+            <File Name="Harley Quinn 28" ID="178672" SERIESID="12810"/>
+            <File Name="Injustice:Gods Among Us:Year Five 10" ID="179068" SERIESID="16037"/>
+            <File Name="Legend of Wonder Woman 6" ID="179355" SERIESID="16044"/>
+            <File Name="Lucifer 6" ID="179387" SERIESID="16045"/>
+            <File Name="Martian Manhunter 12" ID="179422" SERIESID="16047"/>
+            <File Name="Poison Ivy:Cycle of Life and Death 5" ID="179544" SERIESID="16051"/>
+            <File Name="Red Thorn 7" ID="179588" SERIESID="16054"/>
+            <File Name="Robin:Son of Batman 12" ID="179603" SERIESID="16055"/>
+            <File Name="Sinestro 23" ID="179707" SERIESID="14500"/>
+            <File Name="Superman/Wonder Woman 29" ID="179814" SERIESID="12816"/>
+            <File Name="Superman:American Alien 7" ID="179782" SERIESID="16072"/>
+            <File Name="Titans Hunt 8" ID="180150" SERIESID="16077"/>
+            <File Name="Wonder Woman 52" ID="180242" SERIESID="7888"/>
+            <File Name="Adventures of Supergirl 2" ID="176726" SERIESID="16954"/>
+            <File Name="Art Ops 8" ID="176798" SERIESID="15968"/>
+            <File Name="Batgirl 52" ID="176862" SERIESID="7831"/>
+            <File Name="Batman &apos;66 Meets the Man from U.N.C.L.E. 6" ID="176969" SERIESID="15975"/>
+            <File Name="Cyborg 11" ID="177481" SERIESID="16023"/>
+            <File Name="DC Comics:Bombshells 13" ID="177528" SERIESID="16025"/>
+            <File Name="DC Universe:Rebirth 1" ID="179002" SERIESID="17173"/>
+            <File Name="Deathstroke 18" ID="177566" SERIESID="15170"/>
+            <File Name="Flash 52" ID="177859" SERIESID="7847"/>
+            <File Name="Grayson 20" ID="178001" SERIESID="14495"/>
+            <File Name="Justice League 50" ID="178746" SERIESID="7858"/>
+            <File Name="Justice League 3001 12" ID="178755" SERIESID="16042"/>
+            <File Name="Omega Men 12" ID="179539" SERIESID="16050"/>
+            <File Name="Scooby Apocalypse 1" ID="179608" SERIESID="17240"/>
+            <File Name="Secret Six 14" ID="179674" SERIESID="15407"/>
+            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 5" ID="179733" SERIESID="17245"/>
+            <File Name="Suiciders:Kings of Hell.A. 3" ID="179722" SERIESID="17243"/>
+            <File Name="Superman 52" ID="179773" SERIESID="7881"/>
+            <File Name="Superman:Lois &amp; Clark 8" ID="179792" SERIESID="16073"/>
+            <File Name="Teen Titans 20" ID="180010" SERIESID="15220"/>
+            <File Name="We Are Robin 12" ID="180219" SERIESID="16081"/>
         </Directory>
         <Directory Name="CDCC 2016 06">
-            <File Name="Batman Beyond 13"/>
-            <File Name="Batman:Europa Director&apos;s Cut 1"/>
-            <File Name="Batman:Rebirth 1"/>
-            <File Name="Bloodlines 3"/>
-            <File Name="DC Comics:Bombshells 14"/>
-            <File Name="Doctor Fate 13"/>
-            <File Name="Green Arrow:Rebirth 1"/>
-            <File Name="Green Lanterns:Rebirth 1"/>
-            <File Name="Injustice:Gods Among Us:Year Five 11"/>
-            <File Name="Last Gang in Town 6"/>
-            <File Name="Superman:Rebirth 1"/>
-            <File Name="Superman:The Coming of the Supermen 5"/>
-            <File Name="Survivors&apos; Club 9"/>
-            <File Name="Teen Titans Go 16"/>
-            <File Name="Unfollow 8"/>
-            <File Name="Action Comics 957"/>
-            <File Name="Adventures of Supergirl 3"/>
-            <File Name="Aquaman:Rebirth 1"/>
-            <File Name="Black Canary 12"/>
-            <File Name="Constantine:The Hellblazer 13"/>
-            <File Name="Dark and Bloody 5"/>
-            <File Name="Detective Comics 934"/>
-            <File Name="Earth 2:Society 13"/>
-            <File Name="Flash:Rebirth 1"/>
-            <File Name="Green Lantern Corps:Edge of Oblivion 6"/>
-            <File Name="Harley Quinn &amp; Her Gang of Harleys 3"/>
-            <File Name="Legends of Tomorrow 4"/>
-            <File Name="Lumberjanes/Gotham Academy 1"/>
-            <File Name="Red Hood/Arsenal 13"/>
-            <File Name="Scooby-Doo, Where Are You? 70"/>
-            <File Name="Sheriff of Babylon 7"/>
-            <File Name="Wacky Raceland 1"/>
-            <File Name="Wonder Woman:Rebirth 1"/>
-            <File Name="Astro City 36"/>
-            <File Name="Batman 1"/>
-            <File Name="Clean Room 9"/>
-            <File Name="Dark Knight Returns:The Last Crusade 1"/>
-            <File Name="Green Arrow 1"/>
-            <File Name="Green Lanterns 1"/>
-            <File Name="Injustice:Gods Among Us:Year Five 12"/>
-            <File Name="Justice League 51"/>
-            <File Name="Lucifer 7"/>
-            <File Name="New Suicide Squad 21"/>
-            <File Name="Poison Ivy:Cycle of Life and Death 6"/>
-            <File Name="Scooby Apocalypse 2"/>
-            <File Name="Superman 1"/>
-            <File Name="Swamp Thing 6"/>
-            <File Name="Titans:Rebirth 1"/>
-            <File Name="Action Comics 958"/>
-            <File Name="Adventures of Supergirl 4"/>
-            <File Name="Aquaman 1"/>
-            <File Name="Cyborg 12"/>
-            <File Name="Deathstroke 19"/>
-            <File Name="Detective Comics 935"/>
-            <File Name="Flash 1"/>
-            <File Name="Harley Quinn 29"/>
-            <File Name="Justice League 52"/>
-            <File Name="Looney Tunes 231"/>
-            <File Name="Red Thorn 8"/>
-            <File Name="Robin:Son of Batman 13"/>
-            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 6"/>
-            <File Name="Teen Titans 21"/>
-            <File Name="Wonder Woman 1"/>
-            <File Name="Art Ops 9"/>
-            <File Name="Dark Knight III:The Master Race 5"/>
-            <File Name="Deathstroke Annual 2"/>
-            <File Name="Grayson Annual 3"/>
-            <File Name="Legend of Wonder Woman 7"/>
-            <File Name="Suiciders:Kings of Hell.A. 4"/>
-            <File Name="Teen Titans Annual 2"/>
+            <File Name="Batman Beyond 13" ID="176935" SERIESID="15972"/>
+            <File Name="Batman:Europa Director&apos;s Cut 1" ID="177003" SERIESID="15974"/>
+            <File Name="Batman:Rebirth 1" ID="177335" SERIESID="17017"/>
+            <File Name="Bloodlines 3" ID="176999" SERIESID="16963"/>
+            <File Name="DC Comics:Bombshells 14" ID="177529" SERIESID="16025"/>
+            <File Name="Doctor Fate 13" ID="177674" SERIESID="16026"/>
+            <File Name="Green Arrow:Rebirth 1" ID="178504" SERIESID="17120"/>
+            <File Name="Green Lanterns:Rebirth 1" ID="178569" SERIESID="17121"/>
+            <File Name="Injustice:Gods Among Us:Year Five 11" ID="179069" SERIESID="16037"/>
+            <File Name="Last Gang in Town 6" ID="179347" SERIESID="16043"/>
+            <File Name="Superman:Rebirth 1" ID="179891" SERIESID="17264"/>
+            <File Name="Superman:The Coming of the Supermen 5" ID="179801" SERIESID="17248"/>
+            <File Name="Survivors&apos; Club 9" ID="179990" SERIESID="16074"/>
+            <File Name="Teen Titans Go 16" ID="180018" SERIESID="12817"/>
+            <File Name="Unfollow 8" ID="180177" SERIESID="16079"/>
+            <File Name="Action Comics 957" ID="176673" SERIESID="3170"/>
+            <File Name="Adventures of Supergirl 3" ID="176727" SERIESID="16954"/>
+            <File Name="Aquaman:Rebirth 1" ID="176744" SERIESID="16955"/>
+            <File Name="Black Canary 12" ID="176995" SERIESID="15979"/>
+            <File Name="Constantine:The Hellblazer 13" ID="177472" SERIESID="15981"/>
+            <File Name="Dark and Bloody 5" ID="177513" SERIESID="17025"/>
+            <File Name="Detective Comics 934" ID="177620" SERIESID="3097"/>
+            <File Name="Earth 2:Society 13" ID="177702" SERIESID="16028"/>
+            <File Name="Flash:Rebirth 1" ID="179278" SERIESID="17087"/>
+            <File Name="Green Lantern Corps:Edge of Oblivion 6" ID="178567" SERIESID="16029"/>
+            <File Name="Harley Quinn &amp; Her Gang of Harleys 3" ID="178684" SERIESID="17123"/>
+            <File Name="Legends of Tomorrow 4" ID="179363" SERIESID="17227"/>
+            <File Name="Lumberjanes/Gotham Academy 1" ID="181384" SERIESID="17553"/>
+            <File Name="Red Hood/Arsenal 13" ID="179584" SERIESID="16053"/>
+            <File Name="Scooby-Doo, Where Are You? 70" ID="179659" SERIESID="5583"/>
+            <File Name="Sheriff of Babylon 7" ID="179696" SERIESID="16057"/>
+            <File Name="Wacky Raceland 1" ID="180196" SERIESID="17314"/>
+            <File Name="Wonder Woman:Rebirth 1" ID="180244" SERIESID="17317"/>
+            <File Name="Astro City 36" ID="176807" SERIESID="12528"/>
+            <File Name="Batman 1" ID="177339" SERIESID="17017"/>
+            <File Name="Clean Room 9" ID="177459" SERIESID="15980"/>
+            <File Name="Dark Knight Returns:The Last Crusade 1" ID="177518" SERIESID="17027"/>
+            <File Name="Green Arrow 1" ID="178508" SERIESID="17120"/>
+            <File Name="Green Lanterns 1" ID="178572" SERIESID="17121"/>
+            <File Name="Injustice:Gods Among Us:Year Five 12" ID="179070" SERIESID="16037"/>
+            <File Name="Justice League 51" ID="178749" SERIESID="7858"/>
+            <File Name="Lucifer 7" ID="179388" SERIESID="16045"/>
+            <File Name="New Suicide Squad 21" ID="179460" SERIESID="14499"/>
+            <File Name="Poison Ivy:Cycle of Life and Death 6" ID="179545" SERIESID="16051"/>
+            <File Name="Scooby Apocalypse 2" ID="179617" SERIESID="17240"/>
+            <File Name="Superman 1" ID="179895" SERIESID="17264"/>
+            <File Name="Swamp Thing 6" ID="179996" SERIESID="16075"/>
+            <File Name="Titans:Rebirth 1" ID="180119" SERIESID="17308"/>
+            <File Name="Action Comics 958" ID="176676" SERIESID="3170"/>
+            <File Name="Adventures of Supergirl 4" ID="176729" SERIESID="16954"/>
+            <File Name="Aquaman 1" ID="176747" SERIESID="16955"/>
+            <File Name="Cyborg 12" ID="177482" SERIESID="16023"/>
+            <File Name="Deathstroke 19" ID="177567" SERIESID="15170"/>
+            <File Name="Detective Comics 935" ID="177623" SERIESID="3097"/>
+            <File Name="Flash 1" ID="177861" SERIESID="17087"/>
+            <File Name="Harley Quinn 29" ID="178674" SERIESID="12810"/>
+            <File Name="Justice League 52" ID="178750" SERIESID="7858"/>
+            <File Name="Looney Tunes 231" ID="179369" SERIESID="1369"/>
+            <File Name="Red Thorn 8" ID="179589" SERIESID="16054"/>
+            <File Name="Robin:Son of Batman 13" ID="179604" SERIESID="16055"/>
+            <File Name="Suicide Squad Most Wanted:Deadshot &amp; Katana 6" ID="179734" SERIESID="17245"/>
+            <File Name="Teen Titans 21" ID="180011" SERIESID="15220"/>
+            <File Name="Wonder Woman 1" ID="180247" SERIESID="17317"/>
+            <File Name="Art Ops 9" ID="176799" SERIESID="15968"/>
+            <File Name="Dark Knight III:The Master Race 5" ID="178778" SERIESID="16024"/>
+            <File Name="Deathstroke Annual 2" ID="177607" SERIESID="15170"/>
+            <File Name="Grayson Annual 3" ID="178002" SERIESID="14495"/>
+            <File Name="Legend of Wonder Woman 7" ID="179356" SERIESID="16044"/>
+            <File Name="Suiciders:Kings of Hell.A. 4" ID="179723" SERIESID="17243"/>
+            <File Name="Teen Titans Annual 2" ID="180012" SERIESID="15220"/>
         </Directory>
         <Directory Name="CDCC 2016 07">
-            <File Name="Adventures of Supergirl 5"/>
-            <File Name="Aquaman 2"/>
-            <File Name="Batman 2"/>
-            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 1"/>
-            <File Name="Batman Beyond 14"/>
-            <File Name="Bloodlines 4"/>
-            <File Name="Flintstones 1"/>
-            <File Name="Future Quest 2"/>
-            <File Name="Green Arrow 2"/>
-            <File Name="Green Lanterns 2"/>
-            <File Name="Injustice:Gods Among Us:Year Five 13"/>
-            <File Name="Justice League:Rebirth 1"/>
-            <File Name="Sheriff of Babylon 8"/>
-            <File Name="Superman 2"/>
-            <File Name="Superman:The Coming of the Supermen 6"/>
-            <File Name="Unfollow 9"/>
-            <File Name="Action Comics 959"/>
-            <File Name="Dark and Bloody 6"/>
-            <File Name="Dark Knight III:The Master Race Collector&apos;s Edition 5"/>
-            <File Name="DC Comics:Bombshells 15"/>
-            <File Name="Detective Comics 936"/>
-            <File Name="Earth 2:Society 14"/>
-            <File Name="Flash 2"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps:Rebirth 1"/>
-            <File Name="Legend of Wonder Woman 8"/>
-            <File Name="Lumberjanes/Gotham Academy 2"/>
-            <File Name="New Super-Man 1"/>
-            <File Name="Nightwing:Rebirth 1"/>
-            <File Name="Scooby-Doo, Where Are You? 71"/>
-            <File Name="Wacky Raceland 2"/>
-            <File Name="Wonder Woman 2"/>
-            <File Name="Adventures of Supergirl 6"/>
-            <File Name="Aquaman 3"/>
-            <File Name="Astro City 37"/>
-            <File Name="Batgirl &amp; the Birds of Prey:Rebirth 1"/>
-            <File Name="Batman 3"/>
-            <File Name="Clean Room 10"/>
-            <File Name="Green Arrow 3"/>
-            <File Name="Green Lanterns 3"/>
-            <File Name="Hellblazer:Rebirth 1"/>
-            <File Name="Injustice:Gods Among Us:Year Five 14"/>
-            <File Name="Justice League 1"/>
-            <File Name="Legends of Tomorrow 5"/>
-            <File Name="Lucifer 8"/>
-            <File Name="New Suicide Squad 22"/>
-            <File Name="Scooby Apocalypse 3"/>
-            <File Name="Superman 3"/>
-            <File Name="Action Comics 960"/>
-            <File Name="Batgirl 1"/>
-            <File Name="Deathstroke 20"/>
-            <File Name="Detective Comics 937"/>
-            <File Name="Doctor Fate 14"/>
-            <File Name="Flash 3"/>
-            <File Name="Future Quest 3"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 1"/>
-            <File Name="Harley Quinn 30"/>
-            <File Name="Harley Quinn &amp; the Suicide Squad Special Edition 1"/>
-            <File Name="Nightwing 1"/>
-            <File Name="Red Hood &amp; the Outlaws:Rebirth 1"/>
-            <File Name="Red Thorn 9"/>
-            <File Name="Scooby-Doo Team-Up 17"/>
-            <File Name="Suiciders:Kings of Hell.A. 5"/>
-            <File Name="Teen Titans 22"/>
-            <File Name="Titans 1"/>
-            <File Name="Wonder Woman 3"/>
+            <File Name="KFC:Crisis of Infinite Colonels 2" ID="206405" SERIESID="20537"/>
+            <File Name="Preacher 1  [Comic Con Box Exclusive]" ID="214592" SERIESID="3476"/>
+            <File Name="Adventures of Supergirl 5" ID="176730" SERIESID="16954"/>
+            <File Name="Aquaman 2" ID="176749" SERIESID="16955"/>
+            <File Name="Batman 2" ID="177343" SERIESID="17017"/>
+            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 1" ID="176958" SERIESID="16961"/>
+            <File Name="Batman Beyond 14" ID="176936" SERIESID="15972"/>
+            <File Name="Bloodlines 4" ID="177000" SERIESID="16963"/>
+            <File Name="Flintstones 1" ID="177909" SERIESID="17088"/>
+            <File Name="Future Quest 2" ID="177952" SERIESID="17090"/>
+            <File Name="Green Arrow 2" ID="178511" SERIESID="17120"/>
+            <File Name="Green Lanterns 2" ID="178575" SERIESID="17121"/>
+            <File Name="Injustice:Gods Among Us:Year Five 13" ID="179071" SERIESID="16037"/>
+            <File Name="Justice League:Rebirth 1" ID="179139" SERIESID="17179"/>
+            <File Name="Sheriff of Babylon 8" ID="179697" SERIESID="16057"/>
+            <File Name="Superman 2" ID="179898" SERIESID="17264"/>
+            <File Name="Superman:The Coming of the Supermen 6" ID="179802" SERIESID="17248"/>
+            <File Name="Unfollow 9" ID="180178" SERIESID="16079"/>
+            <File Name="Action Comics 959" ID="176679" SERIESID="3170"/>
+            <File Name="Dark and Bloody 6" ID="177514" SERIESID="17025"/>
+            <File Name="Dark Knight III:The Master Race Collector&apos;s Edition 5" ID="178784" SERIESID="16024"/>
+            <File Name="DC Comics:Bombshells 15" ID="177530" SERIESID="16025"/>
+            <File Name="Detective Comics 936" ID="177626" SERIESID="3097"/>
+            <File Name="Earth 2:Society 14" ID="177703" SERIESID="16028"/>
+            <File Name="Flash 2" ID="177864" SERIESID="17087"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps:Rebirth 1" ID="178619" SERIESID="17122"/>
+            <File Name="Legend of Wonder Woman 8" ID="179357" SERIESID="16044"/>
+            <File Name="Lumberjanes/Gotham Academy 2" ID="181389" SERIESID="17553"/>
+            <File Name="New Super-Man 1" ID="179463" SERIESID="17234"/>
+            <File Name="Nightwing:Rebirth 1" ID="179485" SERIESID="17235"/>
+            <File Name="Scooby-Doo, Where Are You? 71" ID="179660" SERIESID="5583"/>
+            <File Name="Wacky Raceland 2" ID="180201" SERIESID="17314"/>
+            <File Name="Wonder Woman 2" ID="180250" SERIESID="17317"/>
+            <File Name="Adventures of Supergirl 6" ID="176731" SERIESID="16954"/>
+            <File Name="Aquaman 3" ID="176752" SERIESID="16955"/>
+            <File Name="Astro City 37" ID="176808" SERIESID="12528"/>
+            <File Name="Batgirl &amp; the Birds of Prey:Rebirth 1" ID="176887" SERIESID="16959"/>
+            <File Name="Batman 3" ID="177345" SERIESID="17017"/>
+            <File Name="Clean Room 10" ID="177460" SERIESID="15980"/>
+            <File Name="Green Arrow 3" ID="178513" SERIESID="17120"/>
+            <File Name="Green Lanterns 3" ID="178577" SERIESID="17121"/>
+            <File Name="Hellblazer:Rebirth 1" ID="178703" SERIESID="17124"/>
+            <File Name="Injustice:Gods Among Us:Year Five 14" ID="179072" SERIESID="16037"/>
+            <File Name="Justice League 1" ID="179097" SERIESID="17179"/>
+            <File Name="Legends of Tomorrow 5" ID="179364" SERIESID="17227"/>
+            <File Name="Lucifer 8" ID="179389" SERIESID="16045"/>
+            <File Name="New Suicide Squad 22" ID="179461" SERIESID="14499"/>
+            <File Name="Scooby Apocalypse 3" ID="179620" SERIESID="17240"/>
+            <File Name="Superman 3" ID="179900" SERIESID="17264"/>
+            <File Name="Action Comics 960" ID="176681" SERIESID="3170"/>
+            <File Name="Batgirl 1" ID="176864" SERIESID="16958"/>
+            <File Name="Deathstroke 20" ID="177568" SERIESID="15170"/>
+            <File Name="Detective Comics 937" ID="177628" SERIESID="3097"/>
+            <File Name="Doctor Fate 14" ID="177675" SERIESID="16026"/>
+            <File Name="Flash 3" ID="177866" SERIESID="17087"/>
+            <File Name="Future Quest 3" ID="177954" SERIESID="17090"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 1" ID="178621" SERIESID="17122"/>
+            <File Name="Harley Quinn 30" ID="178678" SERIESID="12810"/>
+            <File Name="Harley Quinn &amp; the Suicide Squad Special Edition 1" ID="179059" SERIESID="3088"/>
+            <File Name="Nightwing 1" ID="179487" SERIESID="17235"/>
+            <File Name="Red Hood &amp; the Outlaws:Rebirth 1" ID="179556" SERIESID="17238"/>
+            <File Name="Red Thorn 9" ID="179590" SERIESID="16054"/>
+            <File Name="Scooby-Doo Team-Up 17" ID="179645" SERIESID="12814"/>
+            <File Name="Suiciders:Kings of Hell.A. 5" ID="179724" SERIESID="17243"/>
+            <File Name="Teen Titans 22" ID="180013" SERIESID="15220"/>
+            <File Name="Titans 1" ID="180122" SERIESID="17308"/>
+            <File Name="Wonder Woman 3" ID="180252" SERIESID="17317"/>
         </Directory>
         <Directory Name="CDCC 2016 08">
-            <File Name="Aquaman 4"/>
-            <File Name="Art Ops 10"/>
-            <File Name="Batman 4"/>
-            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 2"/>
-            <File Name="Batman Beyond 15"/>
-            <File Name="Bloodlines 5"/>
-            <File Name="DC Comics:Bombshells 16"/>
-            <File Name="Green Arrow 4"/>
-            <File Name="Green Lanterns 4"/>
-            <File Name="Harley Quinn 1"/>
-            <File Name="Harley Quinn &amp; Her Gang of Harleys 4"/>
-            <File Name="Injustice:Gods Among Us:Year Five 15"/>
-            <File Name="Justice League 2"/>
-            <File Name="Looney Tunes 232"/>
-            <File Name="Nightwing 2"/>
-            <File Name="Sheriff of Babylon 9"/>
-            <File Name="Suicide Squad:Rebirth 1"/>
-            <File Name="Superman 4"/>
-            <File Name="Unfollow 10"/>
-            <File Name="Action Comics 961"/>
-            <File Name="All Star Batman 1"/>
-            <File Name="Deathstroke:Rebirth 1"/>
-            <File Name="Detective Comics 938"/>
-            <File Name="Earth 2:Society 15"/>
-            <File Name="Flash 4"/>
-            <File Name="Flintstones 2"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 2"/>
-            <File Name="Lumberjanes/Gotham Academy 3"/>
-            <File Name="New Super-Man 2"/>
-            <File Name="Red Hood &amp; the Outlaws 1"/>
-            <File Name="Suicide Squad Most Wanted:El Diablo &amp; Boomerang 1"/>
-            <File Name="Superwoman 1"/>
-            <File Name="Wonder Woman 4"/>
-            <File Name="Aquaman 5"/>
-            <File Name="Batgirl &amp; the Birds of Prey 1"/>
-            <File Name="Batman 5"/>
-            <File Name="Doctor Fate 15"/>
-            <File Name="Green Arrow 5"/>
-            <File Name="Green Lanterns 5"/>
-            <File Name="Harley Quinn 2"/>
-            <File Name="Injustice:Gods Among Us:Year Five 16"/>
-            <File Name="Justice League 3"/>
-            <File Name="Legends of Tomorrow 6"/>
-            <File Name="Nightwing 3"/>
-            <File Name="Scooby Apocalypse 4"/>
-            <File Name="Suicide Squad 1"/>
-            <File Name="Supergirl:Rebirth 1"/>
-            <File Name="Superman 5"/>
-            <File Name="Teen Titans Go 17"/>
-            <File Name="Action Comics 962"/>
-            <File Name="Batgirl 2"/>
-            <File Name="Blue Beetle:Rebirth 1"/>
-            <File Name="Clean Room 11"/>
-            <File Name="Deathstroke 1"/>
-            <File Name="Detective Comics 939"/>
-            <File Name="Flash 5"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 3"/>
-            <File Name="Harley&apos;s Little Black Book 4"/>
-            <File Name="Hellblazer 1"/>
-            <File Name="Lucifer 9"/>
-            <File Name="Red Thorn 10"/>
-            <File Name="Scooby-Doo, Where Are You? 72"/>
-            <File Name="Sixpack and Dogwelder:Hard Travelin&apos; Heroz 1"/>
-            <File Name="Teen Titans 23"/>
-            <File Name="Titans 2"/>
-            <File Name="Wacky Raceland 3"/>
-            <File Name="Wonder Woman 5"/>
-            <File Name="Art Ops 11"/>
-            <File Name="DC Comics:Bombshells Annual 1"/>
-            <File Name="Earth 2:Society Annual 1"/>
-            <File Name="Future Quest 4"/>
-            <File Name="Gotham Academy Annual 1"/>
-            <File Name="Harley Quinn &amp; Her Gang of Harleys 5"/>
-            <File Name="Justice League of America 9"/>
-            <File Name="Legend of Wonder Woman 9"/>
-            <File Name="Suicide Squad Special:War Crimes 1"/>
+            <File Name="Aquaman 4" ID="176754" SERIESID="16955"/>
+            <File Name="Art Ops 10" ID="176800" SERIESID="15968"/>
+            <File Name="Batman 4" ID="177347" SERIESID="17017"/>
+            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 2" ID="176960" SERIESID="16961"/>
+            <File Name="Batman Beyond 15" ID="176937" SERIESID="15972"/>
+            <File Name="Bloodlines 5" ID="177001" SERIESID="16963"/>
+            <File Name="DC Comics:Bombshells 16" ID="177531" SERIESID="16025"/>
+            <File Name="Green Arrow 4" ID="178515" SERIESID="17120"/>
+            <File Name="Green Lanterns 4" ID="178579" SERIESID="17121"/>
+            <File Name="Harley Quinn 1" ID="179014" SERIESID="17176"/>
+            <File Name="Harley Quinn &amp; Her Gang of Harleys 4" ID="178686" SERIESID="17123"/>
+            <File Name="Injustice:Gods Among Us:Year Five 15" ID="179073" SERIESID="16037"/>
+            <File Name="Justice League 2" ID="179099" SERIESID="17179"/>
+            <File Name="Looney Tunes 232" ID="179370" SERIESID="1369"/>
+            <File Name="Nightwing 2" ID="179489" SERIESID="17235"/>
+            <File Name="Sheriff of Babylon 9" ID="179698" SERIESID="16057"/>
+            <File Name="Suicide Squad:Rebirth 1" ID="179842" SERIESID="17260"/>
+            <File Name="Superman 4" ID="179902" SERIESID="17264"/>
+            <File Name="Unfollow 10" ID="180179" SERIESID="16079"/>
+            <File Name="Action Comics 961" ID="176683" SERIESID="3170"/>
+            <File Name="All Star Batman 1" ID="176822" SERIESID="16957"/>
+            <File Name="Deathstroke:Rebirth 1" ID="177608" SERIESID="17030"/>
+            <File Name="Detective Comics 938" ID="177630" SERIESID="3097"/>
+            <File Name="Earth 2:Society 15" ID="177704" SERIESID="16028"/>
+            <File Name="Flash 4" ID="177868" SERIESID="17087"/>
+            <File Name="Flintstones 2" ID="177916" SERIESID="17088"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 2" ID="178623" SERIESID="17122"/>
+            <File Name="Lumberjanes/Gotham Academy 3" ID="181392" SERIESID="17553"/>
+            <File Name="New Super-Man 2" ID="179465" SERIESID="17234"/>
+            <File Name="Red Hood &amp; the Outlaws 1" ID="179558" SERIESID="17238"/>
+            <File Name="Suicide Squad Most Wanted:El Diablo &amp; Boomerang 1" ID="179881" SERIESID="17261"/>
+            <File Name="Superwoman 1" ID="179965" SERIESID="17269"/>
+            <File Name="Wonder Woman 4" ID="180254" SERIESID="17317"/>
+            <File Name="Aquaman 5" ID="176756" SERIESID="16955"/>
+            <File Name="Batgirl &amp; the Birds of Prey 1" ID="176889" SERIESID="16959"/>
+            <File Name="Batman 5" ID="177349" SERIESID="17017"/>
+            <File Name="Doctor Fate 15" ID="177676" SERIESID="16026"/>
+            <File Name="Green Arrow 5" ID="178517" SERIESID="17120"/>
+            <File Name="Green Lanterns 5" ID="178581" SERIESID="17121"/>
+            <File Name="Harley Quinn 2" ID="179017" SERIESID="17176"/>
+            <File Name="Injustice:Gods Among Us:Year Five 16" ID="179074" SERIESID="16037"/>
+            <File Name="Justice League 3" ID="179101" SERIESID="17179"/>
+            <File Name="Legends of Tomorrow 6" ID="179365" SERIESID="17227"/>
+            <File Name="Nightwing 3" ID="179491" SERIESID="17235"/>
+            <File Name="Scooby Apocalypse 4" ID="179622" SERIESID="17240"/>
+            <File Name="Suicide Squad 1" ID="179844" SERIESID="17260"/>
+            <File Name="Supergirl:Rebirth 1" ID="179737" SERIESID="17246"/>
+            <File Name="Superman 5" ID="179904" SERIESID="17264"/>
+            <File Name="Teen Titans Go 17" ID="180019" SERIESID="12817"/>
+            <File Name="Action Comics 962" ID="176685" SERIESID="3170"/>
+            <File Name="Batgirl 2" ID="176866" SERIESID="16958"/>
+            <File Name="Blue Beetle:Rebirth 1" ID="177426" SERIESID="17020"/>
+            <File Name="Clean Room 11" ID="177461" SERIESID="15980"/>
+            <File Name="Deathstroke 1" ID="177569" SERIESID="17030"/>
+            <File Name="Detective Comics 939" ID="177632" SERIESID="3097"/>
+            <File Name="Flash 5" ID="177870" SERIESID="17087"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 3" ID="178625" SERIESID="17122"/>
+            <File Name="Harley&apos;s Little Black Book 4" ID="178697" SERIESID="16032"/>
+            <File Name="Hellblazer 1" ID="178705" SERIESID="17124"/>
+            <File Name="Lucifer 9" ID="179390" SERIESID="16045"/>
+            <File Name="Red Thorn 10" ID="179591" SERIESID="16054"/>
+            <File Name="Scooby-Doo, Where Are You? 72" ID="179661" SERIESID="5583"/>
+            <File Name="Sixpack and Dogwelder:Hard Travelin&apos; Heroz 1" ID="179708" SERIESID="17242"/>
+            <File Name="Teen Titans 23" ID="180014" SERIESID="15220"/>
+            <File Name="Titans 2" ID="180124" SERIESID="17308"/>
+            <File Name="Wacky Raceland 3" ID="180203" SERIESID="17314"/>
+            <File Name="Wonder Woman 5" ID="180256" SERIESID="17317"/>
+            <File Name="Art Ops 11" ID="176801" SERIESID="15968"/>
+            <File Name="DC Comics:Bombshells Annual 1" ID="177543" SERIESID="16025"/>
+            <File Name="Earth 2:Society Annual 1" ID="177713" SERIESID="16028"/>
+            <File Name="Future Quest 4" ID="177956" SERIESID="17090"/>
+            <File Name="Gotham Academy Annual 1" ID="177978" SERIESID="15181"/>
+            <File Name="Harley Quinn &amp; Her Gang of Harleys 5" ID="178688" SERIESID="17123"/>
+            <File Name="Justice League of America 9" ID="179285" SERIESID="16041"/>
+            <File Name="Legend of Wonder Woman 9" ID="179358" SERIESID="16044"/>
+            <File Name="Suicide Squad Special:War Crimes 1" ID="179888" SERIESID="17262"/>
         </Directory>
         <Directory Name="CDCC 2016 09">
-            <File Name="Aquaman 6"/>
-            <File Name="Batman 6"/>
-            <File Name="Batman Beyond 16"/>
-            <File Name="Bloodlines 6"/>
-            <File Name="Cyborg:Rebirth 1"/>
-            <File Name="Everafter 1"/>
-            <File Name="Flintstones 3"/>
-            <File Name="Green Arrow 6"/>
-            <File Name="Harley Quinn 3"/>
-            <File Name="Justice League 4"/>
-            <File Name="Nightwing 4"/>
-            <File Name="Scooby-Doo, Where Are You? 73"/>
-            <File Name="Sheriff of Babylon 10"/>
-            <File Name="Supergirl 1"/>
-            <File Name="Superman 6"/>
-            <File Name="Unfollow 11"/>
-            <File Name="Action Comics 963"/>
-            <File Name="All Star Batman 2"/>
-            <File Name="Astro City 38"/>
-            <File Name="Batgirl &amp; the Birds of Prey 2"/>
-            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 3"/>
-            <File Name="Dark Knight III:The Master Race  Director&apos;s Cut 1"/>
-            <File Name="DC Comics:Bombshells 17"/>
-            <File Name="Deathstroke 2"/>
-            <File Name="Detective Comics 940"/>
-            <File Name="Doom Patrol 1"/>
-            <File Name="Earth 2:Society 16"/>
-            <File Name="Flash 6"/>
-            <File Name="Gotham Academy:Second Semester 1"/>
-            <File Name="Green Lanterns 6"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 4"/>
-            <File Name="Injustice:Gods Among Us:Year Five 17"/>
-            <File Name="Lumberjanes/Gotham Academy 4"/>
-            <File Name="New Super-Man 3"/>
-            <File Name="Red Hood &amp; the Outlaws 2"/>
-            <File Name="Scooby Apocalypse 5"/>
-            <File Name="Suicide Squad 2"/>
-            <File Name="Superwoman 2"/>
-            <File Name="Teen Titans 24"/>
-            <File Name="Wonder Woman 6"/>
-            <File Name="Batman Day Special Edition:Direct Market Edition 1"/>
-            <File Name="Aquaman 7"/>
-            <File Name="Batman 7"/>
-            <File Name="Batman/Teenage Mutant Ninja Turtles Director&apos;s Cut 1"/>
-            <File Name="Cyborg 1"/>
-            <File Name="Doctor Fate 16"/>
-            <File Name="Green Arrow 7"/>
-            <File Name="Green Lanterns 7"/>
-            <File Name="Harley Quinn 4"/>
-            <File Name="Injustice:Gods Among Us:Year Five 18"/>
-            <File Name="Justice League 5"/>
-            <File Name="Lucifer 10"/>
-            <File Name="Nightwing 5"/>
-            <File Name="Raven 1"/>
-            <File Name="Red Thorn 11"/>
-            <File Name="Suicide Squad Most Wanted:El Diablo &amp; Boomerang 2"/>
-            <File Name="Superman 7"/>
-            <File Name="Trinity 1"/>
-            <File Name="Wonder Woman &apos;77 Special 4"/>
-            <File Name="Action Comics 964"/>
-            <File Name="Astro City 39"/>
-            <File Name="Batgirl 3"/>
-            <File Name="Batman Beyond:Rebirth 1"/>
-            <File Name="Blue Beetle 1"/>
-            <File Name="Deathstroke 3"/>
-            <File Name="Detective Comics 941"/>
-            <File Name="Flash 7"/>
-            <File Name="Frostbite 1"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 5"/>
-            <File Name="Harley Quinn &amp; Her Gang of Harleys 6"/>
-            <File Name="Hellblazer 2"/>
-            <File Name="Scooby-Doo Team-Up 18"/>
-            <File Name="Sixpack and Dogwelder:Hard Travelin&apos; Heroz 2"/>
-            <File Name="Suicide Squad 3"/>
-            <File Name="Teen Titans:Rebirth 1"/>
-            <File Name="Titans 3"/>
-            <File Name="Wacky Raceland 4"/>
-            <File Name="Wonder Woman 7"/>
+            <File Name="Aquaman 6" ID="176758" SERIESID="16955"/>
+            <File Name="Batman 6" ID="177351" SERIESID="17017"/>
+            <File Name="Batman Beyond 16" ID="176938" SERIESID="15972"/>
+            <File Name="Bloodlines 6" ID="177002" SERIESID="16963"/>
+            <File Name="Cyborg:Rebirth 1" ID="177483" SERIESID="17024"/>
+            <File Name="Everafter 1" ID="177714" SERIESID="17032"/>
+            <File Name="Flintstones 3" ID="177918" SERIESID="17088"/>
+            <File Name="Green Arrow 6" ID="178519" SERIESID="17120"/>
+            <File Name="Harley Quinn 3" ID="179019" SERIESID="17176"/>
+            <File Name="Justice League 4" ID="179103" SERIESID="17179"/>
+            <File Name="Nightwing 4" ID="179493" SERIESID="17235"/>
+            <File Name="Scooby-Doo, Where Are You? 73" ID="179662" SERIESID="5583"/>
+            <File Name="Sheriff of Babylon 10" ID="179699" SERIESID="16057"/>
+            <File Name="Supergirl 1" ID="179739" SERIESID="17246"/>
+            <File Name="Superman 6" ID="179906" SERIESID="17264"/>
+            <File Name="Unfollow 11" ID="180180" SERIESID="16079"/>
+            <File Name="Action Comics 963" ID="176687" SERIESID="3170"/>
+            <File Name="All Star Batman 2" ID="176827" SERIESID="16957"/>
+            <File Name="Astro City 38" ID="176809" SERIESID="12528"/>
+            <File Name="Batgirl &amp; the Birds of Prey 2" ID="176891" SERIESID="16959"/>
+            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 3" ID="176961" SERIESID="16961"/>
+            <File Name="Dark Knight III:The Master Race  Director&apos;s Cut 1" ID="180075" SERIESID="16024"/>
+            <File Name="DC Comics:Bombshells 17" ID="177532" SERIESID="16025"/>
+            <File Name="Deathstroke 2" ID="177571" SERIESID="17030"/>
+            <File Name="Detective Comics 940" ID="177634" SERIESID="3097"/>
+            <File Name="Doom Patrol 1" ID="177680" SERIESID="17031"/>
+            <File Name="Earth 2:Society 16" ID="177705" SERIESID="16028"/>
+            <File Name="Flash 6" ID="177872" SERIESID="17087"/>
+            <File Name="Gotham Academy:Second Semester 1" ID="177979" SERIESID="17091"/>
+            <File Name="Green Lanterns 6" ID="178583" SERIESID="17121"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 4" ID="178627" SERIESID="17122"/>
+            <File Name="Injustice:Gods Among Us:Year Five 17" ID="179075" SERIESID="16037"/>
+            <File Name="Lumberjanes/Gotham Academy 4" ID="181395" SERIESID="17553"/>
+            <File Name="New Super-Man 3" ID="179467" SERIESID="17234"/>
+            <File Name="Red Hood &amp; the Outlaws 2" ID="179560" SERIESID="17238"/>
+            <File Name="Scooby Apocalypse 5" ID="179624" SERIESID="17240"/>
+            <File Name="Suicide Squad 2" ID="179846" SERIESID="17260"/>
+            <File Name="Superwoman 2" ID="179967" SERIESID="17269"/>
+            <File Name="Teen Titans 24" ID="180015" SERIESID="15220"/>
+            <File Name="Wonder Woman 6" ID="180258" SERIESID="17317"/>
+            <File Name="Batman Day Special Edition:Direct Market Edition 1" ID="184542" SERIESID="17879"/>
+            <File Name="Aquaman 7" ID="176760" SERIESID="16955"/>
+            <File Name="Batman 7" ID="177353" SERIESID="17017"/>
+            <File Name="Batman/Teenage Mutant Ninja Turtles Director&apos;s Cut 1" ID="178981" SERIESID="15976"/>
+            <File Name="Cyborg 1" ID="177485" SERIESID="17024"/>
+            <File Name="Doctor Fate 16" ID="177677" SERIESID="16026"/>
+            <File Name="Green Arrow 7" ID="178521" SERIESID="17120"/>
+            <File Name="Green Lanterns 7" ID="178585" SERIESID="17121"/>
+            <File Name="Harley Quinn 4" ID="179021" SERIESID="17176"/>
+            <File Name="Injustice:Gods Among Us:Year Five 18" ID="179076" SERIESID="16037"/>
+            <File Name="Justice League 5" ID="179105" SERIESID="17179"/>
+            <File Name="Lucifer 10" ID="179391" SERIESID="16045"/>
+            <File Name="Nightwing 5" ID="179495" SERIESID="17235"/>
+            <File Name="Raven 1" ID="179547" SERIESID="17237"/>
+            <File Name="Red Thorn 11" ID="179592" SERIESID="16054"/>
+            <File Name="Suicide Squad Most Wanted:El Diablo &amp; Boomerang 2" ID="179882" SERIESID="17261"/>
+            <File Name="Superman 7" ID="179908" SERIESID="17264"/>
+            <File Name="Trinity 1" ID="180153" SERIESID="17310"/>
+            <File Name="Wonder Woman &apos;77 Special 4" ID="180295" SERIESID="16082"/>
+            <File Name="Action Comics 964" ID="176689" SERIESID="3170"/>
+            <File Name="Astro City 39" ID="176810" SERIESID="12528"/>
+            <File Name="Batgirl 3" ID="176868" SERIESID="16958"/>
+            <File Name="Batman Beyond:Rebirth 1" ID="176956" SERIESID="16960"/>
+            <File Name="Blue Beetle 1" ID="177408" SERIESID="17020"/>
+            <File Name="Deathstroke 3" ID="177573" SERIESID="17030"/>
+            <File Name="Detective Comics 941" ID="177636" SERIESID="3097"/>
+            <File Name="Flash 7" ID="177874" SERIESID="17087"/>
+            <File Name="Frostbite 1" ID="177938" SERIESID="17089"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 5" ID="178629" SERIESID="17122"/>
+            <File Name="Harley Quinn &amp; Her Gang of Harleys 6" ID="178690" SERIESID="17123"/>
+            <File Name="Hellblazer 2" ID="178707" SERIESID="17124"/>
+            <File Name="Scooby-Doo Team-Up 18" ID="179646" SERIESID="12814"/>
+            <File Name="Sixpack and Dogwelder:Hard Travelin&apos; Heroz 2" ID="179710" SERIESID="17242"/>
+            <File Name="Suicide Squad 3" ID="179848" SERIESID="17260"/>
+            <File Name="Teen Titans:Rebirth 1" ID="180099" SERIESID="17305"/>
+            <File Name="Titans 3" ID="180126" SERIESID="17308"/>
+            <File Name="Wacky Raceland 4" ID="180205" SERIESID="17314"/>
+            <File Name="Wonder Woman 7" ID="180260" SERIESID="17317"/>
         </Directory>
         <Directory Name="CDCC 2016 10">
-            <File Name="Aquaman 8"/>
-            <File Name="Art Ops 12"/>
-            <File Name="Batman 8"/>
-            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 4"/>
-            <File Name="Clean Room 12"/>
-            <File Name="Cyborg 2"/>
-            <File Name="DC Comics:Bombshells 18"/>
-            <File Name="Deadman:Dark Mansion of Forbidden Love 1"/>
-            <File Name="Death of Hawkman 1"/>
-            <File Name="Everafter 2"/>
-            <File Name="Flintstones 4"/>
-            <File Name="Future Quest 5"/>
-            <File Name="Green Arrow 8"/>
-            <File Name="Green Lanterns 8"/>
-            <File Name="Harley Quinn 5"/>
-            <File Name="He-Man/Thundercats 1"/>
-            <File Name="Injustice:Gods Among Us:Year Five 19"/>
-            <File Name="Justice League 6"/>
-            <File Name="Looney Tunes 233"/>
-            <File Name="Midnighter and Apollo 1"/>
-            <File Name="Nightwing 6"/>
-            <File Name="Shade, the Changing Girl 1"/>
-            <File Name="Suiciders:Kings of Hell.A. 6"/>
-            <File Name="Superman 8"/>
-            <File Name="Action Comics 965"/>
-            <File Name="All-Star Batman 3"/>
-            <File Name="American Vampire Anthology 2"/>
-            <File Name="Batgirl &amp; the Birds of Prey 3"/>
-            <File Name="Deathstroke 4"/>
-            <File Name="Detective Comics 942"/>
-            <File Name="Doom Patrol 2"/>
-            <File Name="Earth 2:Society 17"/>
-            <File Name="Flash 8"/>
-            <File Name="Gotham Academy:Second Semester 2"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 6"/>
-            <File Name="Lost Boys 1"/>
-            <File Name="Lumberjanes/Gotham Academy 5"/>
-            <File Name="New Super-Man 4"/>
-            <File Name="Red Hood &amp; the Outlaws 3"/>
-            <File Name="Scooby Apocalypse 6"/>
-            <File Name="Scooby-Doo, Where Are You? 74"/>
-            <File Name="Sheriff of Babylon 11"/>
-            <File Name="Suicide Squad 4"/>
-            <File Name="Supergirl 2"/>
-            <File Name="Superwoman 3"/>
-            <File Name="Teen Titans Go 18"/>
-            <File Name="Unfollow 12"/>
-            <File Name="Wonder Woman 8"/>
-            <File Name="Aquaman 9"/>
-            <File Name="Astro City 40"/>
-            <File Name="Batman 9"/>
-            <File Name="Cave Carson Has a Cybernetic Eye 1"/>
-            <File Name="Cyborg 3"/>
-            <File Name="Dark Knight III:The Master Race 6"/>
-            <File Name="Green Arrow 9"/>
-            <File Name="Green Lanterns 9"/>
-            <File Name="Harley Quinn 6"/>
-            <File Name="Injustice:Gods Among Us:Year Five 20"/>
-            <File Name="Justice League 7"/>
-            <File Name="Lucifer 11"/>
-            <File Name="Nightwing 7"/>
-            <File Name="Raven 2"/>
-            <File Name="Suicide Squad Most Wanted:El Diablo &amp; Killer Croc 3"/>
-            <File Name="Superman 9"/>
-            <File Name="Trinity 2"/>
-            <File Name="Wacky Raceland 5"/>
-            <File Name="Action Comics 966"/>
-            <File Name="Batgirl 4"/>
-            <File Name="Batman Beyond 1"/>
-            <File Name="Blue Beetle 2"/>
-            <File Name="Deathstroke 5"/>
-            <File Name="Detective Comics 943"/>
-            <File Name="Doctor Fate 17"/>
-            <File Name="Flash 9"/>
-            <File Name="Frostbite 2"/>
-            <File Name="Future Quest 6"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 7"/>
-            <File Name="Hellblazer 3"/>
-            <File Name="Justice League Director&apos;s Cut 1"/>
-            <File Name="Scooby-Doo Team-Up 19"/>
-            <File Name="Sixpack and Dogwelder:Hard Travelin&apos; Heroz 3"/>
-            <File Name="Suicide Squad 5"/>
-            <File Name="Teen Titans 1"/>
-            <File Name="Titans 4"/>
-            <File Name="Vigilante:Southland 1"/>
-            <File Name="Wonder Woman 9"/>
-            <File Name="Wonder Woman 75th Anniversary Special 1"/>
-            <File Name="DC Super Hero Girls Halloween Fest Special Edition 1"/>
-            <File Name="Scooby Apocalypse/Hanna-Barbera Halloween Comics Fest Special Edition 1"/>
+            <File Name="Aquaman 8" ID="176762" SERIESID="16955"/>
+            <File Name="Art Ops 12" ID="176802" SERIESID="15968"/>
+            <File Name="Batman 8" ID="177355" SERIESID="17017"/>
+            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 4" ID="176962" SERIESID="16961"/>
+            <File Name="Clean Room 12" ID="177462" SERIESID="15980"/>
+            <File Name="Cyborg 2" ID="177487" SERIESID="17024"/>
+            <File Name="DC Comics:Bombshells 18" ID="177533" SERIESID="16025"/>
+            <File Name="Deadman:Dark Mansion of Forbidden Love 1" ID="177544" SERIESID="17028"/>
+            <File Name="Death of Hawkman 1" ID="177547" SERIESID="17029"/>
+            <File Name="Everafter 2" ID="177715" SERIESID="17032"/>
+            <File Name="Flintstones 4" ID="177920" SERIESID="17088"/>
+            <File Name="Future Quest 5" ID="177958" SERIESID="17090"/>
+            <File Name="Green Arrow 8" ID="178523" SERIESID="17120"/>
+            <File Name="Green Lanterns 8" ID="178587" SERIESID="17121"/>
+            <File Name="Harley Quinn 5" ID="179023" SERIESID="17176"/>
+            <File Name="He-Man/Thundercats 1" ID="178727" SERIESID="17125"/>
+            <File Name="Injustice:Gods Among Us:Year Five 19" ID="179077" SERIESID="16037"/>
+            <File Name="Justice League 6" ID="179107" SERIESID="17179"/>
+            <File Name="Looney Tunes 233" ID="179371" SERIESID="1369"/>
+            <File Name="Midnighter and Apollo 1" ID="179427" SERIESID="17231"/>
+            <File Name="Nightwing 6" ID="179497" SERIESID="17235"/>
+            <File Name="Shade, the Changing Girl 1" ID="179675" SERIESID="17241"/>
+            <File Name="Suiciders:Kings of Hell.A. 6" ID="179725" SERIESID="17243"/>
+            <File Name="Superman 8" ID="179910" SERIESID="17264"/>
+            <File Name="Action Comics 965" ID="176691" SERIESID="3170"/>
+            <File Name="All-Star Batman 3" ID="176831" SERIESID="16957"/>
+            <File Name="American Vampire Anthology 2" ID="176733" SERIESID="12704"/>
+            <File Name="Batgirl &amp; the Birds of Prey 3" ID="176893" SERIESID="16959"/>
+            <File Name="Deathstroke 4" ID="177575" SERIESID="17030"/>
+            <File Name="Detective Comics 942" ID="177638" SERIESID="3097"/>
+            <File Name="Doom Patrol 2" ID="177688" SERIESID="17031"/>
+            <File Name="Earth 2:Society 17" ID="177706" SERIESID="16028"/>
+            <File Name="Flash 8" ID="177876" SERIESID="17087"/>
+            <File Name="Gotham Academy:Second Semester 2" ID="177981" SERIESID="17091"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 6" ID="178631" SERIESID="17122"/>
+            <File Name="Lost Boys 1" ID="179376" SERIESID="17229"/>
+            <File Name="Lumberjanes/Gotham Academy 5" ID="181398" SERIESID="17553"/>
+            <File Name="New Super-Man 4" ID="179469" SERIESID="17234"/>
+            <File Name="Red Hood &amp; the Outlaws 3" ID="179562" SERIESID="17238"/>
+            <File Name="Scooby Apocalypse 6" ID="179626" SERIESID="17240"/>
+            <File Name="Scooby-Doo, Where Are You? 74" ID="179663" SERIESID="5583"/>
+            <File Name="Sheriff of Babylon 11" ID="179700" SERIESID="16057"/>
+            <File Name="Suicide Squad 4" ID="179850" SERIESID="17260"/>
+            <File Name="Supergirl 2" ID="179742" SERIESID="17246"/>
+            <File Name="Superwoman 3" ID="179969" SERIESID="17269"/>
+            <File Name="Teen Titans Go 18" ID="180020" SERIESID="12817"/>
+            <File Name="Unfollow 12" ID="180181" SERIESID="16079"/>
+            <File Name="Wonder Woman 8" ID="180262" SERIESID="17317"/>
+            <File Name="Aquaman 9" ID="176764" SERIESID="16955"/>
+            <File Name="Astro City 40" ID="176811" SERIESID="12528"/>
+            <File Name="Batman 9" ID="177357" SERIESID="17017"/>
+            <File Name="Cave Carson Has a Cybernetic Eye 1" ID="177438" SERIESID="17023"/>
+            <File Name="Cyborg 3" ID="177489" SERIESID="17024"/>
+            <File Name="Dark Knight III:The Master Race 6" ID="178785" SERIESID="16024"/>
+            <File Name="Green Arrow 9" ID="178525" SERIESID="17120"/>
+            <File Name="Green Lanterns 9" ID="178589" SERIESID="17121"/>
+            <File Name="Harley Quinn 6" ID="179025" SERIESID="17176"/>
+            <File Name="Injustice:Gods Among Us:Year Five 20" ID="179078" SERIESID="16037"/>
+            <File Name="Justice League 7" ID="179109" SERIESID="17179"/>
+            <File Name="Lucifer 11" ID="179392" SERIESID="16045"/>
+            <File Name="Nightwing 7" ID="179499" SERIESID="17235"/>
+            <File Name="Raven 2" ID="179549" SERIESID="17237"/>
+            <File Name="Suicide Squad Most Wanted:El Diablo &amp; Killer Croc 3" ID="179883" SERIESID="17261"/>
+            <File Name="Superman 9" ID="179912" SERIESID="17264"/>
+            <File Name="Trinity 2" ID="180155" SERIESID="17310"/>
+            <File Name="Wacky Raceland 5" ID="180207" SERIESID="17314"/>
+            <File Name="Action Comics 966" ID="176693" SERIESID="3170"/>
+            <File Name="Batgirl 4" ID="176870" SERIESID="16958"/>
+            <File Name="Batman Beyond 1" ID="176939" SERIESID="16960"/>
+            <File Name="Blue Beetle 2" ID="177410" SERIESID="17020"/>
+            <File Name="Deathstroke 5" ID="177577" SERIESID="17030"/>
+            <File Name="Detective Comics 943" ID="177640" SERIESID="3097"/>
+            <File Name="Doctor Fate 17" ID="177678" SERIESID="16026"/>
+            <File Name="Flash 9" ID="177878" SERIESID="17087"/>
+            <File Name="Frostbite 2" ID="177939" SERIESID="17089"/>
+            <File Name="Future Quest 6" ID="177960" SERIESID="17090"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 7" ID="178633" SERIESID="17122"/>
+            <File Name="Hellblazer 3" ID="178709" SERIESID="17124"/>
+            <File Name="Justice League Director&apos;s Cut 1" ID="179096" SERIESID="17179"/>
+            <File Name="Scooby-Doo Team-Up 19" ID="179647" SERIESID="12814"/>
+            <File Name="Sixpack and Dogwelder:Hard Travelin&apos; Heroz 3" ID="179711" SERIESID="17242"/>
+            <File Name="Suicide Squad 5" ID="179852" SERIESID="17260"/>
+            <File Name="Teen Titans 1" ID="180101" SERIESID="17305"/>
+            <File Name="Titans 4" ID="180128" SERIESID="17308"/>
+            <File Name="Vigilante:Southland 1" ID="180192" SERIESID="17313"/>
+            <File Name="Wonder Woman 9" ID="180264" SERIESID="17317"/>
+            <File Name="Wonder Woman 75th Anniversary Special 1" ID="180340" SERIESID="17317"/>
+            <File Name="DC Super Hero Girls Halloween Fest Special Edition 1" ID="183716" SERIESID="11072"/>
+            <File Name="Scooby Apocalypse/Hanna-Barbera Halloween Comics Fest Special Edition 1" ID="183717" SERIESID="11072"/>
         </Directory>
         <Directory Name="CDCC 2016 11">
-            <File Name="Aquaman 10"/>
-            <File Name="Batman 10"/>
-            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 5"/>
-            <File Name="Catwoman:Election Night 1"/>
-            <File Name="Cyborg 4"/>
-            <File Name="Dark Knight III:The Master Race Collector&apos;s Edition 6"/>
-            <File Name="DC Comics:Bombshells 19"/>
-            <File Name="Death of Hawkman 2"/>
-            <File Name="Everafter 3"/>
-            <File Name="Flintstones 5"/>
-            <File Name="Green Arrow 10"/>
-            <File Name="Green Lanterns 10"/>
-            <File Name="Harley Quinn 7"/>
-            <File Name="Justice League 8"/>
-            <File Name="Midnighter and Apollo 2"/>
-            <File Name="Nightwing 8"/>
-            <File Name="Red Thorn 12"/>
-            <File Name="Shade, the Changing Girl 2"/>
-            <File Name="Sheriff of Babylon 12"/>
-            <File Name="Superman 10"/>
-            <File Name="Unfollow 13"/>
-            <File Name="Action Comics 967"/>
-            <File Name="All-Star Batman 4"/>
-            <File Name="Batgirl &amp; the Birds of Prey 4"/>
-            <File Name="Batman/Teenage Mutant Ninja Turtles Adventures 1"/>
-            <File Name="Clean Room 13"/>
-            <File Name="Deathstroke 6"/>
-            <File Name="Detective Comics 944"/>
-            <File Name="Doom Patrol 3"/>
-            <File Name="Earth 2:Society 18"/>
-            <File Name="Flash 10"/>
-            <File Name="Gotham Academy:Second Semester 3"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 8"/>
-            <File Name="Lost Boys 2"/>
-            <File Name="Lumberjanes/Gotham Academy 6"/>
-            <File Name="Mother Panic 1"/>
-            <File Name="New Super-Man 5"/>
-            <File Name="Red Hood &amp; the Outlaws 4"/>
-            <File Name="Scooby Apocalypse 7"/>
-            <File Name="Supergirl 3"/>
-            <File Name="Superwoman 4"/>
-            <File Name="Wonder Woman 10"/>
-            <File Name="Aquaman 11"/>
-            <File Name="Batman 11"/>
-            <File Name="Batman Director&apos;s Cut 1"/>
-            <File Name="Cave Carson Has a Cybernetic Eye 2"/>
-            <File Name="Cyborg 5"/>
-            <File Name="Doctor Fate 18"/>
-            <File Name="Green Arrow 11"/>
-            <File Name="Green Lanterns 11"/>
-            <File Name="He-Man/Thundercats 2"/>
-            <File Name="Justice League 9"/>
-            <File Name="Lucifer 12"/>
-            <File Name="Nightwing 9"/>
-            <File Name="Raven 3"/>
-            <File Name="Scooby-Doo, Where Are You? 75"/>
-            <File Name="Suicide Squad 6"/>
-            <File Name="Suicide Squad Most Wanted:El Diablo &amp; Killer Croc 4"/>
-            <File Name="Superman 11"/>
-            <File Name="Trinity 3"/>
-            <File Name="Action Comics 968"/>
-            <File Name="Batgirl 5"/>
-            <File Name="Batman Beyond 2"/>
-            <File Name="Blue Beetle 3"/>
-            <File Name="Deathstroke 7"/>
-            <File Name="Detective Comics 945"/>
-            <File Name="Flash 11"/>
-            <File Name="Frostbite 3"/>
-            <File Name="Future Quest 7"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 9"/>
-            <File Name="Harley Quinn 8"/>
-            <File Name="Hellblazer 4"/>
-            <File Name="Scooby-Doo Team-Up 20"/>
-            <File Name="Sixpack and Dogwelder:Hard Travelin&apos; Heroz 4"/>
-            <File Name="Super Powers 1"/>
-            <File Name="Teen Titans 2"/>
-            <File Name="Titans 5"/>
-            <File Name="Vigilante:Southland 2"/>
-            <File Name="Wonder Woman 11"/>
-            <File Name="Batman Annual 1"/>
-            <File Name="Injustice:Gods Among Us:Year Five Annual 1"/>
-            <File Name="Justice League of America 10"/>
-            <File Name="New Talent Showcase 1"/>
-            <File Name="Suicide Squad 7"/>
-            <File Name="Superman Annual 1"/>
-            <File Name="Wacky Raceland 6"/>
+            <File Name="Batman/Superman 1  [Doritos Premium]" ID="201655" SERIESID="15350"/>
+            <File Name="General Mills Presents Justice League:Power Play 1" ID="262946" SERIESID="27254"/>
+            <File Name="Superman 1  [Doritos Premium]" ID="201654" SERIESID="15350"/>
+            <File Name="Superman Adventures 1  [Doritos Premium]" ID="201656" SERIESID="15350"/>
+            <File Name="Aquaman 10" ID="176766" SERIESID="16955"/>
+            <File Name="Batman 10" ID="177359" SERIESID="17017"/>
+            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 5" ID="176963" SERIESID="16961"/>
+            <File Name="Catwoman:Election Night 1" ID="177436" SERIESID="17022"/>
+            <File Name="Cyborg 4" ID="177491" SERIESID="17024"/>
+            <File Name="Dark Knight III:The Master Race Collector&apos;s Edition 6" ID="178791" SERIESID="16024"/>
+            <File Name="DC Comics:Bombshells 19" ID="177534" SERIESID="16025"/>
+            <File Name="Death of Hawkman 2" ID="177549" SERIESID="17029"/>
+            <File Name="Everafter 3" ID="177716" SERIESID="17032"/>
+            <File Name="Flintstones 5" ID="177922" SERIESID="17088"/>
+            <File Name="General Mills Presents Justice League:Dark Reflections 2" ID="262947" SERIESID="27254"/>
+            <File Name="Green Arrow 10" ID="178527" SERIESID="17120"/>
+            <File Name="Green Lanterns 10" ID="178591" SERIESID="17121"/>
+            <File Name="Harley Quinn 7" ID="179027" SERIESID="17176"/>
+            <File Name="Justice League 8" ID="179111" SERIESID="17179"/>
+            <File Name="Midnighter and Apollo 2" ID="179429" SERIESID="17231"/>
+            <File Name="Nightwing 8" ID="179501" SERIESID="17235"/>
+            <File Name="Red Thorn 12" ID="179593" SERIESID="16054"/>
+            <File Name="Shade, the Changing Girl 2" ID="179678" SERIESID="17241"/>
+            <File Name="Sheriff of Babylon 12" ID="179701" SERIESID="16057"/>
+            <File Name="Superman 10" ID="179914" SERIESID="17264"/>
+            <File Name="Unfollow 13" ID="180182" SERIESID="16079"/>
+            <File Name="General Mills Presents Justice League:Truth Hurts 3" ID="262948" SERIESID="27254"/>
+            <File Name="General Mills Presents Justice League:Alien Justice 4" ID="262949" SERIESID="27254"/>
+            <File Name="Action Comics 967" ID="176695" SERIESID="3170"/>
+            <File Name="All-Star Batman 4" ID="176834" SERIESID="16957"/>
+            <File Name="Batgirl &amp; the Birds of Prey 4" ID="176895" SERIESID="16959"/>
+            <File Name="Batman/Teenage Mutant Ninja Turtles Adventures 1" ID="180487" SERIESID="17378"/>
+            <File Name="Clean Room 13" ID="177463" SERIESID="15980"/>
+            <File Name="Deathstroke 6" ID="177579" SERIESID="17030"/>
+            <File Name="Detective Comics 944" ID="177642" SERIESID="3097"/>
+            <File Name="Doom Patrol 3" ID="177690" SERIESID="17031"/>
+            <File Name="Earth 2:Society 18" ID="177708" SERIESID="16028"/>
+            <File Name="Flash 10" ID="177880" SERIESID="17087"/>
+            <File Name="Gotham Academy:Second Semester 3" ID="177983" SERIESID="17091"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 8" ID="178635" SERIESID="17122"/>
+            <File Name="Lost Boys 2" ID="179378" SERIESID="17229"/>
+            <File Name="Lumberjanes/Gotham Academy 6" ID="181401" SERIESID="17553"/>
+            <File Name="Mother Panic 1" ID="179434" SERIESID="17232"/>
+            <File Name="New Super-Man 5" ID="179471" SERIESID="17234"/>
+            <File Name="Red Hood &amp; the Outlaws 4" ID="179564" SERIESID="17238"/>
+            <File Name="Scooby Apocalypse 7" ID="179628" SERIESID="17240"/>
+            <File Name="Supergirl 3" ID="179744" SERIESID="17246"/>
+            <File Name="Superwoman 4" ID="179971" SERIESID="17269"/>
+            <File Name="Wonder Woman 10" ID="180266" SERIESID="17317"/>
+            <File Name="Aquaman 11" ID="176768" SERIESID="16955"/>
+            <File Name="Batman 11" ID="177361" SERIESID="17017"/>
+            <File Name="Batman Director&apos;s Cut 1" ID="177342" SERIESID="17017"/>
+            <File Name="Cave Carson Has a Cybernetic Eye 2" ID="177441" SERIESID="17023"/>
+            <File Name="Cyborg 5" ID="177493" SERIESID="17024"/>
+            <File Name="Doctor Fate 18" ID="177679" SERIESID="16026"/>
+            <File Name="Green Arrow 11" ID="178529" SERIESID="17120"/>
+            <File Name="Green Lanterns 11" ID="178593" SERIESID="17121"/>
+            <File Name="He-Man/Thundercats 2" ID="178732" SERIESID="17125"/>
+            <File Name="Justice League 9" ID="179113" SERIESID="17179"/>
+            <File Name="Lucifer 12" ID="179393" SERIESID="16045"/>
+            <File Name="Nightwing 9" ID="179503" SERIESID="17235"/>
+            <File Name="Raven 3" ID="179551" SERIESID="17237"/>
+            <File Name="Scooby-Doo, Where Are You? 75" ID="179664" SERIESID="5583"/>
+            <File Name="Suicide Squad 6" ID="179854" SERIESID="17260"/>
+            <File Name="Suicide Squad Most Wanted:El Diablo &amp; Killer Croc 4" ID="179884" SERIESID="17261"/>
+            <File Name="Superman 11" ID="179917" SERIESID="17264"/>
+            <File Name="Trinity 3" ID="180157" SERIESID="17310"/>
+            <File Name="Action Comics 968" ID="176697" SERIESID="3170"/>
+            <File Name="Batgirl 5" ID="176872" SERIESID="16958"/>
+            <File Name="Batman Beyond 2" ID="176942" SERIESID="16960"/>
+            <File Name="Blue Beetle 3" ID="177412" SERIESID="17020"/>
+            <File Name="Deathstroke 7" ID="177581" SERIESID="17030"/>
+            <File Name="Detective Comics 945" ID="177644" SERIESID="3097"/>
+            <File Name="Flash 11" ID="177882" SERIESID="17087"/>
+            <File Name="Frostbite 3" ID="177940" SERIESID="17089"/>
+            <File Name="Future Quest 7" ID="177962" SERIESID="17090"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 9" ID="178637" SERIESID="17122"/>
+            <File Name="Harley Quinn 8" ID="179029" SERIESID="17176"/>
+            <File Name="Hellblazer 4" ID="178711" SERIESID="17124"/>
+            <File Name="Scooby-Doo Team-Up 20" ID="179648" SERIESID="12814"/>
+            <File Name="Sixpack and Dogwelder:Hard Travelin&apos; Heroz 4" ID="179712" SERIESID="17242"/>
+            <File Name="Super Powers 1" ID="179948" SERIESID="17267"/>
+            <File Name="Teen Titans 2" ID="180103" SERIESID="17305"/>
+            <File Name="Titans 5" ID="180130" SERIESID="17308"/>
+            <File Name="Vigilante:Southland 2" ID="180194" SERIESID="17313"/>
+            <File Name="Wonder Woman 11" ID="180268" SERIESID="17317"/>
+            <File Name="Batman Annual 1" ID="177390" SERIESID="17017"/>
+            <File Name="Injustice:Gods Among Us:Year Five Annual 1" ID="179079" SERIESID="16037"/>
+            <File Name="Justice League of America 10" ID="179287" SERIESID="16041"/>
+            <File Name="New Talent Showcase 1" ID="179462" SERIESID="17233"/>
+            <File Name="Suicide Squad 7" ID="179856" SERIESID="17260"/>
+            <File Name="Superman Annual 1" ID="179943" SERIESID="17264"/>
+            <File Name="Wacky Raceland 6" ID="180209" SERIESID="17314"/>
         </Directory>
         <Directory Name="CDCC 2016 12">
-            <File Name="Aquaman 12"/>
-            <File Name="Batman 12"/>
-            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 6"/>
-            <File Name="Cyborg 6"/>
-            <File Name="DC Comics:Bombshells 20"/>
-            <File Name="Deadman:Dark Mansion of Forbidden Love 2"/>
-            <File Name="Death of Hawkman 3"/>
-            <File Name="Everafter 4"/>
-            <File Name="Flintstones 6"/>
-            <File Name="Green Arrow 12"/>
-            <File Name="Green Lanterns 12"/>
-            <File Name="Harley Quinn 9"/>
-            <File Name="Injustice:Ground Zero 1"/>
-            <File Name="Justice League 10"/>
-            <File Name="Looney Tunes 234"/>
-            <File Name="Midnighter and Apollo 3"/>
-            <File Name="Nightwing 10"/>
-            <File Name="Shade, the Changing Girl 3"/>
-            <File Name="Superman 12"/>
-            <File Name="Unfollow 14"/>
-            <File Name="Wonder Woman &apos;77 Meets the Bionic Woman 1"/>
-            <File Name="Action Comics 969"/>
-            <File Name="Batgirl &amp; the Birds of Prey 5"/>
-            <File Name="Batman/Teenage Mutant Ninja Turtles Adventures 2"/>
-            <File Name="Clean Room 14"/>
-            <File Name="DC Rebirth Holiday Special 1"/>
-            <File Name="Deathstroke 8"/>
-            <File Name="Detective Comics 946"/>
-            <File Name="Earth 2:Society 19"/>
-            <File Name="Flash 12"/>
-            <File Name="Gotham Academy:Second Semester 4"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 10"/>
-            <File Name="Lost Boys 3"/>
-            <File Name="New Super-Man 6"/>
-            <File Name="Red Hood &amp; the Outlaws 5"/>
-            <File Name="Red Thorn 13"/>
-            <File Name="Scooby Apocalypse 8"/>
-            <File Name="Scooby-Doo, Where Are You? 76"/>
-            <File Name="Suicide Squad 8"/>
-            <File Name="Supergirl 4"/>
-            <File Name="Superwoman 5"/>
-            <File Name="Wonder Woman 12"/>
-            <File Name="All-Star Batman Director&apos;s Cut 1"/>
-            <File Name="Aquaman 13"/>
-            <File Name="Batman 13"/>
-            <File Name="Cave Carson Has a Cybernetic Eye 3"/>
-            <File Name="Cyborg 7"/>
-            <File Name="Green Arrow 13"/>
-            <File Name="Green Lanterns 13"/>
-            <File Name="Harley Quinn 10"/>
-            <File Name="He-Man/Thundercats 3"/>
-            <File Name="Injustice:Ground Zero 2"/>
-            <File Name="Justice League 11"/>
-            <File Name="Justice League Vs. Suicide Squad 1"/>
-            <File Name="Lucifer 13"/>
-            <File Name="Nightwing 11"/>
-            <File Name="Raven 4"/>
-            <File Name="Star Trek/Green Lantern 1"/>
-            <File Name="Suicide Squad Most Wanted:El Diablo &amp; Amanda Waller 5"/>
-            <File Name="Superman 13"/>
-            <File Name="Teen Titans Go 19"/>
-            <File Name="Trinity 4"/>
-            <File Name="Action Comics 970"/>
-            <File Name="All-Star Batman 5"/>
-            <File Name="Batgirl 6"/>
-            <File Name="Batman Beyond 3"/>
-            <File Name="Blue Beetle 4"/>
-            <File Name="Clean Room 15"/>
-            <File Name="Dark Knight III:The Master Race 7"/>
-            <File Name="Deathstroke 9"/>
-            <File Name="Detective Comics 947"/>
-            <File Name="Flash 13"/>
-            <File Name="Frostbite 4"/>
-            <File Name="Future Quest 8"/>
-            <File Name="Hal Jordan &amp; the Green Lantern Corps 11"/>
-            <File Name="Harley&apos;s Little Black Book 5"/>
-            <File Name="Hellblazer 5"/>
-            <File Name="Justice League Vs. Suicide Squad 2"/>
-            <File Name="Mother Panic 2"/>
-            <File Name="Scooby-Doo Team-Up 21"/>
-            <File Name="Sixpack and Dogwelder:Hard Travelin&apos; Heroz 5"/>
-            <File Name="Super Powers 2"/>
-            <File Name="Supergirl:Being Super 1"/>
-            <File Name="Teen Titans 3"/>
-            <File Name="Titans 6"/>
-            <File Name="Vigilante:Southland 3"/>
-            <File Name="Wonder Woman 13"/>
+            <File Name="Aquaman 12" ID="176770" SERIESID="16955"/>
+            <File Name="Batman 12" ID="177363" SERIESID="17017"/>
+            <File Name="Batman &apos;66 Meets Steed and Mrs. Peel 6" ID="176964" SERIESID="16961"/>
+            <File Name="Cyborg 6" ID="177495" SERIESID="17024"/>
+            <File Name="DC Comics:Bombshells 20" ID="177535" SERIESID="16025"/>
+            <File Name="Deadman:Dark Mansion of Forbidden Love 2" ID="177545" SERIESID="17028"/>
+            <File Name="Death of Hawkman 3" ID="177550" SERIESID="17029"/>
+            <File Name="Everafter 4" ID="177717" SERIESID="17032"/>
+            <File Name="Flintstones 6" ID="177924" SERIESID="17088"/>
+            <File Name="Green Arrow 12" ID="178531" SERIESID="17120"/>
+            <File Name="Green Lanterns 12" ID="178595" SERIESID="17121"/>
+            <File Name="Harley Quinn 9" ID="179031" SERIESID="17176"/>
+            <File Name="Injustice:Ground Zero 1" ID="179080" SERIESID="17177"/>
+            <File Name="Justice League 10" ID="179115" SERIESID="17179"/>
+            <File Name="Looney Tunes 234" ID="179372" SERIESID="1369"/>
+            <File Name="Midnighter and Apollo 3" ID="179430" SERIESID="17231"/>
+            <File Name="Nightwing 10" ID="179505" SERIESID="17235"/>
+            <File Name="Shade, the Changing Girl 3" ID="179680" SERIESID="17241"/>
+            <File Name="Superman 12" ID="179919" SERIESID="17264"/>
+            <File Name="Unfollow 14" ID="180183" SERIESID="16079"/>
+            <File Name="Wonder Woman &apos;77 Meets the Bionic Woman 1" ID="181411" SERIESID="17554"/>
+            <File Name="Action Comics 969" ID="176699" SERIESID="3170"/>
+            <File Name="Batgirl &amp; the Birds of Prey 5" ID="176897" SERIESID="16959"/>
+            <File Name="Batman/Teenage Mutant Ninja Turtles Adventures 2" ID="180495" SERIESID="17378"/>
+            <File Name="Clean Room 14" ID="177464" SERIESID="15980"/>
+            <File Name="DC Rebirth Holiday Special 1" ID="177847" SERIESID="17086"/>
+            <File Name="Deathstroke 8" ID="177583" SERIESID="17030"/>
+            <File Name="Detective Comics 946" ID="177646" SERIESID="3097"/>
+            <File Name="Earth 2:Society 19" ID="177709" SERIESID="16028"/>
+            <File Name="Flash 12" ID="177884" SERIESID="17087"/>
+            <File Name="Gotham Academy:Second Semester 4" ID="177985" SERIESID="17091"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 10" ID="178639" SERIESID="17122"/>
+            <File Name="Lost Boys 3" ID="179379" SERIESID="17229"/>
+            <File Name="New Super-Man 6" ID="179473" SERIESID="17234"/>
+            <File Name="Red Hood &amp; the Outlaws 5" ID="179566" SERIESID="17238"/>
+            <File Name="Red Thorn 13" ID="179594" SERIESID="16054"/>
+            <File Name="Scooby Apocalypse 8" ID="179630" SERIESID="17240"/>
+            <File Name="Scooby-Doo, Where Are You? 76" ID="179665" SERIESID="5583"/>
+            <File Name="Suicide Squad 8" ID="179858" SERIESID="17260"/>
+            <File Name="Supergirl 4" ID="179746" SERIESID="17246"/>
+            <File Name="Superwoman 5" ID="179973" SERIESID="17269"/>
+            <File Name="Wonder Woman 12" ID="180270" SERIESID="17317"/>
+            <File Name="All-Star Batman Director&apos;s Cut 1" ID="176821" SERIESID="16957"/>
+            <File Name="Aquaman 13" ID="176772" SERIESID="16955"/>
+            <File Name="Batman 13" ID="177365" SERIESID="17017"/>
+            <File Name="Cave Carson Has a Cybernetic Eye 3" ID="177443" SERIESID="17023"/>
+            <File Name="Cyborg 7" ID="177497" SERIESID="17024"/>
+            <File Name="Green Arrow 13" ID="178533" SERIESID="17120"/>
+            <File Name="Green Lanterns 13" ID="178597" SERIESID="17121"/>
+            <File Name="Harley Quinn 10" ID="179033" SERIESID="17176"/>
+            <File Name="He-Man/Thundercats 3" ID="178733" SERIESID="17125"/>
+            <File Name="Injustice:Ground Zero 2" ID="179082" SERIESID="17177"/>
+            <File Name="Justice League 11" ID="179117" SERIESID="17179"/>
+            <File Name="Justice League Vs. Suicide Squad 1" ID="179310" SERIESID="17225"/>
+            <File Name="Lucifer 13" ID="179394" SERIESID="16045"/>
+            <File Name="Nightwing 11" ID="179507" SERIESID="17235"/>
+            <File Name="Raven 4" ID="179552" SERIESID="17237"/>
+            <File Name="Star Trek/Green Lantern 1" ID="180584" SERIESID="17429"/>
+            <File Name="Suicide Squad Most Wanted:El Diablo &amp; Amanda Waller 5" ID="179885" SERIESID="17261"/>
+            <File Name="Superman 13" ID="179921" SERIESID="17264"/>
+            <File Name="Teen Titans Go 19" ID="180021" SERIESID="12817"/>
+            <File Name="Trinity 4" ID="180159" SERIESID="17310"/>
+            <File Name="Action Comics 970" ID="176701" SERIESID="3170"/>
+            <File Name="All-Star Batman 5" ID="176837" SERIESID="16957"/>
+            <File Name="Batgirl 6" ID="176874" SERIESID="16958"/>
+            <File Name="Batman Beyond 3" ID="176944" SERIESID="16960"/>
+            <File Name="Blue Beetle 4" ID="177414" SERIESID="17020"/>
+            <File Name="Clean Room 15" ID="177465" SERIESID="15980"/>
+            <File Name="Dark Knight III:The Master Race 7" ID="178792" SERIESID="16024"/>
+            <File Name="Deathstroke 9" ID="177585" SERIESID="17030"/>
+            <File Name="Detective Comics 947" ID="177648" SERIESID="3097"/>
+            <File Name="Flash 13" ID="177886" SERIESID="17087"/>
+            <File Name="Frostbite 4" ID="177941" SERIESID="17089"/>
+            <File Name="Future Quest 8" ID="177964" SERIESID="17090"/>
+            <File Name="Hal Jordan &amp; the Green Lantern Corps 11" ID="178641" SERIESID="17122"/>
+            <File Name="Harley&apos;s Little Black Book 5" ID="178699" SERIESID="16032"/>
+            <File Name="Hellblazer 5" ID="178713" SERIESID="17124"/>
+            <File Name="Justice League Vs. Suicide Squad 2" ID="179315" SERIESID="17225"/>
+            <File Name="Mother Panic 2" ID="179438" SERIESID="17232"/>
+            <File Name="Scooby-Doo Team-Up 21" ID="179649" SERIESID="12814"/>
+            <File Name="Sixpack and Dogwelder:Hard Travelin&apos; Heroz 5" ID="179713" SERIESID="17242"/>
+            <File Name="Super Powers 2" ID="179951" SERIESID="17267"/>
+            <File Name="Supergirl:Being Super 1" ID="179758" SERIESID="17247"/>
+            <File Name="Teen Titans 3" ID="180105" SERIESID="17305"/>
+            <File Name="Titans 6" ID="180132" SERIESID="17308"/>
+            <File Name="Vigilante:Southland 3" ID="180195" SERIESID="17313"/>
+            <File Name="Wonder Woman 13" ID="180272" SERIESID="17317"/>
         </Directory>
     </Year>

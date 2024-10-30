@@ -2,516 +2,537 @@
 <!DOCTYPE xml>
     <Year Name="CDCC 1985">
         <Directory Name="CDCC 1985 01">
-            <File Name="Atari Force 16"/>
-            <File Name="Best of DC 59"/>
-            <File Name="Crisis on Infinite Earths 1"/>
-            <File Name="DC Comics Presents 80"/>
-            <File Name="Fury of Firestorm 34"/>
-            <File Name="Jonni Thunder 2"/>
-            <File Name="Justice League of America 237"/>
-            <File Name="Superman:The Secret Years 3"/>
-            <File Name="Tales of the Teen Titans 52"/>
-            <File Name="Vigilante 16"/>
-            <File Name="Wonder Woman 324"/>
-            <File Name="Amethyst 4"/>
-            <File Name="Arak, Son of Thunder 43"/>
-            <File Name="Batman 382"/>
-            <File Name="Camelot 3000 12"/>
-            <File Name="Flash 344"/>
-            <File Name="G.I. Combat 276"/>
-            <File Name="Jemm, Son of Saturn 8"/>
-            <File Name="Legion of Super-Heroes 9"/>
-            <File Name="Omega Men 25"/>
-            <File Name="Star Trek 13"/>
-            <File Name="Superman 406"/>
-            <File Name="Talent Showcase 16"/>
-            <File Name="Batman and the Outsiders 20"/>
-            <File Name="Blue Devil 11"/>
-            <File Name="Conqueror of the Barren Earth 3"/>
-            <File Name="Green Lantern 187"/>
-            <File Name="Infinity Inc. 13"/>
-            <File Name="New Teen Titans 7"/>
-            <File Name="Saga of Swamp Thing 35"/>
-            <File Name="Sgt. Rock 399"/>
-            <File Name="Superman Special 3"/>
-            <File Name="Warlord 92"/>
-            <File Name="Who&apos;s Who 2"/>
-            <File Name="Action Comics 566"/>
-            <File Name="All-Star Squadron 44"/>
-            <File Name="America Vs. the Justice Society 4"/>
-            <File Name="Arion, Lord of Atlantis 30"/>
-            <File Name="Detective Comics 549"/>
-            <File Name="Jonah Hex 90"/>
-            <File Name="Spanner&apos;s Galaxy 5"/>
-            <File Name="Sun Devils 10"/>
-            <File Name="Tales of the Legion 322"/>
-            <File Name="V 3"/>
-            <File Name="World&apos;s Finest Comics 314"/>
+            <File Name="Atari Force 16" ID="3276" SERIESID="123"/>
+            <File Name="Best of DC 59" ID="5451" SERIESID="409"/>
+            <File Name="Crisis on Infinite Earths 1" ID="7375" SERIESID="598"/>
+            <File Name="DC Comics Presents 80" ID="7730" SERIESID="637"/>
+            <File Name="Fury of Firestorm 34" ID="11104" SERIESID="853"/>
+            <File Name="Jonni Thunder 2" ID="16930" SERIESID="1207"/>
+            <File Name="Justice League of America 237" ID="17980" SERIESID="1234"/>
+            <File Name="Superman:The Secret Years 3" ID="28096" SERIESID="2074"/>
+            <File Name="Tales of the Teen Titans 52" ID="28783" SERIESID="1490"/>
+            <File Name="Vigilante 16" ID="30634" SERIESID="2296"/>
+            <File Name="Wonder Woman 324" ID="31366" SERIESID="2351"/>
+            <File Name="Amethyst 4" ID="2540" SERIESID="78"/>
+            <File Name="Arak, Son of Thunder 43" ID="3038" SERIESID="104"/>
+            <File Name="Batman 382" ID="3914" SERIESID="162"/>
+            <File Name="Camelot 3000 12" ID="6452" SERIESID="524"/>
+            <File Name="Flash 344" ID="10402" SERIESID="807"/>
+            <File Name="G.I. Combat 276" ID="11689" SERIESID="887"/>
+            <File Name="Jemm, Son of Saturn 8" ID="16423" SERIESID="1133"/>
+            <File Name="Legion of Super-Heroes 9" ID="18478" SERIESID="1323"/>
+            <File Name="Omega Men 25" ID="20716" SERIESID="1519"/>
+            <File Name="Star Trek 13" ID="25008" SERIESID="1931"/>
+            <File Name="Superman 406" ID="27592" SERIESID="1984"/>
+            <File Name="Talent Showcase 16" ID="28490" SERIESID="1489"/>
+            <File Name="Batman and the Outsiders 20" ID="4320" SERIESID="180"/>
+            <File Name="Blue Devil 11" ID="5977" SERIESID="484"/>
+            <File Name="Conqueror of the Barren Earth 3" ID="7285" SERIESID="578"/>
+            <File Name="Green Lantern 187" ID="12735" SERIESID="930"/>
+            <File Name="Infinity Inc. 13" ID="16315" SERIESID="1110"/>
+            <File Name="New Teen Titans 7" ID="20509" SERIESID="1491"/>
+            <File Name="Saga of Swamp Thing 35" ID="28241" SERIESID="2109"/>
+            <File Name="Sgt. Rock 399" ID="23993" SERIESID="1534"/>
+            <File Name="Superman Special 3" ID="27593" SERIESID="1984"/>
+            <File Name="Warlord 92" ID="30073" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 2" ID="30782" SERIESID="2144"/>
+            <File Name="Action Comics 566" ID="549" SERIESID="28"/>
+            <File Name="All-Star Squadron 44" ID="2376" SERIESID="62"/>
+            <File Name="America Vs. the Justice Society 4" ID="2523" SERIESID="76"/>
+            <File Name="Arion, Lord of Atlantis 30" ID="3201" SERIESID="107"/>
+            <File Name="Detective Comics 549" ID="8660" SERIESID="693"/>
+            <File Name="Jonah Hex 90" ID="16773" SERIESID="1203"/>
+            <File Name="Spanner&apos;s Galaxy 5" ID="24596" SERIESID="1712"/>
+            <File Name="Sun Devils 10" ID="26057" SERIESID="1963"/>
+            <File Name="Tales of the Legion 322" ID="28732" SERIESID="1964"/>
+            <File Name="V 3" ID="30498" SERIESID="2268"/>
+            <File Name="World&apos;s Finest Comics 314" ID="31955" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1985 02">
-            <File Name="Atari Force 17"/>
-            <File Name="Best of DC 60"/>
-            <File Name="Crisis on Infinite Earths 2"/>
-            <File Name="DC Comics Presents 81"/>
-            <File Name="Deadman 1"/>
-            <File Name="Fury of Firestorm 35"/>
-            <File Name="Justice League of America 238"/>
-            <File Name="Shadow War of Hawkman 1"/>
-            <File Name="Superman:The Secret Years 4"/>
-            <File Name="Tales of the Teen Titans 53"/>
-            <File Name="Vigilante 17"/>
-            <File Name="Amethyst 5"/>
-            <File Name="Arak, Son of Thunder 44"/>
-            <File Name="Batman 383"/>
-            <File Name="Flash 345"/>
-            <File Name="Jemm, Son of Saturn 9"/>
-            <File Name="Legion of Super-Heroes 10"/>
-            <File Name="Omega Men 26"/>
-            <File Name="Star Trek 14"/>
-            <File Name="Superman 407"/>
-            <File Name="Batman and the Outsiders 21"/>
-            <File Name="Blue Devil 12"/>
-            <File Name="Conqueror of the Barren Earth 4"/>
-            <File Name="G.I. Combat 277"/>
-            <File Name="Green Lantern 188"/>
-            <File Name="Infinity Inc. 14"/>
-            <File Name="New Teen Titans 8"/>
-            <File Name="Saga of Swamp Thing 36"/>
-            <File Name="Sgt. Rock 400"/>
-            <File Name="Warlord 93"/>
-            <File Name="Who&apos;s Who 3"/>
-            <File Name="Action Comics 567"/>
-            <File Name="All-Star Squadron 45"/>
-            <File Name="Arion, Lord of Atlantis 31"/>
-            <File Name="Detective Comics 550"/>
-            <File Name="Spanner&apos;s Galaxy 6"/>
-            <File Name="Sun Devils 11"/>
-            <File Name="Tales of the Legion 323"/>
-            <File Name="V 4"/>
-            <File Name="Wonder Woman 325"/>
-            <File Name="World&apos;s Finest Comics 315"/>
+            <File Name="Atari Force 17" ID="3277" SERIESID="123"/>
+            <File Name="Best of DC 60" ID="5452" SERIESID="409"/>
+            <File Name="Crisis on Infinite Earths 2" ID="7376" SERIESID="598"/>
+            <File Name="DC Comics Presents 81" ID="7731" SERIESID="637"/>
+            <File Name="Deadman 1" ID="8024" SERIESID="663"/>
+            <File Name="Fury of Firestorm 35" ID="11105" SERIESID="853"/>
+            <File Name="Justice League of America 238" ID="17981" SERIESID="1234"/>
+            <File Name="Shadow War of Hawkman 1" ID="24234" SERIESID="1799"/>
+            <File Name="Superman:The Secret Years 4" ID="28097" SERIESID="2074"/>
+            <File Name="Tales of the Teen Titans 53" ID="28784" SERIESID="1490"/>
+            <File Name="Vigilante 17" ID="30635" SERIESID="2296"/>
+            <File Name="Amethyst 5" ID="2541" SERIESID="78"/>
+            <File Name="Arak, Son of Thunder 44" ID="3039" SERIESID="104"/>
+            <File Name="Batman 383" ID="3915" SERIESID="162"/>
+            <File Name="Flash 345" ID="10403" SERIESID="807"/>
+            <File Name="Jemm, Son of Saturn 9" ID="16424" SERIESID="1133"/>
+            <File Name="Legion of Super-Heroes 10" ID="18479" SERIESID="1323"/>
+            <File Name="Omega Men 26" ID="20717" SERIESID="1519"/>
+            <File Name="Star Trek 14" ID="25009" SERIESID="1931"/>
+            <File Name="Superman 407" ID="27594" SERIESID="1984"/>
+            <File Name="Batman and the Outsiders 21" ID="4321" SERIESID="180"/>
+            <File Name="Blue Devil 12" ID="5978" SERIESID="484"/>
+            <File Name="Conqueror of the Barren Earth 4" ID="7286" SERIESID="578"/>
+            <File Name="G.I. Combat 277" ID="11690" SERIESID="887"/>
+            <File Name="Green Lantern 188" ID="12736" SERIESID="930"/>
+            <File Name="Infinity Inc. 14" ID="16316" SERIESID="1110"/>
+            <File Name="New Teen Titans 8" ID="20510" SERIESID="1491"/>
+            <File Name="Saga of Swamp Thing 36" ID="28242" SERIESID="2109"/>
+            <File Name="Sgt. Rock 400" ID="23994" SERIESID="1534"/>
+            <File Name="Warlord 93" ID="30074" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 3" ID="30783" SERIESID="2144"/>
+            <File Name="Action Comics 567" ID="550" SERIESID="28"/>
+            <File Name="All-Star Squadron 45" ID="2377" SERIESID="62"/>
+            <File Name="Arion, Lord of Atlantis 31" ID="3202" SERIESID="107"/>
+            <File Name="Detective Comics 550" ID="8843" SERIESID="693"/>
+            <File Name="Spanner&apos;s Galaxy 6" ID="24597" SERIESID="1712"/>
+            <File Name="Sun Devils 11" ID="26058" SERIESID="1963"/>
+            <File Name="Tales of the Legion 323" ID="28733" SERIESID="1964"/>
+            <File Name="V 4" ID="30499" SERIESID="2268"/>
+            <File Name="Wonder Woman 325" ID="31367" SERIESID="2351"/>
+            <File Name="World&apos;s Finest Comics 315" ID="31956" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1985 03">
-            <File Name="Atari Force 18"/>
-            <File Name="Best of DC 61"/>
-            <File Name="Crisis on Infinite Earths 3"/>
-            <File Name="DC Comics Presents 82"/>
-            <File Name="Deadman 2"/>
-            <File Name="Fury of Firestorm 36"/>
-            <File Name="Jonni Thunder 3"/>
-            <File Name="Justice League of America 239"/>
-            <File Name="Shadow War of Hawkman 2"/>
-            <File Name="Tales of the Teen Titans 54"/>
-            <File Name="Vigilante 18"/>
-            <File Name="Amethyst 6"/>
-            <File Name="Arak, Son of Thunder 45"/>
-            <File Name="Batman 384"/>
-            <File Name="Flash 346"/>
-            <File Name="Jemm, Son of Saturn 10"/>
-            <File Name="Legion of Super-Heroes 11"/>
-            <File Name="Omega Men 27"/>
-            <File Name="Star Trek 15"/>
-            <File Name="Superman 408"/>
-            <File Name="Batman and the Outsiders 22"/>
-            <File Name="Blue Devil 13"/>
-            <File Name="DC Graphic Novel 4"/>
-            <File Name="Green Lantern 189"/>
-            <File Name="Infinity Inc. 15"/>
-            <File Name="New Teen Titans 9"/>
-            <File Name="Saga of Swamp Thing 37"/>
-            <File Name="Sgt. Rock 401"/>
-            <File Name="Talent Showcase 17"/>
-            <File Name="Warlord 94"/>
-            <File Name="Who&apos;s Who 4"/>
-            <File Name="Action Comics 568"/>
-            <File Name="All-Star Squadron 46"/>
-            <File Name="Ambush Bug 1"/>
-            <File Name="Arion, Lord of Atlantis 32"/>
-            <File Name="Detective Comics 551"/>
-            <File Name="Jonah Hex 91"/>
-            <File Name="Sun Devils 12"/>
-            <File Name="Tales of the Legion 324"/>
-            <File Name="V 5"/>
-            <File Name="World&apos;s Finest Comics 316"/>
+            <File Name="Atari Force 18" ID="3278" SERIESID="123"/>
+            <File Name="Best of DC 61" ID="5453" SERIESID="409"/>
+            <File Name="Crisis on Infinite Earths 3" ID="7377" SERIESID="598"/>
+            <File Name="DC Comics Presents 82" ID="7732" SERIESID="637"/>
+            <File Name="Deadman 2" ID="8025" SERIESID="663"/>
+            <File Name="Fury of Firestorm 36" ID="11106" SERIESID="853"/>
+            <File Name="Jonni Thunder 3" ID="16931" SERIESID="1207"/>
+            <File Name="Justice League of America 239" ID="17982" SERIESID="1234"/>
+            <File Name="Shadow War of Hawkman 2" ID="24235" SERIESID="1799"/>
+            <File Name="Tales of the Teen Titans 54" ID="28785" SERIESID="1490"/>
+            <File Name="Vigilante 18" ID="30636" SERIESID="2296"/>
+            <File Name="Amethyst 6" ID="2542" SERIESID="78"/>
+            <File Name="Arak, Son of Thunder 45" ID="3040" SERIESID="104"/>
+            <File Name="Batman 384" ID="3916" SERIESID="162"/>
+            <File Name="Flash 346" ID="10404" SERIESID="807"/>
+            <File Name="Jemm, Son of Saturn 10" ID="16425" SERIESID="1133"/>
+            <File Name="Legion of Super-Heroes 11" ID="18480" SERIESID="1323"/>
+            <File Name="Omega Men 27" ID="20718" SERIESID="1519"/>
+            <File Name="Star Trek 15" ID="25010" SERIESID="1931"/>
+            <File Name="Superman 408" ID="27595" SERIESID="1984"/>
+            <File Name="Batman and the Outsiders 22" ID="4322" SERIESID="180"/>
+            <File Name="Blue Devil 13" ID="5979" SERIESID="484"/>
+            <File Name="DC Graphic Novel 4" ID="7764" SERIESID="640"/>
+            <File Name="Green Lantern 189" ID="12737" SERIESID="930"/>
+            <File Name="Infinity Inc. 15" ID="16317" SERIESID="1110"/>
+            <File Name="New Teen Titans 9" ID="20511" SERIESID="1491"/>
+            <File Name="Saga of Swamp Thing 37" ID="28243" SERIESID="2109"/>
+            <File Name="Sgt. Rock 401" ID="23995" SERIESID="1534"/>
+            <File Name="Talent Showcase 17" ID="28491" SERIESID="1489"/>
+            <File Name="Warlord 94" ID="30075" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 4" ID="30784" SERIESID="2144"/>
+            <File Name="Action Comics 568" ID="551" SERIESID="28"/>
+            <File Name="All-Star Squadron 46" ID="2378" SERIESID="62"/>
+            <File Name="Ambush Bug 1" ID="2480" SERIESID="68"/>
+            <File Name="Arion, Lord of Atlantis 32" ID="3203" SERIESID="107"/>
+            <File Name="Detective Comics 551" ID="8844" SERIESID="693"/>
+            <File Name="Jonah Hex 91" ID="16774" SERIESID="1203"/>
+            <File Name="Sun Devils 12" ID="26059" SERIESID="1963"/>
+            <File Name="Tales of the Legion 324" ID="28734" SERIESID="1964"/>
+            <File Name="V 5" ID="30500" SERIESID="2268"/>
+            <File Name="World&apos;s Finest Comics 316" ID="31957" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1985 04">
-            <File Name="Atari Force 19"/>
-            <File Name="Best of DC 62"/>
-            <File Name="Crisis on Infinite Earths 4"/>
-            <File Name="DC Comics Presents 83"/>
-            <File Name="Deadman 3"/>
-            <File Name="Fury of Firestorm 37"/>
-            <File Name="Justice League of America 240"/>
-            <File Name="Legion of Substitute Heroes Special 1"/>
-            <File Name="Shadow War of Hawkman 3"/>
-            <File Name="Tales of the Teen Titans 55"/>
-            <File Name="Vigilante 19"/>
-            <File Name="Amethyst 7"/>
-            <File Name="Arak, Son of Thunder 46"/>
-            <File Name="Batman 385"/>
-            <File Name="Batman Annual 9"/>
-            <File Name="Flash 347"/>
-            <File Name="Jemm, Son of Saturn 11"/>
-            <File Name="Legion of Super-Heroes 12"/>
-            <File Name="Omega Men 28"/>
-            <File Name="Red Tornado 1"/>
-            <File Name="Star Trek 16"/>
-            <File Name="Superman 409"/>
-            <File Name="Batman and the Outsiders 23"/>
-            <File Name="Blue Devil 14"/>
-            <File Name="G.I. Combat 278"/>
-            <File Name="Green Lantern 190"/>
-            <File Name="Infinity Inc. 16"/>
-            <File Name="New Teen Titans 10"/>
-            <File Name="Saga of Swamp Thing 38"/>
-            <File Name="Sgt. Rock 402"/>
-            <File Name="Warlord 95"/>
-            <File Name="Who&apos;s Who 5"/>
-            <File Name="Action Comics 569"/>
-            <File Name="All-Star Squadron 47"/>
-            <File Name="Ambush Bug 2"/>
-            <File Name="Arion, Lord of Atlantis 33"/>
-            <File Name="Detective Comics 552"/>
-            <File Name="Tales of the Legion 325"/>
-            <File Name="World&apos;s Finest Comics 317"/>
+            <File Name="Atari Force 19" ID="3279" SERIESID="123"/>
+            <File Name="Best of DC 62" ID="5454" SERIESID="409"/>
+            <File Name="Crisis on Infinite Earths 4" ID="7378" SERIESID="598"/>
+            <File Name="DC Comics Presents 83" ID="7733" SERIESID="637"/>
+            <File Name="Deadman 3" ID="8026" SERIESID="663"/>
+            <File Name="Fury of Firestorm 37" ID="11107" SERIESID="853"/>
+            <File Name="Justice League of America 240" ID="17983" SERIESID="1234"/>
+            <File Name="Legion of Substitute Heroes Special 1" ID="18407" SERIESID="1320"/>
+            <File Name="Shadow War of Hawkman 3" ID="24236" SERIESID="1799"/>
+            <File Name="Tales of the Teen Titans 55" ID="28786" SERIESID="1490"/>
+            <File Name="Vigilante 19" ID="30637" SERIESID="2296"/>
+            <File Name="Amethyst 7" ID="2543" SERIESID="78"/>
+            <File Name="Arak, Son of Thunder 46" ID="3041" SERIESID="104"/>
+            <File Name="Batman 385" ID="3917" SERIESID="162"/>
+            <File Name="Batman Annual 9" ID="3918" SERIESID="162"/>
+            <File Name="Flash 347" ID="10405" SERIESID="807"/>
+            <File Name="Jemm, Son of Saturn 11" ID="16426" SERIESID="1133"/>
+            <File Name="Legion of Super-Heroes 12" ID="18481" SERIESID="1323"/>
+            <File Name="Omega Men 28" ID="20719" SERIESID="1519"/>
+            <File Name="Red Tornado 1" ID="22419" SERIESID="1652"/>
+            <File Name="Star Trek 16" ID="25011" SERIESID="1931"/>
+            <File Name="Superman 409" ID="27596" SERIESID="1984"/>
+            <File Name="Batman and the Outsiders 23" ID="4323" SERIESID="180"/>
+            <File Name="Blue Devil 14" ID="5980" SERIESID="484"/>
+            <File Name="G.I. Combat 278" ID="11691" SERIESID="887"/>
+            <File Name="Green Lantern 190" ID="12738" SERIESID="930"/>
+            <File Name="Infinity Inc. 16" ID="16318" SERIESID="1110"/>
+            <File Name="New Teen Titans 10" ID="20512" SERIESID="1491"/>
+            <File Name="Saga of Swamp Thing 38" ID="28244" SERIESID="2109"/>
+            <File Name="Sgt. Rock 402" ID="23996" SERIESID="1534"/>
+            <File Name="Warlord 95" ID="30076" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 5" ID="30785" SERIESID="2144"/>
+            <File Name="Action Comics 569" ID="552" SERIESID="28"/>
+            <File Name="All-Star Squadron 47" ID="2379" SERIESID="62"/>
+            <File Name="Ambush Bug 2" ID="2481" SERIESID="68"/>
+            <File Name="Arion, Lord of Atlantis 33" ID="3204" SERIESID="107"/>
+            <File Name="Detective Comics 552" ID="8845" SERIESID="693"/>
+            <File Name="Tales of the Legion 325" ID="28735" SERIESID="1964"/>
+            <File Name="World&apos;s Finest Comics 317" ID="31958" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1985 05">
-            <File Name="Best of DC 63"/>
-            <File Name="DC Comics Presents 84"/>
-            <File Name="Shadow War of Hawkman 4"/>
-            <File Name="Sword of the Atom Special 2"/>
-            <File Name="V 6"/>
-            <File Name="Wonder Woman 326"/>
-            <File Name="Atari Force 20"/>
-            <File Name="Crisis on Infinite Earths 5"/>
-            <File Name="Deadman 4"/>
-            <File Name="Fury of Firestorm 38"/>
-            <File Name="Jonni Thunder 4"/>
-            <File Name="Justice League of America 241"/>
-            <File Name="Tales of the Teen Titans 56"/>
-            <File Name="Vigilante 20"/>
-            <File Name="Warlord Annual 4"/>
-            <File Name="Amethyst 8"/>
-            <File Name="Arak, Son of Thunder 47"/>
-            <File Name="Batman 386"/>
-            <File Name="Flash 348"/>
-            <File Name="Jemm, Son of Saturn 12"/>
-            <File Name="Legion of Super-Heroes 13"/>
-            <File Name="Omega Men 29"/>
-            <File Name="Red Tornado 2"/>
-            <File Name="Star Trek 17"/>
-            <File Name="Superman 410"/>
-            <File Name="Batman and the Outsiders 24"/>
-            <File Name="Blue Devil 15"/>
-            <File Name="Green Lantern 191"/>
-            <File Name="Infinity Inc. 17"/>
-            <File Name="New Teen Titans 11"/>
-            <File Name="Sgt. Rock 403"/>
-            <File Name="Swamp Thing 39"/>
-            <File Name="Talent Showcase 18"/>
-            <File Name="Warlord 96"/>
-            <File Name="Who&apos;s Who 6"/>
-            <File Name="Action Comics 570"/>
-            <File Name="All-Star Squadron 48"/>
-            <File Name="Ambush Bug 3"/>
-            <File Name="Arion, Lord of Atlantis 34"/>
-            <File Name="Detective Comics 553"/>
-            <File Name="Jonah Hex 92"/>
-            <File Name="Tales of the Legion 326"/>
-            <File Name="V 7"/>
-            <File Name="World&apos;s Finest Comics 318"/>
+            <File Name="Best of DC 63" ID="5455" SERIESID="409"/>
+            <File Name="DC Comics Presents 84" ID="7734" SERIESID="637"/>
+            <File Name="Shadow War of Hawkman 4" ID="24237" SERIESID="1799"/>
+            <File Name="Sword of the Atom Special 2" ID="28470" SERIESID="2122"/>
+            <File Name="V 6" ID="30501" SERIESID="2268"/>
+            <File Name="Wonder Woman 326" ID="31368" SERIESID="2351"/>
+            <File Name="Atari Force 20" ID="3280" SERIESID="123"/>
+            <File Name="Crisis on Infinite Earths 5" ID="7379" SERIESID="598"/>
+            <File Name="Deadman 4" ID="8027" SERIESID="663"/>
+            <File Name="Fury of Firestorm 38" ID="11108" SERIESID="853"/>
+            <File Name="Jonni Thunder 4" ID="16932" SERIESID="1207"/>
+            <File Name="Justice League of America 241" ID="17984" SERIESID="1234"/>
+            <File Name="Tales of the Teen Titans 56" ID="28787" SERIESID="1490"/>
+            <File Name="Vigilante 20" ID="30638" SERIESID="2296"/>
+            <File Name="Warlord Annual 4" ID="30077" SERIESID="2303"/>
+            <File Name="Amethyst 8" ID="2544" SERIESID="78"/>
+            <File Name="Arak, Son of Thunder 47" ID="3042" SERIESID="104"/>
+            <File Name="Batman 386" ID="3919" SERIESID="162"/>
+            <File Name="Flash 348" ID="10406" SERIESID="807"/>
+            <File Name="Jemm, Son of Saturn 12" ID="16427" SERIESID="1133"/>
+            <File Name="Legion of Super-Heroes 13" ID="18482" SERIESID="1323"/>
+            <File Name="Omega Men 29" ID="20720" SERIESID="1519"/>
+            <File Name="Red Tornado 2" ID="22420" SERIESID="1652"/>
+            <File Name="Star Trek 17" ID="25012" SERIESID="1931"/>
+            <File Name="Superman 410" ID="27597" SERIESID="1984"/>
+            <File Name="Batman and the Outsiders 24" ID="4324" SERIESID="180"/>
+            <File Name="Blue Devil 15" ID="5981" SERIESID="484"/>
+            <File Name="Green Lantern 191" ID="12739" SERIESID="930"/>
+            <File Name="Infinity Inc. 17" ID="16319" SERIESID="1110"/>
+            <File Name="New Teen Titans 11" ID="20513" SERIESID="1491"/>
+            <File Name="Sgt. Rock 403" ID="23997" SERIESID="1534"/>
+            <File Name="Swamp Thing 39" ID="28245" SERIESID="2109"/>
+            <File Name="Talent Showcase 18" ID="28492" SERIESID="1489"/>
+            <File Name="Warlord 96" ID="30078" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 6" ID="30786" SERIESID="2144"/>
+            <File Name="Action Comics 570" ID="553" SERIESID="28"/>
+            <File Name="All-Star Squadron 48" ID="2380" SERIESID="62"/>
+            <File Name="Ambush Bug 3" ID="2482" SERIESID="68"/>
+            <File Name="Arion, Lord of Atlantis 34" ID="3205" SERIESID="107"/>
+            <File Name="Detective Comics 553" ID="8846" SERIESID="693"/>
+            <File Name="Jonah Hex 92" ID="16775" SERIESID="1203"/>
+            <File Name="Tales of the Legion 326" ID="28736" SERIESID="1964"/>
+            <File Name="V 7" ID="30502" SERIESID="2268"/>
+            <File Name="World&apos;s Finest Comics 318" ID="31959" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1985 06">
-            <File Name="Best of DC 64"/>
-            <File Name="Crisis on Infinite Earths 6"/>
-            <File Name="DC Comics Presents 85"/>
-            <File Name="Deadman 5"/>
-            <File Name="Fury of Firestorm 39"/>
-            <File Name="Justice League of America 242"/>
-            <File Name="Losers Special 1"/>
-            <File Name="Tales of the Teen Titans 57"/>
-            <File Name="Vigilante 21"/>
-            <File Name="Amethyst 9"/>
-            <File Name="Arak, Son of Thunder 48"/>
-            <File Name="Batman 387"/>
-            <File Name="Flash 349"/>
-            <File Name="G.I. Combat 279"/>
-            <File Name="Legion of Super-Heroes 14"/>
-            <File Name="New Teen Titans Annual 1"/>
-            <File Name="Omega Men 30"/>
-            <File Name="Red Tornado 3"/>
-            <File Name="Star Trek 18"/>
-            <File Name="Super Powers 1"/>
-            <File Name="Superman 411"/>
-            <File Name="Batman and the Outsiders 25"/>
-            <File Name="Blue Devil 16"/>
-            <File Name="Green Lantern 192"/>
-            <File Name="Hex 1"/>
-            <File Name="Infinity Inc. 18"/>
-            <File Name="New Teen Titans 12"/>
-            <File Name="Sgt. Rock 404"/>
-            <File Name="Superman Annual 11"/>
-            <File Name="Swamp Thing 40"/>
-            <File Name="Warlord 97"/>
-            <File Name="Who&apos;s Who 7"/>
-            <File Name="Action Comics 571"/>
-            <File Name="All-Star Squadron 49"/>
-            <File Name="Ambush Bug 4"/>
-            <File Name="Arion, Lord of Atlantis 35"/>
-            <File Name="Batman and the Outsiders Annual 2"/>
-            <File Name="Detective Comics 554"/>
-            <File Name="Tales of the Legion 327"/>
-            <File Name="V 8"/>
-            <File Name="Vigilante Annual 1"/>
-            <File Name="Wonder Woman 327"/>
-            <File Name="World&apos;s Finest Comics 319"/>
+            <File Name="Mask 1  [Kenner Premium]" ID="37821" SERIESID="3071"/>
+            <File Name="Mask 2  [Kenner Premium]" ID="37822" SERIESID="3071"/>
+            <File Name="Mask 3  [Kenner Premium]" ID="37823" SERIESID="3071"/>
+            <File Name="Best of DC 64" ID="5456" SERIESID="409"/>
+            <File Name="Crisis on Infinite Earths 6" ID="7380" SERIESID="598"/>
+            <File Name="DC Comics Presents 85" ID="7735" SERIESID="637"/>
+            <File Name="Deadman 5" ID="8028" SERIESID="663"/>
+            <File Name="Fury of Firestorm 39" ID="11109" SERIESID="853"/>
+            <File Name="Justice League of America 242" ID="17985" SERIESID="1234"/>
+            <File Name="Losers Special 1" ID="19392" SERIESID="1376"/>
+            <File Name="Tales of the Teen Titans 57" ID="28788" SERIESID="1490"/>
+            <File Name="Vigilante 21" ID="30639" SERIESID="2296"/>
+            <File Name="Amethyst 9" ID="2545" SERIESID="78"/>
+            <File Name="Arak, Son of Thunder 48" ID="3043" SERIESID="104"/>
+            <File Name="Batman 387" ID="3920" SERIESID="162"/>
+            <File Name="Flash 349" ID="10407" SERIESID="807"/>
+            <File Name="G.I. Combat 279" ID="11692" SERIESID="887"/>
+            <File Name="Legion of Super-Heroes 14" ID="18483" SERIESID="1323"/>
+            <File Name="New Teen Titans Annual 1" ID="20514" SERIESID="1491"/>
+            <File Name="Omega Men 30" ID="20721" SERIESID="1519"/>
+            <File Name="Red Tornado 3" ID="22421" SERIESID="1652"/>
+            <File Name="Star Trek 18" ID="25013" SERIESID="1931"/>
+            <File Name="Super Powers 1" ID="28154" SERIESID="2103"/>
+            <File Name="Super Powers Collection:Steppenwolf 13" ID="37777" SERIESID="3076"/>
+            <File Name="Superman 411" ID="27598" SERIESID="1984"/>
+            <File Name="Super Powers Collection:Martian Manhunter 14" ID="37778" SERIESID="3076"/>
+            <File Name="Super Powers Collection:Dr. Fate 15" ID="37779" SERIESID="3076"/>
+            <File Name="Super Powers Collection:Firestorm 16" ID="37780" SERIESID="3076"/>
+            <File Name="Super Powers Collection:Mantis 17" ID="37781" SERIESID="3076"/>
+            <File Name="Super Powers Collection:Green Arrow 18" ID="37783" SERIESID="3076"/>
+            <File Name="Super Powers Collection:Darkseid 19" ID="37784" SERIESID="3076"/>
+            <File Name="Batman and the Outsiders 25" ID="4325" SERIESID="180"/>
+            <File Name="Blue Devil 16" ID="5982" SERIESID="484"/>
+            <File Name="Green Lantern 192" ID="12740" SERIESID="930"/>
+            <File Name="Hex 1" ID="15647" SERIESID="1061"/>
+            <File Name="Infinity Inc. 18" ID="16320" SERIESID="1110"/>
+            <File Name="New Teen Titans 12" ID="20515" SERIESID="1491"/>
+            <File Name="Sgt. Rock 404" ID="23998" SERIESID="1534"/>
+            <File Name="Super Powers Collection:Kalibak 20" ID="37786" SERIESID="3076"/>
+            <File Name="Superman Annual 11" ID="27599" SERIESID="1984"/>
+            <File Name="Swamp Thing 40" ID="28246" SERIESID="2109"/>
+            <File Name="Warlord 97" ID="30079" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 7" ID="30787" SERIESID="2144"/>
+            <File Name="Super Powers Collection:DeSaad 21" ID="37787" SERIESID="3076"/>
+            <File Name="Super Powers Collection:Parademon 22" ID="37788" SERIESID="3076"/>
+            <File Name="Super Powers Collection:Red Tornado 23" ID="37790" SERIESID="3076"/>
+            <File Name="Action Comics 571" ID="554" SERIESID="28"/>
+            <File Name="All-Star Squadron 49" ID="2381" SERIESID="62"/>
+            <File Name="Ambush Bug 4" ID="2483" SERIESID="68"/>
+            <File Name="Arion, Lord of Atlantis 35" ID="3206" SERIESID="107"/>
+            <File Name="Batman and the Outsiders Annual 2" ID="4326" SERIESID="180"/>
+            <File Name="Detective Comics 554" ID="8847" SERIESID="693"/>
+            <File Name="Tales of the Legion 327" ID="28737" SERIESID="1964"/>
+            <File Name="V 8" ID="30503" SERIESID="2268"/>
+            <File Name="Vigilante Annual 1" ID="30640" SERIESID="2296"/>
+            <File Name="Wonder Woman 327" ID="31369" SERIESID="2351"/>
+            <File Name="World&apos;s Finest Comics 319" ID="31960" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1985 07">
-            <File Name="Best of DC 65"/>
-            <File Name="Crisis on Infinite Earths 7"/>
-            <File Name="DC Comics Presents 86"/>
-            <File Name="Deadman 6"/>
-            <File Name="Fury of Firestorm 40"/>
-            <File Name="Hex 2"/>
-            <File Name="Justice League of America 243"/>
-            <File Name="Tales of the Teen Titans 58"/>
-            <File Name="Vigilante 22"/>
-            <File Name="Amethyst 10"/>
-            <File Name="Arak, Son of Thunder 49"/>
-            <File Name="Batman 388"/>
-            <File Name="Flash 350"/>
-            <File Name="Legion of Super-Heroes 15"/>
-            <File Name="Omega Men 31"/>
-            <File Name="Red Tornado 4"/>
-            <File Name="Star Trek 19"/>
-            <File Name="Super Powers 2"/>
-            <File Name="Superman 412"/>
-            <File Name="Batman and the Outsiders 26"/>
-            <File Name="Blue Devil 17"/>
-            <File Name="DC Comics Presents Annual 4"/>
-            <File Name="Green Lantern 193"/>
-            <File Name="Infinity Inc. 19"/>
-            <File Name="New Teen Titans 13"/>
-            <File Name="Sgt. Rock 405"/>
-            <File Name="Swamp Thing 41"/>
-            <File Name="Talent Showcase 19"/>
-            <File Name="Warlord 98"/>
-            <File Name="Who&apos;s Who 8"/>
-            <File Name="Action Comics 572"/>
-            <File Name="All-Star Squadron 50"/>
-            <File Name="Detective Comics 555"/>
-            <File Name="Legion of Super-Heroes Annual 1"/>
-            <File Name="Nathaniel Dusk II 1"/>
-            <File Name="Star Trek Annual 1"/>
-            <File Name="Tales of the Legion 328"/>
-            <File Name="V 9"/>
-            <File Name="World&apos;s Finest Comics 320"/>
+            <File Name="Fifty Who Made DC Great ( 1)" ID="40635" SERIESID="3543"/>
+            <File Name="Best of DC 65" ID="5457" SERIESID="409"/>
+            <File Name="Crisis on Infinite Earths 7" ID="7381" SERIESID="598"/>
+            <File Name="DC Comics Presents 86" ID="7736" SERIESID="637"/>
+            <File Name="Deadman 6" ID="8029" SERIESID="663"/>
+            <File Name="Fury of Firestorm 40" ID="11110" SERIESID="853"/>
+            <File Name="Hex 2" ID="15648" SERIESID="1061"/>
+            <File Name="Justice League of America 243" ID="17986" SERIESID="1234"/>
+            <File Name="Tales of the Teen Titans 58" ID="28789" SERIESID="1490"/>
+            <File Name="Vigilante 22" ID="30641" SERIESID="2296"/>
+            <File Name="Amethyst 10" ID="2546" SERIESID="78"/>
+            <File Name="Arak, Son of Thunder 49" ID="3044" SERIESID="104"/>
+            <File Name="Batman 388" ID="3921" SERIESID="162"/>
+            <File Name="DC Spotlight 1" ID="37869" SERIESID="3481"/>
+            <File Name="Flash 350" ID="10408" SERIESID="807"/>
+            <File Name="Legion of Super-Heroes 15" ID="18484" SERIESID="1323"/>
+            <File Name="Omega Men 31" ID="20722" SERIESID="1519"/>
+            <File Name="Red Tornado 4" ID="22422" SERIESID="1652"/>
+            <File Name="Star Trek 19" ID="25014" SERIESID="1931"/>
+            <File Name="Super Powers 2" ID="28155" SERIESID="2103"/>
+            <File Name="Superman 412" ID="27600" SERIESID="1984"/>
+            <File Name="Batman and the Outsiders 26" ID="4327" SERIESID="180"/>
+            <File Name="Blue Devil 17" ID="5983" SERIESID="484"/>
+            <File Name="DC Comics Presents Annual 4" ID="7737" SERIESID="637"/>
+            <File Name="Green Lantern 193" ID="12741" SERIESID="930"/>
+            <File Name="Infinity Inc. 19" ID="16321" SERIESID="1110"/>
+            <File Name="New Teen Titans 13" ID="20516" SERIESID="1491"/>
+            <File Name="Sgt. Rock 405" ID="23999" SERIESID="1534"/>
+            <File Name="Swamp Thing 41" ID="28247" SERIESID="2109"/>
+            <File Name="Talent Showcase 19" ID="28493" SERIESID="1489"/>
+            <File Name="Warlord 98" ID="30080" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 8" ID="30788" SERIESID="2144"/>
+            <File Name="Action Comics 572" ID="555" SERIESID="28"/>
+            <File Name="All-Star Squadron 50" ID="2382" SERIESID="62"/>
+            <File Name="Detective Comics 555" ID="8848" SERIESID="693"/>
+            <File Name="Legion of Super-Heroes Annual 1" ID="18485" SERIESID="1323"/>
+            <File Name="Nathaniel Dusk II 1" ID="20242" SERIESID="1472"/>
+            <File Name="Star Trek Annual 1" ID="25015" SERIESID="1931"/>
+            <File Name="Tales of the Legion 328" ID="28738" SERIESID="1964"/>
+            <File Name="V 9" ID="30504" SERIESID="2268"/>
+            <File Name="World&apos;s Finest Comics 320" ID="31961" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1985 08">
-            <File Name="Best of DC 66"/>
-            <File Name="Blue Devil Annual 1"/>
-            <File Name="Crisis on Infinite Earths 8"/>
-            <File Name="DC Comics Presents 87"/>
-            <File Name="Deadman 7"/>
-            <File Name="Fury of Firestorm 41"/>
-            <File Name="Hex 3"/>
-            <File Name="Justice League of America 244"/>
-            <File Name="Outsiders 1"/>
-            <File Name="Tales of the Teen Titans 59"/>
-            <File Name="Vigilante 23"/>
-            <File Name="Amethyst 11"/>
-            <File Name="Arak, Son of Thunder 50"/>
-            <File Name="Arion, Lord of Atlantis Special 1"/>
-            <File Name="Batman 389"/>
-            <File Name="G.I. Combat 280"/>
-            <File Name="Justice League of America Annual 3"/>
-            <File Name="Legion of Super-Heroes 16"/>
-            <File Name="Omega Men 32"/>
-            <File Name="Star Trek 20"/>
-            <File Name="Super Powers 3"/>
-            <File Name="Superman 413"/>
-            <File Name="Batman and the Outsiders 27"/>
-            <File Name="Blue Devil 18"/>
-            <File Name="Fury of Firestorm Annual 3"/>
-            <File Name="Green Lantern 194"/>
-            <File Name="Infinity Inc. 20"/>
-            <File Name="New Teen Titans 14"/>
-            <File Name="Sgt. Rock 406"/>
-            <File Name="Swamp Thing 42"/>
-            <File Name="Warlord 99"/>
-            <File Name="Who&apos;s Who 9"/>
-            <File Name="All-Star Squadron 51"/>
-            <File Name="Detective Comics 556"/>
-            <File Name="Nathaniel Dusk II 2"/>
-            <File Name="Omega Men Annual 2"/>
-            <File Name="Tales of the Legion 329"/>
-            <File Name="V 10"/>
-            <File Name="World&apos;s Finest Comics 321"/>
-            <File Name="Action Comics 573"/>
-            <File Name="Crisis on Infinite Earths 9"/>
-            <File Name="DC Challenge 1"/>
-            <File Name="DC Graphic Novel 5"/>
-            <File Name="Mask 1"/>
-            <File Name="Tales of the Teen Titans 60"/>
-            <File Name="Wonder Woman 328"/>
+            <File Name="Best of DC 66" ID="5458" SERIESID="409"/>
+            <File Name="Blue Devil Annual 1" ID="5984" SERIESID="484"/>
+            <File Name="Crisis on Infinite Earths 8" ID="7382" SERIESID="598"/>
+            <File Name="DC Comics Presents 87" ID="7738" SERIESID="637"/>
+            <File Name="Deadman 7" ID="8030" SERIESID="663"/>
+            <File Name="Fury of Firestorm 41" ID="11111" SERIESID="853"/>
+            <File Name="Hex 3" ID="15649" SERIESID="1061"/>
+            <File Name="Justice League of America 244" ID="17987" SERIESID="1234"/>
+            <File Name="Outsiders 1" ID="21492" SERIESID="1539"/>
+            <File Name="Tales of the Teen Titans 59" ID="28790" SERIESID="1490"/>
+            <File Name="Vigilante 23" ID="30642" SERIESID="2296"/>
+            <File Name="Amethyst 11" ID="2547" SERIESID="78"/>
+            <File Name="Arak, Son of Thunder 50" ID="3045" SERIESID="104"/>
+            <File Name="Arion, Lord of Atlantis Special 1" ID="3207" SERIESID="107"/>
+            <File Name="Batman 389" ID="3922" SERIESID="162"/>
+            <File Name="G.I. Combat 280" ID="11693" SERIESID="887"/>
+            <File Name="Justice League of America Annual 3" ID="17988" SERIESID="1234"/>
+            <File Name="Legion of Super-Heroes 16" ID="18486" SERIESID="1323"/>
+            <File Name="Omega Men 32" ID="20723" SERIESID="1519"/>
+            <File Name="Star Trek 20" ID="25016" SERIESID="1931"/>
+            <File Name="Super Powers 3" ID="28156" SERIESID="2103"/>
+            <File Name="Superman 413" ID="27601" SERIESID="1984"/>
+            <File Name="Batman and the Outsiders 27" ID="4328" SERIESID="180"/>
+            <File Name="Blue Devil 18" ID="5985" SERIESID="484"/>
+            <File Name="Fury of Firestorm Annual 3" ID="11112" SERIESID="853"/>
+            <File Name="Green Lantern 194" ID="12742" SERIESID="930"/>
+            <File Name="Infinity Inc. 20" ID="16322" SERIESID="1110"/>
+            <File Name="New Teen Titans 14" ID="20517" SERIESID="1491"/>
+            <File Name="Sgt. Rock 406" ID="24000" SERIESID="1534"/>
+            <File Name="Swamp Thing 42" ID="28248" SERIESID="2109"/>
+            <File Name="Warlord 99" ID="30081" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 9" ID="30789" SERIESID="2144"/>
+            <File Name="All-Star Squadron 51" ID="2383" SERIESID="62"/>
+            <File Name="Detective Comics 556" ID="8849" SERIESID="693"/>
+            <File Name="Nathaniel Dusk II 2" ID="20243" SERIESID="1472"/>
+            <File Name="Omega Men Annual 2" ID="20724" SERIESID="1519"/>
+            <File Name="Tales of the Legion 329" ID="28739" SERIESID="1964"/>
+            <File Name="V 10" ID="30505" SERIESID="2268"/>
+            <File Name="World&apos;s Finest Comics 321" ID="31962" SERIESID="2378"/>
+            <File Name="Action Comics 573" ID="556" SERIESID="28"/>
+            <File Name="Crisis on Infinite Earths 9" ID="7383" SERIESID="598"/>
+            <File Name="DC Challenge 1" ID="7636" SERIESID="636"/>
+            <File Name="DC Graphic Novel 5" ID="7765" SERIESID="640"/>
+            <File Name="Mask 1" ID="19045" SERIESID="1411"/>
+            <File Name="Tales of the Teen Titans 60" ID="28791" SERIESID="1490"/>
+            <File Name="Wonder Woman 328" ID="31370" SERIESID="2351"/>
         </Directory>
         <Directory Name="CDCC 1985 09">
-            <File Name="Best of DC 67"/>
-            <File Name="DC Comics Presents 88"/>
-            <File Name="Fury of Firestorm 42"/>
-            <File Name="Hex 4"/>
-            <File Name="Infinity Inc. Annual 1"/>
-            <File Name="Justice League of America 245"/>
-            <File Name="Outsiders 2"/>
-            <File Name="Vigilante 24"/>
-            <File Name="Amethyst 12"/>
-            <File Name="Batman 390"/>
-            <File Name="Legion of Super-Heroes 17"/>
-            <File Name="Omega Men 33"/>
-            <File Name="Shadow of the Batman 1"/>
-            <File Name="Star Trek 21"/>
-            <File Name="Super Powers 4"/>
-            <File Name="Superman 414"/>
-            <File Name="Batman and the Outsiders 28"/>
-            <File Name="Blue Devil 19"/>
-            <File Name="Green Lantern 195"/>
-            <File Name="Infinity Inc. 21"/>
-            <File Name="New Teen Titans 15"/>
-            <File Name="Sgt. Rock 407"/>
-            <File Name="Swamp Thing 43"/>
-            <File Name="Warlord 100"/>
-            <File Name="Who&apos;s Who 10"/>
-            <File Name="Action Comics 574"/>
-            <File Name="All-Star Squadron 52"/>
-            <File Name="DC Challenge 2"/>
-            <File Name="DC Science Fiction Graphic Novel 1"/>
-            <File Name="Detective Comics 557"/>
-            <File Name="Nathaniel Dusk II 3"/>
-            <File Name="Tales of the Legion 330"/>
-            <File Name="V 11"/>
-            <File Name="World&apos;s Finest Comics 322"/>
+            <File Name="Best of DC 67" ID="5459" SERIESID="409"/>
+            <File Name="DC Comics Presents 88" ID="7739" SERIESID="637"/>
+            <File Name="Fury of Firestorm 42" ID="11113" SERIESID="853"/>
+            <File Name="Hex 4" ID="15650" SERIESID="1061"/>
+            <File Name="Infinity Inc. Annual 1" ID="16323" SERIESID="1110"/>
+            <File Name="Justice League of America 245" ID="17989" SERIESID="1234"/>
+            <File Name="Outsiders 2" ID="21493" SERIESID="1539"/>
+            <File Name="Vigilante 24" ID="30643" SERIESID="2296"/>
+            <File Name="Amethyst 12" ID="2548" SERIESID="78"/>
+            <File Name="Batman 390" ID="3923" SERIESID="162"/>
+            <File Name="Legion of Super-Heroes 17" ID="18487" SERIESID="1323"/>
+            <File Name="Omega Men 33" ID="20725" SERIESID="1519"/>
+            <File Name="Shadow of the Batman 1" ID="24191" SERIESID="1796"/>
+            <File Name="Star Trek 21" ID="25017" SERIESID="1931"/>
+            <File Name="Super Powers 4" ID="28157" SERIESID="2103"/>
+            <File Name="Superman 414" ID="27602" SERIESID="1984"/>
+            <File Name="Batman and the Outsiders 28" ID="4329" SERIESID="180"/>
+            <File Name="Blue Devil 19" ID="5986" SERIESID="484"/>
+            <File Name="Green Lantern 195" ID="12743" SERIESID="930"/>
+            <File Name="Infinity Inc. 21" ID="16324" SERIESID="1110"/>
+            <File Name="New Teen Titans 15" ID="20518" SERIESID="1491"/>
+            <File Name="Sgt. Rock 407" ID="24001" SERIESID="1534"/>
+            <File Name="Swamp Thing 43" ID="28249" SERIESID="2109"/>
+            <File Name="Warlord 100" ID="30082" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 10" ID="30790" SERIESID="2144"/>
+            <File Name="Action Comics 574" ID="557" SERIESID="28"/>
+            <File Name="All-Star Squadron 52" ID="2384" SERIESID="62"/>
+            <File Name="DC Challenge 2" ID="7637" SERIESID="636"/>
+            <File Name="DC Science Fiction Graphic Novel 1" ID="7868" SERIESID="646"/>
+            <File Name="Detective Comics 557" ID="8850" SERIESID="693"/>
+            <File Name="Nathaniel Dusk II 3" ID="20244" SERIESID="1472"/>
+            <File Name="Tales of the Legion 330" ID="28740" SERIESID="1964"/>
+            <File Name="V 11" ID="30506" SERIESID="2268"/>
+            <File Name="World&apos;s Finest Comics 322" ID="31963" SERIESID="2378"/>
         </Directory>
         <Directory Name="CDCC 1985 10">
-            <File Name="Best of DC 68"/>
-            <File Name="Crisis on Infinite Earths 10"/>
-            <File Name="DC Comics Presents 89"/>
-            <File Name="Fury of Firestorm 43"/>
-            <File Name="Hex 5"/>
-            <File Name="Justice League of America 246"/>
-            <File Name="Mask 2"/>
-            <File Name="Outsiders 3"/>
-            <File Name="Tales of the Teen Titans 61"/>
-            <File Name="Vigilante 25"/>
-            <File Name="&apos;Mazing Man 1"/>
-            <File Name="Batman 391"/>
-            <File Name="Elvira&apos;s House of Mystery 1"/>
-            <File Name="G.I. Combat 281"/>
-            <File Name="Legion of Super-Heroes 18"/>
-            <File Name="Omega Men 34"/>
-            <File Name="Shadow of the Batman 2"/>
-            <File Name="Star Trek 22"/>
-            <File Name="Super Powers 5"/>
-            <File Name="Superman 415"/>
-            <File Name="Batman and the Outsiders 29"/>
-            <File Name="Blue Devil 20"/>
-            <File Name="Green Lantern 196"/>
-            <File Name="Infinity Inc. 22"/>
-            <File Name="New Teen Titans 16"/>
-            <File Name="Swamp Thing 44"/>
-            <File Name="Warlord 101"/>
-            <File Name="Who&apos;s Who 11"/>
-            <File Name="Action Comics 575"/>
-            <File Name="All-Star Squadron 53"/>
-            <File Name="Detective Comics 558"/>
-            <File Name="Oz-Wonderland Wars 1"/>
-            <File Name="Tales of the Legion 331"/>
-            <File Name="World&apos;s Finest Comics 323"/>
-            <File Name="Crisis on Infinite Earths 11"/>
-            <File Name="DC Challenge 3"/>
-            <File Name="Legionnaires Three 1"/>
-            <File Name="Mask 3"/>
-            <File Name="Nathaniel Dusk II 4"/>
-            <File Name="V 12"/>
+            <File Name="Best of DC 68" ID="5460" SERIESID="409"/>
+            <File Name="Crisis on Infinite Earths 10" ID="7384" SERIESID="598"/>
+            <File Name="DC Comics Presents 89" ID="7740" SERIESID="637"/>
+            <File Name="Fury of Firestorm 43" ID="11114" SERIESID="853"/>
+            <File Name="Hex 5" ID="15651" SERIESID="1061"/>
+            <File Name="Justice League of America 246" ID="17990" SERIESID="1234"/>
+            <File Name="Mask 2" ID="19046" SERIESID="1411"/>
+            <File Name="Outsiders 3" ID="21494" SERIESID="1539"/>
+            <File Name="Tales of the Teen Titans 61" ID="28792" SERIESID="1490"/>
+            <File Name="Vigilante 25" ID="30644" SERIESID="2296"/>
+            <File Name="McDonalds Commandrons ( 1)" ID="40748" SERIESID="3623"/>
+            <File Name="&apos;Mazing Man 1" ID="19068" SERIESID="1296"/>
+            <File Name="Batman 391" ID="3924" SERIESID="162"/>
+            <File Name="Elvira&apos;s House of Mystery 1" ID="9600" SERIESID="752"/>
+            <File Name="G.I. Combat 281" ID="11694" SERIESID="887"/>
+            <File Name="Legion of Super-Heroes 18" ID="18488" SERIESID="1323"/>
+            <File Name="Omega Men 34" ID="20726" SERIESID="1519"/>
+            <File Name="Shadow of the Batman 2" ID="24192" SERIESID="1796"/>
+            <File Name="Star Trek 22" ID="25018" SERIESID="1931"/>
+            <File Name="Super Powers 5" ID="28158" SERIESID="2103"/>
+            <File Name="Superman 415" ID="27603" SERIESID="1984"/>
+            <File Name="McDonalds Commandrons ( 2)" ID="40746" SERIESID="3623"/>
+            <File Name="Batman and the Outsiders 29" ID="4330" SERIESID="180"/>
+            <File Name="Blue Devil 20" ID="5987" SERIESID="484"/>
+            <File Name="Green Lantern 196" ID="12744" SERIESID="930"/>
+            <File Name="Infinity Inc. 22" ID="16325" SERIESID="1110"/>
+            <File Name="New Teen Titans 16" ID="20519" SERIESID="1491"/>
+            <File Name="Swamp Thing 44" ID="28250" SERIESID="2109"/>
+            <File Name="Warlord 101" ID="30083" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 11" ID="30791" SERIESID="2144"/>
+            <File Name="McDonalds Commandrons ( 3)" ID="40747" SERIESID="3623"/>
+            <File Name="Action Comics 575" ID="558" SERIESID="28"/>
+            <File Name="All-Star Squadron 53" ID="2385" SERIESID="62"/>
+            <File Name="Detective Comics 558" ID="8851" SERIESID="693"/>
+            <File Name="Oz-Wonderland Wars 1" ID="21585" SERIESID="1546"/>
+            <File Name="Tales of the Legion 331" ID="28741" SERIESID="1964"/>
+            <File Name="World&apos;s Finest Comics 323" ID="31964" SERIESID="2378"/>
+            <File Name="McDonalds Commandrons ( 4)" ID="40749" SERIESID="3623"/>
+            <File Name="Crisis on Infinite Earths 11" ID="7385" SERIESID="598"/>
+            <File Name="DC Challenge 3" ID="7638" SERIESID="636"/>
+            <File Name="Legionnaires Three 1" ID="18403" SERIESID="1319"/>
+            <File Name="Mask 3" ID="19047" SERIESID="1411"/>
+            <File Name="Nathaniel Dusk II 4" ID="20245" SERIESID="1472"/>
+            <File Name="V 12" ID="30507" SERIESID="2268"/>
         </Directory>
         <Directory Name="CDCC 1985 11">
-            <File Name="Best of DC 69"/>
-            <File Name="DC Comics Presents 90"/>
-            <File Name="Fury of Firestorm 44"/>
-            <File Name="Hex 6"/>
-            <File Name="Justice League of America 247"/>
-            <File Name="Outsiders 4"/>
-            <File Name="Tales of the Teen Titans 62"/>
-            <File Name="Vigilante 26"/>
-            <File Name="&apos;Mazing Man 2"/>
-            <File Name="Amethyst 13"/>
-            <File Name="Aquaman 1"/>
-            <File Name="Batman 392"/>
-            <File Name="Legion of Super-Heroes 19"/>
-            <File Name="Omega Men 35"/>
-            <File Name="Shadow of the Batman 3"/>
-            <File Name="Star Trek 23"/>
-            <File Name="Super Powers 6"/>
-            <File Name="Superman 416"/>
-            <File Name="Batman and the Outsiders 30"/>
-            <File Name="Blue Devil 21"/>
-            <File Name="Booster Gold 1"/>
-            <File Name="Green Lantern 197"/>
-            <File Name="Infinity Inc. 23"/>
-            <File Name="New Teen Titans 17"/>
-            <File Name="Sgt. Rock 408"/>
-            <File Name="Swamp Thing 45"/>
-            <File Name="Warlord 102"/>
-            <File Name="Who&apos;s Who 12"/>
-            <File Name="Action Comics 576"/>
-            <File Name="All-Star Squadron 54"/>
-            <File Name="Ambush Bug Stocking Stuffer 1"/>
-            <File Name="DC Challenge 4"/>
-            <File Name="DC Science Fiction Graphic Novel 2"/>
-            <File Name="Detective Comics 559"/>
-            <File Name="Oz-Wonderland Wars 2"/>
-            <File Name="Tales of the Legion of Super-Heroes 332"/>
-            <File Name="V 13"/>
-            <File Name="Wonder Woman 329"/>
+            <File Name="Best of DC 69" ID="5461" SERIESID="409"/>
+            <File Name="DC Comics Presents 90" ID="7741" SERIESID="637"/>
+            <File Name="Fury of Firestorm 44" ID="11115" SERIESID="853"/>
+            <File Name="Hex 6" ID="15652" SERIESID="1061"/>
+            <File Name="Justice League of America 247" ID="17991" SERIESID="1234"/>
+            <File Name="Outsiders 4" ID="21495" SERIESID="1539"/>
+            <File Name="Tales of the Teen Titans 62" ID="28793" SERIESID="1490"/>
+            <File Name="Vigilante 26" ID="30645" SERIESID="2296"/>
+            <File Name="&apos;Mazing Man 2" ID="19069" SERIESID="1296"/>
+            <File Name="Amethyst 13" ID="2549" SERIESID="78"/>
+            <File Name="Aquaman 1" ID="2859" SERIESID="90"/>
+            <File Name="Batman 392" ID="3925" SERIESID="162"/>
+            <File Name="Legion of Super-Heroes 19" ID="18489" SERIESID="1323"/>
+            <File Name="Omega Men 35" ID="20727" SERIESID="1519"/>
+            <File Name="Shadow of the Batman 3" ID="24193" SERIESID="1796"/>
+            <File Name="Star Trek 23" ID="25019" SERIESID="1931"/>
+            <File Name="Super Powers 6" ID="28159" SERIESID="2103"/>
+            <File Name="Superman 416" ID="27604" SERIESID="1984"/>
+            <File Name="Rainbow Brite and the Star Stealer ( 1)" ID="40639" SERIESID="3549"/>
+            <File Name="Batman and the Outsiders 30" ID="4331" SERIESID="180"/>
+            <File Name="Blue Devil 21" ID="5988" SERIESID="484"/>
+            <File Name="Booster Gold 1" ID="6170" SERIESID="504"/>
+            <File Name="Green Lantern 197" ID="12745" SERIESID="930"/>
+            <File Name="Infinity Inc. 23" ID="16326" SERIESID="1110"/>
+            <File Name="New Teen Titans 17" ID="20520" SERIESID="1491"/>
+            <File Name="Sgt. Rock 408" ID="24002" SERIESID="1534"/>
+            <File Name="Swamp Thing 45" ID="28251" SERIESID="2109"/>
+            <File Name="Warlord 102" ID="30084" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 12" ID="30792" SERIESID="2144"/>
+            <File Name="Action Comics 576" ID="559" SERIESID="28"/>
+            <File Name="All-Star Squadron 54" ID="2386" SERIESID="62"/>
+            <File Name="Ambush Bug Stocking Stuffer 1" ID="2484" SERIESID="68"/>
+            <File Name="DC Challenge 4" ID="7639" SERIESID="636"/>
+            <File Name="DC Science Fiction Graphic Novel 2" ID="7869" SERIESID="646"/>
+            <File Name="Detective Comics 559" ID="8852" SERIESID="693"/>
+            <File Name="Oz-Wonderland Wars 2" ID="21586" SERIESID="1546"/>
+            <File Name="Tales of the Legion of Super-Heroes 332" ID="28742" SERIESID="1964"/>
+            <File Name="V 13" ID="30508" SERIESID="2268"/>
+            <File Name="Wonder Woman 329" ID="31371" SERIESID="2351"/>
         </Directory>
         <Directory Name="CDCC 1985 12">
-            <File Name="Best of DC 70"/>
-            <File Name="DC Comics Presents 91"/>
-            <File Name="Fury of Firestorm 45"/>
-            <File Name="Hex 7"/>
-            <File Name="Justice League of America 248"/>
-            <File Name="Legionnaires Three 2"/>
-            <File Name="Mask 4"/>
-            <File Name="Outsiders 5"/>
-            <File Name="Tales of the Teen Titans 63"/>
-            <File Name="Vigilante 27"/>
-            <File Name="&apos;Mazing Man 3"/>
-            <File Name="Aquaman 2"/>
-            <File Name="Batman 393"/>
-            <File Name="DC Science Fiction Graphic Novel 3"/>
-            <File Name="G.I. Combat 282"/>
-            <File Name="Hawkman Special 1"/>
-            <File Name="Legion of Super-Heroes 20"/>
-            <File Name="Omega Men 36"/>
-            <File Name="Shadow of the Batman 4"/>
-            <File Name="Star Trek 24"/>
-            <File Name="Superman 417"/>
-            <File Name="Batman and the Outsiders 31"/>
-            <File Name="Blue Devil 22"/>
-            <File Name="Booster Gold 2"/>
-            <File Name="Crisis on Infinite Earths 12"/>
-            <File Name="Green Lantern 198"/>
-            <File Name="Infinity Inc. 24"/>
-            <File Name="New Teen Titans 18"/>
-            <File Name="Swamp Thing 46"/>
-            <File Name="Warlord 103"/>
-            <File Name="Who&apos;s Who 13"/>
-            <File Name="Action Comics 577"/>
-            <File Name="All-Star Squadron 55"/>
-            <File Name="DC Challenge 5"/>
-            <File Name="Deadman 1"/>
-            <File Name="Detective Comics 560"/>
-            <File Name="Oz-Wonderland Wars 3"/>
-            <File Name="Tales of the Legion of Super-Heroes 333"/>
-            <File Name="V 14"/>
+            <File Name="Best of DC 70" ID="5462" SERIESID="409"/>
+            <File Name="DC Comics Presents 91" ID="7742" SERIESID="637"/>
+            <File Name="Fury of Firestorm 45" ID="11116" SERIESID="853"/>
+            <File Name="Hex 7" ID="15653" SERIESID="1061"/>
+            <File Name="Justice League of America 248" ID="17992" SERIESID="1234"/>
+            <File Name="Legionnaires Three 2" ID="18404" SERIESID="1319"/>
+            <File Name="Mask 4" ID="19048" SERIESID="1411"/>
+            <File Name="Outsiders 5" ID="21496" SERIESID="1539"/>
+            <File Name="Tales of the Teen Titans 63" ID="28794" SERIESID="1490"/>
+            <File Name="Vigilante 27" ID="30646" SERIESID="2296"/>
+            <File Name="&apos;Mazing Man 3" ID="19070" SERIESID="1296"/>
+            <File Name="Aquaman 2" ID="2860" SERIESID="90"/>
+            <File Name="Batman 393" ID="3926" SERIESID="162"/>
+            <File Name="DC Science Fiction Graphic Novel 3" ID="7870" SERIESID="646"/>
+            <File Name="G.I. Combat 282" ID="11695" SERIESID="887"/>
+            <File Name="Hawkman Special 1" ID="14767" SERIESID="1002"/>
+            <File Name="Legion of Super-Heroes 20" ID="18490" SERIESID="1323"/>
+            <File Name="Omega Men 36" ID="20728" SERIESID="1519"/>
+            <File Name="Shadow of the Batman 4" ID="24194" SERIESID="1796"/>
+            <File Name="Star Trek 24" ID="25020" SERIESID="1931"/>
+            <File Name="Superman 417" ID="27605" SERIESID="1984"/>
+            <File Name="Batman and the Outsiders 31" ID="4332" SERIESID="180"/>
+            <File Name="Blue Devil 22" ID="5989" SERIESID="484"/>
+            <File Name="Booster Gold 2" ID="6171" SERIESID="504"/>
+            <File Name="Crisis on Infinite Earths 12" ID="7386" SERIESID="598"/>
+            <File Name="Green Lantern 198" ID="12746" SERIESID="930"/>
+            <File Name="Infinity Inc. 24" ID="16327" SERIESID="1110"/>
+            <File Name="New Teen Titans 18" ID="20521" SERIESID="1491"/>
+            <File Name="Swamp Thing 46" ID="28252" SERIESID="2109"/>
+            <File Name="Warlord 103" ID="30085" SERIESID="2303"/>
+            <File Name="Who&apos;s Who 13" ID="30793" SERIESID="2144"/>
+            <File Name="Action Comics 577" ID="560" SERIESID="28"/>
+            <File Name="All-Star Squadron 55" ID="2387" SERIESID="62"/>
+            <File Name="DC Challenge 5" ID="7640" SERIESID="636"/>
+            <File Name="Deadman 1" ID="8031" SERIESID="664"/>
+            <File Name="Detective Comics 560" ID="8853" SERIESID="693"/>
+            <File Name="Oz-Wonderland Wars 3" ID="21587" SERIESID="1546"/>
+            <File Name="Tales of the Legion of Super-Heroes 333" ID="28743" SERIESID="1964"/>
+            <File Name="V 14" ID="30509" SERIESID="2268"/>
         </Directory>
     </Year>
