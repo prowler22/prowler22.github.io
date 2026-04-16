@@ -69,7 +69,7 @@
 			const divs = document.querySelectorAll('div.question');
             
             for (let i = 0; i < divs.length; i++) {
-			    let inputs = divs[0].querySelectorAll('input');
+			    let inputs = divs[i].querySelectorAll('input');
 				let correctAns = 0;
 				let userCorrect = 0;
 				for (let j = 0; j < inputs.length; j++) {
@@ -80,7 +80,7 @@
 					   }
 					}
 				}
-				if (userCorrect == correctAns) {
+				if (correctAns > 0 && userCorrect == correctAns) {
 				    score++;
 				}
                 //const selected = document.querySelector(`input[name="q${i}"]:checked`);
