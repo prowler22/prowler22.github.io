@@ -5,54 +5,1147 @@
             <option>It is a decoy system that mimics natural systems or applications at a more finite level to monitor attacker activity.</option>
             <option>It creates fake files appearing to contain sensitive information, capturing data on attempts to access and steal data.</option>
             <option>It creates false credentials, login credentials, or other data types to distract and gain insight into attackers.</option>
-			<option correct="true">It uses a network of decoy systems to simulate an entire network to capture attackers' tactics and tools.</option>
+            <option correct="true">It uses a network of decoy systems to simulate an entire network to capture attackers' tactics and tools.</option>
         </options>
     </question>
+    
     <question>
         <text>An organization has an established change management program that includes standard operating procedures (SOPs). It wants to implement changes consistently and effectively. What role do SOPs play in the change management process?</text>
         <options>
             <option>They help track and communicate the status and outcome of approved changes.</option>
             <option correct="true">They define routine operations or changes, providing detailed instructions to implement them.</option>
             <option>They outline the steps for employees to follow when conducting an impact analysis.</option>
-			<option>They provide guidelines for developing backout plan procedures for changes.</option>
+            <option>They provide guidelines for developing backout plan procedures for changes.</option>
         </options>
     </question>
-	<question>
+
+    <question>
         <text>A user in a company wants a new USB flash drive. Rather than requesting one through the proper channel, the user obtains one from one of the company's storage closets. Upon approaching the closet door, the user notices a warning sign indicating cameras are in use. What is the control objective of the observed sign?</text>
         <options>
             <option>Detective</option>
             <option>Preventive</option>
             <option correct="true">Deterrent</option>
-			<option>Corrective</option>
+            <option>Corrective</option>
         </options>
     </question>
-	<question>
+
+    <question>
         <text>A systems owner reviews permissions granted to a targeted team of employees and determines that some of the employees' accesses are outside their scope of work. After revoking the certificates, what log does the owner use to record the changes?</text>
         <options>
             <option>Public Key Infrastructure (PKI)</option>
             <option correct="true">Certificate Revocation Lists (CRL)</option>
             <option>Trusted Platform Module (TPM)</option>
-			<option>Hardware Security Module (HSM)</option>
+            <option>Hardware Security Module (HSM)</option>
         </options>
     </question>
-	<question>
+
+    <question>
         <text>The organization is implementing a significant software upgrade that necessitates application restarts. How can the cybersecurity analyst ensure a smooth transition without causing extended downtime?</text>
         <options>
             <option>Conduct the software upgrade without restarting the applications to avoid interruptions.</option>
             <option correct="true">Schedule the upgrade during nonworking hours to reduce the impact on users.</option>
             <option>Restart all applications simultaneously to complete the upgrade faster.</option>
-			<option>Implement the upgrade without analyzing software dependencies.</option>
+            <option>Implement the upgrade without analyzing software dependencies.</option>
         </options>
     </question>
-	
-	<question>
-        <text multi="true">In a cybersecurity operation where minimizing downtime is critical to its mission, a cybersecurity analyst incorporates allowlists and denylists restrictions. The objective is to guarantee high availability (HA) and safeguard against potential security threats. How would a cybersecurity analyst utilize these lists in this scenario? (Select the two best options.)</text>
+
+    <question>
+        <text>In a cybersecurity operation where minimizing downtime is critical to its mission, a cybersecurity analyst incorporates allowlists and denylists restrictions. The objective is to guarantee high availability (HA) and safeguard against potential security threats. How would a cybersecurity analyst utilize these lists in this scenario? (Select the two best options.)</text>
         <options>
             <option correct="true">Allowlists can specify approved software, hardware, and change types that are essential for the operation's functioning.</option>
             <option>Denylists can restrict changes that require rigorous testing and approval to prevent any potential disruptions to the operation.</option>
             <option>Allowlists can include authorized software and hardware updates that are preapproved for installation to ensure operational continuity.</option>
-			<option correct="true">Denylists can block unauthorized software, hardware, and change types that pose high risk to the operation's availability and security.</option>
+            <option correct="true">Denylists can block unauthorized software, hardware, and change types that pose high risk to the operation's availability and security.</option>
         </options>
     </question>
 
+    <question>
+        <text>An organization's IT department wants to implement a security model responsible for verifying user identities, determining access rights, and monitoring activities within a system. Which concept is MOST appropriate for the department to implement?</text>
+        <options>
+            <option>Zero trust</option>
+            <option>AAA</option>
+            <option>RBAC</option>
+            <option>Policy engine</option>
+        </options>
+    </question>
+
+    <question>
+        <text>An organization changes its security posture after a breach and wants to enhance encryption by putting measures in place to mitigate risk exposures that cannot be directly eliminated by the cyber security team. What type of control is being observed in this situation?</text>
+        <options>
+            <option>Technical</option>
+            <option correct="true">Compensating</option>
+            <option>Administrative</option>
+            <option>Detective</option>
+        </options>
+    </question>
+
+    <question>
+        <text>How can a cybersecurity analyst effectively utilize version control to maintain a historical record of changes and ensure security in the organization's IT systems and applications?</text>
+        <options>
+            <option>Revert to previous versions of documents without assessing their impact on security.</option>
+            <option>Implement version control only for critical documents and code.</option>
+            <option correct="true">Use version control to track changes in network diagrams and configuration files.</option>
+            <option>Use version control solely for policy updates, neglecting changes to code.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A network administrator for a technology company is introducing a new cybersecurity model to limit data breaches. They wish to enforce a strategy where every system or user inside or outside the network perimeter must prove their legitimacy before accessing resources. What principle would be MOST effective in implementing their new strategy?</text>
+        <options>
+            <option correct="true">Zero Trust</option>
+            <option>Adaptive identity</option>
+            <option>Role-based access control</option>
+            <option>Policy-driven access control</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A cybersecurity analyst implements security measures for a financial institution's infrastructure. The analyst explores different technologies to enhance security and must select the appropriate technology to strengthen security within the organization's infrastructure. Which technology should the cybersecurity analyst choose to enhance security for executing sensitive operations and protecting critical data in the financial institution's infrastructure?</text>
+        <options>
+            <option correct="true">Secure enclave</option>
+            <option>Key management system</option>
+            <option>Firewall</option>
+            <option>Intrusion detection system</option>
+        </options>
+    </question>
+
+    <question>
+        <text>The organization's engineering team observes a system failure during the implementation of new software patching. From a conceptual standpoint, what can the team use to restore the system to its original state?</text>
+        <options>
+            <option>Test results</option>
+            <option>Maintenance windows</option>
+            <option>Impact analysis</option>
+            <option correct="true">Backout plan</option>
+        </options>
+    </question>
+
+    <question>
+        <text>An organization has tasked a cyber security technician with enhancing its framework after recently experiencing a cyber breach. What is the value associated with a public key infrastructure (PKI)?</text>
+        <options>
+            <option>It summates all revoked and suspended certificates and must be accessible to anyone relying on the validity of Certificate Authority's certificates.</option>
+            <option>It is a cryptoprocessor implemented as a module within the central processing unit (CPU) of a computer or mobile device.</option>
+            <option>It is a cryptoprocessor implementing hardware through removable or dedicated form factors, like plug-in peripheral component interconnect express adaptor cards.</option>
+            <option correct="true">It is the framework that establishes trust in using public key cryptography to sign and encrypt messages via digital signatures.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Prior to implementing new software integrations on the organization's network, a software specialist evaluates the selected modifications in an environment to ensure the software works correctly and does not cause issues. What concept does the specialist observe with a desire to ensure everything works before implementation?</text>
+        <options>
+            <option>Impact analysis</option>
+            <option>Backout plan</option>
+            <option>Maintenance windows</option>
+            <option correct="true">Test results</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A security analyst wants to ensure that the privileges granted to an individual align with the role within the organization. What tool is instrumental in enforcing authorization models?</text>
+        <options>
+            <option>Non-repudiation</option>
+            <option correct="true">Policy enforcement point</option>
+            <option>Authenticating systems</option>
+            <option>Zero trust</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A software organization has implemented a deception strategy to detect unauthorized data access attempts. An attacker, believing to have successfully obtained sensitive data, actually accessed a fabricated document designed to look like real sensitive information. This document was monitored, and upon access, it allowed the organization to capture the attacker's tactics and tools. What specific type of deception technology did the organization deploy?</text>
+        <options>
+            <option>Honeynet</option>
+            <option>Honeytoken</option>
+            <option>Honeypot</option>
+            <option correct="true">Honeyfile</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A company is updating its standard operating procedures (SOPs). What type of policy should a company focus on to ensure compliance with data privacy regulations and outline the appropriate handling of customer data?</text>
+        <options>
+            <option correct="true">Data privacy policy</option>
+            <option>Acceptable use policy</option>
+            <option>Information security policy</option>
+            <option>Disaster recovery policy</option>
+        </options>
+    </question>
+
+    <question>
+        <text>After encountering a cyber attack, an organization uses a monitoring solution that automatically restarts services after it has detected the system has crashed. What type of functional security control is the company implementing?</text>
+        <options>
+            <option correct="true">Corrective</option>
+            <option>Compensating</option>
+            <option>Technical</option>
+            <option>Managerial</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A software organization enhances its cyber security by using deception technologies to capture attacker tactics and tools. How can a honeytoken assist in the organization's strategy?</text>
+        <options>
+            <option correct="true">It creates false credentials, login credentials, or other data types to distract and gain insight into attackers.</option>
+            <option>It acts as a decoy, mimicking real systems or applications at a more finite level, monitoring attacker activity.</option>
+            <option>It uses a network of decoy systems to simulate an entire network to capture the attacker's tactics and tools.</option>
+            <option>It creates fake files that appear to contain sensitive information to capture data on attempts to access and steal data.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>The IT department of a corporation evaluates its security mechanisms to identify areas lacking sufficient protection. Which of the following techniques should the IT department employ?</text>
+        <options>
+            <option>Non-repudiation</option>
+            <option>Zero trust</option>
+            <option>Authorization models</option>
+            <option correct="true">Gap analysis</option>
+        </options>
+    </question>
+
+    <question>
+        <text multi="true">After receiving the annual audit results from the Inspector General's office, a cyber specialist begins identifying points of contact to implement change management on numerous flagged processes. Understanding the various positions tied to change management, which roles would have ownership in the change management process? (Select the two best options.)</text>
+        <options>
+            <option correct="true">Project manager</option>
+            <option>Vendors</option>
+            <option correct="true">Team leader</option>
+            <option>Partners</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A security analyst is investigating a security breach in a network system that involves unauthorized access to user credentials and reusing them multiple times. What is the MOST likely type of attack that has occurred?</text>
+        <options>
+            <option>Golden ticket attacks</option>
+            <option>Pass the ticket attacks</option>
+            <option>Buffer overflow attacks</option>
+            <option correct="true">Credential replay</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A company's cybersecurity team evaluates threats that could exploit vulnerabilities in its computing infrastructure. The team is specifically considering threats that can directly harm the company's systems and potentially damage data or services. What type of threat does this scenario BEST describe?</text>
+        <options>
+            <option>Social engineering attacks</option>
+            <option>Environmental threats</option>
+            <option>Downgrade attacks</option>
+            <option correct="true">Network attacks</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A multinational corporation recently fell victim to a series of cyberattacks, disrupting services and leading to significant financial losses. After an investigation, the corporation found that these attacks were part of a systematic campaign to undermine the corporation's market position. The highly sophisticated attacks suggest the involvement of a governmental entity with specific strategic objectives. Which of the following motivations BEST describes this scenario?</text>
+        <options>
+            <option correct="true">Political</option>
+            <option>Financial</option>
+            <option>Chaotic</option>
+            <option>Revenge</option>
+        </options>
+    </question>
+
+    <question>
+        <text>An environmental advocacy group uses cyber weapons to put companies at risk and promote its agenda. This scenario illustrates what type of threat actor?</text>
+        <options>
+            <option>Insider threats</option>
+            <option>Advanced persistent threats</option>
+            <option correct="true">Hacktivists</option>
+            <option>Hackers</option>
+        </options>
+    </question>
+
+    <question>
+        <text>An organization's system alerting tool detects a series of unsuccessful attempts by someone trying to gain unauthorized access to its servers. These attempts lack sophistication and appear to be using publicly available hacking tools. Which type of threat actor is MOST likely responsible for these attempts?</text>
+        <options>
+            <option correct="true">Unskilled attacker</option>
+            <option>Nation-state</option>
+            <option>Insider threat</option>
+            <option>Hacktivist</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which of the following is an example of a watering hole attack?</text>
+        <options>
+            <option>Exploiting weak login credentials to gain unauthorized network access.</option>
+            <option>Sending deceptive emails to trick users into clicking on malicious links.</option>
+            <option correct="true">Compromising a site often visited by a target group to breach their devices.</option>
+            <option>Installing malicious software through a fake antivirus program.</option>
+        </options>
+    </question>
+
+    <question>
+        <text multi="true">A software technician presents a forum on sideloading and jailbreaking to a group of new mobile users. Which of the following points will the technician include in their discussion of the use of jailbreaking? (Select the two best options.)</text>
+        <options>
+            <option correct="true">It is a method used to gain elevated privileges and access to system files on mobile devices.</option>
+            <option correct="true">It allows users to install unauthorized applications and customize device appearance and behavior.</option>
+            <option>It refers to the installation of applications from sources other than the platform's official application store.</option>
+            <option>It does not undergo the same scrutiny and vetting process as those on official application stores.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A large corporation is assessing its cybersecurity practices by focusing on potential security risks linked to hardware and firmware within the company's extensive network of computer systems. For the IT department, which of the following strategies MOST effectively mitigates the risks related to hardware and firmware security vulnerabilities?</text>
+        <options>
+            <option>Allow unrestricted hardware modifications for all employees.</option>
+            <option correct="true">Regularly update firmware to the latest, most secure versions.</option>
+            <option>Restrict all software updates to once a year to minimize disruptions.</option>
+            <option>Rely solely on perimeter defenses, like firewalls and intrusion detection systems.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What term refers to the collective group of people (employees, contractors, suppliers, and customers) who represent a potential attack surface for an organization?</text>
+        <options>
+            <option>System administrators</option>
+            <option correct="true">Human vector</option>
+            <option>Attack vectors</option>
+            <option>Threat actors</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What technique does the threat actor use in a Bluetooth network attack to transmit malicious files to a user's device?</text>
+        <options>
+            <option>Physically stealing a PC or laptop to execute the attack</option>
+            <option>Spoofing a trusted access point to gain unauthorized access</option>
+            <option>Obtaining credentials for remote access to the network</option>
+            <option correct="true">Exploiting vulnerabilities or misconfigurations in the Bluetooth protocol</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A recent cyberattack led to massive disruptions in a country's power grid, causing widespread blackouts and significant economic and social damage. The country's cyber team traced the attack to a hostile nation-state's cyber warfare division. In this case, what is the primary motivation of the perpetrators?</text>
+        <options>
+            <option correct="true">War</option>
+            <option>Financial gain</option>
+            <option>Ethical concerns</option>
+            <option>Levels of sophistication/capability</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A web designer at a cybersecurity corporation receives an email from what appears to be a trusted colleague within the company. The email requests sensitive financial information to complete an urgent transaction and looks legitimate, displaying the colleague's name, company logo, and formatting. What type of sophisticated phishing attack occurs in this scenario?</text>
+        <options>
+            <option>Whaling</option>
+            <option>Mass mailer phishing</option>
+            <option>Angler phishing</option>
+            <option correct="true">Business email compromise</option>
+        </options>
+    </question>
+
+    <question>
+        <text multi="true">A system administrator at a software company is reviewing the company's security procedures. The company uses various cryptographic techniques for data security and is currently concerned about potential misconfigurations that could compromise data integrity and confidentiality. Which of the following actions should the system administrator prioritize to ensure the cryptographic systems are well-configured and avoid possible security gaps? (Select the two best options.)</text>
+        <options>
+            <option>Implement network segmentation.</option>
+            <option>Adopt biometric authentication.</option>
+            <option correct="true">Regularly update and patch cryptographic software.</option>
+            <option correct="true">Conduct periodic penetration testing.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A cyber technician works on a corporate laptop where an employee complains the software is outdated. What type of vulnerability describes the continued use of outdated software methods, technology, computer systems, or application programs despite known shortcomings?</text>
+        <options>
+            <option correct="true">Legacy</option>
+            <option>Firmware</option>
+            <option>Virtualization</option>
+            <option>End-of-life</option>
+        </options>
+    </question>
+
+    <question>
+        <text>An e-commerce company recently identified suspicious activity on its web-based application, suggesting a zero-day exploit. With no known fixes available, what should be the initial course of action for the security team to minimize potential damage before a patch is available?</text>
+        <options>
+            <option>Perform a comprehensive system backup.</option>
+            <option correct="true">Implement intrusion detection systems and application firewalls.</option>
+            <option>Update the antivirus software on all company devices.</option>
+            <option>Enforce password changes for all users.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>The security team at a tech company notices an atypical rise in system log generation occurring during off-peak hours beyond the standard operational timeframe. Given the company's adherence to stringent security protocols, what might this irregular logging activity suggest?</text>
+        <options>
+            <option>Incorrect documentation</option>
+            <option>Out-of-cycle logging</option>
+            <option correct="true">Malware attacks</option>
+            <option>Spraying</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A cloud security firm is facing a cybersecurity challenge where some of its critical software applications are no longer supported by vendors, making them vulnerable to potential exploits. What is the MOST effective approach to enhance the security posture?</text>
+        <options>
+            <option>Implementing regular patch management to fix the faulty code.</option>
+            <option correct="true">Isolating unsupported apps from other systems to reduce the attack surface.</option>
+            <option>Consolidating all operating systems and applications into one product.</option>
+            <option>Ignoring the vulnerability as it can only be exploited in specific circumstances.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What type of attack is considered a primary means for attackers to retrieve valuable data by copying unauthorized data from a system?</text>
+        <options>
+            <option correct="true">Data exfiltration</option>
+            <option>Distributed denial-of-service</option>
+            <option>Denial-of-service attack</option>
+            <option>Input validation</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A company's IT team has detected an anomaly in a cloud-based environment after a recent software update. There are suspicions that the update could contain malicious code. Which of the following actions should the IT team take as a first step to address the threat?</text>
+        <options>
+            <option correct="true">Isolate the affected systems and perform a rollback to the previous update.</option>
+            <option>Update firewall rules to block all incoming traffic.</option>
+            <option>Implement two-factor authentication for all user accounts.</option>
+            <option>Migrate all data to a different cloud service provider immediately.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>An organization is experiencing an attack where the attackers break into the premises and cabinets by forcibly breaking locks. Which of the following BEST describes the observed physical security attack?</text>
+        <options>
+            <option>Tailgating</option>
+            <option correct="true">Brute force</option>
+            <option>Dumpster diving</option>
+            <option>RFID cloning</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A hacker group infiltrated a global financial institution's systems and stole credit card information, which was later available on the dark web. What is the MOST likely motivation?</text>
+        <options>
+            <option>Philosophical beliefs</option>
+            <option correct="true">Financial gain</option>
+            <option>Service disruption</option>
+            <option>Ethical concerns</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Trainees experience a vulnerability where an attacker with access to a virtual machine (VM) breaks out of this isolated environment and gains access to the host system. What type of vulnerability is this?</text>
+        <options>
+            <option>Legacy</option>
+            <option>End-of-life</option>
+            <option correct="true">Virtualization</option>
+            <option>Firmware</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What social engineering attack relies on targeting individuals who frequently access an unsecured third-party website to compromise their computers and gain access to a specific organization's systems?</text>
+        <options>
+            <option>Impersonation</option>
+            <option>Pharming</option>
+            <option>Spear phishing</option>
+            <option correct="true">Watering hole</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What type of vulnerability involves security flaws found within embedded software on hardware devices?</text>
+        <options>
+            <option>End-of-life</option>
+            <option>Virtualization</option>
+            <option correct="true">Firmware</option>
+            <option>Legacy</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A server manager observes an increase in server resource consumption, unusual behavior, and increased network traffic not proportional to the workload. What is the MOST plausible cause?</text>
+        <options>
+            <option>Radio-frequency ID cloning</option>
+            <option correct="true">Malware infection</option>
+            <option>Concurrent session usage</option>
+            <option>Resource consumption</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A threat actor silently extracts proprietary data that has a high value on the black market. Which motivation BEST aligns with this likely objective?</text>
+        <options>
+            <option>Disinformation</option>
+            <option correct="true">Extortion</option>
+            <option>Service Disruption</option>
+            <option>Revenge</option>
+        </options>
+    </question>
+
+    <question>
+        <text>An e-commerce company experiences a spike in traffic aimed at disrupting services shortly after making a controversial policy decision. Which type of attacker is MOST likely responsible?</text>
+        <options>
+            <option>Nation-state</option>
+            <option>Insider threat</option>
+            <option>Individual hacker</option>
+            <option correct="true">Hacktivist</option>
+        </options>
+    </question>
+
+    <question>
+        <text multi="true">A security specialist suspects employees are sideloading or jailbreaking company mobile devices. What steps should be taken to verify and re-establish security? (Select the two best options.)</text>
+        <options>
+            <option>Purchase new mobile devices to replace all current ones.</option>
+            <option correct="true">Implement mobile device management (MDM) policies to restrict unauthorized application installation.</option>
+            <option correct="true">Conduct device audits to identify signs of jailbreaking or sideloading.</option>
+            <option>Hire external IT consultants to manage routine tasks.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A system administrator notices legacy machines running end-of-life OS that are necessary for critical tasks but no longer receive patches. What is the MOST effective course of action to reduce vulnerabilities?</text>
+        <options>
+            <option>Replace the legacy machines with modern machines.</option>
+            <option>Upgrade the software to make it compatible with a modern OS.</option>
+            <option correct="true">Isolate the legacy machines on a separate network segment.</option>
+            <option>Disable all network connections on the legacy machines.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>An employee leaks confidential information about firm practices believing the public has a right to know. What primarily motivates this threat actor?</text>
+        <options>
+            <option correct="true">Ethical concerns</option>
+            <option>Financial gain</option>
+            <option>Data exfiltration</option>
+            <option>Service disruption</option>
+        </options>
+    </question>
+
+    <question>
+        <text>An organization discovers a zero-day exploit was unknowingly deployed. Which immediate action should the team execute to manage this situation?</text>
+        <options>
+            <option>Disconnect the company's entire network from the internet.</option>
+            <option correct="true">Isolate the impacted systems and apply a patch or remediation strategy.</option>
+            <option>Reformat all affected systems and restore data from backup.</option>
+            <option>Contact all clients and inform them about the breach.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A cybersecurity analyst notices log entries for the same account accessing the intranet from two countries just an hour apart while the employee is on a business trip. Which security anomaly is occurring?</text>
+        <options>
+            <option correct="true">Impossible travel</option>
+            <option>Wireless misconfiguration</option>
+            <option>Distributed denial-of-service</option>
+            <option>Brute force attack</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A hacker gains unauthorized access to network routers and switches by simply entering default vendor usernames and passwords. Which of the following describes this attack?</text>
+        <options>
+            <option>Vishing</option>
+            <option>Phishing</option>
+            <option correct="true">Default credentials</option>
+            <option>On-path</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Threat actors disrupt online services of an oil company due to disagreement with environmental policies. This actor is primarily driven by what kind of motivation?</text>
+        <options>
+            <option correct="true">Political/philosophical beliefs</option>
+            <option>Service disruption</option>
+            <option>Espionage</option>
+            <option>Financial gain</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A major online retailer experiences an orchestrated DDoS attack during peak holiday shopping. What attack strategy best aligns with this scenario?</text>
+        <options>
+            <option>Financial</option>
+            <option correct="true">Service disruption</option>
+            <option>Disinformation</option>
+            <option>Espionage</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A global e-commerce company faces scalability issues with a legacy monolithic application. What would MOST effectively address these challenges?</text>
+        <options>
+            <option correct="true">Microservices</option>
+            <option>Virtualization</option>
+            <option>Serverless infrastructure</option>
+            <option>Embedded systems</option>
+        </options>
+    </question>
+
+    <question>
+        <text>How can a cloud administrator configure a direct connection between two cloud server instances privately on AWS without going through an internet gateway?</text>
+        <options>
+            <option>By creating a private MPLS network</option>
+            <option correct="true">By using a virtual private cloud (VPC) peering connection</option>
+            <option>By deploying an on-premises data center</option>
+            <option>By using AWS Direct Connect</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A tech startup develops a unique algorithm that provides a competitive edge and needs the highest level of protection. How should they categorize it?</text>
+        <options>
+            <option>As legal and financial data.</option>
+            <option>As regulated data following compliance regulations.</option>
+            <option>As human-readable data accessible to all employees.</option>
+            <option correct="true">As a trade secret protected using non-disclosure agreements.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A corporation is restructuring and defining roles, responsibilities, and authority levels across various teams. What tool is likely used to document this?</text>
+        <options>
+            <option>Infrastructure as code</option>
+            <option correct="true">Responsibility matrix</option>
+            <option>Risk register</option>
+            <option>IT service catalog</option>
+        </options>
+    </question>
+
+    <question>
+        <text>During a security audit, a subset of data currently stored on nonoperational servers is identified as having severe impact if breached. How would the institution classify this data?</text>
+        <options>
+            <option correct="true">Critical</option>
+            <option>Public</option>
+            <option>Regulated</option>
+            <option>Confidential</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What primary strategy should a company use to ensure its systems can handle an upcoming annual sales event with a sharp increase in website traffic?</text>
+        <options>
+            <option>Implementing a failover system</option>
+            <option>Installing a UPS</option>
+            <option correct="true">Rigorous capacity planning process</option>
+            <option>Expansion of primary data center infrastructure</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What is the primary benefit of implementing a proxy server to enhance security and improve client performance in a network with VPNs and UTM systems?</text>
+        <options>
+            <option>Acting as a VPN gateway.</option>
+            <option correct="true">Performing application-layer filtering to enhance traffic security.</option>
+            <option>Segregating network traffic into different security zones.</option>
+            <option>Replacing the UTM system to reduce complexity.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which course of action would BEST serve to scrutinize disaster response protocols for effectiveness, hidden weaknesses, and employee role clarity?</text>
+        <options>
+            <option>Increasing frequency of data backups</option>
+            <option>Expanding the IT department</option>
+            <option correct="true">Organizing tabletop exercises</option>
+            <option>Installing larger UPS systems</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A hospital is putting measures in place to protect patient records. Which term BEST describes how the hospital should classify patient data?</text>
+        <options>
+            <option>Private</option>
+            <option>Sensitive</option>
+            <option>Public</option>
+            <option correct="true">Regulated</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A bank cybersecurity team wants to manage the flow of traffic between security segments to reduce the threat of attack. What approach should they adopt?</text>
+        <options>
+            <option>Activate IP filtering on all router ports.</option>
+            <option correct="true">Enforce role-based access control for traffic policies between zones.</option>
+            <option>Set up a physically separate network for all servers.</option>
+            <option>Adopt a ring network topology.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which type of infrastructure will BEST fit a manufacturing firm’s need to manage large-scale real-time floor operations isolated from other networks?</text>
+        <options>
+            <option>Hybrid cloud infrastructure</option>
+            <option>Air-gapped infrastructure</option>
+            <option>SDN infrastructure</option>
+            <option correct="true">ICS/SCADA infrastructure</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Data including personal employee information like addresses and phone numbers BEST fits which category?</text>
+        <options>
+            <option>Confidential</option>
+            <option>Regulated</option>
+            <option>Public</option>
+            <option correct="true">Private</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which tool should be prioritized to track session states, prevent fraudulent initiations, and verify application protocols correspond to ports for UDP messages?</text>
+        <options>
+            <option>Transparent firewall</option>
+            <option>Circuit-level gateway</option>
+            <option>Packet filtering firewall</option>
+            <option correct="true">Deep packet inspection firewall</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which method should an organization consider for protecting "data at rest" consisting of sensitive customer information stored on servers?</text>
+        <options>
+            <option>Tokenization</option>
+            <option>Hashing</option>
+            <option correct="true">Encryption</option>
+            <option>Obfuscation</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which infrastructure options should a rapidly growing e-commerce company consider to handle workloads with high availability, scalability, and ease of recovery?</text>
+        <options>
+            <option correct="true">Switch to a cloud networking solution with a well-defined SLA.</option>
+            <option>Maintain on-premises and add more server nodes.</option>
+            <option>Implement a hybrid solution with on-premises and cloud infrastructure.</option>
+            <option>Distribute workload across several dispersed on-premises sites.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What approach would be MOST effective to minimize overhead and enhance system resource use for an organization restructuring its software deployment from multiple standalone applications?</text>
+        <options>
+            <option>Microservices</option>
+            <option>Virtualization</option>
+            <option correct="true">Containerization</option>
+            <option>Hybrid cloud infrastructure</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What is the fundamental step a network technician should take to secure a load balancer against basic threats?</text>
+        <options>
+            <option>Implement an IDS alongside the load balancer.</option>
+            <option correct="true">Disable unnecessary services on the load balancer.</option>
+            <option>Configure the load balancer to operate in fail-closed mode.</option>
+            <option>Enable all available features on the load balancer.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>A financial institution wants to ensure confidentiality and integrity take precedence over availability in the event of a failure. What should be the failure mode configuration?</text>
+        <options>
+            <option correct="true">The security control device should be configured to fail-closed.</option>
+            <option>The security control device should be configured to fail-open.</option>
+            <option>The security control device should be configured to actively monitor the network.</option>
+            <option>The security control device should be configured to passively monitor the network.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which of the following is the MOST accurate statement about hosts within the same zone in a zone-based security model?</text>
+        <options>
+            <option>Traffic between zones should be unrestricted.</option>
+            <option>All hosts within a zone are automatically fully trusted.</option>
+            <option>Data assets of all types should be held within a single zone.</option>
+            <option correct="true">Hosts within the same zone should be subject to the same access control requirements.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What are the implications of fail-open vs. fail-closed configurations for an IPS during a system failure?</text>
+        <options>
+            <option correct="true">Fail-open will allow all traffic; fail-closed will block all traffic.</option>
+            <option>Fail-open will block all traffic; fail-closed will allow all traffic.</option>
+            <option>Both will block all traffic.</option>
+            <option>Both will allow all traffic.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What should an organization's security officer do when transitioning to IaaS to ensure the security of deployed applications and data?</text>
+        <options>
+            <option correct="true">Implement user identity management and access controls to cloud resources.</option>
+            <option>Rely entirely on vendor encryption and access mechanisms.</option>
+            <option>Assume physical security is the user's responsibility.</option>
+            <option>Focus solely on foundational networking elements.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What is the MOST suitable measure for a logistics company to fortify data centers against long-term power outages?</text>
+        <options>
+            <option>Incorporating additional UPS.</option>
+            <option>Implementing high-availability systems.</option>
+            <option>Investing in geographic dispersion.</option>
+            <option correct="true">Deploying onsite generators.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which cloud service model requires little to no infrastructure setup for a rock band to communicate with fans upon arrival at concerts?</text>
+        <options>
+            <option>Platform as a service</option>
+            <option correct="true">Software as a service</option>
+            <option>Infrastructure as a service</option>
+            <option>Third-party vendor</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which strategy could a corporation employ to minimize the impact of frequent power failures in its data center?</text>
+        <options>
+            <option>Migrate to an SDN.</option>
+            <option>Employ a hybrid cloud strategy.</option>
+            <option>Implement network segmentation.</option>
+            <option correct="true">Implement a UPS system.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Under which data type would a patent filing's detailed design descriptions and monetary valuation fall?</text>
+        <options>
+            <option>Trade secret data</option>
+            <option>Human-readable data</option>
+            <option correct="true">Legal and financial data</option>
+            <option>Regulated data</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which failure mode should an IT manager configure for an IPS to ensure traffic continues to flow if it fails?</text>
+        <options>
+            <option>Fail-closed</option>
+            <option correct="true">Fail-open</option>
+            <option>Active</option>
+            <option>Passive</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which technology is best suited to enable all office devices to communicate over the Internet for real-time monitoring and automated control?</text>
+        <options>
+            <option correct="true">IoT</option>
+            <option>ICS/SCADA</option>
+            <option>Hybrid cloud</option>
+            <option>RTOS</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What is the MOST effective security measure for a network administrator securing a load balancer in a screened subnet?</text>
+        <options>
+            <option correct="true">Implement a Web Application Firewall alongside the load balancer.</option>
+            <option>Configure the load balancer to operate in fail-open mode.</option>
+            <option>Use a proxy server in combination with the load balancer.</option>
+            <option>Place the load balancer in the screened subnet.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which strategy is MOST effective in reducing a company's network attack surface?</text>
+        <options>
+            <option>Over-rely on perimeter security and maintain a flat architecture.</option>
+            <option>Connect all hosts to the same broadcast domain.</option>
+            <option>Prioritize availability over confidentiality and integrity.</option>
+            <option correct="true">Establish multiple control categories and functions to enforce multiple layers of protection.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which classification BEST suits patient personal health information (PHI)?</text>
+        <options>
+            <option>Nonsensitive</option>
+            <option>Critical</option>
+            <option>Public</option>
+            <option correct="true">Regulated</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What should a hospital set as the failure mode configuration for a security device to ensure confidentiality takes priority over availability?</text>
+        <options>
+            <option correct="true">The security device should be configured to fail-closed.</option>
+            <option>The security device should be configured to fail-open.</option>
+            <option>The security device should be configured to actively monitor the network.</option>
+            <option>The security device should be configured to passively monitor the network.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What is the MOST effective way for a healthcare institution to confirm its patient information system can handle expected demand peak hours?</text>
+        <options>
+            <option>Performing manual testing on the system.</option>
+            <option correct="true">Running a simulation of the system.</option>
+            <option>Outsourcing the system to a third party for validation.</option>
+            <option>Launching the system and addressing issues as they arise.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which technology should a company use to monitor traffic and enforce security policies in its cloud environment while needing responsiveness?</text>
+        <options>
+            <option correct="true">Serverless platforms and software-defined networking (SDN).</option>
+            <option>Infrastructure as code (IaC).</option>
+            <option>Microservices</option>
+            <option>Virtual private cloud (VPC).</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which strategy would a network engineer employ to segment different types of hosts attached to the same switch?</text>
+        <options>
+            <option>Assign a different IP address to each host.</option>
+            <option correct="true">Group hosts into VLANs based on department, function, or security requirements.</option>
+            <option>Use ARP to map each host's IP interface.</option>
+            <option>Use the same VLAN IDs and subnets for all hosts.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which concept should guide a multinational organization's approach to navigate complex global legal and regulatory data storage landscapes?</text>
+        <options>
+            <option>Local privacy laws</option>
+            <option>Data transfer rules</option>
+            <option correct="true">Data sovereignty</option>
+            <option>Geographic restrictions</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What approach should a large organization adopt to maintain high availability and secure networking equipment from unauthorized access?</text>
+        <options>
+            <option>Place networking devices in easily accessible locations and leave all ports enabled.</option>
+            <option>Place all servers in one location, disable unused ports, and implement MAC filtering.</option>
+            <option correct="true">Distribute servers across different secure locations for redundancy, disable unused ports, and implement 802.1X authentication.</option>
+            <option>Distribute servers across different secure locations, leave all ports enabled, and implement 802.1X.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What network design principle is being considered when evaluating the benefits of a single main hub versus functions distributed among various nodes?</text>
+        <options>
+            <option correct="true">Centralized/decentralized</option>
+            <option>Software-defined networking</option>
+            <option>Physical isolation</option>
+            <option>On-premises</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which disaster recovery site BEST suits a company needing prompt restoration of critical systems without instant recovery and balanced budget considerations?</text>
+        <options>
+            <option>Deploying a cold site.</option>
+            <option correct="true">Establishing a warm site.</option>
+            <option>Furnishing a hot site.</option>
+            <option>Bolstering the current site.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which placement of IPS/IDS devices would be MOST effective for a medium-sized organization with sensitive data in different security zones?</text>
+        <options>
+            <option>Near the load balancer.</option>
+            <option>Just inside the organization's firewall to monitor internal network.</option>
+            <option>At each end of the VPN tunnel.</option>
+            <option correct="true">At the network perimeter to monitor inbound and outbound traffic.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which of the following statement accurately represents recommended security for non-human-readable and human-readable data?</text>
+        <options>
+            <option>Non-human-readable: monitoring and code security; Human-readable: user awareness and content filtering.</option>
+            <option correct="true">Non-human-readable: encryption, access controls, and IDS/IPS; Human-readable: monitoring, user awareness, encryption, and secure exchange.</option>
+            <option>Non-human-readable: encryption and DLP; Human-readable: monitoring and user awareness.</option>
+            <option>Non-human-readable: encryption and IPS; Human-readable: user awareness and DLP.</option>
+        </options>
+    </question>
+
+    <question>
+        <text multi="true">Which features should a systems engineer primarily consider during the design process for efficient, 24/7 service communications? (Select the two best options.)</text>
+        <options>
+            <option correct="true">Load balancing</option>
+            <option correct="true">Clustering</option>
+            <option>Geo-redundant storage</option>
+            <option>Replication</option>
+        </options>
+    </question>
+
+    <question>
+        <text>How should an organization MOST accurately classify company financial reports that should only be accessible to senior management?</text>
+        <options>
+            <option>Confidential</option>
+            <option>Public</option>
+            <option correct="true">Restricted</option>
+            <option>Internal</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What key characteristic of system design should a network engineer prioritize to ensure a cloud-based system remains operational even under failure points?</text>
+        <options>
+            <option>Centralized</option>
+            <option>Scalability</option>
+            <option correct="true">Availability</option>
+            <option>Containerization</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What type of system is likely to be MOST suitable for instantaneous response incorporated into a larger device with few resources?</text>
+        <options>
+            <option correct="true">Real-time operating system</option>
+            <option>Windows operating system</option>
+            <option>Linux operating system</option>
+            <option>Embedded systems</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which technique should an administrator use to make intercepted source code difficult to understand while in transit over the Internet?</text>
+        <options>
+            <option>Hashing</option>
+            <option>Encryption</option>
+            <option>Tokenization</option>
+            <option correct="true">Obfuscation</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which criteria is MOST directly linked to a system's setup process and maintenance scheduling?</text>
+        <options>
+            <option>Amount of training required for users.</option>
+            <option correct="true">Ease of deployment.</option>
+            <option>Aesthetics of software UI.</option>
+            <option>Patch availability.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which of the following measures should a team implement to address MAC spoofing risks and management overhead while requiring strong authentication?</text>
+        <options>
+            <option>Implement physical isolation.</option>
+            <option correct="true">Implement EAP and RADIUS.</option>
+            <option>Disable all unused switch ports.</option>
+            <option>Segregate into multiple security zones.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which methodology should a corporation adopt to standardize and automate the setup of IT infrastructure across various branches using code?</text>
+        <options>
+            <option>Decentralized architecture</option>
+            <option>Centralized architecture</option>
+            <option correct="true">Infrastructure as code</option>
+            <option>Software-defined networking</option>
+        </options>
+    </question>
+
+    <question>
+        <text>How should a national park service classify flora and fauna information posted on its website that contains no sensitive data?</text>
+        <options>
+            <option>Regulated</option>
+            <option correct="true">Public</option>
+            <option>Confidential</option>
+            <option>Private</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which is a primary consideration in a design strategy for a data center providing 24/7 services where disruptions must resolve quickly?</text>
+        <options>
+            <option>Encryption</option>
+            <option>Geographic dispersion</option>
+            <option correct="true">Ease of recovery</option>
+            <option>Microservices</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What should a large organization implement to create better security boundaries and enhance control over traffic as it expansion with remote employees?</text>
+        <options>
+            <option>Scalability</option>
+            <option correct="true">Logical segmentation</option>
+            <option>Blockchain</option>
+            <option>Embedded systems</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which of the following BEST describes the benefits and disadvantages of placing IPS/IDS devices inline?</text>
+        <options>
+            <option>Reduces connectivity but allows passive detection.</option>
+            <option>Increases attack surface but provides comprehensive visibility.</option>
+            <option correct="true">Allows for active prevention measures but can become a single point of failure.</option>
+            <option>Improves port security but increases latency.</option>
+        </options>
+    </question>
+
+    <question>
+        <text multi="true">Which of the following would contribute to protecting business operations by monitoring software, applications, and dependencies? (Select the three best options.)</text>
+        <options>
+            <option correct="true">Package monitoring</option>
+            <option correct="true">Software Bill of Materials</option>
+            <option correct="true">Software composition analysis</option>
+            <option>Credentialed scan</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What primary process should a company implement before disposing or repurposing servers to ensure sensitive data is eliminated?</text>
+        <options>
+            <option>Moving servers to secure storage.</option>
+            <option>Deleting all files.</option>
+            <option correct="true">Sanitizing the servers.</option>
+            <option>Selling servers immediately.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which alert tuning technique can reduce the volume of false positives in detection tools?</text>
+        <options>
+            <option correct="true">Baselines</option>
+            <option>Anomaly detection</option>
+            <option>Heuristic analysis</option>
+            <option>Signature analysis</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What describes the impacts associated with contractual noncompliance?</text>
+        <options>
+            <option>Delayed project timelines or increased costs.</option>
+            <option>Restructuring of internal processes.</option>
+            <option correct="true">Breach or termination of an agreement or indemnification.</option>
+            <option>Changes in stakeholder relationships.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>Which pair of metrics should a company focus on for system reliability regarding time without failure and time to repair?</text>
+        <options>
+            <option>RTO and RPO</option>
+            <option correct="true">MTBF and MTTR</option>
+            <option>Risk tolerance and appetite</option>
+            <option>Risk assessment and analysis</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What is the purpose of establishing Rules of Engagement (ROE) in a penetration testing engagement?</text>
+        <options>
+            <option correct="true">To define the scope of the assessment, testing methods, and timeframe.</option>
+            <option>To ensure results are shared with external parties.</option>
+            <option>To allow unrestricted access to all systems.</option>
+            <option>To eliminate all security vulnerabilities identified.</option>
+        </options>
+    </question>
+
+    <question>
+        <text>What is one of the critical responsibilities of the IT department related to information security regarding account setup, permissions, and resources for employees?</text>
+        <options>
+            <option>Conducting performance evaluations.</option>
+            <option correct="true">Managing employee onboarding and offboarding procedures.</option>
+            <option>Handling financial audits.</option>
+            <option>Organizing team-building activities.</option>
+        </options>
+    </question>
 </quiz>
