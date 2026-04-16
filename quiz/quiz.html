@@ -42,7 +42,7 @@
 				let multiChoice = qNodes[i].getElementsByTagName('text')[0].getAttribute('multi') === 'true';
                 let opts = qNodes[i].getElementsByTagName('option');
                 
-                html += `<div class="question">Q${i + 1}: ${qText}</div>`;
+                html += `<div class="question">Q${i + 1}: ${qText}`;
                 for (let j = 0; j < opts.length; j++) {
                     let optText = opts[j].textContent;
 					if (multiChoice) {
@@ -57,6 +57,7 @@
                              </label>`;
 				    }
                 }
+				html += "</div>";
             }
             container.innerHTML = html;
         }
