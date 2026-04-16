@@ -1,0 +1,18 @@
+<quiz>
+    <question>
+        <text>What is the capital of France?</text>
+        <options>
+            <option>Berlin</option>
+            <option correct="true">Paris</option>
+            <option>Madrid</option>
+        </options>
+    </question>
+    <question>
+        <text>Which language is used for styling web pages?</text>
+        <options>
+            <option>HTML</option>
+            <option>JavaScript</option>
+            <option correct="true">CSS</option>
+        </options>
+    </question>
+</quiz>

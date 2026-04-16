@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Practice Exam</title>
+    <style>
+        body { font-family: sans-serif; padding: 20px; }
+        .question { margin-bottom: 20px; font-weight: bold; }
+        .option { display: block; margin: 5px 0; }
+        #results { margin-top: 20px; font-weight: bold; }
+    </style>
+</head>
+<body>
+
+    <h1>Practice Quiz</h1>
+    <div id="quiz-container">Loading questions...</div>
+    <button onclick="submitQuiz()">Submit Answers</button>
+    <div id="results"></div>
+
+    <script>
+        let xmlDoc;
+        let questions = [];
+
+        // 1. Load and Parse XML
+        fetch('questions.xml')
+            .then(response => response.text())
+            .then(str => new window.DOMParser().parseFromString(str, "text/xml"))
+            .then(data => {
+                xmlDoc = data;
+                displayQuiz();
+            })
+            .catch(err => console.error("Error loading XML", err));
+
+        // 2. Display Questions
+        function displayQuiz() {
+            const container = document.getElementById('quiz-container');
+            const qNodes = xmlDoc.getElementsByTagName('question');
+            let html = '';
+
+            for (let i = 0; i < qNodes.length; i++) {
+                let qText = qNodes[i].getElementsByTagName('text')[0].textContent;
+                let opts = qNodes[i].getElementsByTagName('option');
+                
+                html += `<div class="question">Q${i + 1}: ${qText}</div>`;
+                for (let j = 0; j < opts.length; j++) {
+                    let optText = opts[j].textContent;
+                    html += `<label class="option">
+                                <input type="radio" name="q${i}" value="${opts[j].getAttribute('correct') === 'true'}">
+                                ${optText}
+                             </label>`;
+                }
+            }
+            container.innerHTML = html;
+        }
+
+        // 3. Submit and Score
+        function submitQuiz() {
+            let score = 0;
+            const qNodes = xmlDoc.getElementsByTagName('question');
+            
+            for (let i = 0; i < qNodes.length; i++) {
+                const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                if (selected && selected.value === 'true') {
+                    score++;
+                }
+            }
+            document.getElementById('results').innerHTML = 
+                `You scored ${score} out of ${qNodes.length}`;
+        }
+    </script>
+</body>
+</html>
