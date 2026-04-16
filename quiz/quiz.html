@@ -39,15 +39,23 @@
 
             for (let i = 0; i < qNodes.length; i++) {
                 let qText = qNodes[i].getElementsByTagName('text')[0].textContent;
+				let multiChoice = qNodes[i].getElementsByTagName('text')[0].getAttribute('multi') === 'true';
                 let opts = qNodes[i].getElementsByTagName('option');
                 
                 html += `<div class="question">Q${i + 1}: ${qText}</div>`;
                 for (let j = 0; j < opts.length; j++) {
                     let optText = opts[j].textContent;
-                    html += `<label class="option">
+					if (multiChoice) {
+                        html += `<label class="option">
+                                <input type="checkbox" name="q${i}" value="${opts[j].getAttribute('correct') === 'true'}">
+                                ${optText}
+                             </label>`;
+					} else {
+                        html += `<label class="option">
                                 <input type="radio" name="q${i}" value="${opts[j].getAttribute('correct') === 'true'}">
                                 ${optText}
                              </label>`;
+				    }
                 }
             }
             container.innerHTML = html;
@@ -55,6 +63,36 @@
 
         // 3. Submit and Score
         function submitQuiz() {
+            let score = 0;
+            //const qNodes = xmlDoc.getElementsByTagName('question');
+			const divs = document.querySelectorAll('div.question');
+            
+            for (let i = 0; i < divs.length; i++) {
+			    let inputs = divs[0].querySelectorAll('input');
+				let correctAns = 0;
+				let userCorrect = 0;
+				for (let j = 0; j < inputs.length; j++) {
+				    if (inputs[j].value === 'true') {
+					   correctAns++;
+					   if (inputs[j].checked) {
+					      userCorrect++;
+					   }
+					}
+				}
+				if (userCorrect == corretAns) {
+				    score++;
+				}
+                //const selected = document.querySelector(`input[name="q${i}"]:checked`);
+                //if (selected && selected.value === 'true') {
+                  //  score++;
+                //}
+            }
+            document.getElementById('results').innerHTML = 
+                `You scored ${score} out of ${qNodes.length}`;
+        }
+
+        // 3. Submit and Score
+        function submitQuizOld() {
             let score = 0;
             const qNodes = xmlDoc.getElementsByTagName('question');
             
