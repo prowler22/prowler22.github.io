@@ -17,4 +17,31 @@
 			<option>They provide guidelines for developing backout plan procedures for changes.</option>
         </options>
     </question>
+	<question>
+        <text>A user in a company wants a new USB flash drive. Rather than requesting one through the proper channel, the user obtains one from one of the company's storage closets. Upon approaching the closet door, the user notices a warning sign indicating cameras are in use. What is the control objective of the observed sign?</text>
+        <options>
+            <option>Detective</option>
+            <option>Preventive</option>
+            <option correct="true">Deterrent</option>
+			<option>Corrective</option>
+        </options>
+    </question>
+	<question>
+        <text>A systems owner reviews permissions granted to a targeted team of employees and determines that some of the employees' accesses are outside their scope of work. After revoking the certificates, what log does the owner use to record the changes?</text>
+        <options>
+            <option>Public Key Infrastructure (PKI)</option>
+            <option correct="true">Certificate Revocation Lists (CRL)</option>
+            <option>Trusted Platform Module (TPM)</option>
+			<option>Hardware Security Module (HSM)</option>
+        </options>
+    </question>
+	<question>
+        <text>The organization is implementing a significant software upgrade that necessitates application restarts. How can the cybersecurity analyst ensure a smooth transition without causing extended downtime?</text>
+        <options>
+            <option>Conduct the software upgrade without restarting the applications to avoid interruptions.</option>
+            <option correct="true">Schedule the upgrade during nonworking hours to reduce the impact on users.</option>
+            <option>Restart all applications simultaneously to complete the upgrade faster.</option>
+			<option>Implement the upgrade without analyzing software dependencies.</option>
+        </options>
+    </question>
 </quiz>
