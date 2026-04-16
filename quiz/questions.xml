@@ -44,4 +44,15 @@
 			<option>Implement the upgrade without analyzing software dependencies.</option>
         </options>
     </question>
+	
+	<question>
+        <text>In a cybersecurity operation where minimizing downtime is critical to its mission, a cybersecurity analyst incorporates allowlists and denylists restrictions. The objective is to guarantee high availability (HA) and safeguard against potential security threats. How would a cybersecurity analyst utilize these lists in this scenario? (Select the two best options.)</text>
+        <options>
+            <option correct="true">Allowlists can specify approved software, hardware, and change types that are essential for the operation's functioning.</option>
+            <option>Denylists can restrict changes that require rigorous testing and approval to prevent any potential disruptions to the operation.</option>
+            <option>Allowlists can include authorized software and hardware updates that are preapproved for installation to ensure operational continuity.</option>
+			<option correct="true">Denylists can block unauthorized software, hardware, and change types that pose high risk to the operation's availability and security.</option>
+        </options>
+    </question>
+
 </quiz>
