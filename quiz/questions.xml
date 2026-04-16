@@ -1,18 +1,20 @@
 <quiz>
     <question>
-        <text>What is the capital of France?</text>
+        <text>A software application firm is strengthening its cyber defense by incorporating deception technologies into its framework. How can the utilization of a honeynet benefit the software application firm's strategy?</text>
         <options>
-            <option>Berlin</option>
-            <option correct="true">Paris</option>
-            <option>Madrid</option>
+            <option>It is a decoy system that mimics natural systems or applications at a more finite level to monitor attacker activity.</option>
+            <option>It creates fake files appearing to contain sensitive information, capturing data on attempts to access and steal data.</option>
+            <option>It creates false credentials, login credentials, or other data types to distract and gain insight into attackers.</option>
+			<option correct="true">It uses a network of decoy systems to simulate an entire network to capture attackers' tactics and tools.</option>
         </options>
     </question>
     <question>
-        <text>Which language is used for styling web pages?</text>
+        <text>An organization has an established change management program that includes standard operating procedures (SOPs). It wants to implement changes consistently and effectively. What role do SOPs play in the change management process?</text>
         <options>
-            <option>HTML</option>
-            <option>JavaScript</option>
-            <option correct="true">CSS</option>
+            <option>They help track and communicate the status and outcome of approved changes.</option>
+            <option correct="true">They define routine operations or changes, providing detailed instructions to implement them.</option>
+            <option>They outline the steps for employees to follow when conducting an impact analysis.</option>
+			<option>They provide guidelines for developing backout plan procedures for changes.</option>
         </options>
     </question>
 </quiz>
