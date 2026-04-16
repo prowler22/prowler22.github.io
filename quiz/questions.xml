@@ -36,7 +36,7 @@
         </options>
     </question>
 	<question>
-        <text>The organization is implementing a significant software upgrade that necessitates application restarts. How can the cybersecurity analyst ensure a smooth transition without causing extended downtime?</text>
+        <text multi="true">The organization is implementing a significant software upgrade that necessitates application restarts. How can the cybersecurity analyst ensure a smooth transition without causing extended downtime?</text>
         <options>
             <option>Conduct the software upgrade without restarting the applications to avoid interruptions.</option>
             <option correct="true">Schedule the upgrade during nonworking hours to reduce the impact on users.</option>
