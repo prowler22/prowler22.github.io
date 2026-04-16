@@ -5,8 +5,7 @@
     <title>Practice Exam</title>
     <style>
         body { font-family: sans-serif; padding: 20px; }
-        .question { margin-bottom: 20px; font-weight: bold; }
-		input { margin-bottom: 20px; }
+        .question { margin-bottom: 20px;  }
         .option { display: block; margin: 5px 0; }
         #results { margin-top: 20px; font-weight: bold; }
     </style>
@@ -43,7 +42,7 @@
 				let multiChoice = qNodes[i].getElementsByTagName('text')[0].getAttribute('multi') === 'true';
                 let opts = qNodes[i].getElementsByTagName('option');
                 
-                html += `<div class="question">Q${i + 1}: ${qText}`;
+                html += `<div class="question"><b>Q${i + 1}: ${qText}</b>`;
                 for (let j = 0; j < opts.length; j++) {
                     let optText = opts[j].textContent;
 					if (multiChoice) {
@@ -89,6 +88,9 @@
 				}
 				if (correctAns > 0 && userCorrect == correctAns && userIncorrect == 0) {
 				    score++;
+					divs[i].style.backgroundColor = "white";
+				} else {
+					divs[i].style.backgroundColor = "red";
 				}
                 //const selected = document.querySelector(`input[name="q${i}"]:checked`);
                 //if (selected && selected.value === 'true') {
